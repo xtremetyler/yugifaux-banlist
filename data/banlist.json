@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T05:21:11.765Z",
+  "updatedAt": "2026-08-19T15:22:48.457Z",
   "cards": [
     {
       "id": 14,
@@ -2282,7 +2282,7 @@
     {
       "id": 238,
       "name": "Mimighoul Archfiend",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Flip Effect Monster",
       "monsterType": "Fiend",
@@ -3670,7 +3670,7 @@
     {
       "id": 182,
       "name": "The Dragon Scroll",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -3687,7 +3687,7 @@
     {
       "id": 181,
       "name": "The Jade Palace",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
