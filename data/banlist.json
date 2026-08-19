@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:37:33.955Z",
+  "updatedAt": "2026-08-19T04:46:33.986Z",
   "cards": [
     {
       "id": 14,
@@ -1073,11 +1073,11 @@
       "name": "Hastur, the Vermilion Shepherd",
       "status": "limeade",
       "source": "custom",
-      "text": "**Duelingbook:** [Card #5980375](https://www.duelingbook.com/card?id=5980375)\n**Card type:** Monster — Synchro\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 8\n**Stats:** ATK 2900 / DEF 2300\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\n3+ Tuners, including 1 Monster that mentions \"Carcosa\"\nYou can treat 1 FIRE, Psychic, or Spirit Monster as a Tuner for this card's Synchro Summon. Once, while you control this Synchro Summoned card (Quick Effect): Immediately after this effect resolves, skip the rest of this Phase (including the rest of this Chain), also this card cannot attack directly during your next Battle Phase. You can only activate this ability of \"Hastur, the Vermilion Shepherd\" once per turn. Once per turn, during the End Phase, if this card was Special Summoned or flipped face-up this turn: Return this card to the hand, or if \"Carcosa\" is in your field or GY, return 1 card on the field to the hand instead.",
+      "text": "**Duelingbook:** [Card #5995204](https://www.duelingbook.com/card?id=5995204)\n**Card type:** Monster — Synchro\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 8\n**Stats:** ATK 2900 / DEF 2300\n**Duelingbook creator:** YugiFaux\n\n**Card text**\n3+ Tuners, including 1 Monster that mentions \"Carcosa\"\nYou can treat 1 FIRE, Psychic, or Spirit Monster as a Tuner for this card's Synchro Summon. Once, while you control this Synchro Summoned card (Quick Effect): Immediately after this effect resolves, skip the rest of this Phase (including the rest of this Chain), also this card cannot attack directly during your next Battle Phase. You can only activate this ability of \"Hastur, the Vermilion Shepherd\" once per turn. Once per turn, during the End Phase, if this card was Special Summoned or flipped face-up this turn: Return this card to the hand, or if \"Carcosa\" is in your field or GY, return 1 card on the field to the hand instead.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5980375,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980375.jpg",
+      "duelingbookId": 5995204,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995204.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
     {
