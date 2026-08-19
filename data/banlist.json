@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T05:19:41.747Z",
+  "updatedAt": "2026-08-19T05:20:41.748Z",
   "cards": [
     {
       "id": 14,
@@ -868,9 +868,14 @@
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "At the end of the Battle Phase, if your opponent controls more cards than you do: You can make your opponent banish cards from their field face-down so they control the same number of cards as you do. Then, both players gain 1000 LP.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5940516,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5940516.jpg",
       "addedAt": "2026-07-31 03:49:24"
     },
     {
