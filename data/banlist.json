@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:25:34.787Z",
+  "updatedAt": "2026-08-19T04:30:34.001Z",
   "cards": [
     {
       "id": 14,
@@ -62,7 +62,6 @@
       "text": "Special Summon 1 Normal Monster from your hand, Deck, or GY in Defense Position (if you Special Summon from the Deck, it must be Level 4 or lower), or if you control a Normal Monster Card, you can apply 1 of these effects instead. ● Destroy all monsters your opponent controls. ● Destroy all Spells/Traps your opponent controls. ● Draw 2 cards. ● Special Summon 1 monster from either GY to your field. You can only activate 1 \"Ancient Secrets\" per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532598013263085688/image.png?ex=6a6d6ea0&is=6a6c1d20&hm=cfa48d27ac7bcc881a449236c67a86e00eccc188775dd85cdc0179ec117f209d&",
       "addedAt": "2026-07-31 03:57:21"
     },
     {
@@ -146,7 +145,7 @@
       "clauses": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5991280,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1537193830263034017/1537193903961153557/Screenshot_2026-08-12_150450.png?ex=6a7e26e2&is=6a7cd562&hm=d0154b31a87c1c29ae6402080929feea30dccaf83543729bd9c6bdc6aa5408ef&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991280.jpg",
       "addedAt": "2026-08-12 20:19:49"
     },
     {
@@ -157,7 +156,6 @@
       "text": "Level 6 WATER Dragon Effect Monster\n1900 ATK\n2200 DEF\nIf you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon WATER Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a WATER Monster. You can only use each effect of \"Azure Skybreaker\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532575464185401364/image.png?ex=6a6d59a0&is=6a6c0820&hm=8577479c4f06b9c1630dee5c54f0751237f3233f219a9a7d86d35cd12452d78e&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -174,7 +172,8 @@
       "text": "If you control no Monsters, except EARTH Monsters, you can Normal Summon this card (from your hand) without Tributing. Once per turn, during the Main Phase (Quick Effect): You can Tribute this card to banish 1 \"Shaitand\" Monster from your Deck or GY, except \"Badlands Stalker of Shaitand\", and if you do, Special Summon that Monster from your banishment during the End Phase. You can only use this effect of \"Badlands Stalker of Shaitand\" once per turn.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536187499997560923/badlands_stalker.png?ex=6a7a7d98&is=6a792c18&hm=09ec09b557fddb78acd821a76f6a36bf37ea90afedd74d3999f9653fae668166&",
+      "duelingbookId": 5948434,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948434.jpg",
       "addedAt": "2026-08-10 01:40:42"
     },
     {
@@ -279,6 +278,7 @@
       "text": "**Duelingbook:** [Card #5945865](https://www.duelingbook.com/card?id=5945865)\n**Card type:** Spell\n**Spell type:** Field\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\n“S-Power” cards are also treated as “P-Power” cards, and “P-Power” cards are also treated as “S-Power” cards. Once per Chain (Quick Effect): You can shuffle your Deck. Once per turn, when a card or effect is activated (Quick Effect): You can discard 1 “Saki” monster; negate the activation, and if you do, destroy that card. During your Main Phase (Quick Effect): You can banish this card from your field or GY; choose 2 cards with different names from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed during this Chain.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5945865,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945865.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -290,7 +290,6 @@
       "text": "Field Spell\nWhen this card is activated: You can banish 1 Dragon Monster from your GY or Extra Deck. You can only activate this effect of \"Broken Skies\" once per turn. If a \"Skybreaker\" Monster would leave the field by your opponent's card effect, it is sent to the GY instead. Once per Chain, when a Monster(s) is Special Summoned to your opponent's field: You can target 1 Monster in your GY; banish it.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532575944408301608/image.png?ex=6a6d5a13&is=6a6c0893&hm=b5d6efdf75d6500d84b5c5165d6783be272f49475c46174dd624ea295725aad0&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -334,7 +333,8 @@
       "text": "You can add 1 Spell that mentions an EARTH Monster(s) from your Deck to your hand, except \"Calling the Gale\". During your End Phase: You can banish this card from your GY to target 1 face-up card on the field; banish it until the next End Phase. You can only use 1 \"Calling the Gale\" effect per turn, and only once that turn.",
       "clauses": 2,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536185956884025374/calling_the_gale.png?ex=6a7a7c29&is=6a792aa9&hm=85bde98781fd1b8c16500fbf15d0be57ce694b3ab01051f3421267f4495e8f68&",
+      "duelingbookId": 5948451,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948451.jpg",
       "addedAt": "2026-08-10 01:34:34"
     },
     {
@@ -345,6 +345,7 @@
       "text": "**Duelingbook:** [Card #5980145](https://www.duelingbook.com/card?id=5980145)\n**Card type:** Spell\n**Spell type:** Field\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nDuring your Main Phase, you can Normal Summon 1 Spirit or Normal Monster from your GY in addition to your Normal Summon/Set (you can only gain this effect once per turn). If a face-up Spirit monster(s) you control returns to your hand while this card is face-up on the field (except during the Damage Step): You can Normal Summon 1 Monster with the same name as a returned Monster from your hand, but its effects are negated until the start of the next turn. If this card is sent from the field to the GY: You can Set 1 Continuous Trap from your Deck or GY that specifically mentions the name of a Field Spell, then if this card was sent to the GY because you activated \"Carcosa\", you can return 1 card on the field to the hand, except a Field Spell.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980145,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980145.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -363,7 +364,7 @@
       "clauses": 4,
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5991456,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1537228954270830693/1537229119794978897/Screenshot_2026-08-12_153101.png?ex=6a7e47ae&is=6a7cf62e&hm=01ad9127d291913edb073604ef6cf949d273dce5f2f38b9152ac8057a1afbbae&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991456.jpg",
       "addedAt": "2026-08-12 22:39:46"
     },
     {
@@ -376,7 +377,6 @@
       "text": "Activate the following effects in order:\n● Add 1 Level 4 or lower DARK Spellcaster monster from your Deck to your hand, or, if “Crush Clown Virus” is in your GY, you can send it to the GY instead. \n●You can banish 1 \"Crush Clown Virus\" from your Deck or GY.\nYou can only activate 1 “Casting Call” per turn.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535060889047400569/image.png?ex=6a76645c&is=6a7512dc&hm=cb72175ab57e5f74e4a8ad24d4fb46ff2683c911ad672577f63be4b818475552&",
       "addedAt": "2026-08-06 23:03:57"
     },
     {
@@ -423,7 +423,6 @@
       "text": "If a monster your opponent controls becomes a DARK Spellcaster monster by a card effect: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 card that mentions “Crush Clown Virus” from your Deck to your hand, or Set 1 “Illusion Fusion” from your Deck, and if you do, it can be activated this turn. You can only use each effect of “Crass Clown, the Rude Awakening” once per turn.",
       "clauses": 6,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532603297922551898/image.png?ex=6a6d738c&is=6a6c220c&hm=f77c42bc4a425c47676aa8e3b1724e9d9fbabb115d57388fb0c9f1a31cb4a368&",
       "addedAt": "2026-07-31 04:18:21"
     },
     {
@@ -434,7 +433,6 @@
       "text": "Level 6 FIRE Dragon Effect Monster\n2100 ATK\n1800 DEF\nIf you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon FIRE Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a FIRE Monster. You can only use each effect of \"Crimson Skybreaker\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532578835797905580/image.png?ex=6a6d5cc4&is=6a6c0b44&hm=cdb03687e69cbd0c6602ea391b806f855c384cafcc283363eb9df2fe7f69ec29&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -447,7 +445,6 @@
       "text": "Tribute 1 DARK Spellcaster monster with 1500 or less ATK and target 1 Attack Position monster your opponent controls; that face-up monster cannot attack, its effects are negated, also it cannot be used as material for a Synchro, Xyz, or Link Summon, and it is treated as a DARK Spellcaster monster until the end of your next turn. Neither player can activate the targeted monster's effects in response to this card's activation. While this card is in your banishment (Quick Effect): You can Set this card, and if you did, you can activate it this turn. You can only Set 1 \"Crush Clown Virus\" this way per turn.",
       "clauses": 7,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535121546077544468/image-60.png?ex=6a769cd9&is=6a754b59&hm=7542bd308d865c3605384b0f8968da312245e45c498754146276580bc4517077&",
       "addedAt": "2026-08-07 03:04:59"
     },
     {
@@ -484,6 +481,7 @@
       "text": "**Duelingbook:** [Card #5980129](https://www.duelingbook.com/card?id=5980129)\n**Card type:** Monster — Effect\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 2\n**Stats:** ATK 500 / DEF 500\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nIf \"Carcosa\" is in your GY: You can Special Summon this card (from your hand), and if you do, you can activate 1 Field Spell from your GY, then if you activated \"Carcosa\" this way, you can add 1 Monster from your GY to your hand, except a Field Spell. This is a Quick Effect if you control \"Carcosa\". You can only Special Summon \"Damned King Aldones\" once per turn, regardless of the way it is Special Summoned. Once per turn, during the End Phase, if this card was Normal or Special Summoned or flipped face-up this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980129,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980129.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -502,7 +500,7 @@
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999300,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538927455048437801/jade.png?ex=6a847561&is=6a8323e1&hm=6fe1c88cb9c69f26a0f451da6f805ee66fc068aa2895821ac344239ebfab8101&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999300.jpg",
       "addedAt": "2026-08-17 15:08:50"
     },
     {
@@ -601,7 +599,7 @@
       "clauses": 2,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5991645,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1537260526382620814/1537260791873536010/dominus_break.png?ex=6a7e652d&is=6a7d13ad&hm=e8f8f9c56e7f1fff1aba6f58694a4a5a2d34dbdf1658d6c39bba6fa9b94edded&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991645.jpg",
       "addedAt": "2026-08-13 00:45:36"
     },
     {
@@ -612,6 +610,7 @@
       "text": "**Duelingbook:** [Card #5989487](https://www.duelingbook.com/card?id=5989487)\n**Card type:** Monster — Effect\n**Monster type:** Beast-Warrior\n**Attribute:** LIGHT\n**Level/Rank/Link:** 3\n**Stats:** ATK 1400 / DEF 1000\n**Duelingbook creator:** YugiFaux\n\n**Card text**\n(This card is also always treated as a \"Furious Five Dragon Warrior\" Monster.) If you control “The Dragon Scroll” or “The Jade Palace”: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 “The Dragon Scroll” or 1 card that mentions it from your Deck to your hand. Once per turn, during your Main Phase or the Battle Phase, if you control \"The Dragon Scroll\" (Quick Effect): You can target 1 face-up Monster you control; place 1 Chi Counter on it. You can only use each effect of “Dragon Warrior Po, Bearer of the Scroll” once per turn.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5989487,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989487.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -623,6 +622,7 @@
       "text": "**Duelingbook:** [Card #5989512](https://www.duelingbook.com/card?id=5989512)\n**Card type:** Monster — Synchro\n**Monster type:** Winged Beast\n**Attribute:** WIND\n**Level/Rank/Link:** 7\n**Stats:** ATK 2400 / DEF 2800\n**Duelingbook creator:** YugiFaux\n\n**Card text**\n1 Level 1 Tuner + 1+ non-Tuner Monster(s)\nThis card is also treated as WATER Attribute while face-up on the field or in the GY. If this card is Synchro Summoned: You can target 1 Level 3 Monster in your GY; add it to your hand. During the Battle Phase (Quick Effect): You can target 1 card your opponent controls; return it to the hand, then you can place 1 of your banished “The Dragon Scroll” face-up in your Spell & Trap Zone. You can only use each effect of “Dragon Warrior Tag Team – Crane & Viper” once per turn. If another “Dragon Warrior” monster you control would be destroyed by battle or card effect, you can remove 1 Chi Counter from your field instead.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5989512,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989512.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -634,6 +634,7 @@
       "text": "**Duelingbook:** [Card #5989508](https://www.duelingbook.com/card?id=5989508)\n**Card type:** Monster — Synchro\n**Monster type:** Beast-Warrior\n**Attribute:** EARTH\n**Level/Rank/Link:** 7\n**Stats:** ATK 2500 / DEF 2400\n**Duelingbook creator:** YugiFaux\n\n**Card text**\n1 Level 1 Tuner + 1+ non-Tuner Monster(s)\nThis card is also treated as DARK Attribute while face-up on the field or in the GY. (Quick Effect): Target 1 face-up monster your opponent controls; negate its effects, and if you do, you can place 1 of your banished “The Dragon Scroll” face-up in your Spell & Trap Zone, then change 1 face-up Monster your opponent controls to face-down Defense Position. At the start of each Battle Phase: Place 1 Chi Counter on a face-up Monster you control that currently has no counters on it, if able. You can only use this effect of “Dragon Warrior Tag Team – Monkey & Mantis” once per turn.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5989508,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989508.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -645,6 +646,7 @@
       "text": "**Duelingbook:** [Card #5989506](https://www.duelingbook.com/card?id=5989506)\n**Card type:** Monster — Synchro\n**Monster type:** Beast-Warrior\n**Attribute:** LIGHT\n**Level/Rank/Link:** 7\n**Stats:** ATK 2700 / DEF 2000\n**Duelingbook creator:** YugiFaux\n\n**Card text**\n1 Level 1 Tuner + 1+ non-Tuner Monster(s)\nThis card is also treated as FIRE Attribute and its name is treated as \"Dragon Warrior Po, Bearer of the Scroll\" while face-up on the field or in the GY. If this card is Special Summoned: Target 1 monster your opponent controls; Place 1 \"The Dragon Scroll\" or 1 Spell that mentions it, face up in your Spell/Trap zone, and if you do, that targeted monster loses 1000 ATK/DEF. At the start of the Damage Step: You can place 1 of your banished “The Dragon Scroll” face-up in your Spell & Trap Zone, and if you do, this card gains 700 ATK until the end of the Battle Phase. You can only use this effect of \"Dragon Warrior Tag Team – Po & Tigress\" once per turn. This card can make a number of attacks on monsters each Battle Phase, up to the number of different attributes used as material for its Summon.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5989506,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989506.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -675,7 +677,8 @@
       "text": "During your Main Phase: You can discard this card from your hand; place 1 Level 5 or higher Pendulum Monster from your Deck or face-up Extra Deck into 1 of your empty Pendulum Zones. You can Pendulum Summon this card from your GY as if it were in your hand. During the End Phase: You can flip a face-up card on the field face-down (if a Monster is flipped this way, it is flipped to face-down Defense Position).",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536187343495630889/dune_warden.png?ex=6a7a7d73&is=6a792bf3&hm=f94397007169223de3c734c7c10025f56d3b276739d0880a0febbc006d1ed77e&",
+      "duelingbookId": 5948435,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948435.jpg",
       "addedAt": "2026-08-10 01:40:05"
     },
     {
@@ -716,6 +719,7 @@
       "text": "**Duelingbook:** [Card #5980355](https://www.duelingbook.com/card?id=5980355)\n**Card type:** Trap\n**Trap type:** Continuous\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nOnce per turn, when you activate a Field Spell: Each player returns a Monster they control to the hand, then if a Spirit Monster was returned to the hand this way, you can Special Summon 1 Spirit Monster from your hand, ignoring its Summoning conditions. This card must be face-up on the field to activate and to resolve this effect. Spirit Monsters cannot be destroyed by battle. During either player's Main Phase: You can send this face-up card you control to the GY; activate 1 \"Carcosa\" from your Deck or GY.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980355,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980355.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -742,7 +746,6 @@
       "text": "At the end of the Battle Phase, if your opponent controls more cards than you do: You can make your opponent banish cards from their field face-down so they control the same number of cards as you do. Then, both players gain 1000 LP.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532596010680062023/image.png?ex=6a6d6cc3&is=6a6c1b43&hm=b8360193ddf18fe7a429f70d5f5d4bad13f2b5d08368cc55c83a033c2abb98cd&",
       "addedAt": "2026-07-31 03:49:24"
     },
     {
@@ -756,7 +759,7 @@
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999291,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538925946109960275/fearful_4.png?ex=6a8473f9&is=6a832279&hm=a07904f5fef3a6459cef2631dbb79394c7b87336a08137c53ecece2d00365942&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999291.jpg",
       "addedAt": "2026-08-17 15:02:49"
     },
     {
@@ -784,7 +787,7 @@
       "clauses": 4,
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5999524,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1538965157219278968/1538965200789569536/Screenshot_2026-08-17_at_1.27.55_PM.png?ex=6a849888&is=6a834708&hm=85e8a9d4988fc21dd1d7f55695e1f9da02c96c0de488882da7c835cd64af24f3&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999524.jpg",
       "addedAt": "2026-08-17 17:38:37"
     },
     {
@@ -809,6 +812,7 @@
       "text": "**Duelingbook:** [Card #5989497](https://www.duelingbook.com/card?id=5989497)\n**Card type:** Monster — Effect\n**Monster type:** Winged Beast\n**Attribute:** WIND\n**Level/Rank/Link:** 3\n**Stats:** ATK 1300 / DEF 1100\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nIf this card is Normal or Special Summoned: You can add 1 “Furious Five Dragon Warrior” monster with a different Attribute from your Deck to your hand. During your Main Phase or the Battle Phase, if you control \"The Dragon Scroll\" (Quick Effect): You can target 1 other Level 3 “Dragon Warrior” monster you control and 1 card your opponent controls; return them to the hand. You can only use each effect of “Furious Five Dragon Warrior – Crane” once per turn.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5989497,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989497.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -820,6 +824,7 @@
       "text": "**Duelingbook:** [Card #5989495](https://www.duelingbook.com/card?id=5989495)\n**Card type:** Monster — Effect\n**Monster type:** Beast-Warrior\n**Attribute:** FIRE\n**Level/Rank/Link:** 3\n**Stats:** ATK 1700 / DEF 800\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nIf this card is Normal or Special Summoned: You can add 1 “Furious Five Dragon Warrior” monster with a different Attribute from your Deck to your hand. During your Main Phase or the Battle Phase, if you control \"The Dragon Scroll\" (Quick Effect): You can target 1 face-up monster your opponent controls; it loses 1000 ATK/DEF until the end of this turn. You can only use each effect of “Furious Five Dragon Warrior – Tigress” once per turn.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5989495,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989495.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -831,6 +836,7 @@
       "text": "**Duelingbook:** [Card #5989500](https://www.duelingbook.com/card?id=5989500)\n**Card type:** Monster — Effect\n**Monster type:** Reptile\n**Attribute:** WATER\n**Level/Rank/Link:** 3\n**Stats:** ATK 1100 / DEF 1700\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nIf this card is Normal or Special Summoned: You can add 1 “Furious Five Dragon Warrior” monster with a different Attribute from your Deck to your hand. During your Main Phase or the Battle Phase, if you control \"The Dragon Scroll\" (Quick Effect): You can target 1 Level 3 “Dragon Warrior” monster in your GY, except “Furious Five Dragon Warrior – Viper”; add it to your hand. You can only use each effect of “Furious Five Dragon Warrior – Viper” once per turn.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5989500,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989500.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -842,6 +848,7 @@
       "text": "**Duelingbook:** [Card #5989488](https://www.duelingbook.com/card?id=5989488)\n**Card type:** Monster — Effect\n**Monster type:** Insect\n**Attribute:** DARK\n**Level/Rank/Link:** 3\n**Stats:** ATK 1700 / DEF 600\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nIf this card is Normal or Special Summoned: You can add 1 “Furious Five Dragon Warrior” monster with a different Attribute from your Deck to your hand. During your Main Phase or the Battle Phase, if you control \"The Dragon Scroll\" (Quick Effect): You can target 1 face-up monster your opponent controls; negate its effects until the end of the Battle Phase. You can only use each effect of “Furious Five Dragon Warrior – Mantis” once per turn.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5989488,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989488.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -853,6 +860,7 @@
       "text": "**Duelingbook:** [Card #5969223](https://www.duelingbook.com/card?id=5969223)\n**Card type:** Monster — Effect\n**Monster type:** Beast-Warrior\n**Attribute:** EARTH\n**Level/Rank/Link:** 3\n**Stats:** ATK 1500 / DEF 1200\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nIf this card is Normal or Special Summoned: You can add 1 “Furious Five Dragon Warrior” monster with a different Attribute from your Deck to your hand. During your Main Phase or the Battle Phase, if you control \"The Dragon Scroll\" (Quick Effect): You can change the battle position of 1 monster on the field to face-down Defense Position. You can only use each effect of “Furious Five Dragon Warrior – Monkey” once per turn.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5969223,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5969223.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -900,7 +908,8 @@
       "text": "Last name: Belushi.",
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536186988301127700/gem_golem.png?ex=6a7a7d1e&is=6a792b9e&hm=dcce42c6c823c9a1eb0390dcd7cbacdab172d1d908e8c5549f70d9a8276e239c&",
+      "duelingbookId": 5948438,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948438.jpg",
       "addedAt": "2026-08-10 01:38:40"
     },
     {
@@ -911,7 +920,6 @@
       "text": "Level 6 EARTH Dragon Effect Monster\n1800 ATK\n2400 DEF\nIf you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon EARTH Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except an EARTH Monster. You can only use each effect of \"Gemscale Skybreaker\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532575611686621234/image.png?ex=6a6d59c3&is=6a6c0843&hm=32000d086772366d70d56539881bb56b339b423e34457918e0ffb1a7e4a3ebc5&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -942,7 +950,7 @@
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999295,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538926645048778862/glass.png?ex=6a8474a0&is=6a832320&hm=08b49437df29cce6d6f517c215846a03be7ba4b0dd789473afdaa6a6d7424dde&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999295.jpg",
       "addedAt": "2026-08-17 15:05:13"
     },
     {
@@ -955,7 +963,6 @@
       "text": "This card's activation and its effects cannot be negated. Pay 1000 LP to declare 1 Spell Card type (Continuous, Equip, Field, Normal, Quick-Play, Ritual); your opponent chooses a Spell with the declared type from your GY to add to your hand, except \"Goblet of Grandeur\", then draw 1 card. You can only activate 1 \"Goblet of Grandeur\" per turn.",
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532596907057086526/image.png?ex=6a6d6d98&is=6a6c1c18&hm=b6038dfe2aec58747c0f2c6eeba69ecbee2330109e53349eb9b72686f1539296&",
       "addedAt": "2026-07-31 03:52:57"
     },
     {
@@ -981,7 +988,6 @@
       "text": "Place 1 face-up and/or revealed Monster Card from as many of the following zones as possible (min. 1) on the bottom of your Deck in sequence to apply the appropriate effects, based on the zone from which a Monster was placed this way. ● Your face-up Extra Deck: Draw 1 card. ● Your Extra Monster Zone: Draw 1 card. ● Your banishment: Draw 1 card. ● Your Spell & Trap Zone: Draw 1 card.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532600558119026800/image.png?ex=6a6d70ff&is=6a6c1f7f&hm=495611b8d92352defa64be3d50236d6b1694a538638c1ea564ded1c6fa80f5a1&",
       "addedAt": "2026-07-31 04:07:31"
     },
     {
@@ -992,6 +998,7 @@
       "text": "**Duelingbook:** [Card #5946947](https://www.duelingbook.com/card?id=5946947)\n**Card type:** Monster — Effect\n**Monster type:** Fiend\n**Attribute:** DARK\n**Level/Rank/Link:** 4\n**Stats:** ATK 1500 / DEF 800\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nDuring your Main Phase, or your opponent’s End Phase (Quick Effect): You can return any number of “Masked Rite” Equip Spells from the field to the hand; Special Summon this card from your hand or GY. If this card is sent to the GY as material for the Ritual or Fusion Summon of a “Masked Beast” monster: You can equip 1 Equip Spell from your hand or GY to that Summoned monster. You can only use each effect of “Grand Tiki Elder of the Masked Rite” once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5946947,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5946947.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1009,7 +1016,8 @@
       "text": "1 Level 5 or higher EARTH Monster + 1 Pendulum Monster card\nThis card can attack while in Defense Position. (If it does, apply its ATK for damage calculation as normal). While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 300 damage to your opponent. When your opponent Special Summons a Monster(s) from the Extra Deck with less DEF than this card (Quick Effect): Negate that Summon, and if you do, destroy that Monster(s). You can only activate this effect of \"Great Alpha Tyrant of Shaitand\" once per turn.",
       "clauses": 7,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536186569101279353/gatos.png?ex=6a7a7cbb&is=6a792b3b&hm=ea20212f62fda82d69ac498b5164a854a804ab64ec1283dc381484cbb22d9c1a&",
+      "duelingbookId": 5948446,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948446.jpg",
       "addedAt": "2026-08-10 01:37:00"
     },
     {
@@ -1044,7 +1052,6 @@
       "text": "You can Ritual Summon this card with a \"Guthing's\" card. During your Main Phase: You can reveal a Monster from your Extra Deck; you can send it to the GY. You can only use this effect of \"Guthing's Seeking Vine\" once per turn.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532593890358464625/image.png?ex=6a6d6ac9&is=6a6c1949&hm=7900b891ba536a38fb7a5c50aa7f2d397402cc678b4eaeaaf59e7fc426078610&",
       "addedAt": "2026-07-31 03:40:58"
     },
     {
@@ -1055,6 +1062,7 @@
       "text": "**Duelingbook:** [Card #5945930](https://www.duelingbook.com/card?id=5945930)\n**Card type:** Spell\n**Spell type:** Quick-Play\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\nActivate each of the following effects, based on the names of cards that have been revealed during this turn.\n● \"P-Power Rushdown\" - You can change any number of face-up Monsters your opponent controls to face-down Defense Position, up to the number of your cards that are currently revealed.\n● \"S-Power Resonance\" - Excavate cards from the top of your Deck until you reveal a Level 4 or lower Monster and Special Summon it, also place the rest of the excavated cards on the bottom of your Deck.\nYour opponent cannot activate cards or effects in response to this card's activation.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5945930,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945930.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1066,6 +1074,7 @@
       "text": "**Duelingbook:** [Card #5980375](https://www.duelingbook.com/card?id=5980375)\n**Card type:** Monster — Synchro\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 8\n**Stats:** ATK 2900 / DEF 2300\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\n3+ Tuners, including 1 Monster that mentions \"Carcosa\"\nYou can treat 1 FIRE, Psychic, or Spirit Monster as a Tuner for this card's Synchro Summon. Once, while you control this Synchro Summoned card (Quick Effect): Immediately after this effect resolves, skip the rest of this Phase (including the rest of this Chain), also this card cannot attack directly during your next Battle Phase. You can only activate this ability of \"Hastur, the Vermilion Shepherd\" once per turn. Once per turn, during the End Phase, if this card was Special Summoned or flipped face-up this turn: Return this card to the hand, or if \"Carcosa\" is in your field or GY, return 1 card on the field to the hand instead.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980375,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980375.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1118,7 +1127,6 @@
       "text": "If you control a Rank 4 Machine Xyz Monster, you can Special Summon this card from your hand, then you can attach 1 “High Caliber” monster from your GY to 1 Machine Xyz Monster you control as material, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Xyz Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: You can target 1 Spell/Trap on the field; destroy it. You can only use each effect of “High Caliber Boomstick Buck” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535707199995781150/image.png?ex=6a78be48&is=6a776cc8&hm=d3566ba40f0263b7192cb101dcb052e128ad6bdfa93ec2d21dd5d81af025d3f7&",
       "addedAt": "2026-08-08 17:52:09"
     },
     {
@@ -1135,7 +1143,6 @@
       "text": "2+ Level 4 “High Caliber” monsters\nIf this card is Special Summoned: You can attach 1 “High Caliber” monster from your GY to this card as material. Your opponent cannot tribute this face-up card on the field. During your Main Phase: You can detach 2 materials from this card; destroy cards your opponent controls up to the number of different “High Caliber” monster names attached to XYZ monsters you control as material. You can only use each effect of “High Caliber Boomwagon” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535130451755274331/image-18.webp?ex=6a76a525&is=6a7553a5&hm=a0f3713a7ec012bee13d854104823b5f557b871e2e2203429ff68e5cd9e4c119&",
       "addedAt": "2026-08-07 03:40:22"
     },
     {
@@ -1152,7 +1159,6 @@
       "text": "If an Xyz Monster is on the field or in either GY, you can Special Summon this card from your hand, then Special Summon 1 “High Caliber” monster in your GY, but negate its effects, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: Activate 1 of the following effects.\n● You can target 1 face-up Monster on the field; destroy it.\n● You can destroy as many cards in the Field Zones as possible (min. 1). You can only use each effect of “High Caliber Bullet the Kid” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535707483371344043/image.png?ex=6a78be8c&is=6a776d0c&hm=d06a215afc59674b32a6f88dc091dfb5c358a36aa544f13af2b156b53dfb65aa&",
       "addedAt": "2026-08-08 17:53:17"
     },
     {
@@ -1169,7 +1175,6 @@
       "text": "You can Special Summon this card from your hand by sending 1 Xyz Monster from your Extra Deck to the GY, then add 1 “High Caliber” monster from your Deck to your hand, except “High Caliber Deadeye Dixon”, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Xyz Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: Activate 1 of the following effects.\n● You can target 1 face-up Monster your opponent controls; negate its effects until the end of this turn.\n● You can add 1 Spell/Trap that mentions an Xyz Monster from your GY to your hand.\n You can only use each effect of “High Caliber Deadeye Dixon” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535128612456632420/image-226.png?ex=6a76a36e&is=6a7551ee&hm=cc350849d9f490d95c3034aaee4f8515986a1b6bc6624c16b49f6b0b3cb25d70&",
       "addedAt": "2026-08-07 03:33:04"
     },
     {
@@ -1186,7 +1191,6 @@
       "text": "You can Special Summon this card from your hand by detaching 1 material from a monster you control, then set 1 \"High Caliber\" Spell/Trap from your deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Xyz Monsters.If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: You can draw 1 card. If a cards is destroyed by a card effect while this card is in your GY: You can attach this card to an XYZ monster you control. You can only use each effect of “High Caliber Deputy Draw” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535130153556901928/image-11.webp?ex=6a76a4dd&is=6a75535d&hm=a2ecd788aae19b6451e9cb0e2065f49437345a6cc3346c2b2496dec38dcb8c51&",
       "addedAt": "2026-08-07 03:39:11"
     },
     {
@@ -1199,7 +1203,6 @@
       "text": "Detach any number of materials from Machine Xyz Monsters you control; destroy that many cards your opponent controls, then you can attach 1 “High Caliber” card from your GY to 1 Xyz Monster you control as material, then you can attach 1 Machine Monster from your Deck to another Xyz Monster you control. You cannot declare attacks for the rest of this turn, except with Rank 4 Xyz Monsters. While this card is in your GY, if a card is destroyed by your Monster effect: You can banish this card; draw 1 card. You can only activate each effect of “High Caliber Full Salvo” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535129134106148994/image-211.png?ex=6a76a3ea&is=6a75526a&hm=5c0940bd4e3f97274ceddeff62ce38abfde82e8eafaca64cef426a2f53340a96&",
       "addedAt": "2026-08-07 03:35:08"
     },
     {
@@ -1212,7 +1215,6 @@
       "text": "You can detach 1 material from a “High Caliber” Xyz Monster you control; place 1 Machine monster from your GY on the bottom of the Deck, then draw 1 card. You can only use this effect of “High Caliber High Noon Hideout” once per turn. Once per turn, when your opponent activates a Monster effect: You can detach 1 Material from a \"High Caliber\" Xyz Monster you control as if you activated that Monster's effect, and if you do, negate your opponent's Monster effect as it resolves. If this card is destroyed by a card effect: Add up to 2 Level 4 FIRE Monsters with different names from your Deck and/or GY to your hand.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535708570752917606/image.png?ex=6a78bf8f&is=6a776e0f&hm=098394896c679029398f3f7dd25e4b8d6be5d6678b870385e36bb9c38a408a44&",
       "addedAt": "2026-08-08 17:57:36"
     },
     {
@@ -1225,7 +1227,6 @@
       "text": "When this card is activated: You can add 1 “High Caliber” monster from your Deck to your hand. Once per turn, if a “High Caliber” Xyz Monster is Special Summoned to your field: You can attach 1 “High Caliber” monster from your Deck or GY to it as material, and if you do, you can add 1 card attached to it to the hand. You can only activate 1 “High Caliber Loaded Chamber” per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535129859246923806/image-80.png?ex=6a76a497&is=6a755317&hm=5482e9ad8b222a707f35e6b0d0cf29d23273d6374da92318b061f9252488d236&",
       "addedAt": "2026-08-07 03:38:00"
     },
     {
@@ -1242,7 +1243,6 @@
       "text": "If you have a “High Caliber” monster on your field or in your GY, you can Special Summon this card from your hand, then you can add 1 FIRE Machine monster from your Deck to your hand, except “High Caliber Lookout Louie”. also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Xyz Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: You can Special Summon 1 “High Caliber” monster from your hand. During your End Phase, while this card is in your GY: You can attach this card to a face-up Xyz Monster you control as material. You can only use each effect of “High Caliber Lookout Louie” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535713741834817568/image.png?ex=6a78c460&is=6a7772e0&hm=db92b6fd8c52ce1a9aefef1d07cb01293356e427424929232a50f1f472e7ab31&",
       "addedAt": "2026-08-08 18:18:09"
     },
     {
@@ -1259,7 +1259,6 @@
       "text": "2+ Level 4 “High Caliber” monsters\nYour opponent cannot Tribute this face-up card card on the field. When your opponent activates a card or effect (Quick Effect): You can detach 1 material from this card, then target 1 card on the field; destroy it. You can only use the following effects of “High Caliber Revolver Rig” once per turn. If this card is Special Summoned: You can attach 1 “High Caliber” monster from your GY to this card as material. If a Machine Xyz Monster(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead. You can only control 1 \"High Caliber Revolver Rig\".",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535130935127707659/image-13.webp?ex=6a76a598&is=6a755418&hm=1819e6dc616ea21ce72d1fe3f8b74f467cbb6fe11f9c90b3438ca15e61c6be6f&",
       "addedAt": "2026-08-07 03:42:17"
     },
     {
@@ -1276,7 +1275,6 @@
       "text": "You can Special Summon this card from your hand by sending 1 card from your hand or field to the GY, then Special Summon 1 “High Caliber” monster from your Deck, except “High Caliber Smilin’ Shell”, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: You can add 1 “High Caliber” monster from your Deck to your hand, except “High Caliber Smilin’ Shell”. During your End Phase, while this card is in your GY: You can attach this card to a face-up Xyz Monster you control as material. You can only use each effect of “High Caliber Smilin’ Shell” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535713538163740672/image.png?ex=6a78c42f&is=6a7772af&hm=069210c2837e1b88c5a9fe4ae5c5e91f0570f4e6cc2c5aa6083e0e50cd700f61&",
       "addedAt": "2026-08-08 18:17:21"
     },
     {
@@ -1293,7 +1291,8 @@
       "text": "To Tribute Summon this card, you can also Tribute face-up cards you control in your Pendulum Zones. While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. If this card is Normal or Special Summoned: You can change this card to face-up Defense Position; place a Level 5 or higher Pendulum Monster from your Deck or face-up Extra Deck into 1 of your empty Pendulum Zones. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 200 damage to your opponent. (Quick Effect): You can shuffle this card into your Deck to Special Summon 1 \"Tyrant of Shaitand\" Monster from your Extra Deck in face-up Defense Position. You can only use this effect of \"High Tyrant of Shaitand\" once per turn.",
       "clauses": 7,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536186701020397628/high_tyrant.png?ex=6a7a7cda&is=6a792b5a&hm=31ae79b06ddd724e263b10bd83b5cb69dab650c8d404a4b069609dfffac64b74&",
+      "duelingbookId": 5948442,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948442.jpg",
       "addedAt": "2026-08-10 01:37:31"
     },
     {
@@ -1304,6 +1303,7 @@
       "text": "**Duelingbook:** [Card #5980122](https://www.duelingbook.com/card?id=5980122)\n**Card type:** Monster — Effect\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 2\n**Stats:** ATK 700 / DEF 100\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nIf \"Carcosa\" is in your GY: You can Special Summon this card (from your hand), then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster, and if you do, 1 Monster in your hand can be used as 1 of the Materials. This is a Quick Effect if you control \"Carcosa\". You can only Special Summon \"Hollow Queen Cassilda\" once per turn, regardless of the way it is Special Summoned. Once per turn, during the End Phase, if this card was Normal or Special Summoned or flipped face-up this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980122,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980122.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1331,7 +1331,7 @@
       "clauses": 4,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939425,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535118716277362738/Screenshot_20260806_215050_Chrome.jpg?ex=6a769a37&is=6a7548b7&hm=39967029c414e7d51d19cf7574592d81314ce05afabd56302da7412f38824283&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939425.jpg",
       "addedAt": "2026-08-07 02:53:44"
     },
     {
@@ -1342,6 +1342,7 @@
       "text": "**Duelingbook:** [Card #5980357](https://www.duelingbook.com/card?id=5980357)\n**Card type:** Trap\n**Trap type:** Continuous\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nWhen you activate this card: You can Special Summon 1 Level 4 or lower Tuner Synchro Monster from your Extra Deck. Once per turn, if \"Unspeakable\" is banished, added to your opponent's hand, or if your opponent activates its effect: You can return 1 Spirit Monster you control to the hand; shuffle that card into the Deck. While \"Carcosa\" is in your field or GY, apply each of the following effects, based on the zone(s) it is in.\n● Field Zone: The name of each card in either player's hand or banishment becomes \"Unspeakable\".\n● GY: You take no battle damage from battles involving a Spirit Monster.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980357,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980357.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1370,6 +1371,7 @@
       "text": "**Duelingbook:** [Card #5980351](https://www.duelingbook.com/card?id=5980351)\n**Card type:** Spell\n**Spell type:** Normal\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nReveal 1 Level 1 or 2 Monster from your Deck that specifically mentions the name of a Field Spell; apply the (1) or (2) effect from the following effects.\n‎ ‎ ‎ (1) Send 1 Field Spell from your Deck to the GY whose name the revealed Monster specifically mentions to add the revealed Monster to your hand.\n‎ ‎ ‎ (2) Send the revealed Monster to the GY to activate 1 Field Spell from your Deck whose name the sent Monster specifically mentions.\n‎ ‎ ‎ For the rest of this turn, you cannot activate \"Inexplicable Arrival\" unless you either sent \"Carcosa\" to the GY with this card's (1) effect or activated \"Carcosa\" with this card's (2) effect.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980351,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980351.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1400,7 +1402,8 @@
       "text": "If this card is Normal Summoned or Tributed: You can Special Summon 1 Level 4 \"Inkarnate\" Monster from your hand or Deck. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Byakko\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Brawler - Byakko Seal\" once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536209356381626388/image.png?ex=6a7a91f3&is=6a794073&hm=f4abe1023050fce25e7234fa2735a155f0e9fb0a512f30e1035891d4ed8b0a58&",
+      "duelingbookId": 5961288,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961288.jpg",
       "addedAt": "2026-08-10 03:07:33"
     },
     {
@@ -1417,7 +1420,8 @@
       "text": "You can Ritual Summon this card with any \"Inkarnate\" Ritual Spell. This card can attack up to 3 Defense Position Monsters your opponent controls, once each. If this card is Ritual Summoned: You can activate 1 of the following effects.\n● You can target as many Attack Position Monsters your opponent controls as possible; change them to face-down Defense Position, also this card cannot attack directly this turn.\n● Special Summon 1 Level 4 \"Inkarnate\" Monster from your GY.\nDuring the Battle Phase, your opponent cannot activate cards or effects. You can only use each effect of \"Inkarnate Byakko\" once per turn.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536210006754725979/image.png?ex=6a7a928f&is=6a79410f&hm=b111963a5df573924fb362d4e973b42d0cef61979e3e7beb9f34504db7238d3c&",
+      "duelingbookId": 5961262,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961262.jpg",
       "addedAt": "2026-08-10 03:10:08"
     },
     {
@@ -1434,7 +1438,8 @@
       "text": "If this card is Normal Summoned or Tributed: You can add 1 \"Inkarnate\" Spell/Trap from your Deck to the hand. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Tsuruhime\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Dancer - Tsuruhime Seal\" once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536209447414931557/image.png?ex=6a7a9209&is=6a794089&hm=60be18f609cf3c635f9c76aa67091517ab219602e2f57ea5351a99dfaa0e9bb8&",
+      "duelingbookId": 5961286,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961286.jpg",
       "addedAt": "2026-08-10 03:07:54"
     },
     {
@@ -1447,7 +1452,8 @@
       "text": "This card can be used to Ritual Summon \"Inkarnate Byakko\", \"Inkarnate Ryujin\", or \"Inkarnate Tsuruhime\" from your hand or GY. You must also Tribute \"Inkarnate\" Monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster. A Ritual Monster Summoned by this card's effect gains 500 ATK and cannot be destroyed by battle until your next Battle Phase after it is Summoned. If a Ritual Monster is Tributed: You can banish this card from your GY; Special Summon 1 Level 4 or lower \"Inkarnate\" Monster from your GY. You can only use this effect of \"Inkarnate Incarnate\" once per turn.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536210542216224778/image.png?ex=6a7a930e&is=6a79418e&hm=3c4b2a64990a543c8d041d04b80a442c767a2083fe7d8cf4f6a0790d154f0e3d&",
+      "duelingbookId": 5961271,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961271.jpg",
       "addedAt": "2026-08-10 03:12:15"
     },
     {
@@ -1460,7 +1466,8 @@
       "text": "Activate 1 of these effects.\n● Shuffle 1 Level 4 \"Inkarnate\" Monster from your hand into the Deck; add 1 Ritual Spell from your GY to the hand, and if you do, you can place 1 \"Inkarnate\" Monster from your GY or banishment on the top or bottom of the Deck.\n● Shuffle 1 \"Inkarnate\" Ritual Monster from your hand into the Deck; add 1 Ritual Spell from your Deck to the hand.\n● Shuffle 1 \"Inkarnate\" Ritual Spell from your hand into the Deck; draw 2 cards.\n● Send 1 card that mentions a Ritual Monster or a Ritual Spell from your Extra Deck to the GY; add 1 Spell card that mentions a Ritual Monster from your Deck to your hand, except a Ritual Spell or \"Inkarnate Inscription\".",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536210646755057704/image.png?ex=6a7a9327&is=6a7941a7&hm=12a5622363c97cb03e874ec3743c48014468c0e79162e12d74113786602ce683&",
+      "duelingbookId": 5961276,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961276.jpg",
       "addedAt": "2026-08-10 03:12:40"
     },
     {
@@ -1477,7 +1484,8 @@
       "text": "You can reveal this card in your hand and shuffle it into the Deck; add 1 Level 8 or lower Ritual Monster or 1 Ritual Spell from your Deck to the hand. If this card is Tributed: You can add 1 Ritual Spell from your GY to the hand, and if you do, shuffle this card into the Deck. If you are Tributing Monsters for a Ritual Summon, you can also use this card in your GY, by banishing it, and if you do, you can place 1 \"Inkarnate\" Monster from your GY or banishment on the top or bottom of the Deck You can only use each effect of \"Inkarnate Living Ink\" once per turn.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536209589484126248/image.png?ex=6a7a922b&is=6a7940ab&hm=f600ced295f7451fde45c10b5bd7cb6ee88a7cc70fb29d10412e9ce9adb92cb4&",
+      "duelingbookId": 5961281,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961281.jpg",
       "addedAt": "2026-08-10 03:08:28"
     },
     {
@@ -1494,7 +1502,8 @@
       "text": "If this card is Normal Summoned or Tributed: You can add 1 \"Inkarnate\" Monster from your Deck to the hand. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Ryujin\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Monk - Ryujin Seal\" once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536209284201848842/image.png?ex=6a7a91e2&is=6a794062&hm=6a5ed11a0c6dd93088b21eabe5e80445469d6d7eeec8aa0e7e4a4c5a2525b568&",
+      "duelingbookId": 5961293,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961293.jpg",
       "addedAt": "2026-08-10 03:07:17"
     },
     {
@@ -1507,7 +1516,8 @@
       "text": "Activate 1 of these effects.\n● This card can be used to Ritual Summon any \"Inkarnate\" Ritual Monster from your Deck. You must also Tribute Monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster.\n● This card can be used to Ritual Summon any \"Inkarnate\" Ritual Monster from your hand. You must also Tribute 1 \"Inkarnate\" Monster from your Deck whose Level equals or exceeds the Level of that Ritual Monster. You can Tribute an \"Inkarnate\" Monster who shares an attribute with that Ritual Monster as the entire Tribute instead.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536210448460947536/image.png?ex=6a7a92f8&is=6a794178&hm=ee684b7bc555836e6aadbd15387b276268cbbb19f9f3f322f33efba9604c1cff&",
+      "duelingbookId": 5961265,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961265.jpg",
       "addedAt": "2026-08-10 03:11:53"
     },
     {
@@ -1524,7 +1534,8 @@
       "text": "You can Ritual Summon this card with any \"Inkarnate\" Ritual Spell. If this card is Ritual Summoned: You can activate 1 of the following effects.\n● Destroy all Attack Position monsters your opponent controls.\n● Destroy all Defense Position monsters your opponent controls.\n● Return all Spell and Trap cards on the field to the hand.\nYou can only use each effect of \"Inkarnate Ryujin\" once per turn.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536209854207758436/image.png?ex=6a7a926a&is=6a7940ea&hm=3f8f0d1aad22dfca8888716c26bd9d83d3490359e969f4e46b487d7de70ed7f5&",
+      "duelingbookId": 5961256,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961256.jpg",
       "addedAt": "2026-08-10 03:09:32"
     },
     {
@@ -1540,7 +1551,8 @@
       "text": "2 Level 4 Monsters\nThis card can be treated as the entire Tribute for a Ritual Summon. Once per turn, if a Ritual Monster is Special Summoned to a zone this card points to: Draw 1 card. If this card is sent to the GY: You can banish it; add both 1 Ritual Spell and 1 Ritual Monster whose name is mentioned on that Ritual Spell from your Deck or GY to your hand.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536210192537231392/image.png?ex=6a7a92bb&is=6a79413b&hm=1ff88848e1e3d5491c042d60176581ef5b3737425a21a941fef0e0a6db2dccf0&",
+      "duelingbookId": 5961250,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961250.jpg",
       "addedAt": "2026-08-10 03:10:54"
     },
     {
@@ -1553,7 +1565,8 @@
       "text": "If a Ritual Summoned monster you control attacks a Defense Position monster, inflict piercing battle damage. You can only use each of the following effects of “Inkarnate Shrine” once per turn.\n● When this card is activated: You can add 1 “Inkarnate” Ritual Monster from your Deck to your hand.\n● You can Tribute 1 “Inkarnate” monster from your hand or face-up field; add 1 “Inkarnate” Spell/Trap from your Deck to your hand, except “Inkarnate Shrine”.\n● If an “Inkarnate” Ritual Monster is Ritual Summoned: You can target 1 “Inkarnate” monster in your GY; add it to your hand.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536210350326681650/image.png?ex=6a7a92e0&is=6a794160&hm=8124ec60bd1d4d658aa2141b8c8d15dcc0a4ee126b0cc5a6cff32fdce4eb3b3b&",
+      "duelingbookId": 5961246,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961246.jpg",
       "addedAt": "2026-08-10 03:11:29"
     },
     {
@@ -1570,7 +1583,8 @@
       "text": "You can Ritual Summon this card with any \"Inkarnate\" Ritual Spell. If this card is Ritual Summoned: You can activate 1 of the following effects.\n● For the rest of this turn after this effect resolves, \"Inkarnate\" cards you control are unaffected by your opponent's card effects.\n● Send 1 card that mentions a Ritual Monster or Ritual Spell from your Deck or Extra Deck to the GY.\nYou can only use each effect of \"Inkarnate Tsuruhime\" once per turn.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536210092842557530/image.png?ex=6a7a92a3&is=6a794123&hm=e658c2a3a6322ffce8a134791227dd11de0353aca13739175c2bbb3b804ab190&",
+      "duelingbookId": 5961259,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961259.jpg",
       "addedAt": "2026-08-10 03:10:28"
     },
     {
@@ -1612,7 +1626,6 @@
       "text": "If this card battles a monster, neither can be destroyed by that battle. You cannot summon this monster if you control a Spirit monster. Once while this card is face-up on the field: Excavate the top 3 cards of your Deck; add 1 to your hand, send 1 to the GY, then banish the other face-down. Once per turn, when your opponent activates a Spell card or effect (Quick Effect): You can target 1 face-up card on your side of the field; negate the effects of both that target and that opponent’s card until the end of this turn. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return this card to the hand.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065923/1537169673450422283/image.png?ex=6a7e1051&is=6a7cbed1&hm=baf1ee8e0af15865960d6f97aaf745e33b02509cef443168e9d6cd7ece33a390&",
       "addedAt": "2026-08-12 18:44:19"
     },
     {
@@ -1695,7 +1708,6 @@
       "text": "You can activate this card from your hand by sending 1 Equip Spell from your Deck to the GY. Target 1 face-up Monster on the field and 1 Equip Spell in your GY; equip that Equip Spell to that Monster, then you can equip any number of other equipped cards you control to that Monster. Neither player may activate cards or effects in response to this card's activation.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1534251732102676690/Screenshot_2026-08-04_122745.png?ex=6a7372c5&is=6a722145&hm=4496abf97cf1f73e991e8ad16b9079790474652eae8d818b3748b2b7207134f6&",
       "addedAt": "2026-08-04 17:28:38"
     },
     {
@@ -1740,6 +1752,7 @@
       "text": "**Duelingbook:** [Card #5945682](https://www.duelingbook.com/card?id=5945682)\n**Card type:** Monster — Effect\n**Monster type:** Spellcaster\n**Attribute:** LIGHT\n**Level/Rank/Link:** 4\n**Stats:** ATK 1600 / DEF 1000\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nIf this card is Normal or Special Summoned: You can add 1 “Masked Beast” Ritual Monster from your Deck to your hand, then you can equip 1 “Masked Rite” Equip Spell from your Deck to this card, then if this card was Normal Summoned, Special Summon 1 \"Umbra, Herald of the Masked Rite\" from your deck to an adjacent monster zone, but negate its effects. If you already control \"Umbra\" you may special summon another \"Masked Rite\" monster instead. If a “Masked Rite” Equip Spell is sent from the field to the GY while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of “Lumis, Herald of the Masked Rite” once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5945682,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945682.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1776,7 +1789,7 @@
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999448,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538953489974169660/patricia.png?ex=6a848da0&is=6a833c20&hm=b51a0474b0d37233fb32efbfd46edf6612b42f2a9484daeac9cbdced60d28fd0&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999448.jpg",
       "addedAt": "2026-08-17 16:52:27"
     },
     {
@@ -1818,6 +1831,7 @@
       "text": "**Duelingbook:** [Card #5945733](https://www.duelingbook.com/card?id=5945733)\n**Card type:** Monster — Fusion\n**Monster type:** Fiend\n**Attribute:** DARK\n**Level/Rank/Link:** 10\n**Stats:** ATK 3600 / DEF 2800\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\n“Lumis, Herald of the Masked Rite” + “Umbra, Herald of the Masked Rite”\nMust first be Fusion Summoned, or Special Summoned from your Extra Deck by shuffling the above cards you control and/or in your GY into the Deck while you control a Ritual Summoned “Masked Beast” monster (This is treated as a fusion summon). You can only Special Summon “Masked Beast Des Gardius, Eclipse Incarnate” once per turn this way. If this card is Special Summoned: You can target up to 2 face-up monsters your opponent controls; equip them to this card as Equip Spells. This card gains 500 ATK for each card equipped to it. When your opponent activates a card or effect (Quick Effect): You can send 1 card equipped to this card to the GY; negate the activation, and if you do, banish that card. You can only use this effect of “Masked Beast Des Gardius, Eclipse Incarnate” once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5945733,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945733.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1829,6 +1843,7 @@
       "text": "**Duelingbook:** [Card #5947646](https://www.duelingbook.com/card?id=5947646)\n**Card type:** Spell\n**Spell type:** Equip\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nEquip only to a face-up monster. During either player's Standby Phase: You can target 1 Monster the turn player controls; equip this card to that target. Apply the appropriate effect, based on who controls the equipped monster.\n● You: The equipped Monster can attack directly. If it does while your opponent controls a Monster, its ATK is halved during damage calculation only. Once per turn, when an opponent’s monster declares an attack on it, negate that attack, also you take 500 damage during each of your Standby Phases.\n● Your opponent: It cannot attack, also its controller takes 500 damage during each of their Standby Phases.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5947646,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947646.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1840,6 +1855,7 @@
       "text": "**Duelingbook:** [Card #5947208](https://www.duelingbook.com/card?id=5947208)\n**Card type:** Spell\n**Spell type:** Equip\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nEquip only to a face-up monster. Apply the appropriate effect, based on who controls the equipped monster.\n● You: It gains 1000 ATK, but you take 500 damage during each of your Standby Phases.\n● Your opponent: It gains 1000 ATK, but its effects are negated.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5947208,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947208.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1851,6 +1867,7 @@
       "text": "**Duelingbook:** [Card #5947215](https://www.duelingbook.com/card?id=5947215)\n**Card type:** Spell\n**Spell type:** Equip\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nEquip only to a face-up monster. During either player's Standby Phase: You can target 1 Monster the turn player controls; equip this card to that target. Apply the appropriate effect, based on who controls the equipped monster.\n● You: It is unaffected by your opponent’s Spell effects, but you take 500 damage during each of your Standby Phases. When you draw for your normal draw in your Draw Phase: You can place 1 of those Equip Spell Cards on the bottom of your Deck to draw 1 additional card.\n● Your opponent: It gains 500 ATK, but the first time each turn its controller activates a Spell Card or effect, negate that effect, and if you do, destroy that card.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5947215,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947215.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1862,6 +1879,7 @@
       "text": "**Duelingbook:** [Card #5947212](https://www.duelingbook.com/card?id=5947212)\n**Card type:** Spell\n**Spell type:** Equip\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nEquip only to a face-up monster. Apply the appropriate effect, based on who controls the equipped monster.\n● You: Control of it cannot switch, also it is unaffected by your opponent’s activated monster effects, but you take 500 damage during each of your Standby Phases.\n● Your opponent: Once per turn (Quick Effect): You can send 1 “Masked Beast” or “Masked Rite” card from your hand or field to the GY; take control of the equipped monster",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5947212,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947212.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1873,6 +1891,7 @@
       "text": "**Duelingbook:** [Card #5947214](https://www.duelingbook.com/card?id=5947214)\n**Card type:** Spell\n**Spell type:** Equip\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nEquip only to a face-up monster. Apply the appropriate effect, based on who controls the equipped monster.\n● You: When Ritual Summoning a “Masked Beast” monster, you can also Tribute face-up “Masked Rite” Spell/Trap Cards you control, treating each as a Level 4 LIGHT monster, and you can use Equip Spells in your GY by banishing them, treating each as a Level 2 DARK Monster.\n● Your opponent: Its controller cannot Tribute cards.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5947214,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947214.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1884,6 +1903,7 @@
       "text": "**Duelingbook:** [Card #5987182](https://www.duelingbook.com/card?id=5987182)\n**Card type:** Spell\n**Spell type:** Continuous\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nYou can reveal this card in your hand: Add 1 card with an effect that mentions a Chi Counter(s) from your Deck to the hand, except \"Master Oogway's Meditation\". You can only use this effect of \"Master Oogway's Meditation\" once per turn. Each time a Monster is Summoned to your field immediately after the effect of another card: Place 1 Chi Counter on it.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5987182,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987182.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -1895,6 +1915,7 @@
       "text": "**Duelingbook:** [Card #5987178](https://www.duelingbook.com/card?id=5987178)\n**Card type:** Spell\n**Spell type:** Continuous\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nSend this card from your hand or field to the GY; Place 1 “The Jade Palace” from your Deck face-up into your Field Zone. If a “Dragon Warrior” Synchro Monster is Synchro Summoned: You can target 1 “Dragon Warrior” monster in your GY; Special Summon that monster. Your opponent cannot activate cards or effect during a battle involving a Monster with a Chi Counter(s) on it. While you control \"The Dragon Scroll\", if a monster you control with a Chi counter would be destroyed by an opponent's card effect: You can remove 1 Chi Counter from that monster instead.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5987178,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987178.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -1906,6 +1927,7 @@
       "text": "**Duelingbook:** [Card #5946951](https://www.duelingbook.com/card?id=5946951)\n**Card type:** Monster — Effect\n**Monster type:** Fiend\n**Attribute:** DARK\n**Level/Rank/Link:** 4\n**Stats:** ATK 1500 / DEF 1200\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\n(Quick Effect): You can send this card from your hand to the GY, then target 1 face-up monster on the field; equip 1 “Masked Rite” Equip Spell from your Deck or GY to that target. While this card is in your GY (Quick effect) you can banish this card; equip 1 \"Masked Rite\" Equip Spell from your Deck or GY to that target. You can only use each effect of \"Melchid, Four-Faced Beast of the Masked Rite\" once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5946951,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5946951.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -1949,7 +1971,6 @@
       "text": "When this card is activated: You can send 1 “Crush Clown Virus” from your Deck to the GY. During the Main Phase, if “Crush Clown Virus” is in your GY (Quick Effect): You can Special Summon 1 monster that mentions “Crush Clown Virus” from your GY or banishment with 1500 ATK or less, and if you do, destroy it during the end phase. If you activated this effect during your opponent's turn, its effects are negated. You can only use this effect of “Midnight Matinee” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535120811445325834/image-54.png?ex=6a769c2a&is=6a754aaa&hm=e626d724e0216d892da2c937e3215bf7ed349b0a05677826fa60ac1eabfcde0a&",
       "addedAt": "2026-08-07 03:02:03"
     },
     {
@@ -1980,7 +2001,8 @@
       "text": "When your opponent activates a card or effect while you control a “Misadventurer” monster: Return 1 “Misadventurer” monster you control to the hand; negate the activation, and if you do, banish that card, then, you can Normal Summon 1 “Misadventurer” monster immediately after this effect resolves. You can only activate 1 “Misadventurer Encounter – Check for Traps!” per turn, unless there is a \"Misadventurer's Final Straw\" in your banishment.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211738108764200/image.png?ex=6a7a942b&is=6a7942ab&hm=52280e269d1b754581f98c12d1c22a2821de4e318d7ab3432ec639c82e925789&",
+      "duelingbookId": 5965685,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965685.jpg",
       "addedAt": "2026-08-10 03:17:00"
     },
     {
@@ -1993,7 +2015,8 @@
       "text": "Target 1 “Misadventurer” monster you control and 1 card your opponent controls; destroy the first target, and if you do, return the second target to the hand, then you can Normal Summon 1 “Misadventurer” monster. If you control “Misadventurer’s Exhausted Healer”, return your targeted monster to the hand instead. You can only activate 1 “Misadventurer Encounter – Friendly Fire!” per turn, unless there is a \"Misadventurer's Final Straw\" in your banishment.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211642617172189/image.png?ex=6a7a9415&is=6a794295&hm=ff09a122f40c73ffa273d21390caa1d5b6c7f48a850dca109fd4bae63b19db36&",
+      "duelingbookId": 5965673,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965673.jpg",
       "addedAt": "2026-08-10 03:16:38"
     },
     {
@@ -2006,7 +2029,8 @@
       "text": "Target 1 “Misadventurer” monster you control; Normal Summon 1 Level 3 “Misadventurer” monster with a different name from your hand or GY, then return the targeted monster to the hand. If you Tribute Summon a Level 9 or higher monster while this card is in your GY: You can banish this card; change all monsters your opponent controls to face-down Defense Position. You can only activate each effect of “Misadventurer Encounter – Just in Slime!” per turn, unless there is a \"Misadventurer's Final Straw\" in your banishment.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211564787666964/image.png?ex=6a7a9402&is=6a794282&hm=80062ff07bb3c3f0562891acaab42012cdbffca3d4fd6c90397b9ab789de4725&",
+      "duelingbookId": 5965671,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965671.jpg",
       "addedAt": "2026-08-10 03:16:19"
     },
     {
@@ -2019,7 +2043,8 @@
       "text": "Your opponent cannot target \"Misadventurer\" cards in your GY with card effects. Once per turn, if 1 or more Level 3 “Misadventurer” monsters are destroyed by battle or card effect: You can Special Summon as many of those monsters as possible, then gain LP equal to their combined original ATK. If you control “Misadventurer’s Overworked Healer”, treat those Special Summons as Normal Summons. You can only use this effect of \"Misadventurer Encounter – You Can Still Fight!\" once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211853137547314/image.png?ex=6a7a9447&is=6a7942c7&hm=8a3f1dc2de142157b86d927ed0b1874bb1824a0422c9b1ed0bc8f91e2522c664&",
+      "duelingbookId": 5965670,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965670.jpg",
       "addedAt": "2026-08-10 03:17:28"
     },
     {
@@ -2036,7 +2061,8 @@
       "text": "Once per Duel, when a card is sent from the hand or Deck to your opponent's GY (Quick Effect): You can Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can send 1 “Misadventurer” card from your Deck to the GY, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Misadventurer’s Calamitous Wizard” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211420256014356/image.png?ex=6a7a93e0&is=6a794260&hm=bb5ecc612bc80d05371ca017ef41b8be7e0de6448fb69babcdf9a6643f2d0fee&",
+      "duelingbookId": 5965653,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965653.jpg",
       "addedAt": "2026-08-10 03:15:45"
     },
     {
@@ -2049,7 +2075,8 @@
       "text": "When your opponent activates a card or effect that targets a Normal Summoned Monster: You can send 1 Tuner Monster from your Extra Deck to the GY; negate the effect as it resolves, and if you do, you can return its target to the hand. Then, if you sent a \"Misadventurer\" card to activate this card's effect, double the ATK/DEF of each \"Misadventurer's Overworked Healer\" you control until the end of this turn. Once per Duel (Quick Effect): You can banish this card from your hand or GY; for the rest of this Duel apply 1 of the following effect.\n● The activated effects of your \"Misadventurer\" cards that can only be used once per Duel may instead be used twice per Duel, except \"Misadventurer's Final Straw\".\n● The activated effects of your \"Misadventurer\" cards that can only be used once per turn may instead be used twice per turn, except \"Misadventurer's Final Straw\".",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211938613399552/image.png?ex=6a7a945b&is=6a7942db&hm=fa100f57229b209207a3315b53f55cad1a33adf5514fdc471b84cdea635f6571&",
+      "duelingbookId": 5965688,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965688.jpg",
       "addedAt": "2026-08-10 03:17:49"
     },
     {
@@ -2066,7 +2093,8 @@
       "text": "Once per Duel, when a card(s) are added to your opponent's hand, except by drawing (Quick Effect): You can Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can add 1 Level 9 or higher monster from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If another “Misadventurer” monster you control would be destroyed by battle or card effect, you can send this face-up card to the GY instead. If this card is Tributed: You can make all “Misadventurer” monsters you control gain 700 ATK/DEF until the end of the next turn. You can only use each effect of “Misadventurer’s Headstrong Dwarf” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211186356322415/image.png?ex=6a7a93a8&is=6a794228&hm=db3324854dcec3cbb137cc69ce3d41408cad8604b701585b84eb2f706d56637e&",
+      "duelingbookId": 5965649,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965649.jpg",
       "addedAt": "2026-08-10 03:14:49"
     },
     {
@@ -2082,7 +2110,8 @@
       "text": "1 Level 3 Monster",
       "clauses": 0,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536212056049451118/image.png?ex=6a7a9477&is=6a7942f7&hm=ec29a1accc6cb31f9b13cdd903a4b9790cc09c7c22488d09218c521a9f8518a4&",
+      "duelingbookId": 5965655,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965655.jpg",
       "addedAt": "2026-08-10 03:18:16"
     },
     {
@@ -2099,7 +2128,8 @@
       "text": "Once per Duel (Quick Effect): You can send 1 \"Misadventurer\" card from your field or Extra Deck to the GY; Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can target 1 Level 3 monster in your GY; add it to your hand, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can target 1 card your opponent controls; send it to the GY. You can only use each effect of “Misadventurer’s Overconfident Ranger” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211316019175494/image.png?ex=6a7a93c7&is=6a794247&hm=d7e65586d7dd6d1c686f34b1415e14fd920b9c39360551bf0cf61a164b0df4e9&",
+      "duelingbookId": 5965654,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965654.jpg",
       "addedAt": "2026-08-10 03:15:20"
     },
     {
@@ -2116,7 +2146,8 @@
       "text": "Cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 “Misadventurer” monster, except \"Misadventurer’s Overworked Healer\". If this card is Normal Summoned: You can add 1 “Misadventurer” Spell/Trap from your Deck to your hand, then you can Immediately Normal Summon 1 Level 3 monster from your GY as if it were in your hand. When your opponent activates a Monster effect (Quick Effect): You can return 1 other “Misadventurer” monster from your field or GY to the hand; negate that effect. If another “Misadventurer” monster(s) you control would be destroyed by battle or card effect, you can send the top card of your Deck to the GY instead. Once per Duel (Quick Effect): You can return this card from the field or GY to your hand; Normal Summon 1 Level 3 Monster from your Deck or GY, then, immediately after this effect resolves, you can Normal Summon 1 Monster. You can only use this effect of “Misadventurer’s Overworked Healer” twice per turn.",
       "clauses": 6,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536210927274295456/image.png?ex=6a7a936a&is=6a7941ea&hm=fe64e629a5dc4c5ba6e1c0a9abe17c67e1250267e15873fcfcb5d3d5006bbf7f&",
+      "duelingbookId": 5965644,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965644.jpg",
       "addedAt": "2026-08-10 03:13:47"
     },
     {
@@ -2133,7 +2164,8 @@
       "text": "1 Tuner + 1+ Non-Tuner\nIf this card is sent to the GY: You can Normal Summon 1 Level 3 \"Misadventurer\" Monster from your Deck or banishment. You can only use this effect of \"Misadventurer's Pet Rock\" once per turn.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536212163671236629/image.png?ex=6a7a9491&is=6a794311&hm=eb0e64ece6da48ad5a43372f305b06833f411fafa6acaa6553929f253659c8d6&",
+      "duelingbookId": 5965668,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965668.jpg",
       "addedAt": "2026-08-10 03:18:42"
     },
     {
@@ -2150,7 +2182,8 @@
       "text": "Once per Duel (Quick Effect): You can Normal Summon this card from your GY, in addition to your Normal Summon/Set. If this card is Normal Summoned: You can add 1 Level 3 “Misadventurer” monster from your Deck to your hand, except “Misadventurer’s Reckless Rogue”, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can excavate the top 4 cards of your Deck, add 1 excavated “Misadventurer” card to your hand, also place the rest on the bottom of the Deck in any order. You can only use each effect of “Misadventurer’s Reckless Rogue” once per turn.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536211066248233010/image.png?ex=6a7a938b&is=6a79420b&hm=38d5b4bcbc246aeeb5600aa9101fc557c1e3f40b0350577f5a7de3faf0c3ffcc&",
+      "duelingbookId": 5975253,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975253.jpg",
       "addedAt": "2026-08-10 03:14:20"
     },
     {
@@ -2209,7 +2242,6 @@
       "text": "Level 6 DARK Dragon Effect Monster\n2200 ATK\n1600 DEF\nIf you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon DARK Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a DARK Monster. You can only use each effect of \"Night-Hue Skybreaker\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532575706062524598/image.png?ex=6a6d59da&is=6a6c085a&hm=736015e1d17118f9d8b34de1b8cd31f7ffcf99dfc1c90aa2f3f5cec99ff0e456&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2226,7 +2258,6 @@
       "text": "If “Crush Clown Virus” is in your GY: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; change it to Attack Position, then, if “Crush Clown Virus” is in your GY, you can apply the effect of 1 “Crush Clown Virus” in your GY to that monster, except you do not Tribute a monster. During your Main Phase, you can Banish this card from your GY; Add 1 \"Crush Clown Virus\" or 1 card that mentions it, from your GY to your hand. You can only use each effect of “Nightmare Dream Clown” once per turn.",
       "clauses": 6,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532603672792399943/image.png?ex=6a6d73e5&is=6a6c2265&hm=5f2eee0a6bf7369b27b53cf8338fa838d9b1e5d5bb2f0c92a16623639c8dc92c&",
       "addedAt": "2026-07-31 04:19:50"
     },
     {
@@ -2237,6 +2268,7 @@
       "text": "**Duelingbook:** [Card #5946961](https://www.duelingbook.com/card?id=5946961)\n**Card type:** Monster — Effect\n**Monster type:** Fiend\n**Attribute:** DARK\n**Level/Rank/Link:** 4\n**Stats:** ATK 2000 / DEF 800\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nYou can return 1 \"Masked Rite\" Spell from your field or GY to your hand; Special Summon this card from your hand or GY. (Quick Effect): You can target 1 \"Masked Rite\" Equip Spell on the field; change its equipped target to another legal monster on the field, then you can add 1 \"Masked\" Fiend monster from your GY to your hand, except \"Nuvia the Wicked of the Masked Rite\". You can only use each effect of \"Nuvia the Wicked of the Masked Rite\" once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5946961,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5946961.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2250,7 +2282,8 @@
       "text": "During your End Phase: You can activate each of the following effects in sequence.\n● If you control a Field Spell: Add a \"Shaitand\" Monster from your GY to hand.\n● If you control an EARTH Monster: Your opponent banishes a card they control until the End Phase of the next turn.\n● Inflict 100 damage to each player who does not control a Monster with the highest DEF on the field, and if you do, return 1 card you control to the hand.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536179639511154688/omnidirectional_headwind.png?ex=6a7a7646&is=6a7924c6&hm=4a9500d5fcd3879cb78e70886a19c45bab69a963987a5e80d29cdc3f47f87104&",
+      "duelingbookId": 5948458,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948458.jpg",
       "addedAt": "2026-08-10 01:09:28"
     },
     {
@@ -2263,7 +2296,6 @@
       "text": "All monsters on the field become 1500 ATK until the end of this turn. If “Crush Clown Virus” is in your GY, monsters you control cannot be destroyed by battle this turn. Then, if \"Crush Clown Virus\" is in your banishment, Monsters your opponent controls lose 100 ATK until the end of this turn. If you control a DARK Fusion Monster: You can activate this card from your GY, but banish it as it resolves. You can only use this effect of \"One Size Fits All\" once per Duel.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535119789226463322/image-46.png?ex=6a769b36&is=6a7549b6&hm=f8b5b66b677e85dbd7ae6c13787cdc1dba2623dff39781f6ae57bb327ccaf771&",
       "addedAt": "2026-08-07 02:58:00"
     },
     {
@@ -2274,6 +2306,7 @@
       "text": "**Duelingbook:** [Card #5987189](https://www.duelingbook.com/card?id=5987189)\n**Card type:** Spell\n**Spell type:** Equip\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nEquip only to a \"Dragon Warrior\" Monster or a Monster with a Chi Counter(s) on it. The equipped Monster gains 300 ATK for each different Attribute on your field, and it can make an additional attack on Monsters during each Battle Phase. During the Main Phase or Either Player's Battle Phase: you can send this card from the field to the GY; Add 1 card that mentions a Chi counter from your GY to your hand. During your Main Phase or either players Battle Phase, while this card is in your GY because it was sent there from the field this turn: You can equip this card from your GY to a Synchro Monster that was Summoned this turn. You can only equip \"Oogway's Staff of Wisdom\" this way once per turn.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5987189,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987189.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -2292,7 +2325,7 @@
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999456,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538954216125505658/kevin.png?ex=6a848e4d&is=6a833ccd&hm=84ee2366a7add994c94c3ce14809b58491cb540791c4082a875902a5b1be236b&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999456.jpg",
       "addedAt": "2026-08-17 16:55:50"
     },
     {
@@ -2317,6 +2350,7 @@
       "text": "**Duelingbook:** [Card #5944943](https://www.duelingbook.com/card?id=5944943)\n**Card type:** Spell\n**Spell type:** Quick-Play\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\nIf this card becomes revealed: You can add 1 \"S-Power Rushdown\" from your Deck or GY to your hand. Fusion Summon 1 \"Saki\" Monster from your Extra Deck by banishing cards from your field or GY as Fusion Material, then, for the rest of the turn after this effect resolves, that Fusion Summoned Monster is unaffected by your opponent's Monster effects. While you control a face-up Monster Fusion Summoned by this card's effect, it gains the following effect.\n● Once per turn, when an opponent's Monster declares an attack (Quick Effect): You can negate that attack.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5944943,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944943.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2330,7 +2364,6 @@
       "text": "Reveal 1 Monster, 1 Spell, and 1 Trap from your Deck; your opponent chooses 1 of them for you to add to your hand, and if they do, banish the remaining cards face-up. You can only activate 1 \"Painful Preference\" per turn.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532595688129564783/image.png?ex=6a6d6c76&is=6a6c1af6&hm=dc2a2e10490fb9f6f5b209540b9b2c925c8d5d38b3a7d7e97a4398e02e752eae&",
       "addedAt": "2026-07-31 03:48:07"
     },
     {
@@ -2365,7 +2398,6 @@
       "text": "You can send this card from your hand to the GY; add 1 DARK Monster with 1500 or less ATK from your GY to your hand, except \"Peten, the Endless Encore\", and if you do, you can banish 1 \"Crush Clown Virus\" from your Deck. If this card is Tributed: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck, except “Peten, the Endless Encore”. You can banish this card from your GY; Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck. You can only use each effect of “Peten, the Endless Encore” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532604047188562089/image.png?ex=6a6d743f&is=6a6c22bf&hm=79e761cf0fb395b658e5b79b9c261e9ac30fa8b8c532abfb1ceee101dbdc0c16&",
       "addedAt": "2026-07-31 04:21:20"
     },
     {
@@ -2382,7 +2414,6 @@
       "text": "2 DARK Spellcaster monsters\nDuring the turn this card is Fusion Summoned: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your GY or banishment, except “Peten, the Endless Masquerade”. If a monster is Tributed to activate “Crush Clown Virus”: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck, except “Peten, the Endless Encore”. If this card leaves the field by your opponent's card effect: You can target 1 face-up Monster your opponent controls; change it to Attack Position, if able, then you can apply the effect of 1 \"Crush Clown Virus\" in your GY or banishment to that target, except you do not Tribute a Monster. You can only use each effect of “Peten, the Endless Masquerade” once per turn.",
       "clauses": 6,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535125609758326875/image-62.png?ex=6a76a0a2&is=6a754f22&hm=e158de901f83f6c4bbb025726f247ca2034329fe18f0f39dd11cd6b49129c8d3&",
       "addedAt": "2026-08-07 03:21:07"
     },
     {
@@ -2399,7 +2430,6 @@
       "text": "It has no mouth, yet it whispers in formulas. It has no hands, yet it braids monsters together. When its sixth flower blooms, something new must be born.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532595058690363632/image.png?ex=6a6d6be0&is=6a6c1a60&hm=3090e87e31db1aeb7de79b2a1c8dc4d34c02c802d44d744651f5eb09b24baf47&",
       "addedAt": "2026-07-31 03:45:37"
     },
     {
@@ -2482,6 +2512,7 @@
       "text": "**Duelingbook:** [Card #5947092](https://www.duelingbook.com/card?id=5947092)\n**Card type:** Trap\n**Trap type:** Normal\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\nIf this card is revealed from any zone: You can Set it. Choose 1 card from your hand or Extra Deck to become revealed until the end of this turn; you can add 1 \"P-Power\" or \"S-Power\" card from your Deck to the hand. During your Main Phase: You can shuffle this card and another card from your GY into the Deck to target 1 \"Saki\" Monster in your GY; either add it to your hand or Special Summon it in Defense Position.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5947092,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947092.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2526,7 +2557,7 @@
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999303,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538927929088548884/norma_luke_2.png?ex=6a8475d2&is=6a832452&hm=17157cc39857d6a6acd83206ca4bd34f3a47c57f2b40d2bbf07decb087e4c7c2&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999303.jpg",
       "addedAt": "2026-08-17 15:10:44"
     },
     {
@@ -2537,6 +2568,7 @@
       "text": "**Duelingbook:** [Card #5944945](https://www.duelingbook.com/card?id=5944945)\n**Card type:** Spell\n**Spell type:** Quick-Play\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\nIf this card becomes revealed: You can add 1 \"P-Power Resonance\" from your Deck or GY to your hand. Fusion Summon 1 \"Saki\" Monster from your Extra Deck by banishing cards from your field or GY as Fusion Material, then, for the rest of the turn after this effect resolves, that Fusion Summoned Monster is unaffected by your opponent's Spell/Trap effects. While you control a face-up Monster Fusion Summoned by this card's effect, it gains the following effect.\n● This card can make a second attack during each of your Battle Phases.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5944945,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944945.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2554,7 +2586,6 @@
       "text": "3 DARK Spellcaster monsters, including a Fusion Monster\nMust first be Fusion Summoned. If this card is Fusion Summoned: You can Set 1 “Crush Clown Virus” or “Illusion Fusion” from your Deck and/or GY, but banish them when they leave the field. Once per turn, when your opponent activates a card or effect while “Crush Clown Virus” is in your GY: You can target 1 face-up monster your opponent controls; apply the effect of 1 “Crush Clown Virus” in your GY to that monster, except you do not Tribute a monster. If this Fusion Summoned card leaves the field by your opponent’s card: You can Special Summon up to 2 monsters that mention “Crush Clown Virus” from your GY and/or banishment, except \"Saggi & Peten, the Viral Vaudeville\". You can only use each effect of “Saggi & Peten, the Viral Vaudeville” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535126542777323541/image-68.png?ex=6a76a181&is=6a755001&hm=a675cc8801cde36ec73f4d79c2f7fc7ffad9221e1ca866b2ad763c9685a2ff24&",
       "addedAt": "2026-08-07 03:24:50"
     },
     {
@@ -2571,7 +2602,6 @@
       "text": "If this card is Normal or Special Summoned: You can add 1 card that mentions “Crush Clown Virus” from your Deck to your hand, except “Saggi, the Contagious Clown”, or Set 1 “Crush Clown Virus” directly from your Deck or GY, and if you do, it can be activated this turn. You can only use this effect of “Saggi, the Contagious Clown” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532602847575937054/image.png?ex=6a6d7321&is=6a6c21a1&hm=7f02a315f72da18b4fc8f71c1790a721cb8725c47e2a5d8d688ef1595082054b&",
       "addedAt": "2026-07-31 04:16:34"
     },
     {
@@ -2588,7 +2618,6 @@
       "text": "2 DARK Spellcaster monsters\nDuring the Main Phase (Quick Effect): You can Set 1 “Crush Clown Virus” or 1 Spell Card that mentions it from your Deck or GY, and if you do, it can be activated this turn. While “Crush Clown Virus” is in your GY, your opponent cannot activate cards or effects in response to the activation of your Normal Trap Cards. If a monster your opponent controls becomes a DARK Spellcaster monster by a card effect: You can target 1 card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Saggi, the Pandemic Puppeteer” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535123884959866930/image-58.png?ex=6a769f07&is=6a754d87&hm=6505d8a97728d67a8fd633a41f54c08f0c7ab3d640d904ebb45eb83986bf93a7&",
       "addedAt": "2026-08-07 03:14:16"
     },
     {
@@ -2599,6 +2628,7 @@
       "text": "**Duelingbook:** [Card #5945847](https://www.duelingbook.com/card?id=5945847)\n**Card type:** Monster — Effect\n**Monster type:** Warrior\n**Attribute:** WATER\n**Level/Rank/Link:** 4\n**Stats:** ATK 1800 / DEF 1000\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\nYou can Special Summon this card (from your hand) by choosing an unrevealed Warrior Fusion Monster from your Extra Deck to become revealed until the end of this turn. Each time a card or effect is activated (Quick Effect): You can choose 1 card from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed by this effect during this Chain. Once per turn (Quick Effect): Activate each of the following effects, based on the attribute(s) of Monster(s) currently revealed.\n● WIND: Draw 2 cards, then discard 1 card.\n● LIGHT: Banish 1 card from your GY to target 1 Spell/Trap your opponent controls; destroy it.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5945847,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945847.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2610,6 +2640,7 @@
       "text": "**Duelingbook:** [Card #5945919](https://www.duelingbook.com/card?id=5945919)\n**Card type:** Monster — Effect\n**Monster type:** Warrior\n**Attribute:** LIGHT\n**Level/Rank/Link:** 4\n**Stats:** ATK 1800 / DEF 1000\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\nYou can Special Summon this card (from your hand) by choosing an unrevealed Warrior Fusion Monster from your Extra Deck to become revealed until the end of this turn. Each time a card or effect is activated (Quick Effect): You can choose 1 card from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed by this effect during this Chain. Once per turn (Quick Effect): Activate each of the following effects, based on the attribute(s) of Monster(s) currently revealed.\n● LIGHT: Monsters you control gain 1000 ATK/DEF until the end of this turn.\n● LIGHT, WIND, & WATER: For the rest of this turn after this effect resolves, Monsters you control cannot be targeted by or destroyed by your opponent's card effects.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5945919,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945919.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2621,6 +2652,7 @@
       "text": "**Duelingbook:** [Card #5944979](https://www.duelingbook.com/card?id=5944979)\n**Card type:** Monster — Fusion\n**Monster type:** Warrior\n**Attribute:** WIND\n**Level/Rank/Link:** 8\n**Stats:** ATK 2800 / DEF 2800\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\n1 Level 4 or 8 Warrior Monster + 1 WIND Monster, either with a different name or named \"Saki, Lightning Psyker\"\nOnce per turn, during your Main Phase while this card is in your Extra Monster Zone: You can add 1 \"P-Power\" card from your GY to the hand. Once per turn (Quick Effect): You can target 1 face-up Monster your opponent controls; its effects are negated until the end of this turn. (Quick Effect): You can discard 1 \"S-Power\" card to activate 1 of the following effects. \n● This card gains 1000 ATK/DEF until the start of your next turn.\n● The next time this turn that this card would be destroyed by battle or card effect, it is not destroyed.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5944979,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944979.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2632,6 +2664,7 @@
       "text": "**Duelingbook:** [Card #5944947](https://www.duelingbook.com/card?id=5944947)\n**Card type:** Monster — Effect\n**Monster type:** Warrior\n**Attribute:** LIGHT\n**Level/Rank/Link:** 4\n**Stats:** ATK 1800 / DEF 1000\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\nYou can Special Summon this card (from your hand) by choosing an unrevealed Warrior Fusion Monster from your Extra Deck to become revealed until the end of this turn. Each time a card or effect is activated (Quick Effect): You can choose 1 card from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed by this effect during this Chain. Once per turn (Quick Effect): Activate each of the following effects, based on the attribute(s) of Monster(s) currently revealed.\n● WATER: You can add 1 \"P-Power\" Spell from your Deck to your hand.\n● WIND: You can add 1 \"S-Power\" Spell from your Deck to your hand.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5944947,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944947.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2643,6 +2676,7 @@
       "text": "**Duelingbook:** [Card #5944964](https://www.duelingbook.com/card?id=5944964)\n**Card type:** Monster — Fusion\n**Monster type:** Warrior\n**Attribute:** WATER\n**Level/Rank/Link:** 8\n**Stats:** ATK 2800 / DEF 2800\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\n1 Level 4 or 8 Warrior Monster + 1 WATER Monster, either with a different name or named \"Saki, Monk Specialist\"\nThe first time each turn your opponent's Monster attacks this card in the Extra Monster Zone: Negate that attack. During your Main Phase: You can target 1 other face-up Monster on the field with a different attribute; this card's attribute becomes that target's attribute until the end of this turn. (Quick Effect): You can discard 1 \"P-Power\" card to activate 1 of the following effects. \n● This card gains 1000 ATK/DEF until the start of your next turn.\n● The next time this turn that this card would be destroyed by battle or card effect, it is not destroyed",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5944964,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944964.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2660,7 +2694,8 @@
       "text": "If you think this one is bad, just wait until you see the Pepper one.",
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536186856914423898/salt_golem.png?ex=6a7a7cff&is=6a792b7f&hm=39b1bb5d473d377981464c9b5d9bdaf7d15bc69d659f5dc80fb8556a7a5c9d74&",
+      "duelingbookId": 5948439,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948439.jpg",
       "addedAt": "2026-08-10 01:38:09"
     },
     {
@@ -2678,7 +2713,7 @@
       "clauses": 3,
       "contributor": "I \"Lack toes\" Joules",
       "duelingbookId": 5991305,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065923/1537198225629511790/image.png?ex=6a7e2ae8&is=6a7cd968&hm=5e9591579abad6ecfe89cc6cbf36cc21bbf0544fc06e985275bf129071df3b09&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991305.jpg",
       "addedAt": "2026-08-12 20:36:59"
     },
     {
@@ -2691,7 +2726,8 @@
       "text": "This face-up card you control cannot be targeted by your opponent's card effects. EARTH Monsters you control gain 200 DEF. During your End Phase: You can take 1 Level 5 or higher EARTH Monster from your Deck or face-up Extra Deck and either add it to your hand or, if it is a Pendulum Monster, place it face-up in 1 of your empty Pendulum Zones. During your End Phase: You can banish this card from your GY; activate 1 \"Shaitand, the Prowling Gale\" from your hand or Deck.",
       "clauses": 5,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536186157983862784/shaitand.png?ex=6a7a7c59&is=6a792ad9&hm=a84e49da9930d3c94dc8ee7a284d34bf62e3a29ea33bc9a27fbb151d4f766142&",
+      "duelingbookId": 5948449,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948449.jpg",
       "addedAt": "2026-08-10 01:35:22"
     },
     {
@@ -2719,7 +2755,6 @@
       "text": "Level 6 LIGHT Dragon Effect Monster\n2000 ATK\n2000 DEF\nIf you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon LIGHT Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a LIGHT Monster. You can only use each effect of \"Shimmering Skybreaker\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532575771514769428/image.png?ex=6a6d59e9&is=6a6c0869&hm=57fe2f92fd0b2a04f722e3d134133bb9c7d2ecb0bbd837c27eec23ab59f7cc79&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2730,6 +2765,7 @@
       "text": "**Duelingbook:** [Card #5981731](https://www.duelingbook.com/card?id=5981731)\n**Card type:** Spell\n**Spell type:** Normal\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nReveal 1 Equip Spell from your hand and shuffle it into the Deck; draw 2 cards, then, if the revealed card was a “Masked Rite” Equip Spell, add 1 “Masked Rite” monster card from your deck to your hand. During your Main Phase, while this card is in your GY: You can banish this card; place 1 \"Masked Rite\" card from your GY on top of your Deck. You can only activate this effect of \"Signature Sigil of the Masked Rites\" once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5981731,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5981731.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -2741,7 +2777,6 @@
       "text": "Quick-Play Spell\nTarget 1 \"Broken Skies\" or Dragon Monster you control; activate 2 of the following effects in sequence.\n● Special Summon 1 \"Skybreaker\" Monster from your hand.\n● Special Summon 1 \"Skybreaker\" Monster from your banishment.\n● Synchro Summon or Fusion Summon 1 WIND or Dragon Monster from your Extra Deck using Monsters from either field, including any Dragon Monster(s) targeted to activate this effect, if able.\nYou can only activate 1 \"Sky-Splitting Soundwave\" per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532575996878782494/image.png?ex=6a6d5a1f&is=6a6c089f&hm=fe86f516ec94a7de67d0d2a25249b20d8693f876eb76e79e40655c52d9666d1c&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2752,7 +2787,6 @@
       "text": "Level 3 WIND Dragon Effect Monster\n1000 ATK\n1000 DEF\nDuring your Main Phase, while you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can banish this card from your hand or field and 1 WIND or Dragon Monster from your Extra Deck; Special Summon 1 Level 6 Dragon Monster from your hand or Deck, except a Monster that shares an attribute with a Monster you control, but it cannot attack this turn. You can only activate this effect of \"Skybreaker Adolescent\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532575839043194901/image.png?ex=6a6d59f9&is=6a6c0879&hm=70af83eeebf5b09e645855b17e122dce4ed3fc669b7eda2ce32a8d0a2d8f7c08&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2763,7 +2797,6 @@
       "text": "Level 8 WIND Dragon Fusion Effect Monster\n2500 ATK\n2500 DEF\nFUS.MAT.REQ.:1 Dragon Monster + 1 non-Dragon Monster, including 1 Monster that mentions the Extra Deck\nOnce per turn, during your Main Phase: You can Special Summon 1 Level 6 or lower \"Skybreaker\" Monster from your banishment. If this card is banished or Fusion Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Aeria Rex\" once per turn.\n● Send any number of Dragon Monsters with different names from your banishment to the GY.\n● Add 1 Level 6 or lower Monster that mentions the Extra Deck from your Deck to your hand, except a Monster that shares an attribute with the original attribute of a Monster you control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532576121307267072/image.png?ex=6a6d5a3d&is=6a6c08bd&hm=ebaf7cbbf3c973d37da194b8bc1878dcd08843337d57a3d2b528e67013767a77&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2774,7 +2807,6 @@
       "text": "Level 9 WIND Dragon Synchro Effect Monster\n2600 ATK\n2600 DEF\nSYN.MAT.REQ.: 1 Tuner + 1+ non-Tuner Monster(s), including 1 Dragon Monster and 1 Monster with an effect that banishes a card(s)\nYour opponent cannot target \"Skybreaker\" Monsters with the effects of a Special Summoned Monster(s) they control. If this card is banished or Synchro Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Aloft Sovereign\" once per turn.\n● Target 1 face-up Monster on the field that was Special Summoned, except a Dragon Monster; change it to face-down Defense Position.\n● Add 1 Level 6 or lower Monster with an effect that banishes a card(s) from your Deck to your hand, except a Monster that shares an oattribute with the original attribute of a Monster you control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532576180904132699/image.png?ex=6a6d5a4b&is=6a6c08cb&hm=355fa5ee5b009a65b94b384ab65a67d334a0880259480ae1e11a60365e26185a&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2785,7 +2817,6 @@
       "text": "Level 8 WIND Dragon Fusion Effect Monster\n2500 ATK\n2500 DEF\nFUS.MAT.REQ.: 1 Dragon Monster + 1 non-Dragon Monster, including 1 Monster with an effect that Special Summons a Monster(s) from the hand\nThe effects of Special Summoned Dragon Monsters you control cannot be negated. If this card is banished or Fusion Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Apex Magna\" once per turn.\n● Target 1 face-up Monster on the field that was Special Summoned; return it to the hand.\n● Add 1 Level 6 or lower Monster with an effect that Special Summons a Monster(s) from the hand from your Deck to your hand, except a Monster that shares an attribute with the original attribute of a Monster you control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532576233307639938/image.png?ex=6a6d5a57&is=6a6c08d7&hm=bc5c2f8e078d72fcb244c461f2e740a886ae3d741d24e60cd87ac16d0169acdd&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2796,7 +2827,6 @@
       "text": "Level 9 WIND Dragon Synchro Effect Monster\n2600 ATK\n2600 DEF\nSYN.MAT.REQ.: 1 Tuner + 1+ non-Tuner Monster(s), including 1 Dragon Monster and 1 Monster that mentions a WIND Monster\nAll Special Summoned Monsters your opponent controls lose ATK equal to 300 x the number of different original attributes among Dragon Monsters in your banishment. If this card is banished or Synchro Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Atmos Khan\" once per turn.\n● Add 1 Spell/Trap that mentions a Dragon Monster from your Deck to your hand.\n● Add 1 Level 6 or lower Monster that mentions a WIND Monster from your Deck to your hand, except a Monster that shares an attribute with the original attribute of a Monster you control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532576286835478588/image.png?ex=6a6d5a64&is=6a6c08e4&hm=72ff83d88c6a043ea6eeb38d744f45eb28328cc34f338fce9adc8889c9aa0abf&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2807,7 +2837,6 @@
       "text": "Level 9 WIND Dragon Fusion Effect Monster\n3000 ATK\n2400 DEF\nFUS.MAT.REQ.: 1 Level 6 or higher Dragon + 2 non-Dragon Monsters\nYour opponent cannot activate the effects of Special Summoned WIND Monsters they control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532748944160063558/image.png?ex=6a6dfb31&is=6a6ca9b1&hm=c605278b8b7ceb02c262bae23cff1c2413703e2b68723242bef33aa68763f893&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -2881,7 +2910,6 @@
       "text": "If this card is Normal or Special Summoned: You can place 1 Plant Pendulum Monster from your deck or face-up extra deck in your Pendulum Zone. If this card is face-up in the Extra Deck: You can banish 1 Monster from your GY; Special Summon this card, then increase its Level by 1, but banish it when it leaves the field. You can only use this effect of “Spiralvine Budling” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532594481071788132/image.png?ex=6a6d6b56&is=6a6c19d6&hm=416812a3d26e9da88221ac586ea30085af9442817055d5caa1931b8b4e7bbc6f&",
       "addedAt": "2026-07-31 03:43:19"
     },
     {
@@ -2894,7 +2922,8 @@
       "text": "Target 1 Monster on the field; destroy it, then if you control \"Spirebound Defect\", place 1 Spire Counter on a face-up card you control.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536168786884042802/Screenshot_2026-08-09_182923.png?ex=6a7a6c2b&is=6a791aab&hm=2e7c7e0d4ed5fc69fcc57ecbb10df89b6c7b7e6e24401a381a6c50286a27e24b&",
+      "duelingbookId": 5979841,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979841.jpg",
       "addedAt": "2026-08-09 23:29:42"
     },
     {
@@ -2907,7 +2936,6 @@
       "text": "Target 1 face-up Monster your opponent controls; negate its effects until the end of this turn, then if you control \"Spirebound Ironclad\", destroy it.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536153931225370684/image.png?ex=6a7a5e55&is=6a790cd5&hm=b0d5415785139f31a361a1b7b5ae65ea10cbdbf7a753409f1ec517503e5d3479&",
       "addedAt": "2026-08-09 23:27:18"
     },
     {
@@ -2920,7 +2948,6 @@
       "text": "Target 1 face-up Monster your opponent controls; its ATK/DEF becomes 0 until the end of this turn, then if you control \"Spirebound Silent\", place 2 Spire Counters on 1 face-up card you control.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536154261518422146/image.png?ex=6a7a5ea4&is=6a790d24&hm=af7b7be427cc503f75376f37d9e62d9b4ac7570b5a176ac8a1ed77cc4d1845f4&",
       "addedAt": "2026-08-09 23:28:37"
     },
     {
@@ -2937,7 +2964,6 @@
       "text": "If you control \"Spirebound Merchant\" or \"Spirebound Power-Echo Form\": You can Special Summon this card (from your hand). You can only Special Summon \"Spirebound Defect\" this way once per turn. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Power\" card from your Deck to your hand. If a Spire Counter(s) is placed on a face-up card you control, except \"Spirebound Defect\": You can place 1 Spire Counter on this card.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536152343916183552/image.png?ex=6a7a5cdb&is=6a790b5b&hm=cdc977ed22c29c9dc6346878a892624dccb49adbc68033da683f005d94708b1c&",
       "addedAt": "2026-08-09 23:21:00"
     },
     {
@@ -2954,7 +2980,8 @@
       "text": "1 DARK Fiend Monster + 1 \"Spirebound\" Monster\nYou can only Special Summon “Spirebound Heart” once per turn. Must first be Fusion Summoned, or Special Summoned from your Extra Deck to your opponent’s field by Tributing 2 monsters they control, while they control more monsters than you do. You cannot Special Summon other Monsters from the Extra Deck during the turn you Summon \"Spirebound Heart\" this way, except \"Spirebound\" Monsters. If this card is Special Summoned: Each player can activate 1 Field Spell from their Deck. During your Standby Phase: Take 100 damage for each counter on the field. Before resolving a card effect that would negate this card's effects: Give control of this card to your opponent. You can only control 1 \"Spirebound Heart.\"",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536208833830199376/image.png?ex=6a7a9177&is=6a793ff7&hm=3069a8fa6a59cde2d60a8b965dd0b6a17c6a111c4300d08a23acf0a104512f2c&",
+      "duelingbookId": 5979821,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979821.jpg",
       "addedAt": "2026-08-10 03:05:28"
     },
     {
@@ -2971,7 +2998,6 @@
       "text": "You can remove 1 Spire Counter from your field to send this card from your hand or field to the GY; add 1 \"Spirebound Power - Demon Form\" or \"The Spire\" from your Deck to your hand. You can only activate this effect of \"Spirebound Ironclad\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Attack\" card from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; destroy 1 card on the field.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536151927258357820/image.png?ex=6a7a5c77&is=6a790af7&hm=cd680cebc63edf0e2bc7c4a63bf0f6a259030b5767ed2156821f617ba409f643&",
       "addedAt": "2026-08-09 23:19:20"
     },
     {
@@ -2984,7 +3010,8 @@
       "text": "During your Main Phase: You can remove 1 Counter (of any kind) from your field; apply 1 of the following effects.\n● Draw 1 card.\n● Send 1 \"Spirebound\" card from your Deck to the GY.\n● Add 1 \"Spirebound\" card from your GY to the hand.\n● Return 1 \"Spirebound\" card you control to the hand, except \"Spirebound Merchant\".\nYou can only apply each of the above effects once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536208466673401906/image.png?ex=6a7a911f&is=6a793f9f&hm=58828f73cfce6e02d5a3ba2babd3f33c4eba83a18e61c8e2e3b459a006097873&",
+      "duelingbookId": 5979823,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979823.jpg",
       "addedAt": "2026-08-10 03:04:00"
     },
     {
@@ -3001,7 +3028,8 @@
       "text": "3 Level 4 Monsters\nIf a Spire Counter(s) would be placed on a face-up card you control, place twice that many Spire Counters on it instead. When your opponent activates a card or effect (Quick Effect): You can remove 4 Spire Counters from your field; negate the activation, and if you do, destroy that card. Once per turn: You can detach 1 Material from this card; Special Summon 1 \"Spirebound\" Monster from your GY.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536208623695560724/image.png?ex=6a7a9145&is=6a793fc5&hm=6e467954558b48483f94141639e0e4e58d9c10d69ea6f617e99d0414302ef789&",
+      "duelingbookId": 5979826,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979826.jpg",
       "addedAt": "2026-08-10 03:04:38"
     },
     {
@@ -3014,7 +3042,8 @@
       "text": "When this card is activated: You can Special Summon 1 \"Spirebound Ironclad\" from your hand or GY. During each Standby Phase: Place 1 Spire Counter on this card. \"Spirebound\" Monsters you control gain 200 ATK for each Spire Counter on your field.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536208018230739045/image.png?ex=6a7a90b4&is=6a793f34&hm=e4577111de4c2cdc476add544f7c7c6edcc786ef66fd7ee1393a8542a199522e&",
+      "duelingbookId": 5979834,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979834.jpg",
       "addedAt": "2026-08-10 03:02:13"
     },
     {
@@ -3027,7 +3056,8 @@
       "text": "During the Standby Phase: Place 1 Spire Counter on this card and up to 1 \"Spirebound Defect\" you control. Once per turn, when you activate a \"Spirebound\" Normal Spell (Quick Effect): You can remove 2 Spire Counters from your field; this effect becomes that card's activation effect.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536208306127904918/image.png?ex=6a7a90f9&is=6a793f79&hm=7fb7575fc78786726a0418911595b1e76fbeacb04453e88269a22d4dbeee728e&",
+      "duelingbookId": 5979837,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979837.jpg",
       "addedAt": "2026-08-10 03:03:22"
     },
     {
@@ -3040,7 +3070,8 @@
       "text": "When this card is activated: Place 3 Spire Counter son it. Once per turn, you can remove 1 Spire Counter from your field to target 1 \"Spirebound Silent\" on the field or in your GY; apply 1 of its activated effects as this effect. If a \"Spirebound\" Monster you control would be destroyed by battle or card effect, you can remove 1 Spire Counter from this card instead. Destroy this card when it has no Spire Counters.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536208175651627088/image.png?ex=6a7a90da&is=6a793f5a&hm=4950b53b2b40cacc1074a0d1bd9ce5a789a05ffd60a4f8fa522f51682fdeea65&",
+      "duelingbookId": 5979836,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979836.jpg",
       "addedAt": "2026-08-10 03:02:51"
     },
     {
@@ -3057,7 +3088,6 @@
       "text": "You can Special Summon this card (from your hand) by removing 2 Spire Counters from your field, then place 1 Spire Counter on each face-up card you control. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Skill\" from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; draw 1 card, then discard 1 card.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536152211493617734/image.png?ex=6a7a5cbb&is=6a790b3b&hm=9c811618233d5b112391d1bd0c5869f2a8d2f1eb6f27e7a52711d85b7739997f&",
       "addedAt": "2026-08-09 23:20:28"
     },
     {
@@ -3070,7 +3100,8 @@
       "text": "When your opponent's monster declares an attack: Negate that attack, and if you do, place 2 Spire Counters on 1 face-up card you control, then if you control \"Spirebound Silent\", draw 2 cards.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536169778626957394/image.png?ex=6a7a6d17&is=6a791b97&hm=f146fc20d1ce1150a190ad35f8443e1c6cdc396c7130dc15deb8fe17bc5ea47d&",
+      "duelingbookId": 5979829,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979829.jpg",
       "addedAt": "2026-08-10 00:30:17"
     },
     {
@@ -3083,7 +3114,8 @@
       "text": "Target 1 \"Spirebound\" card in your GY; add it to your hand, then if you control \"Spirebound Defect\", place 1 Spire Counter on a face-up card you control.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536169926841335828/image.png?ex=6a7a6d3b&is=6a791bbb&hm=0c92995d02f455f24c757abf74ade215c4b0ec147e8825ca0c001bfd96e164fe&",
+      "duelingbookId": 5979822,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979822.jpg",
       "addedAt": "2026-08-10 00:30:52"
     },
     {
@@ -3096,7 +3128,8 @@
       "text": "Target 1 Level 4 Monster you control; it cannot be destroyed by battle or card effects this turn, then if you control \"Spirebound Ironclad\", draw 1 card. During your turn, while this card is in your GY: You can remove 1 counter from your field; Set this card. The number of counters removed to activate this ability is increased by 1 for each \"Spirebound\" Quick-Play Spell Card that has been activated this turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536169652462420018/image.png?ex=6a7a6cf9&is=6a791b79&hm=003e7507c5c035644a538bc89a0c7fc36f33d70ab67e9899564b0a94a6d9b604&",
+      "duelingbookId": 5979831,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979831.jpg",
       "addedAt": "2026-08-10 00:29:46"
     },
     {
@@ -3109,7 +3142,6 @@
       "text": "Target 1 Xyz Monster or “High Caliber” monster in your GY or banishment; Special Summon it, then you can attach 1 “High Caliber” card from your Deck to 1 Rank 4 Machine Xyz Monster you control as material, also you cannot declare attacks for the rest of this turn, except with Rank 4 Xyz Monsters. You can banish this card from your GY; attach 1 \"High Caliber\" Monster from your hand or GY to an Xyz Monster you control. You can only active 1 effect of \"Staring Down the High Caliber!\" per turn and only once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1535131307170988032/image-120.png?ex=6a76a5f0&is=6a755470&hm=6d83f9f433a2d9f5eec90424c13c64bb6152b2a6b6a8478d90ae28588b28b834&",
       "addedAt": "2026-08-07 03:43:46"
     },
     {
@@ -3120,6 +3152,7 @@
       "text": "**Duelingbook:** [Card #5980361](https://www.duelingbook.com/card?id=5980361)\n**Card type:** Trap\n**Trap type:** Counter\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nIf \"Carcosa\" is in your field or GY, you can activate this card the turn it is Set. When your opponent activates a card or effect in response to the activation of your card or effect: You can return 1 Spirit Monster or face-up Continuous Trap you control to your hand; negate your opponent's activation, then if you returned a card that mentions \"Carcosa\" to your hand to activate this card's effect, you can return all Monsters on the field to the hand, except \"Hastur, the Vermilion Shepherd\" or Normal Monsters.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980361,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980361.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3144,7 +3177,6 @@
       "text": "Normal Trap\nSpecial Summon 1 Level 9 or lower Dragon Monster from your banishment, ignoring its Summoning conditions, then you can banish it and 1 face-up Monster your opponent controls with the same Monster Card type (Fusion, Synchro, Xyz, or Link). During your Main Phase, while this card is in your GY: You can place 2 \"Skybreaker\" Monsters with different original attributes from your banishment on the bottom of the Deck; Set this card. You can only use each effect of \"Supersonic Dive-Bomb\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532474022279774370/1532577301156597891/image.png?ex=6a6d5b56&is=6a6c09d6&hm=9f5b73d6698ee714fc76997bd0a4486f3de8337d3b7ea1d1b3ec32b917e049aa&",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
@@ -3173,6 +3205,7 @@
       "text": "**Duelingbook:** [Card #5980142](https://www.duelingbook.com/card?id=5980142)\n**Card type:** Monster — Effect\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 2\n**Stats:** ATK 100 / DEF 1100\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nYou can Special Summon this card (from your hand) by sending 1 \"Carcosa\" you control to the GY, then you can add 1 card that mentions \"Carcosa\" from your GY to your hand, except a Field Spell. This is a Quick Effect if \"Carcosa\" is in your GY. You can only Special Summon \"The Bearer of the Yellow Sign\" once per turn, regardless of the way it is Special Summoned. A Synchro Monster that used this card as Material cannot be banished by card effects. Once per turn, during the End Phase, if this card was Normal or Special Summoned or flipped face-up this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980142,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980142.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3184,6 +3217,7 @@
       "text": "**Duelingbook:** [Card #5987175](https://www.duelingbook.com/card?id=5987175)\n**Card type:** Spell\n**Spell type:** Continuous\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nDuring your Main Phase or either players Battle Phase: You can banish this face-up card until the End Phase; Special Summon 1 “Dragon Warrior Token” (Warrior/LIGHT/Tuner/Level 1/ATK 0/DEF 0), then, immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster using that Token you control, and if you do, place 1 Chi Counter on it. Destroy that Token during the End Phase. For the rest of this turn after this effect resolves, you cannot Special Summon from the Extra Deck, except Synchro Monsters.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5987175,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987175.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -3195,6 +3229,7 @@
       "text": "**Duelingbook:** [Card #5987179](https://www.duelingbook.com/card?id=5987179)\n**Card type:** Spell\n**Spell type:** Field\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nOnce while you control this face-up card, you can add 1 \"The Dragon Scroll\" from your Deck or GY to the hand. During your Main Phase or either player's Battle Phase: You can pay 500 LP; immediately after this effect resolves, Normal Summon 1 \"Dragon Warrior\" Monster from your hand. You cannot Normal Summon a Monster with the same name as a card already Summoned this way this turn. Monsters you control with a Chi Counter(s) on them gain 700 ATK/DEF during damage calculation. You cannot Special Summon from the Extra Deck the turn you use any of the effects of \"The Jade Palace\", except Synchro Monsters. During either player's Battle Phase: You can banish this card from your GY to place 1 \"The Dragon Scroll\" in your Spell & Trap Zone from your GY or banishment.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5987179,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987179.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -3206,6 +3241,7 @@
       "text": "**Duelingbook:** [Card #5980370](https://www.duelingbook.com/card?id=5980370)\n**Card type:** Monster — Synchro\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 4\n**Stats:** ATK 2300 / DEF 1100\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\n2+ Tuners, including 1 Monster that specifically mentions \"Carcosa\"\nWhen your opponent activates a card or effect (Quick Effect): You can target 1 Level 4 or lower Monster in your GY; Special Summon it, then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster. Once per turn, during the End Phase, if this card was Special Summoned or flipped face-up this turn: Return this card to the hand, unless \"Carcosa\" is in your field or GY.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980370,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980370.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3217,6 +3253,7 @@
       "text": "**Duelingbook:** [Card #5945703](https://www.duelingbook.com/card?id=5945703)\n**Card type:** Monster — Ritual\n**Monster type:** Fiend\n**Attribute:** DARK\n**Level/Rank/Link:** 8\n**Stats:** ATK 3200 / DEF 1800\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nYou can Ritual Summon this card with a \"Masked Beast\" card. During your Main Phase: You can reveal this card in your hand to Ritual Summon itself. You must also Tribute other Monsters from your hand or field whose total Levels equal exactly 8 or 1 face-up Monster equipped with a \"Masked Rite\" Spell. If this card is Special Summoned: You can target 1 card your opponent controls; banish it. This card gains the following effects based on the Attributes of the monsters used for its Ritual Summon.\nLIGHT: Once per turn (Quick Effect): You can equip 1 “Masked Rite” Equip Spell from your Deck or GY to 1 face-up monster on the field.\nDARK: Once per turn, when your opponent activates a monster effect (Quick Effect): You can send 1 Equip Spell you control to the GY; negate that activation.\nLIGHT and DARK: This card cannot be targeted by your opponent’s card effects.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5945703,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945703.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3231,7 +3268,7 @@
       "clauses": 3,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5999257,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538919654981115924/image.png?ex=6a846e1d&is=6a831c9d&hm=8ad9b20f2e78a757eb0f27444acbb2273d4b08b526ea6547671e15f94a7c10b1&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999257.jpg",
       "addedAt": "2026-08-17 14:37:22"
     },
     {
@@ -3242,6 +3279,7 @@
       "text": "**Duelingbook:** [Card #5980598](https://www.duelingbook.com/card?id=5980598)\n**Card type:** Monster — Link\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 1\n**Stats:** ATK 1300 / DEF ?\n**Link Markers:** 00000100\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\n1 Tuner Monster, except \"The Phantom of Truth\"\nIf this card is Special Summoned, while \"Carcosa\" is in your field or GY: You can add 1 Spirit Monster from your Deck to your hand with a different name than the cards in your GY, then, if the added card mentions \"Carcosa\", you can Set a card from your GY to your field in the same column as a zone this card points to. You can only activate this effect of \"The Phantom of Truth\" once per turn, and you can only Set a card with this effect of \"The Phantom of Truth\" once per Duel. Once per turn, during the End Phase, if this card was Link Summoned this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980598,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980598.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3253,7 +3291,6 @@
       "text": "Field Spell\nDuring your Main Phase, you can Normal Summon 1 “Spirebound” monster, in addition to your Normal Summon/Set. Each time a monster is sent from the field to the GY, place 1 Spire Counter on this card. If a Level 4 monster you control is destroyed by battle or card effect: You can remove 2 Spire Counters from your field; Special Summon that monster from your GY, also you cannot Special Summon monsters with that original name by this effect for the rest of this turn. You can only activate 1 “The Spire” per turn.",
       "archetype": "Spirebound",
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/attachments/1532473052837970000/1532844748866326702/image.png?ex=6a6e546b&is=6a6d02eb&hm=506ee129e1ae30e20baeef09f7d9161901933faba0f7504cc7032c2311b3613b&",
       "addedAt": "2026-08-04 17:15:24"
     },
     {
@@ -3264,6 +3301,7 @@
       "text": "**Duelingbook:** [Card #5980132](https://www.duelingbook.com/card?id=5980132)\n**Card type:** Monster — Effect\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 2\n**Stats:** ATK 1100 / DEF 0\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nYou can Special Summon this card (from your hand) by sending 1 \"Carcosa\" you control to the GY, then you can Set 1 Spell/Trap that mentions \"Carcosa\" from your Deck, except a Field Spell. This is a Quick Effect if \"Carcosa\" is in your GY. You can only Special Summon \"The Stranger in a Pallid Mask\" once per turn, regardless of the way it is Special Summoned. A Synchro Monster that used this card as Material cannot be destroyed by card effects. Once per turn, during the End Phase, if this card was Normal or Special Summoned or flipped face-up this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980132,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980132.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3323,6 +3361,7 @@
       "text": "**Duelingbook:** [Card #5980128](https://www.duelingbook.com/card?id=5980128)\n**Card type:** Monster — Effect\n**Monster type:** Psychic / Spirit / Tuner\n**Attribute:** FIRE\n**Level/Rank/Link:** 2\n**Stats:** ATK 300 / DEF 900\n**Duelingbook creator:** GrizzlyGiblets\n\n**Card text**\nIf \"Carcosa\" is in your GY: You can Special Summon this card (from your hand), then you can add up to 1 Spirit Monster each from your Deck and/or GY to your hand, except \"Tormented Maiden Camilla\". This is a Quick Effect if you control \"Carcosa\". You can only Special Summon \"Tormented Maiden Camilla\" once per turn, regardless of the way it is Special Summoned. Once per turn, during the End Phase, if this card was Normal or Special Summoned or flipped face-up this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980128,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980128.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3353,7 +3392,6 @@
       "text": "When you draw this card: Reveal it; then Special Summon it to your opponent's field. This face-up card cannot leave the field. If this is the only face-up Monster you control: Your opponent's Monsters can attack directly.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532796892428370010/image.png?ex=6a6e27d9&is=6a6cd659&hm=fe7e622c763bc2d1fe0b1a338e59d4184c463d2ab56da3f5bb935260c469b5f1&",
       "addedAt": "2026-07-31 17:07:37"
     },
     {
@@ -3409,7 +3447,8 @@
       "text": "1 Level 5 or higher EARTH Monster + 1 Pendulum Monster card\nThis card in face-up Defense Position is unaffected by the effects of your opponent's Spell/Trap cards. While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 300 damage to your opponent. When your opponent Special Summons a Monster(s) from their hand or Deck with less DEF than this card (Quick Effect): Negate that Summon, and if you do, destroy that Monster(s). You can only activate this effect of \"True Omega Tyrant of Shaitand\" once per turn.",
       "clauses": 7,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536186368290717756/totos.png?ex=6a7a7c8b&is=6a792b0b&hm=7cae7d4549539acf64d255b32df2b8b8287efb540cb1a7a490a226ce9bc9aefa&",
+      "duelingbookId": 5948447,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948447.jpg",
       "addedAt": "2026-08-10 01:36:12"
     },
     {
@@ -3423,7 +3462,7 @@
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999442,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538953085123174521/ian_mary_2.png?ex=6a848d3f&is=6a833bbf&hm=312f75ae84d14848f7ff85a481d480594f91f7c4459fa8e12fe09752773175cd&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999442.jpg",
       "addedAt": "2026-08-17 16:50:43"
     },
     {
@@ -3454,7 +3493,7 @@
       "clauses": 6,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999466,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538956208084619396/the_beast.png?ex=6a849028&is=6a833ea8&hm=f92523be64570844eac6c3ffc11f398ede26988ee5f08843d2dd8d30053462bc&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999466.jpg",
       "addedAt": "2026-08-17 17:02:36"
     },
     {
@@ -3471,7 +3510,6 @@
       "text": "2 Ritual/Toon/Gemini/Spirit/Union/Tuner Monsters\n\nWhile you control this Fusion Summoned card, apply each of the following effects, based on the Monsters used as Material for its Fusion Summon.\n● This card's Level becomes equal to the total Level of those Monsters. \n● This card's type also becomes each different type of those Monsters.\n● This card's Attribute also becomes each different Attribute of those Monsters.\n● This card gains ATK/DEF equal to the total ATK/DEF of those Monsters.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065923/1532821597986226378/Screenshot_2026-07-31_144505.png?ex=6a6e3edb&is=6a6ced5b&hm=dcce356c0999d67e8079af09e62b81706810f0f6949d27f94495f89dcbf6e2f8&",
       "addedAt": "2026-07-31 18:46:57"
     },
     {
@@ -3482,6 +3520,7 @@
       "text": "**Duelingbook:** [Card #5945692](https://www.duelingbook.com/card?id=5945692)\n**Card type:** Monster — Effect\n**Monster type:** Spellcaster\n**Attribute:** DARK\n**Level/Rank/Link:** 4\n**Stats:** ATK 1000 / DEF 1600\n**Duelingbook creator:** TheEwokingDead\n\n**Card text**\nIf you control a “Masked Rite” card, you can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 “Masked Rite” Equip Spell from your Deck or GY to your hand, then, if your opponent controls a face-up monster, you can equip 1 “Masked Rite” Equip Spell from your hand to 1 face-up monster they control, and if you do, you may pay 1000 points to draw 1 card. You can only use each effect of “Umbra, Herald of the Masked Rite” once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5945692,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945692.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3499,7 +3538,6 @@
       "text": "You can discard this card from your hand; you can conduct up to 2 Normal Summons/Sets this turn, instead of 1. If this card is Normal or Special Summoned: You can add a Normal Monster from your Deck or GY to the hand. During your Main Phase, if you control a face-up Normal Monster; you can add this card from your GY to your hand. You can only activate each effect of \"Uncanny Blow-Up Robo\" once per turn.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1532596468492402778/image.png?ex=6a6d6d30&is=6a6c1bb0&hm=89f08a99e729c2daa6dbb110ebb587201a221ad3cb07fa94e8c012836ced1d00&",
       "addedAt": "2026-07-31 03:51:13"
     },
     {
@@ -3510,6 +3548,7 @@
       "text": "**Duelingbook:** [Card #5945872](https://www.duelingbook.com/card?id=5945872)\n**Card type:** Spell\n**Spell type:** Normal\n**Duelingbook creator:** TheJoulesThief\n\n**Card text**\nActivate each of the following effects, based on the names of cards that have been revealed during this turn.\n● \"P-Power Rushdown\" - Inflict damage to your opponent equal to 500 x the number of cards currently revealed plus 1.\n● \"S-Power Resonance\" - Add any number of \"Saki\" Monsters from your GY to your hand, up to the number of cards currently revealed plus 1, and if you do, you can shuffle this card into the Deck.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
+      "duelingbookId": 5945872,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945872.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
@@ -3544,7 +3583,8 @@
       "text": "If you control a Field Spell: You can Special Summon this card (from your hand) to your opponent's field in Attack Position by placing 1 face-up Monster they control on the bottom of its owner's Deck. You can only Special Summon \"Wandering Rukh of Shaitand\" this way once per turn. This card cannot be Tributed or used as Material. During the End Phase: Inflict 100 damage to each player. You can only control 1 \"Wandering Rukh of Shaitand\".",
       "clauses": 5,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536187173173465138/wandering_rukh.png?ex=6a7a7d4b&is=6a792bcb&hm=a99cc93e90977f1bba0f39d059107634162d57f1a1f2fa978744880f55cd74b0&",
+      "duelingbookId": 5948437,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948437.jpg",
       "addedAt": "2026-08-10 01:39:24"
     },
     {
@@ -3562,7 +3602,7 @@
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999454,
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1538953840924299284/dennis.png?ex=6a848df4&is=6a833c74&hm=ec82ab0b2cb3fc787812fc876b1c91d5e114ed0e648d59c5c678a9bdce14554d&",
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999454.jpg",
       "addedAt": "2026-08-17 16:53:52"
     },
     {
@@ -3575,7 +3615,8 @@
       "text": "You can activate 1 of the following effects.\n●Fusion Summon 1 EARTH Monster from your Extra Deck, using cards from your hand and field as Fusion Material. \n●If you control a Field Spell: Banish up to 2 face-up cards until the End Phase. \nDuring your End Phase: You can banish this card from your GY; add 1 EARTH Monster from your GY to your hand. You can only use 1 \"Whirling Detritus\" effect per turn, and only once that turn.",
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536185793675141311/whirling_detritus.png?ex=6a7a7c02&is=6a792a82&hm=a2f429771d15e778b0fd2d88238f021987fb7e91970031b2112e51ec0ce8c5d0&",
+      "duelingbookId": 5948457,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948457.jpg",
       "addedAt": "2026-08-10 01:33:55"
     },
     {
@@ -3586,6 +3627,7 @@
       "text": "**Duelingbook:** [Card #5987190](https://www.duelingbook.com/card?id=5987190)\n**Card type:** Trap\n**Trap type:** Counter\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nActivate this card only while you control \"Dragon Warrior Po, Bearer of the Scroll\". If a \"Dragon Warrior Po, Bearer of the Scroll\" you control has a Chi counter on it, you can activate this card from your hand. If the total number of different Attributes among Monsters you control is 6 or more, skip your opponent's next Main Phase and Battle Phase. You can treat 1 Monster with a Chi Counter on it as any Attribute while resolving this card's effect.",
       "archetype": "Dragon Warrior",
       "contributor": "The Original Rough Cheddar",
+      "duelingbookId": 5987190,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987190.jpg",
       "addedAt": "2026-08-11 21:18:42"
     },
@@ -3616,7 +3658,8 @@
       "text": "1+ Tuner + 1+ non-Tuner monsters.\nThis card's name also becomes \"Misadventurer's Overworked Healer\" while face-up on the field and in the GY. Once per duel, if this card is Synchro Summoned: For the rest of the Duel apply 1 of the following effects, but you can only apply each of the following effects of \"Yuwilbe Missedadventurers\" once per Duel.\n● You can conduct 1 additional Normal Summon/Set per turn by sending the top card of your Deck to the GY.\n● When you draw for your normal draw in your Draw Phase: You can reveal 1 of those \"Misadventurer\" cards to draw 1 additional card.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "imageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1531781270563065925/1536212276896337991/image.png?ex=6a7a94ac&is=6a79432c&hm=6fe9f7fed1ad39469132aa98ca36f055903d7afa789c9e0002e768fc4404082a&",
+      "duelingbookId": 5965669,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965669.jpg",
       "addedAt": "2026-08-10 03:19:09"
     }
   ]
