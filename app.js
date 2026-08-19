@@ -44,7 +44,33 @@ function imageMarkup(card, className) {
 }
 
 function typeText(card) {
-  return [card.attribute, card.cardType, card.monsterType || card.spellTrapType].filter(Boolean).join(" · ") || "Card details unavailable";
+  return [card.attribute, card.cardType, card.monsterType || card.spellTrapType, ...(card.abilities || [])]
+    .filter(Boolean).join(" · ") || "Card details unavailable";
+}
+
+function statText(card) {
+  return [card.levelRankLink, card.atk != null ? `ATK ${card.atk}` : "", card.def != null ? `DEF ${card.def}` : ""]
+    .filter(Boolean).join(" · ");
+}
+
+function detailRows(card) {
+  const rows = [
+    ["Card type", card.cardType],
+    ["Spell/Trap type", card.spellTrapType],
+    ["Monster type", card.monsterType],
+    ["Ability", card.abilities?.join(" / ")],
+    ["Attribute", card.attribute],
+    ["Level / Rank / Link", card.levelRankLink],
+    ["ATK", card.atk],
+    ["DEF", card.def],
+    ["Pendulum Scale", card.pendulumScale],
+    ["Link Markers", card.linkMarkers?.join(", ")],
+    ["Archetype", card.archetype],
+    ["Effect clauses", card.clauses],
+    ["Added by", card.contributor],
+    ["Duelingbook ID", card.duelingbookId],
+  ].filter(([, value]) => value !== undefined && value !== null && value !== "");
+  return rows.map(([label, value]) => `<div class="detail-item"><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>`).join("");
 }
 
 function renderSummary() {
@@ -75,7 +101,8 @@ function getVisibleCards() {
     if (state.status !== "all" && card.status !== state.status) return false;
     if (state.source !== "all" && normalizeSource(card) !== state.source) return false;
     if (!query) return true;
-    return [card.name, card.text, card.archetype, card.cardType, card.monsterType, card.spellTrapType]
+    return [card.name, card.text, card.pendulumEffect, card.archetype, card.cardType, card.monsterType,
+      card.spellTrapType, ...(card.abilities || []), ...(card.linkMarkers || [])]
       .filter(Boolean).some(value => String(value).toLocaleLowerCase().includes(query));
   });
 
@@ -100,6 +127,7 @@ function renderCards() {
       <span class="ban-card__status">${escapeHtml(statusText(card.status))}</span>
       <h2>${escapeHtml(card.name)}</h2>
       <p class="ban-card__type">${escapeHtml(typeText(card))}</p>
+      ${statText(card) ? `<p class="ban-card__stats">${escapeHtml(statText(card))}</p>` : ""}
       <p class="ban-card__meta">${normalizeSource(card) === "official" ? "Official card" : `Custom card${card.clauses != null ? ` · ${card.clauses} clauses` : ""}`}</p>
     </div>
   </article>`).join("");
@@ -125,11 +153,9 @@ function showCard(card) {
     <div>
       <span class="dialog-card__status">${escapeHtml(statusText(card.status))}</span>
       <h2>${escapeHtml(card.name)}</h2>
-      <p class="dialog-card__line">${escapeHtml(typeText(card))}</p>
-      ${card.archetype ? `<p class="dialog-card__line"><strong>Archetype:</strong> ${escapeHtml(card.archetype)}</p>` : ""}
-      ${card.clauses != null ? `<p class="dialog-card__line"><strong>Effect clauses:</strong> ${escapeHtml(card.clauses)}</p>` : ""}
-      ${card.contributor ? `<p class="dialog-card__line"><strong>Added by:</strong> ${escapeHtml(card.contributor)}</p>` : ""}
-      <div class="dialog-card__text">${escapeHtml(card.text || "No card text is currently available.")}</div>
+      <dl class="detail-grid">${detailRows(card)}</dl>
+      ${card.pendulumEffect ? `<section class="card-text-section"><h3>Pendulum Effect</h3><div class="dialog-card__text">${escapeHtml(card.pendulumEffect)}</div></section>` : ""}
+      <section class="card-text-section"><h3>${card.cardType?.includes("Normal Monster") ? "Card Text" : "Effect / Card Text"}</h3><div class="dialog-card__text">${escapeHtml(card.text || "No card text is currently available.")}</div></section>
       ${links ? `<div class="dialog-card__links">${links}</div>` : ""}
     </div>
   </article>`;

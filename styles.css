@@ -176,6 +176,7 @@ input:focus, select:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgb
 .ban-card__status { color: var(--status-color); font-size: .68rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; }
 .ban-card h2 { margin: 7px 0 8px; font-size: 1rem; line-height: 1.25; }
 .ban-card__type, .ban-card__meta { margin: 0; color: var(--muted); font-size: .74rem; line-height: 1.4; }
+.ban-card__stats { margin: 7px 0 0; color: #e4dfd2; font-size: .72rem; line-height: 1.4; }
 .ban-card__meta { margin-top: 9px; color: #d0d3db; }
 
 .empty-state, .error-state { padding: 80px 20px; text-align: center; color: var(--muted); }
@@ -199,7 +200,13 @@ input:focus, select:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgb
 .dialog-card h2 { margin: 6px 44px 6px 0; font-size: 1.65rem; }
 .dialog-card__status { color: var(--status-color); font-size: .75rem; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
 .dialog-card__line { margin: 5px 0; color: var(--muted); font-size: .84rem; }
-.dialog-card__text { margin-top: 22px; padding-top: 18px; border-top: 1px solid var(--line); color: #d9dce3; font-size: .91rem; line-height: 1.65; white-space: pre-line; }
+.detail-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; margin: 18px 0 0; overflow: hidden; border: 1px solid var(--line); border-radius: 10px; background: var(--line); }
+.detail-item { min-width: 0; padding: 10px 12px; background: #0d111a; }
+.detail-item dt { color: var(--muted); font-size: .62rem; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; }
+.detail-item dd { margin: 4px 0 0; color: var(--text); font-size: .82rem; line-height: 1.35; overflow-wrap: anywhere; }
+.card-text-section { margin-top: 22px; padding-top: 18px; border-top: 1px solid var(--line); }
+.card-text-section h3 { margin: 0 0 8px; color: var(--gold); font-family: Inter, sans-serif; font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; }
+.dialog-card__text { color: #d9dce3; font-size: .91rem; line-height: 1.65; white-space: pre-line; }
 .dialog-card__links { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 20px; }
 .dialog-card__links a { color: var(--text); padding: 9px 12px; border: 1px solid var(--gold-soft); border-radius: 8px; text-decoration: none; font-size: .78rem; }
 .dialog-card__links a:hover { border-color: var(--gold); color: var(--gold); }
@@ -230,5 +237,6 @@ footer { margin-top: 64px; border-top: 1px solid var(--line); color: var(--muted
   .ban-card__art { width: 82px; }
   .dialog-card { grid-template-columns: 1fr; padding: 22px; }
   .dialog-card__art { width: min(230px, 70%); margin: 0 auto; }
+  .detail-grid { grid-template-columns: 1fr; }
   .footer__content { flex-direction: column; }
 }
