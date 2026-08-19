@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T16:06:10.460Z",
+  "updatedAt": "2026-08-19T16:12:10.438Z",
   "cards": [
     {
       "id": 14,
@@ -3045,7 +3045,7 @@
     {
       "id": 262,
       "name": "Prepare for Departure!",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
