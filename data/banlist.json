@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T15:32:15.636Z",
+  "updatedAt": "2026-08-19T16:04:40.468Z",
   "cards": [
     {
       "id": 14,
@@ -1245,7 +1245,7 @@
     {
       "id": 258,
       "name": "Grounded Cabin Crew Flippers",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
@@ -1263,7 +1263,7 @@
     {
       "id": 255,
       "name": "Grounded Captain Longneck",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
@@ -1299,7 +1299,7 @@
     {
       "id": 256,
       "name": "Grounded First Officer Waddles",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
@@ -1334,7 +1334,7 @@
     {
       "id": 257,
       "name": "Grounded Mechanic Peep",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
@@ -1352,7 +1352,7 @@
     {
       "id": 259,
       "name": "Grounded Security Chief Scrambles",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
