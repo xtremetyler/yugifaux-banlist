@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:46:33.986Z",
+  "updatedAt": "2026-08-19T04:54:42.839Z",
   "cards": [
     {
       "id": 14,
@@ -155,9 +155,11 @@
       "name": "Azure Skybreaker",
       "status": "semi-limeade",
       "source": "custom",
-      "text": "Level 6 WATER Dragon Effect Monster\n1900 ATK\n2200 DEF\nIf you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon WATER Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a WATER Monster. You can only use each effect of \"Azure Skybreaker\" once per turn.",
+      "text": "**Duelingbook:** [Card #5980161](https://www.duelingbook.com/card?id=5980161)\n**Card type:** Monster — Effect\n**Monster type:** Dragon\n**Attribute:** LIGHT\n**Level/Rank/Link:** 6\n**Stats:** ATK 1900 / DEF 2200\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nIf you control no face-up Monsters, or the only face-up Monsters you control are Dragon Monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon WATER Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a WATER Monster. You can only use each effect of \"Azure Skybreaker\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980161,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980161.jpg",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
