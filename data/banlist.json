@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:56:42.856Z",
+  "updatedAt": "2026-08-19T04:57:12.878Z",
   "cards": [
     {
       "id": 14,
@@ -383,6 +383,8 @@
       "text": "Activate the following effects in order:\n● Add 1 Level 4 or lower DARK Spellcaster monster from your Deck to your hand, or, if “Crush Clown Virus” is in your GY, you can send it to the GY instead. \n●You can banish 1 \"Crush Clown Virus\" from your Deck or GY.\nYou can only activate 1 “Casting Call” per turn.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5939429,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939429.jpg",
       "addedAt": "2026-08-06 23:03:57"
     },
     {
