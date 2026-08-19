@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T15:24:48.418Z",
+  "updatedAt": "2026-08-19T15:25:18.473Z",
   "cards": [
     {
       "id": 14,
@@ -1235,7 +1235,7 @@
         "Bottom-Right",
         "Bottom-Left"
       ],
-      "text": "2 EARTH monsters\nIf this card is Link Summoned: You can banish 1 “Grounded” monster from your hand or Deck. During your Main Phase: You can banish 1 other EARTH Winged Beast monster you control; Special Summon 1 of your banished monsters that is “Grounded Captain Longneck” or “Grounded First Officer Waddles” to a zone this card points to. You can only use each effect of “Grounded Airlines Fowl Flight” once per turn.",
+      "text": "2 EARTH monsters\nIf this card is Link Summoned: You can banish 1 “Grounded” monster from your hand or Deck. During your Main Phase: You can banish 1 EARTH Winged Beast monster you control; Special Summon 1 of your banished monsters that is “Grounded Captain Longneck” or “Grounded First Officer Waddles” to a zone this card points to. If a “Grounded” monster is Special Summoned from your banishment to a Main Monster Zone this card points to: That monster can attack directly this turn. You can only use each effect of “Grounded Airlines Fowl Flight” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5992837,
@@ -1274,7 +1274,7 @@
       "text": "If this card is banished: You can add 1 Spell/Trap that mentions a \"Grounded\" monster from your Deck to your hand. During the End Phase, if this card was banished this turn: You can Special Summon this banished card. You can only use each effect of “Grounded Captain Longneck” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5976184,
+      "duelingbookId": 6002857,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5976184.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -1310,7 +1310,7 @@
       "text": "If this card is banished: You can Special Summon 1 “Grounded” monster from your hand or GY, except “Grounded First Officer Waddles”. During the End Phase, if this card was banished this turn: You can Special Summon it, and if you do, each player banishes a Monster from their GY. You can only use each effect of “Grounded First Officer Waddles” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5976189,
+      "duelingbookId": 6002858,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5976189.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -4280,7 +4280,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "If this card would be added to the hand by a card effect (except by drawing), you can Set it instead, and if you do, it can be activated this turn. Banish the top card of each player's Deck; you can attach up to 1 \"Grounded\" Monster banished to activate this card to an Xyz Monster you control as Material, then banish the top card of each player's Deck.",
+      "text": "If this card would be added to the hand by a card effect (except by drawing), you can Set it instead, and if you do, it can be activated this turn. Banish the top card of each player's Deck; you can attach up to 1 \"Grounded\" Monster banished to activate this card to an Xyz Monster you control as Material, then banish the top card of each player's Deck. During your Main Phase, while this card is in your GY, except during the turn it was sent there: You can banish this card from your GY; banish the top card of each player's Deck.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5975769,
