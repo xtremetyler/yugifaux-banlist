@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T15:26:18.418Z",
+  "updatedAt": "2026-08-19T15:28:48.391Z",
   "cards": [
     {
       "id": 14,
@@ -1767,7 +1767,7 @@
     {
       "id": 31,
       "name": "Infinite Impermanence",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Normal",
@@ -3868,7 +3868,7 @@
     {
       "id": 182,
       "name": "The Dragon Scroll",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -3885,7 +3885,7 @@
     {
       "id": 181,
       "name": "The Jade Palace",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
