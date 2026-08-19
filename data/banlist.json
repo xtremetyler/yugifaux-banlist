@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T16:04:40.468Z",
+  "updatedAt": "2026-08-19T16:05:10.484Z",
   "cards": [
     {
       "id": 14,
@@ -1281,7 +1281,7 @@
     {
       "id": 260,
       "name": "Grounded CEDO-do",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
@@ -1317,7 +1317,7 @@
     {
       "id": 261,
       "name": "Grounded International Airport",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -3045,7 +3045,7 @@
     {
       "id": 262,
       "name": "Prepare for Departure!",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
