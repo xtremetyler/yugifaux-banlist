@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0d1018" />
+    <meta name="description" content="The official Dynamic Limeade List for the YugiFaux custom card league." />
+    <title>YugiFaux Dynamic Limeade List</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero__glow"></div>
+      <div class="shell hero__content">
+        <p class="eyebrow">YugiFaux Custom Card League</p>
+        <h1>Dynamic Limeade List</h1>
+        <p class="hero__intro">The official shared-card legality list. Search the pool, review card details, and see the current number of legal copies.</p>
+        <div class="hero__meta">
+          <span id="last-updated">Loading latest list…</span>
+          <span class="hero__dot" aria-hidden="true"></span>
+          <span id="card-total">0 cards</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section class="summary" id="summary" aria-label="Legality summary"></section>
+
+      <section class="toolbar" aria-label="Banlist filters">
+        <label class="search">
+          <span class="sr-only">Search cards</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z" /></svg>
+          <input id="search" type="search" placeholder="Search by card name, text, or archetype…" autocomplete="off" />
+        </label>
+
+        <div class="filter-row">
+          <label>
+            <span>Status</span>
+            <select id="status-filter">
+              <option value="all">All statuses</option>
+              <option value="banned">Banned · 0</option>
+              <option value="limeade">Limeade · 1</option>
+              <option value="semi-limeade">Semi-Limeade · 2</option>
+              <option value="unlimeade">Un-Limeade · 3</option>
+            </select>
+          </label>
+          <label>
+            <span>Card pool</span>
+            <select id="source-filter">
+              <option value="all">Official + custom</option>
+              <option value="official">Official cards</option>
+              <option value="custom">Custom cards</option>
+            </select>
+          </label>
+          <label>
+            <span>Sort</span>
+            <select id="sort">
+              <option value="name">Name A–Z</option>
+              <option value="status">Legality</option>
+              <option value="newest">Newest first</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <div class="results-heading">
+        <p id="result-count">Loading cards…</p>
+        <button class="text-button" id="clear-filters" type="button">Clear filters</button>
+      </div>
+
+      <section class="card-grid" id="card-grid" aria-live="polite"></section>
+
+      <section class="empty-state" id="empty-state" hidden>
+        <h2>No matching cards</h2>
+        <p>Try a different search or clear the filters.</p>
+      </section>
+
+      <section class="error-state" id="error-state" hidden>
+        <h2>The Limeade List could not be loaded</h2>
+        <p>Refresh the page in a moment. If the problem continues, let a league administrator know.</p>
+      </section>
+    </main>
+
+    <dialog id="card-dialog" class="card-dialog">
+      <button class="dialog-close" type="button" aria-label="Close card details">×</button>
+      <div id="dialog-content"></div>
+    </dialog>
+
+    <footer>
+      <div class="shell footer__content">
+        <span>YugiFaux Dynamic Limeade List</span>
+        <span>Maintained automatically by The Fauxbidden One</span>
+      </div>
+    </footer>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

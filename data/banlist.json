@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-18T12:00:00-05:00",
+  "cards": [
+    {
+      "id": 1,
+      "name": "The Nine Personas Unseen",
+      "status": "limeade",
+      "source": "custom",
+      "cardType": "Trap Card",
+      "spellTrapType": "Normal",
+      "text": "Target 1 face-up monster; you can add up to 1 Level 1 Monster or a Spell/Trap that mentions a Level 1 Monster from your GY to your hand.",
+      "clauses": 2,
+      "archetype": "The Horde",
+      "duelingbookId": 5999257,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999257.jpg",
+      "addedAt": "2026-08-10T18:30:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Effect Veiler",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster / Tuner",
+      "attribute": "LIGHT",
+      "text": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate its effects until the end of this turn.",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/97268402.jpg",
+      "addedAt": "2026-07-01T18:30:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Dark Hole",
+      "status": "unlimeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "spellTrapType": "Normal",
+      "text": "Destroy all monsters on the field.",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/53129443.jpg",
+      "addedAt": "2026-07-02T18:30:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Snatch Steal",
+      "status": "banned",
+      "source": "official",
+      "cardType": "Spell Card",
+      "spellTrapType": "Equip",
+      "text": "Activate this card by targeting 1 face-up monster your opponent controls; take control of that target.",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/45986603.jpg",
+      "addedAt": "2026-07-03T18:30:00Z"
+    }
+  ]
+}
