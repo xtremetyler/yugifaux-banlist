@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T15:25:48.414Z",
+  "updatedAt": "2026-08-19T15:26:18.418Z",
   "cards": [
     {
       "id": 14,
@@ -1217,7 +1217,7 @@
       "text": "3 Level 7 EARTH Winged Beast monsters with an effect that activates when they are banished\nYou can also Special Summon this card from your Extra Deck using 1 \"Grounded Captain Longneck\" or 1 \"Grounded First Officer Waddles\" that was Special Summoned this turn as Material (this is treated as an Xyz Summon). You can only Special Summon \"Grounded Airlines Cheep Flight\" this way once per turn. If a monster(s) is banished: You can attach 1 of those monsters to this card as material. This card is unaffected by your opponent’s activated effects, unless the activated card was Set before the effect's activation. You can detatch 4 materials from this card; Inflict 4000 damage to your opponent, then inflict 700 damage to yourself for each card detached to activate this effect, except \"Grounded\" Monster Cards.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5975838,
+      "duelingbookId": 6002872,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975838.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -1238,7 +1238,7 @@
       "text": "2 EARTH monsters\nIf this card is Link Summoned: You can banish 1 “Grounded” monster from your hand or Deck. During your Main Phase: You can banish 1 EARTH Winged Beast monster you control; Special Summon 1 of your banished monsters that is “Grounded Captain Longneck” or “Grounded First Officer Waddles” to a zone this card points to. If a “Grounded” monster is Special Summoned from your banishment to a Main Monster Zone this card points to: That monster can attack directly this turn. You can only use each effect of “Grounded Airlines Fowl Flight” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5992837,
+      "duelingbookId": 6002873,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5992837.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -4283,7 +4283,7 @@
       "text": "If this card would be added to the hand by a card effect (except by drawing), you can Set it instead, and if you do, it can be activated this turn. Banish the top card of each player's Deck; you can attach up to 1 \"Grounded\" Monster banished to activate this card to an Xyz Monster you control as Material, then banish the top card of each player's Deck. During your Main Phase, while this card is in your GY, except during the turn it was sent there: You can banish this card from your GY; banish the top card of each player's Deck.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5975769,
+      "duelingbookId": 6002870,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975769.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -4372,7 +4372,7 @@
       "text": "When you activate this card: Banish the top card of each player's Deck. Once per turn, if a “Grounded” card(s) you control leaves the field because of an opponent’s card: Banish up to 2 “Grounded” monsters with different names from your hand and/or GY (min 1); draw 1 card.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5975767,
+      "duelingbookId": 6002871,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975767.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
