@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T05:08:11.742Z",
+  "updatedAt": "2026-08-19T05:19:41.747Z",
   "cards": [
     {
       "id": 14,
@@ -513,9 +513,14 @@
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "Tribute 1 DARK Spellcaster monster with 1500 or less ATK and target 1 Attack Position monster your opponent controls; that face-up monster cannot attack, its effects are negated, also it cannot be used as material for a Synchro, Xyz, or Link Summon, and it is treated as a DARK Spellcaster monster until the end of your next turn. Neither player can activate the targeted monster's effects in response to this card's activation. While this card is in your banishment (Quick Effect): You can Set this card, and if you did, you can activate it this turn. You can only Set 1 \"Crush Clown Virus\" this way per turn.",
       "clauses": 7,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5939434,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939434.jpg",
       "addedAt": "2026-08-07 03:04:59"
     },
     {
