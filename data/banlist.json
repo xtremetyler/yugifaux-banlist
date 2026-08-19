@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:54:42.839Z",
+  "updatedAt": "2026-08-19T04:56:42.856Z",
   "cards": [
     {
       "id": 14,
@@ -291,9 +291,11 @@
       "name": "Broken Skies",
       "status": "semi-limeade",
       "source": "custom",
-      "text": "Field Spell\nWhen this card is activated: You can banish 1 Dragon Monster from your GY or Extra Deck. You can only activate this effect of \"Broken Skies\" once per turn. If a \"Skybreaker\" Monster would leave the field by your opponent's card effect, it is sent to the GY instead. Once per Chain, when a Monster(s) is Special Summoned to your opponent's field: You can target 1 Monster in your GY; banish it.",
+      "text": "**Duelingbook:** [Card #5980178](https://www.duelingbook.com/card?id=5980178)\n**Card type:** Spell\n**Spell type:** Field\n**Duelingbook creator:** YugiFaux\n\n**Card text**\nWhen this card is activated: You can banish 1 Dragon Monster from your GY or Extra Deck. You can only activate this effect of \"Broken Skies\" once per turn. If a \"Skybreaker\" Monster would leave the field by your opponent's card effect, it is sent to the GY instead. Once per Chain, when a Monster(s) is Special Summoned to your opponent's field: You can target 1 Dragon Monster in your GY; either banish it or Special Summon it in Attack Position.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980178,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980178.jpg",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
