@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T04:30:34.001Z",
+  "updatedAt": "2026-08-19T04:37:33.955Z",
   "cards": [
     {
       "id": 14,
@@ -59,9 +59,11 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
-      "text": "Special Summon 1 Normal Monster from your hand, Deck, or GY in Defense Position (if you Special Summon from the Deck, it must be Level 4 or lower), or if you control a Normal Monster Card, you can apply 1 of these effects instead. ● Destroy all monsters your opponent controls. ● Destroy all Spells/Traps your opponent controls. ● Draw 2 cards. ● Special Summon 1 monster from either GY to your field. You can only activate 1 \"Ancient Secrets\" per turn.",
+      "text": "Special Summon 1 Normal Monster from your hand, Deck, or GY in Defense Position (if you Special Summon from the Deck, it must be Level 4 or lower), or if you control a Normal Monster Card, you can apply 1 of these effects instead.\n● Destroy all monsters your opponent controls.\n● Destroy all Spells/Traps your opponent controls.\n● Draw 2 cards.\n● Special Summon 1 monster from either GY to your field.\nYou can only activate 1 \"Ancient Secrets\" per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5987218,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987218.jpg",
       "addedAt": "2026-07-31 03:57:21"
     },
     {
