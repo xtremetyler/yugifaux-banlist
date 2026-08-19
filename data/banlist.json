@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T16:05:10.484Z",
+  "updatedAt": "2026-08-19T16:05:40.415Z",
   "cards": [
     {
       "id": 14,
@@ -2934,7 +2934,7 @@
     {
       "id": 265,
       "name": "Please Remain Seated!",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -4273,7 +4273,7 @@
     {
       "id": 266,
       "name": "Unscheduled Arrival",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -4427,7 +4427,7 @@
     {
       "id": 263,
       "name": "Your Flight Has Been Delayed",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -4444,7 +4444,7 @@
     {
       "id": 264,
       "name": "Your Luggage Has Departed Without You!",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
