@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T15:25:18.473Z",
+  "updatedAt": "2026-08-19T15:25:48.414Z",
   "cards": [
     {
       "id": 14,
@@ -1256,7 +1256,7 @@
       "text": "If this card is banished: You can draw 1 card. During the End Phase, if this card was banished this turn: You can Special Summon it. You can only use each effect of “Grounded Cabin Crew Flippers” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5976196,
+      "duelingbookId": 6002860,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5976196.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -1292,7 +1292,7 @@
       "text": "If this card is banished: You can target 1 other banished “Grounded” monster; Special Summon it. If this card is Special Summoned from your banishment: inflict 300 LP for each card in their banishment that doesn't mention \"Grounded\". During the End Phase, if this card was banished this turn: You can Special Summon it. You can only use each effect of “Grounded CEDO-do” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5976203,
+      "duelingbookId": 6002862,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5976203.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -1327,7 +1327,7 @@
       "text": "Once per turn, when your opponent activates a card or effect: You can banish 1 EARTH Winged Beast monster you control. During your Main Phase, while this card is in your GY, except during the turn it was sent there: You can banish this card and 1 \"Grounded\" Monster from your hand and/or GY; banish the top card of each player's Deck. You can only activate each effect of “Grounded International Airport” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5993443,
+      "duelingbookId": 6002864,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5993443.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -1345,7 +1345,7 @@
       "text": "If this card is banished: You can target 1 card that mentions a \"Grounded\" monster in your GY; place it on the bottom of the Deck, and if you do, draw 1 card. During the End Phase, if this card was banished this turn: You can Special Summon it, and if you do, you can add 1 Trap Card from your Deck to your hand that mentions \"Grounded\". You can only use each effect of “Grounded Mechanic Peep” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5976198,
+      "duelingbookId": 6002859,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5976198.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -1363,7 +1363,7 @@
       "text": "You can discard this card and 1 other card that mentions \"Grounded\"; draw 2 cards, then your opponent banishes a Monster Card from their GY. If this card is banished: You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn. During the End Phase, if this card was banished this turn: You can Special Summon it. You can only use each effect of “Grounded Security Chief Scrambles” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5976200,
+      "duelingbookId": 6002861,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5976200.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -2944,7 +2944,7 @@
       "text": "When your opponent activates a monster effect, while you control a “Grounded” card: Banish 1 EARTH Winged Beast monster from your hand or field; negate the effect, then banish that card.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5975775,
+      "duelingbookId": 6002869,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975775.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -3055,7 +3055,7 @@
       "text": "Add 1 “Grounded” monster from your Deck to your hand, then you can apply 1 of these effects:\n● Normal Summon 1 EARTH Winged Beast monster.\n● Banish 1 EARTH Winged Beast monster from your hand.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5975783,
+      "duelingbookId": 6002865,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975783.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -4437,7 +4437,7 @@
       "text": "Target 1 face-up card your opponent controls; banish 1 EARTH Winged Beast monster from your hand or field, and if you do, negate the effects of that target. If you banished a “Grounded” monster from the field, you can also banish that target during the End Phase. You can only activate 1 “Your Flight Has Been Delayed” per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5975780,
+      "duelingbookId": 6002866,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975780.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
@@ -4454,7 +4454,7 @@
       "text": "Banish 1 “Grounded” monster from your Deck, then you can banish 1 card from either GY. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except EARTH monsters. You can only activate 1 “Your Luggage Has Departed Without You” per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5975778,
+      "duelingbookId": 6002868,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975778.jpg",
       "addedAt": "2026-08-19 15:23:58"
     },
