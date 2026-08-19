@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T16:05:40.415Z",
+  "updatedAt": "2026-08-19T16:06:10.460Z",
   "cards": [
     {
       "id": 14,
@@ -1206,7 +1206,7 @@
     {
       "id": 268,
       "name": "Grounded Airlines Cheep Flight",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Machine",
@@ -1224,7 +1224,7 @@
     {
       "id": 269,
       "name": "Grounded Airlines Fowl Flight",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Machine",
@@ -4362,7 +4362,7 @@
     {
       "id": 267,
       "name": "We Apologize for the Inconvenience",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
