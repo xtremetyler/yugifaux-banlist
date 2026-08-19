@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T15:24:18.396Z",
+  "updatedAt": "2026-08-19T15:24:48.418Z",
   "cards": [
     {
       "id": 14,
@@ -1324,7 +1324,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Once per turn, when your opponent activates a card or effect: You can banish 1 EARTH Winged Beast monster you control. You can only activate 1 “Grounded International Airport” per turn.",
+      "text": "Once per turn, when your opponent activates a card or effect: You can banish 1 EARTH Winged Beast monster you control. During your Main Phase, while this card is in your GY, except during the turn it was sent there: You can banish this card and 1 \"Grounded\" Monster from your hand and/or GY; banish the top card of each player's Deck. You can only activate each effect of “Grounded International Airport” once per turn.",
       "archetype": "Grounded Airlines",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5993443,
