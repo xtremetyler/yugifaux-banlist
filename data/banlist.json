@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T22:40:18.075Z",
+  "updatedAt": "2026-08-20T22:55:01.352Z",
   "cards": [
     {
       "id": 14,
@@ -397,11 +397,11 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "During your Main Phase, you can Normal Summon 1 Spirit or Normal Monster from your GY in addition to your Normal Summon/Set (you can only gain this effect once per turn). If a face-up Spirit monster(s) you control returns to your hand while this card is face-up on the field (except during the Damage Step): You can Normal Summon 1 Monster with the same name as a returned Monster from your hand, but its effects are negated until the start of the next turn. If this card is sent from the field to the GY: You can Set 1 Continuous Trap from your Deck or GY that specifically mentions the name of a Field Spell, then if this card was sent to the GY because you activated \"Carcosa\", you can return 1 card on the field to the hand, except a Field Spell.",
+      "text": "During your Main Phase, you can Normal Summon 1 Spirit or Normal Monster from your GY in addition to your Normal Summon/Set (you can only gain this effect once per turn). If this card is sent from the field to the GY: You can Set 1 Continuous Trap from your Deck or GY that specifically mentions the name of a Field Spell, then if this card was sent to the GY because you activated \"Carcosa\", you can return 1 card on the field to the hand, except a Field Spell.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5980145,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980145.jpg",
+      "duelingbookId": 5995216,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995216.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
     {
