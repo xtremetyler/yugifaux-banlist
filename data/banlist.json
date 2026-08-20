@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:53:31.302Z",
+  "updatedAt": "2026-08-20T14:54:01.289Z",
   "cards": [
     {
       "id": 14,
@@ -2603,7 +2603,7 @@
     {
       "id": 151,
       "name": "Misadventurer's Calamitous Wizard",
-      "status": "unlimeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -2679,7 +2679,7 @@
     {
       "id": 150,
       "name": "Misadventurer's Overconfident Ranger",
-      "status": "unlimeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
