@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:21:31.486Z",
+  "updatedAt": "2026-08-20T23:30:01.715Z",
   "cards": [
     {
       "id": 14,
@@ -2860,6 +2860,8 @@
       "text": "If “Crush Clown Virus” is in your GY: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can target 1 face-up monster your opponent controls; change it to Attack Position, then, if “Crush Clown Virus” is in your GY, you can apply the effect of 1 “Crush Clown Virus” in your GY to that monster, except you do not Tribute a monster. During your Main Phase, you can Banish this card from your GY; Add 1 \"Crush Clown Virus\" or 1 card that mentions it, from your GY to your hand. You can only use each effect of “Nightmare Dream Clown” once per turn.",
       "clauses": 6,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5939421,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939421.jpg",
       "addedAt": "2026-07-31 04:19:50"
     },
     {
