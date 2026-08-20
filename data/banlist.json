@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:32:31.533Z",
+  "updatedAt": "2026-08-20T23:33:01.687Z",
   "cards": [
     {
       "id": 14,
@@ -3087,6 +3087,8 @@
       "text": "It has no mouth, yet it whispers in formulas. It has no hands, yet it braids monsters together. When its sixth flower blooms, something new must be born.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5945201,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945201.jpg",
       "addedAt": "2026-07-31 03:45:37"
     },
     {
