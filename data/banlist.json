@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:30:31.547Z",
+  "updatedAt": "2026-08-20T23:31:31.553Z",
   "cards": [
     {
       "id": 14,
@@ -2990,9 +2990,14 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "Reveal 1 Monster, 1 Spell, and 1 Trap from your Deck; your opponent chooses 1 of them for you to add to your hand, and if they do, banish the remaining cards face-up. You can only activate 1 \"Painful Preference\" per turn.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5935631,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5935631.jpg",
       "addedAt": "2026-07-31 03:48:07"
     },
     {
