@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T22:59:31.388Z",
+  "updatedAt": "2026-08-20T23:00:31.364Z",
   "cards": [
     {
       "id": 14,
@@ -1708,6 +1708,8 @@
       "text": "You can Special Summon this card from your hand by sending 1 card from your hand or field to the GY, then Special Summon 1 “High Caliber” monster from your Deck, except “High Caliber Smilin’ Shell”, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: You can add 1 “High Caliber” monster from your Deck to your hand, except “High Caliber Smilin’ Shell”. During your End Phase, while this card is in your GY: You can attach this card to a face-up Xyz Monster you control as material. You can only use each effect of “High Caliber Smilin’ Shell” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5955909,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955909.jpg",
       "addedAt": "2026-08-08 18:17:21"
     },
     {
