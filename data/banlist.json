@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:09:01.569Z",
+  "updatedAt": "2026-08-20T23:09:31.441Z",
   "cards": [
     {
       "id": 14,
@@ -2107,9 +2107,11 @@
         "Right",
         "Left"
       ],
-      "text": "If this card battles a monster, neither can be destroyed by that battle. You cannot summon this monster if you control a Spirit monster. Once while this card is face-up on the field: Excavate the top 3 cards of your Deck; add 1 to your hand, send 1 to the GY, then banish the other face-down. Once per turn, when your opponent activates a Spell card or effect (Quick Effect): You can target 1 face-up card on your side of the field; negate the effects of both that target and that opponent’s card until the end of this turn. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return this card to the hand.",
+      "text": "2 Effect Monsters\nIf this card battles a monster, neither can be destroyed by that battle. You cannot summon this monster if you control a Spirit monster. Once while this card is face-up on the field: Excavate the top 3 cards of your Deck; add 1 to your hand, send 1 to the GY, then banish the other face-down. Once per turn, when your opponent activates a Spell card or effect (Quick Effect): You can target 1 face-up card on your side of the field; negate the effects of both that target and that opponent’s card until the end of this turn. Once per turn, during the End Phase, if this card was Special Summoned this turn: Return this card to the hand.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5991157,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991157.jpg",
       "addedAt": "2026-08-12 18:44:19"
     },
     {
