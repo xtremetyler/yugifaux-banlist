@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T13:51:23.661Z",
+  "updatedAt": "2026-08-20T14:13:01.181Z",
   "cards": [
     {
       "id": 14,
@@ -1088,9 +1088,17 @@
       "name": "Gemscale Skybreaker",
       "status": "semi-limeade",
       "source": "custom",
-      "text": "Level 6 EARTH Dragon Effect Monster\n1800 ATK\n2400 DEF\nIf you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon EARTH Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except an EARTH Monster. You can only use each effect of \"Gemscale Skybreaker\" once per turn.",
+      "cardType": "Effect Monster",
+      "monsterType": "Dragon",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 6",
+      "atk": "1800",
+      "def": "2400",
+      "text": "If you control no face-up Monsters, or the only face-up Monsters you control are Dragon Monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon EARTH Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a EARTH Monster. You can only use each effect of \"Gemscale Skybreaker\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980164,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980164.jpg",
       "addedAt": "2026-08-11 04:47:05"
     },
     {
