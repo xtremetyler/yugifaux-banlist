@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:08:01.428Z",
+  "updatedAt": "2026-08-20T23:09:01.569Z",
   "cards": [
     {
       "id": 14,
@@ -1829,8 +1829,8 @@
       "text": "Reveal 1 Level 1 or 2 Monster from your Deck that specifically mentions the name of a Field Spell; apply the (1) or (2) effect from the following effects.\n‎ ‎ ‎ (1) Send 1 Field Spell from your Deck to the GY whose name the revealed Monster specifically mentions to add the revealed Monster to your hand.\n‎ ‎ ‎ (2) Send the revealed Monster to the GY to activate 1 Field Spell from your Deck whose name the sent Monster specifically mentions.\n‎ ‎ ‎ For the rest of this turn, you cannot activate \"Inexplicable Arrival\" unless you either sent \"Carcosa\" to the GY with this card's (1) effect or activated \"Carcosa\" with this card's (2) effect.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5980351,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980351.jpg",
+      "duelingbookId": 5995210,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995210.jpg",
       "addedAt": "2026-08-15 01:23:13"
     },
     {
