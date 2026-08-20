@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:09:31.441Z",
+  "updatedAt": "2026-08-20T23:19:01.595Z",
   "cards": [
     {
       "id": 14,
@@ -2209,9 +2209,14 @@
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "You can activate this card from your hand by sending 1 Equip Spell from your Deck to the GY. Target 1 face-up Monster on the field and 1 Equip Spell in your GY; equip that Equip Spell to that Monster, then you can equip any number of other equipped cards you control to that Monster. Neither player may activate cards or effects in response to this card's activation.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948265,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948265.jpg",
       "addedAt": "2026-08-04 17:28:38"
     },
     {
