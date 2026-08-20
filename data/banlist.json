@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T13:46:53.677Z",
+  "updatedAt": "2026-08-20T13:51:23.661Z",
   "cards": [
     {
       "id": 14,
@@ -2095,6 +2095,24 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/78693036.jpg",
       "officialUrl": "https://ygoprodeck.com/card/juraishin-the-cursed-thunder-god-14934",
       "addedAt": "2026-08-16 23:38:03"
+    },
+    {
+      "id": 272,
+      "name": "Keeper of the Horde - Barry",
+      "status": "limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Warrior",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 1",
+      "atk": "100",
+      "def": "100",
+      "text": "During your turn (Quick Effect): You can reveal this card from your hand; attach it to a LIGHT Xyz Monster you control as Material, except a Warrior Monster, to return up to 1 Spell/Trap you control to the hand. You can send 1 Level 1 LIGHT monster from your Deck to your GY; Special summon this card(from your hand). You can only Special Summon \"Keeper of the Horde - Barry\" once per turn this way. Once per turn, you can add 1 \"of the Horde\" Continuous Spell or 1 \"Personas\" Trap from your Deck or GY to your hand. A LIGHT Monster equipped with this card gains each of the above activated effects of this card.",
+      "clauses": 4,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6004329,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004329.jpg",
+      "addedAt": "2026-08-20 13:51:19"
     },
     {
       "id": 240,
