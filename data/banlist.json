@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:53:01.282Z",
+  "updatedAt": "2026-08-20T14:53:31.302Z",
   "cards": [
     {
       "id": 14,
@@ -2552,7 +2552,7 @@
     {
       "id": 153,
       "name": "Misadventurer Encounter - Friendly Fire!",
-      "status": "unlimeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -2569,7 +2569,7 @@
     {
       "id": 152,
       "name": "Misadventurer Encounter - Just in Slime!",
-      "status": "unlimeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
