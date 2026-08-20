@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:54:01.289Z",
+  "updatedAt": "2026-08-20T14:55:01.507Z",
   "cards": [
     {
       "id": 14,
@@ -2638,7 +2638,7 @@
     {
       "id": 149,
       "name": "Misadventurer's Headstrong Dwarf",
-      "status": "banned",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast-Warrior",
@@ -2736,7 +2736,7 @@
     {
       "id": 148,
       "name": "Misadventurer’s Reckless Rogue",
-      "status": "unlimeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
