@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:31:31.553Z",
+  "updatedAt": "2026-08-20T23:32:01.590Z",
   "cards": [
     {
       "id": 14,
@@ -3032,6 +3032,8 @@
       "text": "You can send this card from your hand to the GY; add 1 DARK Monster with 1500 or less ATK from your GY to your hand, except \"Peten, the Endless Encore\", and if you do, you can banish 1 \"Crush Clown Virus\" from your Deck. If this card is Tributed: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck, except “Peten, the Endless Encore”. You can banish this card from your GY; Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck. You can only use each effect of “Peten, the Endless Encore” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5939449,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939449.jpg",
       "addedAt": "2026-07-31 04:21:20"
     },
     {
