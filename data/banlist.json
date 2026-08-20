@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T22:58:01.481Z",
+  "updatedAt": "2026-08-20T22:59:31.388Z",
   "cards": [
     {
       "id": 14,
@@ -1690,6 +1690,8 @@
       "text": "2+ Level 4 “High Caliber” monsters\nYour opponent cannot Tribute this face-up card card on the field. When your opponent activates a card or effect (Quick Effect): You can detach 1 material from this card, then target 1 card on the field; destroy it. You can only use the following effects of “High Caliber Revolver Rig” once per turn. If this card is Special Summoned: You can attach 1 “High Caliber” monster from your GY to this card as material. If a Machine Xyz Monster(s) you control would be destroyed by battle or card effect, you can detach 1 material from this card instead. You can only control 1 \"High Caliber Revolver Rig\".",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5955918,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955918.jpg",
       "addedAt": "2026-08-07 03:42:17"
     },
     {
