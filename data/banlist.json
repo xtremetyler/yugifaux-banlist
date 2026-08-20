@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T13:44:23.685Z",
+  "updatedAt": "2026-08-20T13:46:53.677Z",
   "cards": [
     {
       "id": 14,
@@ -1443,6 +1443,24 @@
       "duelingbookId": 5995204,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995204.jpg",
       "addedAt": "2026-08-15 01:23:13"
+    },
+    {
+      "id": 271,
+      "name": "Heart of the Horde - Hedwig",
+      "status": "limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Fairy",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 1",
+      "atk": "100",
+      "def": "100",
+      "text": "During your turn (Quick Effect): You can reveal this card from your hand; attach it and up to 1 Trap Card from your GY to a LIGHT Xyz Monster you control as Material, except a Fairy Monster. You can send this card from your hand to the GY; add 1 Level 1 Monster that does not share a Type or Attribute with this card, from your deck to your hand. Once per turn, you can add 1 \"of the Horde\" Monster from your Deck or GY to your hand, except a Fairy Monster. A LIGHT Monster equipped with this card gains each of the above activated effects of this card.",
+      "clauses": 4,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6004328,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004328.jpg",
+      "addedAt": "2026-08-20 13:46:32"
     },
     {
       "id": 39,
