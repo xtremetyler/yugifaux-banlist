@@ -48,6 +48,16 @@ function imageMarkup(card, className) {
   return `<img class="${className}" src="${escapeHtml(card.imageUrl)}" alt="${escapeHtml(card.name)} card artwork" loading="lazy" referrerpolicy="no-referrer" />`;
 }
 
+function enableImageFallbacks(root) {
+  root.querySelectorAll("img").forEach(image => image.addEventListener("error", () => {
+    const placeholder = document.createElement("div");
+    placeholder.className = "ban-card__placeholder";
+    placeholder.textContent = "YF";
+    placeholder.setAttribute("aria-label", "Card artwork unavailable");
+    image.replaceWith(placeholder);
+  }, { once: true }));
+}
+
 function typeText(card) {
   return [card.attribute, card.cardType, card.monsterType || card.spellTrapType, ...(card.abilities || [])]
     .filter(Boolean).join(" · ") || "Card details unavailable";
@@ -185,6 +195,7 @@ function renderCards() {
       if (event.key === "Enter" || event.key === " ") { event.preventDefault(); open(); }
     });
   });
+  enableImageFallbacks(elements.grid);
 }
 
 function showCard(card) {
@@ -205,6 +216,7 @@ function showCard(card) {
       ${links ? `<div class="dialog-card__links">${links}</div>` : ""}
     </div>
   </article>`;
+  enableImageFallbacks(elements.dialogContent);
   elements.dialog.showModal();
 }
 
