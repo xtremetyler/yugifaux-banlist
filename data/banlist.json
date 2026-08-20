@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T22:57:31.344Z",
+  "updatedAt": "2026-08-20T22:58:01.481Z",
   "cards": [
     {
       "id": 14,
@@ -1672,6 +1672,8 @@
       "text": "If you have a “High Caliber” monster on your field or in your GY, you can Special Summon this card from your hand, then you can add 1 FIRE Machine monster from your Deck to your hand, except “High Caliber Lookout Louie”. also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Xyz Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: You can Special Summon 1 “High Caliber” monster from your hand. During your End Phase, while this card is in your GY: You can attach this card to a face-up Xyz Monster you control as material. You can only use each effect of “High Caliber Lookout Louie” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5955907,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955907.jpg",
       "addedAt": "2026-08-08 18:18:09"
     },
     {
