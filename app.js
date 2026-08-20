@@ -6,7 +6,8 @@ const STATUS = {
   voting: { label: "Voting Pending", copies: null, order: 4 },
 };
 
-const state = { cards: [], query: "", status: "all", source: "all", sort: "name" };
+const state = { cards: [], query: "", status: "all", source: "all", cardType: "all", attribute: "all",
+  monsterType: "all", ability: "all", sort: "name" };
 
 const elements = {
   summary: document.querySelector("#summary"),
@@ -19,6 +20,10 @@ const elements = {
   search: document.querySelector("#search"),
   status: document.querySelector("#status-filter"),
   source: document.querySelector("#source-filter"),
+  cardType: document.querySelector("#card-type-filter"),
+  attribute: document.querySelector("#attribute-filter"),
+  monsterType: document.querySelector("#monster-type-filter"),
+  ability: document.querySelector("#ability-filter"),
   sort: document.querySelector("#sort"),
   clear: document.querySelector("#clear-filters"),
   dialog: document.querySelector("#card-dialog"),
@@ -46,6 +51,42 @@ function imageMarkup(card, className) {
 function typeText(card) {
   return [card.attribute, card.cardType, card.monsterType || card.spellTrapType, ...(card.abilities || [])]
     .filter(Boolean).join(" · ") || "Card details unavailable";
+}
+
+function frameCategory(card) {
+  const type = String(card.cardType || "").toLowerCase();
+  if (type.includes("spell")) return "spell";
+  if (type.includes("trap")) return "trap";
+  if (type.includes("ritual")) return "ritual";
+  if (type.includes("fusion")) return "fusion";
+  if (type.includes("synchro")) return "synchro";
+  if (type.includes("xyz")) return "xyz";
+  if (type.includes("link")) return "link";
+  if (type.includes("normal")) return "normal";
+  return "effect";
+}
+
+function matchesCardType(card, selected) {
+  if (selected === "all") return true;
+  if (selected === "pendulum") return card.pendulumScale !== undefined && card.pendulumScale !== null;
+  return frameCategory(card) === selected;
+}
+
+function populateSelect(select, values, label) {
+  const current = select.value;
+  select.innerHTML = `<option value="all">All ${label}</option>` + values
+    .map(value => `<option value="${escapeHtml(value.toLocaleLowerCase())}">${escapeHtml(value)}</option>`).join("");
+  select.value = [...select.options].some(option => option.value === current) ? current : "all";
+}
+
+function populateDynamicFilters() {
+  const unique = key => [...new Set(state.cards.flatMap(card => {
+    const value = card[key];
+    return Array.isArray(value) ? value : value ? [value] : [];
+  }).map(String).map(value => value.trim()).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+  populateSelect(elements.attribute, unique("attribute"), "Attributes");
+  populateSelect(elements.monsterType, unique("monsterType"), "monster types");
+  populateSelect(elements.ability, unique("abilities"), "abilities");
 }
 
 function statText(card) {
@@ -100,6 +141,10 @@ function getVisibleCards() {
   const result = state.cards.filter(card => {
     if (state.status !== "all" && card.status !== state.status) return false;
     if (state.source !== "all" && normalizeSource(card) !== state.source) return false;
+    if (!matchesCardType(card, state.cardType)) return false;
+    if (state.attribute !== "all" && String(card.attribute || "").toLocaleLowerCase() !== state.attribute) return false;
+    if (state.monsterType !== "all" && String(card.monsterType || "").toLocaleLowerCase() !== state.monsterType) return false;
+    if (state.ability !== "all" && !(card.abilities || []).some(value => String(value).toLocaleLowerCase() === state.ability)) return false;
     if (!query) return true;
     return [card.name, card.text, card.pendulumEffect, card.archetype, card.cardType, card.monsterType,
       card.spellTrapType, ...(card.abilities || []), ...(card.linkMarkers || [])]
@@ -121,10 +166,11 @@ function renderCards() {
   elements.count.textContent = `${cards.length} ${cards.length === 1 ? "card" : "cards"} shown`;
   elements.empty.hidden = cards.length !== 0;
   elements.grid.hidden = cards.length === 0;
-  elements.grid.innerHTML = cards.map(card => `<article class="ban-card" data-status="${escapeHtml(card.status)}" data-card-id="${escapeHtml(card.id)}" tabindex="0" role="button" aria-label="View ${escapeHtml(card.name)} details">
+  elements.grid.innerHTML = cards.map(card => `<article class="ban-card" data-status="${escapeHtml(card.status)}" data-frame="${frameCategory(card)}" data-card-id="${escapeHtml(card.id)}" tabindex="0" role="button" aria-label="View ${escapeHtml(card.name)} details">
     ${imageMarkup(card, "ban-card__art")}
     <div class="ban-card__body">
       <span class="ban-card__status">${escapeHtml(statusText(card.status))}</span>
+      <span class="ban-card__frame"><i aria-hidden="true"></i>${escapeHtml(card.cardType || "Unknown card type")}</span>
       <h2>${escapeHtml(card.name)}</h2>
       <p class="ban-card__type">${escapeHtml(typeText(card))}</p>
       ${statText(card) ? `<p class="ban-card__stats">${escapeHtml(statText(card))}</p>` : ""}
@@ -163,10 +209,15 @@ function showCard(card) {
 }
 
 function resetFilters() {
-  Object.assign(state, { query: "", status: "all", source: "all", sort: "name" });
+  Object.assign(state, { query: "", status: "all", source: "all", cardType: "all", attribute: "all",
+    monsterType: "all", ability: "all", sort: "name" });
   elements.search.value = "";
   elements.status.value = "all";
   elements.source.value = "all";
+  elements.cardType.value = "all";
+  elements.attribute.value = "all";
+  elements.monsterType.value = "all";
+  elements.ability.value = "all";
   elements.sort.value = "name";
   renderCards();
 }
@@ -181,6 +232,7 @@ async function loadData() {
     elements.updated.textContent = payload.updatedAt
       ? `Updated ${new Intl.DateTimeFormat(undefined, { dateStyle: "medium", timeStyle: "short" }).format(new Date(payload.updatedAt))}`
       : "Update time unavailable";
+    populateDynamicFilters();
     renderSummary();
     renderCards();
   } catch (error) {
@@ -195,6 +247,10 @@ async function loadData() {
 elements.search.addEventListener("input", event => { state.query = event.target.value; renderCards(); });
 elements.status.addEventListener("change", event => { state.status = event.target.value; renderCards(); });
 elements.source.addEventListener("change", event => { state.source = event.target.value; renderCards(); });
+elements.cardType.addEventListener("change", event => { state.cardType = event.target.value; renderCards(); });
+elements.attribute.addEventListener("change", event => { state.attribute = event.target.value; renderCards(); });
+elements.monsterType.addEventListener("change", event => { state.monsterType = event.target.value; renderCards(); });
+elements.ability.addEventListener("change", event => { state.ability = event.target.value; renderCards(); });
 elements.sort.addEventListener("change", event => { state.sort = event.target.value; renderCards(); });
 elements.clear.addEventListener("click", resetFilters);
 elements.dialog.querySelector(".dialog-close").addEventListener("click", () => elements.dialog.close());

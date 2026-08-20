@@ -144,7 +144,7 @@ input, select {
 
 input:focus, select:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(226, 184, 74, .12); }
 
-.filter-row { display: flex; gap: 10px; }
+.filter-row { display: grid; grid-template-columns: repeat(4, minmax(132px, 1fr)); gap: 10px; }
 .filter-row label { display: grid; gap: 6px; }
 .filter-row label > span { color: var(--muted); font-size: .68rem; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; }
 .filter-row select { height: 40px; min-width: 145px; padding: 0 32px 0 11px; }
@@ -162,18 +162,20 @@ input:focus, select:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgb
   min-height: 156px;
   overflow: hidden;
   border: 1px solid var(--line);
-  border-left: 4px solid var(--status-color);
+  border-left: 4px solid var(--frame-color, var(--gold));
   border-radius: 12px;
-  background: var(--surface);
+  background: linear-gradient(105deg, color-mix(in srgb, var(--frame-color, var(--gold)) 9%, var(--surface)) 0%, var(--surface) 42%);
   cursor: pointer;
   transition: background .18s ease, transform .18s ease, border-color .18s ease;
 }
 
-.ban-card:hover { transform: translateY(-2px); background: var(--surface-2); border-color: var(--status-color); }
+.ban-card:hover { transform: translateY(-2px); border-color: var(--frame-color); box-shadow: 0 10px 30px color-mix(in srgb, var(--frame-color) 13%, transparent); }
 .ban-card__art { width: 92px; height: 100%; min-height: 156px; object-fit: cover; background: #080a0e; }
 .ban-card__placeholder { display: grid; place-items: center; min-height: 156px; color: var(--gold-soft); background: #0b0e15; font-family: Cinzel, serif; font-size: 2rem; }
 .ban-card__body { min-width: 0; padding: 15px 14px; }
-.ban-card__status { color: var(--status-color); font-size: .68rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; }
+.ban-card__status { display: block; color: var(--status-color); font-size: .68rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; }
+.ban-card__frame { display: inline-flex; align-items: center; gap: 6px; margin-top: 7px; color: #d7d9df; font-size: .65rem; font-weight: 600; }
+.ban-card__frame i { width: 8px; height: 8px; flex: 0 0 auto; border-radius: 50%; background: var(--frame-color); box-shadow: 0 0 8px color-mix(in srgb, var(--frame-color) 60%, transparent); }
 .ban-card h2 { margin: 7px 0 8px; font-size: 1rem; line-height: 1.25; }
 .ban-card__type, .ban-card__meta { margin: 0; color: var(--muted); font-size: .74rem; line-height: 1.4; }
 .ban-card__stats { margin: 7px 0 0; color: #e4dfd2; font-size: .72rem; line-height: 1.4; }
@@ -220,9 +222,19 @@ footer { margin-top: 64px; border-top: 1px solid var(--line); color: var(--muted
 [data-status="unlimeade"] { --status-color: var(--unlimeade); }
 [data-status="voting"] { --status-color: var(--voting); }
 
+[data-frame="normal"] { --frame-color: #d7b36d; }
+[data-frame="effect"] { --frame-color: #c87945; }
+[data-frame="ritual"] { --frame-color: #5d94c7; }
+[data-frame="fusion"] { --frame-color: #916bb5; }
+[data-frame="synchro"] { --frame-color: #d8dde5; }
+[data-frame="xyz"] { --frame-color: #687080; }
+[data-frame="link"] { --frame-color: #3978c8; }
+[data-frame="spell"] { --frame-color: #36a58e; }
+[data-frame="trap"] { --frame-color: #b95791; }
+
 @media (max-width: 950px) {
   .toolbar { grid-template-columns: 1fr; }
-  .filter-row { display: grid; grid-template-columns: repeat(3, 1fr); }
+  .filter-row { grid-template-columns: repeat(3, 1fr); }
   .filter-row select { width: 100%; min-width: 0; }
   .card-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
