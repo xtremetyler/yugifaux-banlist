@@ -117,9 +117,13 @@ function frameCategory(card) {
   return "effect";
 }
 
+function isPendulum(card) {
+  return /pendulum/i.test(String(card.cardType || "")) || (card.pendulumScale !== undefined && card.pendulumScale !== null);
+}
+
 function matchesCardType(card, selected) {
   if (selected === "all") return true;
-  if (selected === "pendulum") return card.pendulumScale !== undefined && card.pendulumScale !== null;
+  if (selected === "pendulum") return isPendulum(card);
   return frameCategory(card) === selected;
 }
 
@@ -219,7 +223,7 @@ function renderCards() {
   elements.count.textContent = `${cards.length} ${cards.length === 1 ? "card" : "cards"} shown`;
   elements.empty.hidden = cards.length !== 0;
   elements.grid.hidden = cards.length === 0;
-  elements.grid.innerHTML = cards.map(card => `<article class="ban-card" data-status="${escapeHtml(card.status)}" data-frame="${frameCategory(card)}" data-card-id="${escapeHtml(card.id)}" tabindex="0" role="button" aria-label="View ${escapeHtml(card.name)} details">
+  elements.grid.innerHTML = cards.map(card => `<article class="ban-card" data-status="${escapeHtml(card.status)}" data-frame="${frameCategory(card)}" data-pendulum="${isPendulum(card)}" data-card-id="${escapeHtml(card.id)}" tabindex="0" role="button" aria-label="View ${escapeHtml(card.name)} details">
     ${imageMarkup(card, "ban-card__art")}
     <div class="ban-card__body">
       ${favoriteButton(card)}
@@ -329,3 +333,4 @@ elements.dialog.querySelector(".dialog-close").addEventListener("click", () => e
 elements.dialog.addEventListener("click", event => { if (event.target === elements.dialog) elements.dialog.close(); });
 
 loadData();
+
