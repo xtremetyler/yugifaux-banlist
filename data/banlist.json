@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:30:01.715Z",
+  "updatedAt": "2026-08-20T23:30:31.547Z",
   "cards": [
     {
       "id": 14,
@@ -2906,9 +2906,14 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "All monsters on the field become 1500 ATK until the end of this turn. If “Crush Clown Virus” is in your GY, monsters you control cannot be destroyed by battle this turn. Then, if \"Crush Clown Virus\" is in your banishment, Monsters your opponent controls lose 100 ATK until the end of this turn. If you control a DARK Fusion Monster: You can activate this card from your GY, but banish it as it resolves. You can only use this effect of \"One Size Fits All\" once per Duel.",
       "clauses": 3,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5939432,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939432.jpg",
       "addedAt": "2026-08-07 02:58:00"
     },
     {
