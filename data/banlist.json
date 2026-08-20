@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:55:31.285Z",
+  "updatedAt": "2026-08-20T19:57:38.526Z",
   "cards": [
     {
       "id": 14,
@@ -1574,7 +1574,7 @@
     {
       "id": 96,
       "name": "High Caliber Deadeye Dixon",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
@@ -1667,7 +1667,7 @@
     {
       "id": 101,
       "name": "High Caliber Revolver Rig",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "XYZ Monster",
       "monsterType": "Machine",
@@ -3373,7 +3373,7 @@
     {
       "id": 196,
       "name": "Sgt. Pepper's Lonely Hearts Club Band",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Insect",
