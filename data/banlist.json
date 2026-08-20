@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:52:31.318Z",
+  "updatedAt": "2026-08-20T14:53:01.282Z",
   "cards": [
     {
       "id": 14,
@@ -2621,7 +2621,7 @@
     {
       "id": 156,
       "name": "Misadventurer's Final Straw",
-      "status": "banned",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Counter",
