@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T22:56:01.381Z",
+  "updatedAt": "2026-08-20T22:57:01.394Z",
   "cards": [
     {
       "id": 14,
@@ -1631,9 +1631,14 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "You can detach 1 material from a “High Caliber” Xyz Monster you control; place 1 Machine monster from your GY on the bottom of the Deck, then draw 1 card. You can only use this effect of “High Caliber High Noon Hideout” once per turn. Once per turn, when your opponent activates a Monster effect: You can detach 1 Material from a \"High Caliber\" Xyz Monster you control as if you activated that Monster's effect, and if you do, negate your opponent's Monster effect as it resolves. If this card is destroyed by a card effect: Add up to 2 Level 4 FIRE Monsters with different names from your Deck and/or GY to your hand.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5955924,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955924.jpg",
       "addedAt": "2026-08-08 17:57:36"
     },
     {
