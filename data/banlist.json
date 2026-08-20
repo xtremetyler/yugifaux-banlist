@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:26:17.600Z",
+  "updatedAt": "2026-08-20T14:51:31.286Z",
   "cards": [
     {
       "id": 14,
@@ -2715,7 +2715,7 @@
     {
       "id": 158,
       "name": "Misadventurer's Pet Rock",
-      "status": "semi-limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Rock",
