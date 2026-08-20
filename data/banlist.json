@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:55:01.507Z",
+  "updatedAt": "2026-08-20T14:55:31.285Z",
   "cards": [
     {
       "id": 14,
@@ -2697,7 +2697,7 @@
     {
       "id": 147,
       "name": "Misadventurer's Overworked Healer",
-      "status": "unlimeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
