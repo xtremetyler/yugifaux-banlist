@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:15:01.139Z",
+  "updatedAt": "2026-08-20T14:16:01.174Z",
   "cards": [
     {
       "id": 14,
@@ -1531,6 +1531,8 @@
       "text": "If you control a Rank 4 Machine Xyz Monster, you can Special Summon this card from your hand, then you can attach 1 “High Caliber” monster from your GY to 1 Machine Xyz Monster you control as material, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Xyz Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: You can target 1 Spell/Trap on the field; destroy it. You can only use each effect of “High Caliber Boomstick Buck” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5955913,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955913.jpg",
       "addedAt": "2026-08-08 17:52:09"
     },
     {
