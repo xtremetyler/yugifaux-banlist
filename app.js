@@ -7,7 +7,10 @@ const STATUS = {
 };
 
 const state = { cards: [], query: "", status: "all", source: "all", cardType: "all", attribute: "all",
-  monsterType: "all", ability: "all", sort: "name" };
+  monsterType: "all", ability: "all", sort: "name", view: "all", favorites: new Set() };
+
+const FAVORITES_KEY = "yugifaux-banlist-favorites";
+const RECENT_DAYS = 14;
 
 const elements = {
   summary: document.querySelector("#summary"),
@@ -26,9 +29,47 @@ const elements = {
   ability: document.querySelector("#ability-filter"),
   sort: document.querySelector("#sort"),
   clear: document.querySelector("#clear-filters"),
+  favoriteCount: document.querySelector("#favorite-count"),
   dialog: document.querySelector("#card-dialog"),
   dialogContent: document.querySelector("#dialog-content"),
 };
+
+function loadFavorites() {
+  try {
+    const stored = JSON.parse(localStorage.getItem(FAVORITES_KEY) || "[]");
+    state.favorites = new Set(Array.isArray(stored) ? stored.map(String) : []);
+  } catch { state.favorites = new Set(); }
+}
+
+function saveFavorites() {
+  localStorage.setItem(FAVORITES_KEY, JSON.stringify([...state.favorites]));
+  elements.favoriteCount.textContent = state.favorites.size;
+}
+
+function isRecent(card) {
+  const changed = new Date(card.changedAt || card.addedAt || 0).getTime();
+  return Number.isFinite(changed) && changed >= Date.now() - RECENT_DAYS * 86400000;
+}
+
+function favoriteButton(card, className = "favorite-button") {
+  const saved = state.favorites.has(String(card.id));
+  return `<button class="${className}" type="button" data-favorite-id="${escapeHtml(card.id)}" aria-pressed="${saved}" aria-label="${saved ? "Remove from" : "Add to"} favorites">${saved ? "★" : "☆"}</button>`;
+}
+
+function toggleFavorite(cardId) {
+  const id = String(cardId);
+  state.favorites.has(id) ? state.favorites.delete(id) : state.favorites.add(id);
+  saveFavorites();
+  renderCards();
+}
+
+function bindFavoriteButtons(root) {
+  root.querySelectorAll("[data-favorite-id]").forEach(button => button.addEventListener("click", event => {
+    event.stopPropagation();
+    toggleFavorite(button.dataset.favoriteId);
+    if (root === elements.dialogContent) showCard(state.cards.find(card => String(card.id) === String(button.dataset.favoriteId)));
+  }));
+}
 
 const escapeHtml = (value = "") => String(value).replace(/[&<>'"]/g, character => ({
   "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#039;", '"': "&quot;",
@@ -149,6 +190,8 @@ function renderSummary() {
 function getVisibleCards() {
   const query = state.query.trim().toLocaleLowerCase();
   const result = state.cards.filter(card => {
+    if (state.view === "recent" && !isRecent(card)) return false;
+    if (state.view === "favorites" && !state.favorites.has(String(card.id))) return false;
     if (state.status !== "all" && card.status !== state.status) return false;
     if (state.source !== "all" && normalizeSource(card) !== state.source) return false;
     if (!matchesCardType(card, state.cardType)) return false;
@@ -179,7 +222,9 @@ function renderCards() {
   elements.grid.innerHTML = cards.map(card => `<article class="ban-card" data-status="${escapeHtml(card.status)}" data-frame="${frameCategory(card)}" data-card-id="${escapeHtml(card.id)}" tabindex="0" role="button" aria-label="View ${escapeHtml(card.name)} details">
     ${imageMarkup(card, "ban-card__art")}
     <div class="ban-card__body">
+      ${favoriteButton(card)}
       <span class="ban-card__status">${escapeHtml(statusText(card.status))}</span>
+      ${isRecent(card) ? `<span class="recent-badge">Recently changed</span>` : ""}
       <span class="ban-card__frame"><i aria-hidden="true"></i>${escapeHtml(card.cardType || "Unknown card type")}</span>
       <h2>${escapeHtml(card.name)}</h2>
       <p class="ban-card__type">${escapeHtml(typeText(card))}</p>
@@ -196,6 +241,7 @@ function renderCards() {
     });
   });
   enableImageFallbacks(elements.grid);
+  bindFavoriteButtons(elements.grid);
 }
 
 function showCard(card) {
@@ -208,6 +254,7 @@ function showCard(card) {
   elements.dialogContent.innerHTML = `<article class="dialog-card" data-status="${escapeHtml(card.status)}">
     <div>${imageMarkup(card, "dialog-card__art")}</div>
     <div>
+      ${favoriteButton(card, "dialog-favorite-button")}
       <span class="dialog-card__status">${escapeHtml(statusText(card.status))}</span>
       <h2>${escapeHtml(card.name)}</h2>
       <dl class="detail-grid">${detailRows(card)}</dl>
@@ -217,12 +264,13 @@ function showCard(card) {
     </div>
   </article>`;
   enableImageFallbacks(elements.dialogContent);
-  elements.dialog.showModal();
+  bindFavoriteButtons(elements.dialogContent);
+  if (!elements.dialog.open) elements.dialog.showModal();
 }
 
 function resetFilters() {
   Object.assign(state, { query: "", status: "all", source: "all", cardType: "all", attribute: "all",
-    monsterType: "all", ability: "all", sort: "name" });
+    monsterType: "all", ability: "all", sort: "name", view: "all" });
   elements.search.value = "";
   elements.status.value = "all";
   elements.source.value = "all";
@@ -231,7 +279,12 @@ function resetFilters() {
   elements.monsterType.value = "all";
   elements.ability.value = "all";
   elements.sort.value = "name";
+  updateViewTabs();
   renderCards();
+}
+
+function updateViewTabs() {
+  document.querySelectorAll("[data-view]").forEach(button => button.setAttribute("aria-pressed", String(button.dataset.view === state.view)));
 }
 
 async function loadData() {
@@ -240,6 +293,8 @@ async function loadData() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const payload = await response.json();
     state.cards = Array.isArray(payload.cards) ? payload.cards : [];
+    loadFavorites();
+    saveFavorites();
     elements.total.textContent = `${state.cards.length} ${state.cards.length === 1 ? "card" : "cards"}`;
     elements.updated.textContent = payload.updatedAt
       ? `Updated ${new Intl.DateTimeFormat(undefined, { dateStyle: "medium", timeStyle: "short" }).format(new Date(payload.updatedAt))}`
@@ -265,6 +320,11 @@ elements.monsterType.addEventListener("change", event => { state.monsterType = e
 elements.ability.addEventListener("change", event => { state.ability = event.target.value; renderCards(); });
 elements.sort.addEventListener("change", event => { state.sort = event.target.value; renderCards(); });
 elements.clear.addEventListener("click", resetFilters);
+document.querySelectorAll("[data-view]").forEach(button => button.addEventListener("click", () => {
+  state.view = button.dataset.view;
+  updateViewTabs();
+  renderCards();
+}));
 elements.dialog.querySelector(".dialog-close").addEventListener("click", () => elements.dialog.close());
 elements.dialog.addEventListener("click", event => { if (event.target === elements.dialog) elements.dialog.close(); });
 

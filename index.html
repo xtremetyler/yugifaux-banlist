@@ -95,7 +95,14 @@
       </section>
 
       <div class="results-heading">
-        <p id="result-count">Loading cards…</p>
+        <div>
+          <p id="result-count">Loading cards…</p>
+          <div class="view-tabs" aria-label="Card views">
+            <button type="button" data-view="all" aria-pressed="true">All cards</button>
+            <button type="button" data-view="recent" aria-pressed="false">Recently changed</button>
+            <button type="button" data-view="favorites" aria-pressed="false">★ Favorites <span id="favorite-count">0</span></button>
+          </div>
+        </div>
         <button class="text-button" id="clear-filters" type="button">Clear filters</button>
       </div>
 

@@ -149,10 +149,14 @@ input:focus, select:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgb
 .filter-row label > span { color: var(--muted); font-size: .68rem; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; }
 .filter-row select { height: 40px; min-width: 145px; padding: 0 32px 0 11px; }
 
-.results-heading { display: flex; justify-content: space-between; align-items: center; margin: 28px 2px 14px; }
+.results-heading { display: flex; justify-content: space-between; align-items: flex-end; gap: 18px; margin: 28px 2px 14px; }
 .results-heading p { margin: 0; color: var(--muted); font-size: .86rem; }
 .text-button { color: var(--gold); border: 0; background: none; cursor: pointer; }
 .text-button:hover { text-decoration: underline; }
+.view-tabs { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 11px; }
+.view-tabs button { padding: 7px 10px; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; background: var(--surface); cursor: pointer; font-size: .72rem; }
+.view-tabs button:hover { color: var(--text); border-color: var(--gold-soft); }
+.view-tabs button[aria-pressed="true"] { color: #0a0c11; border-color: var(--gold); background: var(--gold); font-weight: 700; }
 
 .card-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 15px; }
 
@@ -172,7 +176,11 @@ input:focus, select:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgb
 .ban-card:hover { transform: translateY(-2px); border-color: var(--frame-color); box-shadow: 0 10px 30px color-mix(in srgb, var(--frame-color) 13%, transparent); }
 .ban-card__art { width: 92px; height: 100%; min-height: 156px; object-fit: cover; background: #080a0e; }
 .ban-card__placeholder { display: grid; place-items: center; min-height: 156px; color: var(--gold-soft); background: #0b0e15; font-family: Cinzel, serif; font-size: 2rem; }
-.ban-card__body { min-width: 0; padding: 15px 14px; }
+.ban-card__body { position: relative; min-width: 0; padding: 15px 42px 15px 14px; }
+.favorite-button, .dialog-favorite-button { display: grid; place-items: center; color: var(--gold); border: 1px solid var(--line); border-radius: 50%; background: rgba(9, 11, 17, .78); cursor: pointer; line-height: 1; }
+.favorite-button { position: absolute; top: 10px; right: 10px; width: 27px; height: 27px; font-size: 1.1rem; }
+.favorite-button:hover, .dialog-favorite-button:hover { border-color: var(--gold); background: rgba(226, 184, 74, .12); }
+.recent-badge { display: inline-block; margin-top: 6px; padding: 3px 6px; color: #d8c7ff; border: 1px solid rgba(181, 140, 255, .35); border-radius: 999px; background: rgba(181, 140, 255, .1); font-size: .58rem; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
 .ban-card__status { display: block; color: var(--status-color); font-size: .68rem; font-weight: 800; letter-spacing: .07em; text-transform: uppercase; }
 .ban-card__frame { display: inline-flex; align-items: center; gap: 6px; margin-top: 7px; color: #d7d9df; font-size: .65rem; font-weight: 600; }
 .ban-card__frame i { width: 8px; height: 8px; flex: 0 0 auto; border-radius: 50%; background: var(--frame-color); box-shadow: 0 0 8px color-mix(in srgb, var(--frame-color) 60%, transparent); }
@@ -198,6 +206,8 @@ input:focus, select:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgb
 .card-dialog::backdrop { background: rgba(3, 5, 9, .8); backdrop-filter: blur(5px); }
 .dialog-close { position: sticky; float: right; top: 12px; z-index: 2; width: 38px; height: 38px; margin: 12px 12px -50px 0; color: var(--text); border: 1px solid var(--line); border-radius: 50%; background: rgba(9, 11, 17, .9); font-size: 1.5rem; cursor: pointer; }
 .dialog-card { display: grid; grid-template-columns: 240px 1fr; gap: 26px; padding: 28px; }
+.dialog-card > div:last-child { position: relative; }
+.dialog-favorite-button { position: absolute; top: 0; right: 44px; width: 34px; height: 34px; font-size: 1.35rem; }
 .dialog-card__art { width: 100%; max-height: 350px; object-fit: contain; border-radius: 8px; background: #080a0e; }
 .dialog-card h2 { margin: 6px 44px 6px 0; font-size: 1.65rem; }
 .dialog-card__status { color: var(--status-color); font-size: .75rem; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
