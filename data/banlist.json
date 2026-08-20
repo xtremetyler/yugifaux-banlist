@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T16:12:10.438Z",
+  "updatedAt": "2026-08-20T13:44:23.685Z",
   "cards": [
     {
       "id": 14,
@@ -3772,6 +3772,23 @@
       "duelingbookId": 5979831,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979831.jpg",
       "addedAt": "2026-08-10 00:29:46"
+    },
+    {
+      "id": 270,
+      "name": "Split: Birth of the Horde",
+      "status": "limeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "When this card is activated: You can add 1 Level 1 Psychic Monster from your Deck or GY to your hand, then immediately after this effect resolves, you can either Special Summon 1 Monster added from your Deck this way or Normal Summon 1 Level 1 LIGHT Monster with a different type. During your Main Phase: You can target an Xyz Monster you control; attach 1 Level 1 Monster from your Deck to that target as Material. You can only activate each effect of \"Split: Birth of the Horde\" once per turn.",
+      "clauses": 5,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6004327,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004327.jpg",
+      "addedAt": "2026-08-20 13:44:15"
     },
     {
       "id": 102,
