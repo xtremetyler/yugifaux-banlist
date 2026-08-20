@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T22:57:01.394Z",
+  "updatedAt": "2026-08-20T22:57:31.344Z",
   "cards": [
     {
       "id": 14,
@@ -1648,9 +1648,14 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "When this card is activated: You can add 1 “High Caliber” monster from your Deck to your hand. Once per turn, if a “High Caliber” Xyz Monster is Special Summoned to your field: You can attach 1 “High Caliber” monster from your Deck or GY to it as material, and if you do, you can add 1 card attached to it to the hand. You can only activate 1 “High Caliber Loaded Chamber” per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5955928,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955928.jpg",
       "addedAt": "2026-08-07 03:38:00"
     },
     {
