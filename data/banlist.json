@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T23:19:01.595Z",
+  "updatedAt": "2026-08-20T23:20:01.735Z",
   "cards": [
     {
       "id": 14,
@@ -2532,9 +2532,14 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "When this card is activated: You can send 1 “Crush Clown Virus” from your Deck to the GY. During the Main Phase, if “Crush Clown Virus” is in your GY (Quick Effect): You can Special Summon 1 monster that mentions “Crush Clown Virus” from your GY or banishment with 1500 ATK or less, and if you do, destroy it during the end phase. If you activated this effect during your opponent's turn, its effects are negated. You can only use this effect of “Midnight Matinee” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5939423,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939423.jpg",
       "addedAt": "2026-08-07 03:02:03"
     },
     {
