@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:14:31.122Z",
+  "updatedAt": "2026-08-20T14:15:01.139Z",
   "cards": [
     {
       "id": 14,
@@ -1422,6 +1422,8 @@
       "text": "You can Ritual Summon this card with a \"Guthing's\" card. During your Main Phase: You can reveal a Monster from your Extra Deck; you can send it to the GY. You can only use this effect of \"Guthing's Seeking Vine\" once per turn.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5938256,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5938256.jpg",
       "addedAt": "2026-07-31 03:40:58"
     },
     {
