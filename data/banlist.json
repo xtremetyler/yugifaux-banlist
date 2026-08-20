@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:14:01.160Z",
+  "updatedAt": "2026-08-20T14:14:31.122Z",
   "cards": [
     {
       "id": 14,
@@ -1173,9 +1173,14 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
-      "text": "Place 1 face-up and/or revealed Monster Card from as many of the following zones as possible (min. 1) on the bottom of your Deck in sequence to apply the appropriate effects, based on the zone from which a Monster was placed this way. ● Your face-up Extra Deck: Draw 1 card. ● Your Extra Monster Zone: Draw 1 card. ● Your banishment: Draw 1 card. ● Your Spell & Trap Zone: Draw 1 card.",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Place 1 face-up and/or revealed Monster Card from as many of the following zones as possible (min. 1) on the bottom of your Deck in sequence to apply the appropriate effects, based on the zone from which a Monster was placed this way.\n● Your face-up Extra Deck: Draw 1 card.\n● Your Extra Monster Zone: Draw 1 card.\n● Your banishment: Draw 1 card.\n● Your Spell & Trap Zone: Draw 1 card.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5961211,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961211.jpg",
       "addedAt": "2026-07-31 04:07:31"
     },
     {
