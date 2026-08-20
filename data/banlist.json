@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20T14:13:01.181Z",
+  "updatedAt": "2026-08-20T14:14:01.160Z",
   "cards": [
     {
       "id": 14,
@@ -1142,9 +1142,14 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "This card's activation and its effects cannot be negated. Pay 1000 LP to declare 1 Spell Card type (Continuous, Equip, Field, Normal, Quick-Play, Ritual); your opponent chooses a Spell with the declared type from your GY to add to your hand, except \"Goblet of Grandeur\", then draw 1 card. You can only activate 1 \"Goblet of Grandeur\" per turn.",
       "clauses": 3,
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5969601,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5969601.jpg",
       "addedAt": "2026-07-31 03:52:57"
     },
     {
