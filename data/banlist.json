@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:20:55.035Z",
+  "updatedAt": "2026-08-21T19:21:25.011Z",
   "cards": [
     {
       "id": 14,
@@ -491,7 +491,7 @@
     {
       "id": 163,
       "name": "Crimson Skybreaker",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
