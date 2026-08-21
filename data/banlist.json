@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:42:25.099Z",
+  "updatedAt": "2026-08-21T19:42:55.137Z",
   "cards": [
     {
       "id": 14,
@@ -981,7 +981,7 @@
     {
       "id": 189,
       "name": "Furious Five Dragon - Viper",
-      "status": "unlimeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Reptile",
@@ -999,7 +999,7 @@
     {
       "id": 187,
       "name": "Furious Five Dragon Warrior - Mantis",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Insect",
