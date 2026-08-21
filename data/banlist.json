@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T05:06:54.265Z",
+  "updatedAt": "2026-08-21T17:51:24.703Z",
   "cards": [
     {
       "id": 14,
@@ -3053,6 +3053,26 @@
       "duelingbookId": 5939441,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939441.jpg",
       "addedAt": "2026-08-07 03:21:07"
+    },
+    {
+      "id": 273,
+      "name": "Pitknight Earlie",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Link Monster",
+      "monsterType": "Cyberse",
+      "attribute": "FIRE",
+      "levelRankLink": "Link 2",
+      "atk": "1500",
+      "linkMarkers": [
+        "Top-Right",
+        "Right"
+      ],
+      "text": "2 Effect Monsters\r\nWhen a monster this card points to activates its effect (except during the Damage Step) (Quick Effect): You can target 1 Effect Monster your opponent controls; until the end of this turn, change its ATK to 0, also negate its effects. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there this turn: You can Special Summon this card. You can only use each effect of \"Pitknight Earlie\" once per turn.",
+      "contributor": "The Original Rough Cheddar",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/47759571.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/pitknight-earlie-13427",
+      "addedAt": "2026-08-21 17:51:05"
     },
     {
       "id": 265,
