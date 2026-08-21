@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:46:55.122Z",
+  "updatedAt": "2026-08-21T19:48:55.146Z",
   "cards": [
     {
       "id": 14,
@@ -1155,7 +1155,7 @@
     {
       "id": 85,
       "name": "Gold Sarcophagus",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
