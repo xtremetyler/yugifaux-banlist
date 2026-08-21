@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:30:55.083Z",
+  "updatedAt": "2026-08-21T19:32:25.120Z",
   "cards": [
     {
       "id": 14,
@@ -714,7 +714,7 @@
     {
       "id": 184,
       "name": "Dragon Warrior Tag Team - Crane & Viper",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Winged Beast",
@@ -732,7 +732,7 @@
     {
       "id": 185,
       "name": "Dragon Warrior Tag Team - Monkey & Mantis",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Beast-Warrior",
