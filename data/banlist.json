@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:38:25.109Z",
+  "updatedAt": "2026-08-21T19:40:25.148Z",
   "cards": [
     {
       "id": 14,
@@ -913,7 +913,7 @@
     {
       "id": 252,
       "name": "FLOOP!",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
