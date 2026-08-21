@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:55:25.498Z",
+  "updatedAt": "2026-08-21T19:56:25.265Z",
   "cards": [
     {
       "id": 14,
@@ -1467,7 +1467,7 @@
     {
       "id": 271,
       "name": "Heart of the Horde - Hedwig",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
