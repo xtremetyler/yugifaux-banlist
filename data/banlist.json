@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:14:55.119Z",
+  "updatedAt": "2026-08-21T19:15:25.001Z",
   "cards": [
     {
       "id": 14,
@@ -324,7 +324,7 @@
     {
       "id": 168,
       "name": "Broken Skies",
-      "status": "semi-limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
