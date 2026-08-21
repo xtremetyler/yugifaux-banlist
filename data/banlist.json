@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:26:25.048Z",
+  "updatedAt": "2026-08-21T19:30:55.083Z",
   "cards": [
     {
       "id": 14,
@@ -679,7 +679,7 @@
     {
       "id": 198,
       "name": "Dominus Break",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
