@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:09:24.994Z",
+  "updatedAt": "2026-08-21T19:12:24.983Z",
   "cards": [
     {
       "id": 14,
@@ -168,7 +168,7 @@
     {
       "id": 162,
       "name": "Azure Skybreaker",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
