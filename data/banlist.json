@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T20:01:55.201Z",
+  "updatedAt": "2026-08-21T20:03:25.175Z",
   "cards": [
     {
       "id": 14,
@@ -1679,7 +1679,7 @@
     {
       "id": 101,
       "name": "High Caliber Revolver Rig",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "XYZ Monster",
       "monsterType": "Machine",
