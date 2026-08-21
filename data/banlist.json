@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:43:55.128Z",
+  "updatedAt": "2026-08-21T19:44:25.128Z",
   "cards": [
     {
       "id": 14,
@@ -1086,7 +1086,7 @@
     {
       "id": 164,
       "name": "Gemscale Skybreaker",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
