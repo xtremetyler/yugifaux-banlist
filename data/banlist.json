@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:43:25.143Z",
+  "updatedAt": "2026-08-21T19:43:55.128Z",
   "cards": [
     {
       "id": 14,
@@ -1035,7 +1035,7 @@
     {
       "id": 160,
       "name": "Fusion Deployment",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
