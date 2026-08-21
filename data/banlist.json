@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:07:54.969Z",
+  "updatedAt": "2026-08-21T19:08:54.998Z",
   "cards": [
     {
       "id": 14,
@@ -96,7 +96,7 @@
     {
       "id": 33,
       "name": "Archfiend Eccentrick",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Pendulum Effect Monster",
       "monsterType": "Fiend",
