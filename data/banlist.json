@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:08:54.998Z",
+  "updatedAt": "2026-08-21T19:09:24.994Z",
   "cards": [
     {
       "id": 14,
@@ -116,7 +116,7 @@
     {
       "id": 74,
       "name": "Armory Arm",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Machine",
