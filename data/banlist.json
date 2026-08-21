@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:37:25.089Z",
+  "updatedAt": "2026-08-21T19:38:25.109Z",
   "cards": [
     {
       "id": 14,
@@ -850,7 +850,7 @@
     {
       "id": 78,
       "name": "Evenly Matched",
-      "status": "semi-limeade",
+      "status": "banned",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Normal",
@@ -864,7 +864,7 @@
     {
       "id": 61,
       "name": "Evenly Patched",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
