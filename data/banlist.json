@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:44:25.128Z",
+  "updatedAt": "2026-08-21T19:46:55.122Z",
   "cards": [
     {
       "id": 14,
@@ -1138,7 +1138,7 @@
     {
       "id": 63,
       "name": "Goblet of Grandeur",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
