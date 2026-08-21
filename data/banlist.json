@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:33:25.094Z",
+  "updatedAt": "2026-08-21T19:37:25.089Z",
   "cards": [
     {
       "id": 14,
       "name": "Amano-Iwato",
-      "status": "limeade",
+      "status": "banned",
       "source": "official",
       "cardType": "Spirit Monster",
       "monsterType": "Rock",
@@ -833,7 +833,7 @@
     {
       "id": 229,
       "name": "Ensuing Madness",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
