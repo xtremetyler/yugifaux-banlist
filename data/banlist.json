@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T17:51:24.703Z",
+  "updatedAt": "2026-08-21T18:55:54.899Z",
   "cards": [
     {
       "id": 14,
@@ -2306,6 +2306,23 @@
       "duelingbookId": 5999448,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999448.jpg",
       "addedAt": "2026-08-17 16:52:27"
+    },
+    {
+      "id": 274,
+      "name": "Magical Something",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "1800",
+      "def": "1300",
+      "text": "Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell resolves. This card's Level is increased by the number of Spell Counters on it. You can remove 3 Spell Counters from this card, then target 1 Quick-Play Spell in your GY; Set that card to your Spell & Trap Zone. You can only use this effect of \"Magical Something\" once per turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/43930492.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/magical-something-3752",
+      "addedAt": "2026-08-21 18:55:42"
     },
     {
       "id": 3,
