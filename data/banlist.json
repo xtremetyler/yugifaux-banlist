@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:15:25.001Z",
+  "updatedAt": "2026-08-21T19:15:55.021Z",
   "cards": [
     {
       "id": 14,
@@ -341,7 +341,7 @@
     {
       "id": 70,
       "name": "Brotherhood of the Fire Fist - Bear",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Beast-Warrior",
