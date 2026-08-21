@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:56:25.265Z",
+  "updatedAt": "2026-08-21T19:57:25.174Z",
   "cards": [
     {
       "id": 14,
@@ -1485,7 +1485,7 @@
     {
       "id": 39,
       "name": "Heavenly Zephyr - Miradora",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
