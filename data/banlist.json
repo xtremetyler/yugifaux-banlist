@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:32:25.120Z",
+  "updatedAt": "2026-08-21T19:33:25.094Z",
   "cards": [
     {
       "id": 14,
@@ -782,7 +782,7 @@
     {
       "id": 127,
       "name": "Dune Warden of Shaitand",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
