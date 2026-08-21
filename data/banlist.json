@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:12:24.983Z",
+  "updatedAt": "2026-08-21T19:13:25.018Z",
   "cards": [
     {
       "id": 14,
@@ -206,7 +206,7 @@
     {
       "id": 40,
       "name": "Behemoth the King of a Hundred Battles",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Beast",
