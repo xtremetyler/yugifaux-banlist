@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:04:54.992Z",
+  "updatedAt": "2026-08-21T19:07:54.969Z",
   "cards": [
     {
       "id": 14,
       "name": "Amano-Iwato",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Spirit Monster",
       "monsterType": "Rock",
