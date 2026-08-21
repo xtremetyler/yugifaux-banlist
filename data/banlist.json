@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:58:55.158Z",
+  "updatedAt": "2026-08-21T20:01:55.201Z",
   "cards": [
     {
       "id": 14,
@@ -1592,7 +1592,7 @@
     {
       "id": 99,
       "name": "High Caliber Deputy Draw",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
