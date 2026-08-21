@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:22:25.034Z",
+  "updatedAt": "2026-08-21T19:25:55.031Z",
   "cards": [
     {
       "id": 14,
@@ -644,7 +644,7 @@
     {
       "id": 34,
       "name": "Dinowrestler Pankratops",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Dinosaur",
