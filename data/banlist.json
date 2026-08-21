@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T20:03:25.175Z",
+  "updatedAt": "2026-08-21T20:06:55.198Z",
   "cards": [
     {
       "id": 14,
@@ -1715,7 +1715,7 @@
     {
       "id": 123,
       "name": "High Tyrant of Shaitand",
-      "status": "banned",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
