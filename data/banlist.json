@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T20:06:55.198Z",
+  "updatedAt": "2026-08-21T20:11:55.231Z",
   "cards": [
     {
       "id": 14,
@@ -1819,7 +1819,7 @@
     {
       "id": 230,
       "name": "Inexplicable Arrival",
-      "status": "limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
