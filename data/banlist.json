@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:21:25.011Z",
+  "updatedAt": "2026-08-21T19:22:25.034Z",
   "cards": [
     {
       "id": 14,
@@ -526,7 +526,7 @@
     {
       "id": 30,
       "name": "Curse of Darkness",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Continuous",
