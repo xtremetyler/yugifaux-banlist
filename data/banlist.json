@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:18:55.012Z",
+  "updatedAt": "2026-08-21T19:19:55.009Z",
   "cards": [
     {
       "id": 14,
@@ -442,7 +442,7 @@
     {
       "id": 5,
       "name": "Chanbar, the Flashy Sportsknight",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Warrior",
