@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:48:55.146Z",
+  "updatedAt": "2026-08-21T19:50:55.135Z",
   "cards": [
     {
       "id": 14,
@@ -1299,7 +1299,7 @@
     {
       "id": 260,
       "name": "Grounded CEDO-do",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
