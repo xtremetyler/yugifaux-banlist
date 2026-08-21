@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:40:25.148Z",
+  "updatedAt": "2026-08-21T19:42:25.099Z",
   "cards": [
     {
       "id": 14,
@@ -945,7 +945,7 @@
     {
       "id": 188,
       "name": "Furious Five Dragon - Crane",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
