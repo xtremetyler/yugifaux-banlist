@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:19:55.009Z",
+  "updatedAt": "2026-08-21T19:20:55.035Z",
   "cards": [
     {
       "id": 14,
@@ -473,7 +473,7 @@
     {
       "id": 67,
       "name": "Crass Clown, the Rude Awakening",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
