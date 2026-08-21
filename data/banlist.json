@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:57:25.174Z",
+  "updatedAt": "2026-08-21T19:58:55.158Z",
   "cards": [
     {
       "id": 14,
@@ -1502,7 +1502,7 @@
     {
       "id": 44,
       "name": "Hecahands Godos",
-      "status": "semi-limeade",
+      "status": "banned",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Illusion",
