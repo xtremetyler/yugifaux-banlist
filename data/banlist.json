@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:52:25.137Z",
+  "updatedAt": "2026-08-21T19:55:25.498Z",
   "cards": [
     {
       "id": 14,
@@ -1429,7 +1429,7 @@
     {
       "id": 214,
       "name": "Harbor View Pounds",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
