@@ -89,8 +89,18 @@ function imageMarkup(card, className) {
   return `<img class="${className}" src="${escapeHtml(card.imageUrl)}" alt="${escapeHtml(card.name)} card artwork" loading="lazy" referrerpolicy="no-referrer" />`;
 }
 
+function cardMediaMarkup(card) {
+  if (!card.imageUrl) return `<div class="ban-card__media" data-source="${normalizeSource(card)}"><div class="ban-card__placeholder">YF</div></div>`;
+  const imageUrl = escapeHtml(card.imageUrl);
+  return `<div class="ban-card__media" data-source="${normalizeSource(card)}">
+    <img class="ban-card__media-backdrop" src="${imageUrl}" alt="" aria-hidden="true" loading="lazy" referrerpolicy="no-referrer" />
+    <img class="ban-card__art" src="${imageUrl}" alt="${escapeHtml(card.name)} card artwork" loading="lazy" referrerpolicy="no-referrer" />
+  </div>`;
+}
+
 function enableImageFallbacks(root) {
-  root.querySelectorAll("img").forEach(image => image.addEventListener("error", () => {
+  root.querySelectorAll(".ban-card__media-backdrop").forEach(image => image.addEventListener("error", () => image.remove(), { once: true }));
+  root.querySelectorAll("img:not(.ban-card__media-backdrop)").forEach(image => image.addEventListener("error", () => {
     const placeholder = document.createElement("div");
     placeholder.className = "ban-card__placeholder";
     placeholder.textContent = "YF";
@@ -224,9 +234,7 @@ function renderCards() {
   elements.empty.hidden = cards.length !== 0;
   elements.grid.hidden = cards.length === 0;
   elements.grid.innerHTML = cards.map(card => `<article class="ban-card" data-status="${escapeHtml(card.status)}" data-frame="${frameCategory(card)}" data-pendulum="${isPendulum(card)}" data-card-id="${escapeHtml(card.id)}" tabindex="0" role="button" aria-label="View ${escapeHtml(card.name)} details">
-    <div class="ban-card__media" data-source="${normalizeSource(card)}">
-      ${imageMarkup(card, "ban-card__art")}
-    </div>
+    ${cardMediaMarkup(card)}
     <div class="ban-card__body">
       ${favoriteButton(card)}
       <span class="ban-card__status">${escapeHtml(statusText(card.status))}</span>
