@@ -224,7 +224,9 @@ function renderCards() {
   elements.empty.hidden = cards.length !== 0;
   elements.grid.hidden = cards.length === 0;
   elements.grid.innerHTML = cards.map(card => `<article class="ban-card" data-status="${escapeHtml(card.status)}" data-frame="${frameCategory(card)}" data-pendulum="${isPendulum(card)}" data-card-id="${escapeHtml(card.id)}" tabindex="0" role="button" aria-label="View ${escapeHtml(card.name)} details">
-    ${imageMarkup(card, "ban-card__art")}
+    <div class="ban-card__media" data-source="${normalizeSource(card)}">
+      ${imageMarkup(card, "ban-card__art")}
+    </div>
     <div class="ban-card__body">
       ${favoriteButton(card)}
       <span class="ban-card__status">${escapeHtml(statusText(card.status))}</span>
