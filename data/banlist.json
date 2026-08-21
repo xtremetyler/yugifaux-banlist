@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:15:55.021Z",
+  "updatedAt": "2026-08-21T19:18:55.012Z",
   "cards": [
     {
       "id": 14,
@@ -425,7 +425,7 @@
     {
       "id": 88,
       "name": "Casting Call",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
