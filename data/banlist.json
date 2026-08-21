@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:50:55.135Z",
+  "updatedAt": "2026-08-21T19:52:25.137Z",
   "cards": [
     {
       "id": 14,
@@ -1388,7 +1388,7 @@
     {
       "id": 53,
       "name": "Guardian Chimera",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Fusion Monster",
       "monsterType": "Beast",
