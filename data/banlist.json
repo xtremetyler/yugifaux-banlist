@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T18:55:54.899Z",
+  "updatedAt": "2026-08-21T19:04:54.992Z",
   "cards": [
     {
       "id": 14,
@@ -4384,7 +4384,7 @@
     {
       "id": 251,
       "name": "Ultimate Persona of the Horde - The Beast",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "XYZ Monster",
       "monsterType": "Beast",
