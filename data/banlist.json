@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T19:25:55.031Z",
+  "updatedAt": "2026-08-21T19:26:25.048Z",
   "cards": [
     {
       "id": 14,
@@ -662,7 +662,7 @@
     {
       "id": 56,
       "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "XYZ Monster",
       "monsterType": "Machine",
