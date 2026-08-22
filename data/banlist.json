@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T00:34:56.316Z",
+  "updatedAt": "2026-08-22T00:35:26.319Z",
   "cards": [
     {
       "id": 14,
@@ -2909,7 +2909,7 @@
       "levelRankLink": "Rank 10",
       "atk": "2900",
       "def": "2800",
-      "text": "2+ Level 10 Monsters, including a Defense Position Monster\nYou can also use any number of \"Xigg, the Lost\" Monsters with different original names from either field as Material. While this face-up card you control has less ATK than its original ATK, the ATK of your opponent's Monsters is halved and all Monsters cannot be destroyed by card effects. Once per turn: You can detach 1 Material from this card; Set 1 Trap Card from your Deck or GY that specifically mentions a Monster's name, and if you do, draw 1 card, then if you detatched \"Xigg, the lost\" to activate this effect, you can Special Summon 1 \"Xigg, the Lost\" from your GY to your opponent's side of the field in face-up Defense Position.",
+      "text": "2+ Level 10 Monsters, including a Defense Position Monster\nYou can also use any number of \"Xigg, the Lost\" Monsters with different original names from either field as Material. This card gains 1000 ATK for each \"Xigg, the Lost\" your opponent controls. While this face-up card you control has a different ATK than its original ATK, the ATK of your opponent's Monsters is halved and all Monsters cannot be destroyed by card effects. Once per turn: You can detach 1 Material from this card; Set 1 Trap Card from your Deck or GY that specifically mentions a Monster's name, and if you do, draw 1 card, then if you detatched \"Xigg, the lost\" to activate this effect, you can Special Summon 1 \"Xigg, the Lost\" from your GY to your opponent's side of the field in face-up Defense Position.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5952125,
@@ -4665,7 +4665,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "When your opponent activates a card or effect, while they control \"Xigg, the Lost\": Negate that activation, and if you do, place that card on the bottom of the Deck.",
+      "text": "When your opponent activates a card or effect, while they control \"Xigg, the Lost\": Negate that activation, and if you do, place that card on the bottom of the Deck. You can banish this card from your GY; add 1 \"Xigg, the Lost\" from your Deck to your hand, and if you do, you can Set 1 Continuous Trap that mentions \"Xigg, the Lost\" from your Deck or GY, then immediately after this effect resolves, activate that card.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5953519,
