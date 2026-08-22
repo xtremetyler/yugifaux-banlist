@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T00:51:26.393Z",
+  "updatedAt": "2026-08-22T00:51:56.418Z",
   "cards": [
     {
       "id": 14,
@@ -3708,7 +3708,7 @@
     {
       "id": 167,
       "name": "Skybreaker Adolescent",
-      "status": "unlimeade",
+      "status": "banned",
       "source": "custom",
       "text": "Level 3 WIND Dragon Effect Monster\n1000 ATK\n1000 DEF\nDuring your Main Phase, while you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can banish this card from your hand or field and 1 WIND or Dragon Monster from your Extra Deck; Special Summon 1 Level 6 Dragon Monster from your hand or Deck, except a Monster that shares an attribute with a Monster you control, but it cannot attack this turn. You can only activate this effect of \"Skybreaker Adolescent\" once per turn.",
       "archetype": "Skybreaker",
