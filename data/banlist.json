@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T00:35:26.319Z",
+  "updatedAt": "2026-08-22T00:35:56.316Z",
   "cards": [
     {
       "id": 14,
@@ -956,7 +956,7 @@
       "text": "This card's name becomes \"Xigg, the Lost\" while in the hand, Deck, GY, or on the field. When your opponent activates the effect of a Monster they control (Quick Effect): You can return it to the hand, and if you do, Special Summon this card (from the hand) to that Zone in face-up Defense Position. You can only activate this effect of \"Forgotten Reflection\" once per turn. This card's Summon cannot be negated. All Monsters in columns adjacent to this card lose 1000 ATK. A Monster that used this card as Material loses 500 ATK.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5953524,
+      "duelingbookId": 6006949,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953524.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -1879,7 +1879,7 @@
       "text": "If your opponent controls a face-up Monster with 0 ATK and/or 0 DEF, you can Special Summon this card (from your hand), then, if your opponent controls \"Xigg, the Lost\", you can Set 1 Trap Card that mentions it from your Deck or GY. You can only Special Summon \"Inhabited Custos\" this way once per turn. During your Main Phase, while this card is in your GY: You can shuffle it and 1 \"Xigg, the Lost\" from your hand and/or GY into the Deck to target 1 card your opponent controls; place it on the bottom of the Deck.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5958334,
+      "duelingbookId": 6006951,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5958334.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -3102,7 +3102,7 @@
       "text": "If your opponent controls a face-up Level 1 Monster, you can Special Summon this card (from your hand), then, if your opponent controls \"Xigg, the Lost\", you can return it to the hand. You can only Special Summon \"Paginae Steed\" this way once per turn. During your Main Phase, while this card is in your GY: You can shuffle 1 \"Xigg, the Lost\" from your hand or GY into the Deck; add this card to your hand.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5958342,
+      "duelingbookId": 6006950,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5958342.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -4775,7 +4775,7 @@
       "text": "When a card(s) is sent to your opponent's GY or banishment (Quick Effect): You can Special Summon this card to your opponent's field in face-up Defense Position (from your hand), then you can place 1 \"You've Got to Be Kidding...\" from your Deck face-up in your Spell & Trap Zone. You can only Special Summon \"Xigg, the Lost\" this way once per turn. Neither player can activate cards or effect in response to this card's Normal or Special Summon. A Monster that used this card as Material loses 1000 ATK. If this card leaves your opponent's field: You can target 1 card they control, except a card that mentions \"Xigg, the Lost\"; place it on the bottom of the Deck.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5952063,
+      "duelingbookId": 6006948,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5952063.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
