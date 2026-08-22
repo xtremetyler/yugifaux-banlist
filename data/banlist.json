@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-22T00:35:56.316Z",
+  "updatedAt": "2026-08-22T00:36:26.322Z",
   "cards": [
     {
       "id": 14,
@@ -2285,7 +2285,7 @@
       "text": "When you activate this card: You can add 1 \"Xigg, the Lost\" or 1 card that mentions it from your Deck to the hand. During your Main Phase: You can Set 1 Trap Card that specifically mentions a Monster's name from your GY, and if that card mentions \"Xigg, the Lost\", you can activate it the turn it was Set. If this card is sent to the GY: You can shuffle up to 2 other cards from your GY or banishment into the Deck. You can only activate each effect of \"Long-Forgotten, Living Library\" once per turn.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5953501,
+      "duelingbookId": 6006954,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953501.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -2912,7 +2912,7 @@
       "text": "2+ Level 10 Monsters, including a Defense Position Monster\nYou can also use any number of \"Xigg, the Lost\" Monsters with different original names from either field as Material. This card gains 1000 ATK for each \"Xigg, the Lost\" your opponent controls. While this face-up card you control has a different ATK than its original ATK, the ATK of your opponent's Monsters is halved and all Monsters cannot be destroyed by card effects. Once per turn: You can detach 1 Material from this card; Set 1 Trap Card from your Deck or GY that specifically mentions a Monster's name, and if you do, draw 1 card, then if you detatched \"Xigg, the lost\" to activate this effect, you can Special Summon 1 \"Xigg, the Lost\" from your GY to your opponent's side of the field in face-up Defense Position.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5952125,
+      "duelingbookId": 6006952,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5952125.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -2965,7 +2965,7 @@
       "text": "If you control no cards, you can activate this card from your hand. You can only activate \"No Way Out\" from your hand this way once per turn. When your opponent Summons exactly 1 Monster from their hand, Deck, or GY: For the rest of this turn after this effect resolves, that Monster becomes a Level 1 Monster named \"Xigg, the Lost\", with 0 ATK & 0 DEF. If your opponent already controlled \"Xigg, the Lost\" or \"Xigg, the Lost\" is in your GY, this effect lasts until the end of the next turn after it resolves instead.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5952025,
+      "duelingbookId": 6006959,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5952025.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -3595,7 +3595,7 @@
       "text": "Shuffle a Level 1 Monster from your hand or GY into the Deck; draw 2 cards, then, if you shuffled \"Xigg, the Lost\" into the Deck this way, you can shuffle up to 2 other cards from your GY or banishment into the Deck.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5953493,
+      "duelingbookId": 6006953,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953493.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -3674,7 +3674,7 @@
       "text": "When you activate this card: You can Special Summon 1 “Xigg, the Lost” from your Deck or GY to your opponent’s Main Monster Zone in face-up Defense Position. Once per turn, during your Main Phase: You can shuffle 1 Level 1 Monster from your hand or GY into the Deck; add 1 card that specifically mentions the name of the Monster shuffled into the Deck this way from your Deck to the hand, then, if you shuffled \"Xigg, the Lost\" into the Deck this way, Special Summon 1 \"Xigg, the Lost\" from your hand or GY in face-up Defense Position to your opponent's Main Monster Zone in the same column as this card, but negate its effects until the end of this turn.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5952126,
+      "duelingbookId": 6006958,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5952126.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -4668,7 +4668,7 @@
       "text": "When your opponent activates a card or effect, while they control \"Xigg, the Lost\": Negate that activation, and if you do, place that card on the bottom of the Deck. You can banish this card from your GY; add 1 \"Xigg, the Lost\" from your Deck to your hand, and if you do, you can Set 1 Continuous Trap that mentions \"Xigg, the Lost\" from your Deck or GY, then immediately after this effect resolves, activate that card.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5953519,
+      "duelingbookId": 6006957,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953519.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -4806,7 +4806,7 @@
       "text": "Reveal 1 Level 1 Monster and 1 card with a different name that specifically mentions the revealed Monster's name from your Deck, except \"You Wouldn't Believe It\"; add those cards to the hand, then, if you revealed \"Xigg, the Lost\" to activate this card's effect, you can target 1 face-up Monster your opponent controls, and for the rest of this turn after this effect resolves, that Monster becomes a Level 1 Monster named \"Xigg, the Lost\", with 0 ATK & 0 DEF. You can only activate 1 \"You Wouldn't Believe It\" per turn.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5953452,
+      "duelingbookId": 6006955,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953452.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
@@ -4823,7 +4823,7 @@
       "text": "When you activate this card: You can send 1 \"Xigg, the Lost\" your opponent controls to the GY. You can only activate each of the following effects of this card once per turn. You can send this face-up card you control to the GY; return 1 \"Xigg, the Lost\" on the field to its owner's hand, then you can draw 1 card, and if you do, discard 1 card. When a \"Xigg, the Lost\" leaves the field: You can Special Summon 1 \"Xigg, the Lost\" from your GY or banishment to your opponent's Main Monster Zone in face-up Defense Position.",
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5953521,
+      "duelingbookId": 6006960,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953521.jpg",
       "addedAt": "2026-08-22 00:34:48"
     },
