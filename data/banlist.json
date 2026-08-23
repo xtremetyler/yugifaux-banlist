@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T23:25:42.359Z",
+  "updatedAt": "2026-08-23T23:26:11.192Z",
   "cards": [
     {
       "id": 14,
@@ -334,10 +334,10 @@
       "text": "“S-Power” cards are also treated as “P-Power” cards, and “P-Power” cards are also treated as “S-Power” cards. Once per Chain (Quick Effect): You can shuffle your Deck. Once per turn, when a card or effect is activated (Quick Effect): You can discard 1 “Saki” monster; negate the activation, and if you do, destroy that card. During your Main Phase (Quick Effect): You can banish this card from your field or GY; choose 2 cards with different names from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed during this Chain.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5945865,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945865.jpg",
+      "duelingbookId": 5995197,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995197.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:23:51"
+      "changedAt": "2026-08-23 23:25:49"
     },
     {
       "id": 168,
