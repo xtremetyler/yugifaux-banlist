@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T15:06:55.137Z",
+  "updatedAt": "2026-08-24T15:07:55.166Z",
   "cards": [
     {
       "id": 14,
@@ -4901,7 +4901,7 @@
     {
       "id": 62,
       "name": "Uncanny Blow-Up Robo",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
@@ -4913,7 +4913,7 @@
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
       "addedAt": "2026-07-31 03:51:13",
-      "changedAt": "2026-07-31 03:51:13"
+      "changedAt": "2026-08-24 15:07:28"
     },
     {
       "id": 266,
