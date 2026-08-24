@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:04:26.862Z",
+  "updatedAt": "2026-08-24T17:04:44.039Z",
   "cards": [
     {
       "id": 14,
@@ -4065,11 +4065,19 @@
       "name": "Skybreaker Apex Magna",
       "status": "semi-limeade",
       "source": "custom",
-      "text": "Level 8 WIND Dragon Fusion Effect Monster\n2500 ATK\n2500 DEF\nFUS.MAT.REQ.: 1 Dragon Monster + 1 non-Dragon Monster, including 1 Monster with an effect that Special Summons a Monster(s) from the hand\nThe effects of Special Summoned Dragon Monsters you control cannot be negated. If this card is banished or Fusion Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Apex Magna\" once per turn.\n● Target 1 face-up Monster on the field that was Special Summoned; return it to the hand.\n● Add 1 Level 6 or lower Monster with an effect that Special Summons a Monster(s) from the hand from your Deck to your hand, except a Monster that shares an attribute with the original attribute of a Monster you control.",
+      "cardType": "Fusion Monster",
+      "monsterType": "Dragon",
+      "attribute": "WIND",
+      "levelRankLink": "Level 8",
+      "atk": "2500",
+      "def": "2500",
+      "text": "1 Dragon Monster + 1 non-Dragon Monster, including 1 Monster with an effect that Special Summons a Monster(s) from the hand\nThe effects of Special Summoned Dragon Monsters you control cannot be negated. If this card is banished or Fusion Summoned: You can activate 1 of these effects, but you can only use each of the following effects of \"Skybreaker Apex Magna\" once per turn.\n● Target 1 face-up Monster on the field that was Special Summoned; return it to the hand.\n● Add 1 Level 6 or lower Dragon Monster with an effect that Special Summons a Monster(s) from the hand from your Deck to your hand, except a Monster that shares an Attribute with a Monster you control.\nIf this banished card is sent to the GY: You can Special Summon 1 Level 6 or lower Dragon Monster from your banishment.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5977226,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5977226.jpg",
       "addedAt": "2026-08-11 04:47:05",
-      "changedAt": "2026-08-11 04:47:05"
+      "changedAt": "2026-08-24 17:04:42"
     },
     {
       "id": 174,
