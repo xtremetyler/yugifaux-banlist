@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T15:12:54.380Z",
+  "updatedAt": "2026-08-24T16:44:25.501Z",
   "cards": [
     {
       "id": 14,
@@ -3230,6 +3230,21 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999456.jpg",
       "addedAt": "2026-08-17 16:55:50",
       "changedAt": "2026-08-17 16:55:50"
+    },
+    {
+      "id": 288,
+      "name": "Out of the Blue",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Continuous",
+      "spellTrapType": "Continuous",
+      "text": "Destroy this card if your opponent activates a card or effect that targets a card(s) in the Graveyard. When this card is destroyed by this effect and sent to the Graveyard, your opponent shuffles all cards in their Graveyard into the Deck.",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/79718768.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/out-of-the-blue-6682",
+      "addedAt": "2026-08-24 16:44:21",
+      "changedAt": "2026-08-24 16:44:21"
     },
     {
       "id": 7,
