@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:22:25.700Z",
+  "updatedAt": "2026-08-24T14:23:25.102Z",
   "cards": [
     {
       "id": 14,
@@ -2714,7 +2714,7 @@
     {
       "id": 6,
       "name": "Mereologic Aggregator",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "XYZ Monster",
       "monsterType": "Cyberse",
@@ -2727,7 +2727,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/9940036.jpg",
       "officialUrl": "https://ygoprodeck.com/card/mereologic-aggregator-13405",
       "addedAt": "2026-07-29 04:24:38",
-      "changedAt": "2026-07-29 04:24:38"
+      "changedAt": "2026-08-24 14:23:23"
     },
     {
       "id": 10,
