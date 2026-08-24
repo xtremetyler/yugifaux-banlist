@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T16:58:55.537Z",
+  "updatedAt": "2026-08-24T17:04:26.862Z",
   "cards": [
     {
       "id": 14,
@@ -4046,11 +4046,19 @@
       "name": "Skybreaker Aloft Sovereign",
       "status": "semi-limeade",
       "source": "custom",
-      "text": "Level 9 WIND Dragon Synchro Effect Monster\n2600 ATK\n2600 DEF\nSYN.MAT.REQ.: 1 Tuner + 1+ non-Tuner Monster(s), including 1 Dragon Monster and 1 Monster with an effect that banishes a card(s)\nYour opponent cannot target \"Skybreaker\" Monsters with the effects of a Special Summoned Monster(s) they control. If this card is banished or Synchro Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Aloft Sovereign\" once per turn.\n● Target 1 face-up Monster on the field that was Special Summoned, except a Dragon Monster; change it to face-down Defense Position.\n● Add 1 Level 6 or lower Monster with an effect that banishes a card(s) from your Deck to your hand, except a Monster that shares an oattribute with the original attribute of a Monster you control.",
+      "cardType": "Synchro Monster",
+      "monsterType": "Dragon",
+      "attribute": "WIND",
+      "levelRankLink": "Level 9",
+      "atk": "2600",
+      "def": "2600",
+      "text": "1 Tuner + 1+ non-Tuner Monster(s), including 1 Dragon Monster and 1 Monster with an effect that banishes a card(s)\nYour opponent cannot target \"Skybreaker\" Monsters with the effects of a Special Summoned Monster(s) they control. If this card is banished or Synchro Summoned: You can activate 1 of these effects, but you can only use each of the following effects of \"Skybreaker Aloft Sovereign\" once per turn.\n● Target 1 face-up Monster on the field that was Special Summoned, except a Dragon Monster; change it to face-down Defense Position.\n● Add 1 Level 6 or lower Dragon Monster with an effect that banishes a card(s) from your Deck to your hand, except a Monster that shares an Attribute with a Monster you control.\nIf this banished card is sent to the GY: You can target 1 face-down card or face-up Spell on the field; return it to the hand.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5977225,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5977225.jpg",
       "addedAt": "2026-08-11 04:47:05",
-      "changedAt": "2026-08-11 04:47:05"
+      "changedAt": "2026-08-24 17:04:25"
     },
     {
       "id": 171,
