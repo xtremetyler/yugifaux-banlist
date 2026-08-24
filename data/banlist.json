@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:14:54.117Z",
+  "updatedAt": "2026-08-24T17:15:13.476Z",
   "cards": [
     {
       "id": 14,
@@ -4680,10 +4680,10 @@
       "text": "You can Ritual Summon this card with a \"Masked Beast\" card. During your Main Phase: You can reveal this card in your hand to Ritual Summon itself. You must also Tribute other Monsters from your hand or field whose total Levels equal exactly 8 or 1 face-up Monster equipped with a \"Masked Rite\" Spell. If this card is Special Summoned: You can target 1 card your opponent controls; banish it. This card gains the following effects based on the Attributes of the monsters used for its Ritual Summon.\nLIGHT: Once per turn (Quick Effect): You can equip 1 “Masked Rite” Equip Spell from your Deck or GY to 1 face-up monster on the field.\nDARK: Once per turn, when your opponent activates a monster effect (Quick Effect): You can send 1 Equip Spell you control to the GY; negate that activation.\nLIGHT and DARK: This card cannot be targeted by your opponent’s card effects.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5945703,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945703.jpg",
+      "duelingbookId": 5995191,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995191.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-24 14:53:58"
+      "changedAt": "2026-08-24 17:15:11"
     },
     {
       "id": 242,
