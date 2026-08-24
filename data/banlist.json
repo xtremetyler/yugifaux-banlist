@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:21:11.471Z",
+  "updatedAt": "2026-08-24T20:21:41.475Z",
   "cards": [
     {
       "id": 302,
       "name": "Alsabea Capella - The Lust",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -43,7 +43,7 @@
     {
       "id": 303,
       "name": "Alsabea Leo - The Pride",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast-Warrior",
@@ -81,7 +81,7 @@
     {
       "id": 301,
       "name": "Alsabea Ursus - The Sloth",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Thunder",
@@ -100,7 +100,7 @@
     {
       "id": 300,
       "name": "Alsabea Vespa - The Wrath",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Insect",
@@ -824,7 +824,7 @@
     {
       "id": 304,
       "name": "Card Wars Player - The Cool Guy and the Dweeb",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Beast-Warrior",
