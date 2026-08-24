@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:46:55.115Z",
+  "updatedAt": "2026-08-24T14:48:25.161Z",
   "cards": [
     {
       "id": 14,
@@ -4337,7 +4337,7 @@
     {
       "id": 116,
       "name": "Spirebound Skill - Hologram",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -4350,7 +4350,7 @@
       "duelingbookId": 5979822,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979822.jpg",
       "addedAt": "2026-08-10 00:30:52",
-      "changedAt": "2026-08-10 00:30:52"
+      "changedAt": "2026-08-24 14:48:21"
     },
     {
       "id": 114,
