@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:48:55.102Z",
+  "updatedAt": "2026-08-24T14:49:25.100Z",
   "cards": [
     {
       "id": 14,
@@ -4211,7 +4211,7 @@
     {
       "id": 132,
       "name": "Spirebound Merchant",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -4224,7 +4224,7 @@
       "duelingbookId": 5979823,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979823.jpg",
       "addedAt": "2026-08-10 03:04:00",
-      "changedAt": "2026-08-10 03:04:00"
+      "changedAt": "2026-08-24 14:49:09"
     },
     {
       "id": 133,
