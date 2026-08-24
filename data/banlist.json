@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:23:25.102Z",
+  "updatedAt": "2026-08-24T14:23:55.113Z",
   "cards": [
     {
       "id": 14,
@@ -863,7 +863,7 @@
     {
       "id": 43,
       "name": "Enigmaster Packbit",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Cyberse",
@@ -876,7 +876,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/72444406.jpg",
       "officialUrl": "https://ygoprodeck.com/card/enigmaster-packbit-14197",
       "addedAt": "2026-07-29 04:57:08",
-      "changedAt": "2026-07-29 04:57:08"
+      "changedAt": "2026-08-24 14:23:42"
     },
     {
       "id": 229,
