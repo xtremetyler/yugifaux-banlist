@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:16:23.715Z",
+  "updatedAt": "2026-08-24T17:16:40.655Z",
   "cards": [
     {
       "id": 14,
@@ -4836,10 +4836,10 @@
       "text": "If \"Carcosa\" is in your GY: You can Special Summon this card (from your hand), then you can add up to 1 Spirit Monster each from your Deck and/or GY to your hand, except \"Tormented Maiden Camilla\". This is a Quick Effect if you control \"Carcosa\". You can only Special Summon \"Tormented Maiden Camilla\" once per turn, regardless of the way it is Special Summoned. Once per turn, during the End Phase, if this card was Normal or Special Summoned or flipped face-up this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5980128,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980128.jpg",
+      "duelingbookId": 5995213,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995213.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-15 01:23:13"
+      "changedAt": "2026-08-24 17:16:38"
     },
     {
       "id": 29,
