@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T16:44:25.501Z",
+  "updatedAt": "2026-08-24T16:45:25.500Z",
   "cards": [
     {
       "id": 14,
@@ -962,6 +962,21 @@
       "officialUrl": "https://ygoprodeck.com/card/fire-formation-tenki-4866",
       "addedAt": "2026-07-31 16:51:20",
       "changedAt": "2026-07-31 16:51:20"
+    },
+    {
+      "id": 289,
+      "name": "Firestorms Over Atlantis",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Activate 1 of these effects;\r\n● Discard 1 WATER monster to the GY, then target 1 face-up monster your opponent controls; destroy it.\r\n● Destroy 1 FIRE monster in your hand, then you can draw 1 card.\r\nIf only your opponent controls a monster: You can banish this card from your GY, then target 1 Level 7 or 8 WATER or FIRE monster in your GY; Special Summon it. You can only use each effect of \"Firestorms Over Atlantis\" once per turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/17151328.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/firestorms-over-atlantis-14626",
+      "addedAt": "2026-08-24 16:45:15",
+      "changedAt": "2026-08-24 16:45:15"
     },
     {
       "id": 252,
