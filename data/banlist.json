@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:54:30.384Z",
+  "updatedAt": "2026-08-24T03:54:49.974Z",
   "cards": [
     {
       "id": 14,
@@ -3917,10 +3917,10 @@
       "text": "Reveal 1 Equip Spell from your hand and shuffle it into the Deck; draw 2 cards, then, if the revealed card was a “Masked Rite” Equip Spell, add 1 “Masked Rite” monster card from your deck to your hand. During your Main Phase, while this card is in your GY: You can banish this card; place 1 \"Masked Rite\" card from your GY on top of your Deck. You can only activate this effect of \"Signature Sigil of the Masked Rites\" once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5981731,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5981731.jpg",
+      "duelingbookId": 5995181,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995181.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:19:23"
+      "changedAt": "2026-08-24 03:54:47"
     },
     {
       "id": 169,
