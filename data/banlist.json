@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:23:11.511Z",
+  "updatedAt": "2026-08-24T20:23:41.503Z",
   "cards": [
     {
       "id": 302,
@@ -728,7 +728,7 @@
     {
       "id": 309,
       "name": "Card Wars Creature - Immortal Maize Walker",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -747,7 +747,7 @@
     {
       "id": 308,
       "name": "Card Wars Creature - The Pig",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast",
@@ -766,7 +766,7 @@
     {
       "id": 307,
       "name": "Card Wars Creature - Wandering Bald Man",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
