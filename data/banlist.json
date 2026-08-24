@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:15:50.455Z",
+  "updatedAt": "2026-08-24T17:16:23.715Z",
   "cards": [
     {
       "id": 14,
@@ -4762,10 +4762,10 @@
       "text": "You can Special Summon this card (from your hand) by sending 1 \"Carcosa\" you control to the GY, then you can Set 1 Spell/Trap that mentions \"Carcosa\" from your Deck, except a Field Spell. This is a Quick Effect if \"Carcosa\" is in your GY. You can only Special Summon \"The Stranger in a Pallid Mask\" once per turn, regardless of the way it is Special Summoned. A Synchro Monster that used this card as Material cannot be destroyed by card effects. Once per turn, during the End Phase, if this card was Normal or Special Summoned or flipped face-up this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5980132,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980132.jpg",
+      "duelingbookId": 5995212,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995212.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-15 01:23:13"
+      "changedAt": "2026-08-24 17:16:19"
     },
     {
       "id": 71,
