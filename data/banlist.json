@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:54:49.974Z",
+  "updatedAt": "2026-08-24T03:55:13.885Z",
   "cards": [
     {
       "id": 14,
@@ -3927,11 +3927,18 @@
       "name": "Sky-Splitting Soundwave",
       "status": "limeade",
       "source": "custom",
-      "text": "Quick-Play Spell\nTarget 1 \"Broken Skies\" or Dragon Monster you control; activate 2 of the following effects in sequence.\n● Special Summon 1 \"Skybreaker\" Monster from your hand.\n● Special Summon 1 \"Skybreaker\" Monster from your banishment.\n● Synchro Summon or Fusion Summon 1 WIND or Dragon Monster from your Extra Deck using Monsters from either field, including any Dragon Monster(s) targeted to activate this effect, if able.\nYou can only activate 1 \"Sky-Splitting Soundwave\" per turn.",
+      "cardType": "Spell Card",
+      "spellTrapType": "Quick-Play",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Target 1 \"Broken Skies\" or Dragon Monster you control; activate 2 of the following effects in sequence. If a Fusion or Synchro Monster was targeted to active this card's effect, you can activate all of the following effects in sequence instead. \n● Special Summon 1 \"Skybreaker\" Monster from your hand.\n● Special Summon 1 \"Skybreaker\" Monster from your banishment.\n● Synchro Summon or Fusion Summon 1 WIND or Dragon Monster from your Extra Deck using Monsters from either field, including any Dragon Monster(s) targeted to activate this effect, if able.\nYou can only activate 1 \"Sky-Splitting Soundwave\" per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980181,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980181.jpg",
       "addedAt": "2026-08-11 04:47:05",
-      "changedAt": "2026-08-11 04:47:05"
+      "changedAt": "2026-08-24 03:55:12"
     },
     {
       "id": 167,
