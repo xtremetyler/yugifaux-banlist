@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:37:25.133Z",
+  "updatedAt": "2026-08-24T14:40:55.113Z",
   "cards": [
     {
       "id": 14,
@@ -3852,7 +3852,7 @@
     {
       "id": 47,
       "name": "Shiina, Twin Tempests of Celestial Thunder",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
@@ -3865,7 +3865,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/12197223.jpg",
       "officialUrl": "https://ygoprodeck.com/card/shiina-twin-tempests-of-celestial-thunder-15365",
       "addedAt": "2026-07-29 05:00:33",
-      "changedAt": "2026-07-29 05:00:33"
+      "changedAt": "2026-08-24 14:40:42"
     },
     {
       "id": 166,
