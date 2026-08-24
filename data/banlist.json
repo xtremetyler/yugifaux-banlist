@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:19:11.476Z",
+  "updatedAt": "2026-08-24T20:19:41.493Z",
   "cards": [
     {
       "id": 302,
@@ -1261,7 +1261,7 @@
     {
       "id": 294,
       "name": "Ecumundias' Edict of the Bear",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
