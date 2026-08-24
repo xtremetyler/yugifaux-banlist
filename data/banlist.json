@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:47:49.967Z",
+  "updatedAt": "2026-08-24T03:48:10.223Z",
   "cards": [
     {
       "id": 14,
@@ -3654,8 +3654,10 @@
       "text": "If this card is Normal or Special Summoned: You can add 1 card that mentions “Crush Clown Virus” from your Deck to your hand, except “Saggi, the Contagious Clown”, or Set 1 “Crush Clown Virus” directly from your Deck or GY, and if you do, it can be activated this turn. You can only use this effect of “Saggi, the Contagious Clown” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5939418,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939418.jpg",
       "addedAt": "2026-07-31 04:16:34",
-      "changedAt": "2026-07-31 04:16:34"
+      "changedAt": "2026-08-24 03:48:08"
     },
     {
       "id": 93,
