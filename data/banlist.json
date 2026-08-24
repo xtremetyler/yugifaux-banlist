@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:12:03.454Z",
+  "updatedAt": "2026-08-24T17:12:27.498Z",
   "cards": [
     {
       "id": 14,
@@ -4505,11 +4505,16 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "Target 1 Xyz Monster or “High Caliber” monster in your GY or banishment; Special Summon it, then you can attach 1 “High Caliber” card from your Deck to 1 Rank 4 Machine Xyz Monster you control as material, also you cannot declare attacks for the rest of this turn, except with Rank 4 Xyz Monsters. You can banish this card from your GY; attach 1 \"High Caliber\" Monster from your hand or GY to an Xyz Monster you control. You can only active 1 effect of \"Staring Down the High Caliber!\" per turn and only once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5955927,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955927.jpg",
       "addedAt": "2026-08-07 03:43:46",
-      "changedAt": "2026-08-07 03:43:46"
+      "changedAt": "2026-08-24 17:12:25"
     },
     {
       "id": 227,
