@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:04:44.039Z",
+  "updatedAt": "2026-08-24T17:05:01.821Z",
   "cards": [
     {
       "id": 14,
@@ -4084,11 +4084,19 @@
       "name": "Skybreaker Atmos Khan",
       "status": "unlimeade",
       "source": "custom",
-      "text": "Level 9 WIND Dragon Synchro Effect Monster\n2600 ATK\n2600 DEF\nSYN.MAT.REQ.: 1 Tuner + 1+ non-Tuner Monster(s), including 1 Dragon Monster and 1 Monster that mentions a WIND Monster\nAll Special Summoned Monsters your opponent controls lose ATK equal to 300 x the number of different original attributes among Dragon Monsters in your banishment. If this card is banished or Synchro Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Atmos Khan\" once per turn.\n● Add 1 Spell/Trap that mentions a Dragon Monster from your Deck to your hand.\n● Add 1 Level 6 or lower Monster that mentions a WIND Monster from your Deck to your hand, except a Monster that shares an attribute with the original attribute of a Monster you control.",
+      "cardType": "Synchro Monster",
+      "monsterType": "Dragon",
+      "attribute": "WIND",
+      "levelRankLink": "Level 9",
+      "atk": "2600",
+      "def": "2600",
+      "text": "1 Tuner + 1+ non-Tuner Monster(s), including 1 Dragon Monster and 1 Monster that mentions a WIND Monster\nSpecial Summoned Monsters your opponent controls lose 300 ATK for each different Attribute among Dragon Monsters in your banishment. If this card is banished or Synchro Summoned: You can activate 1 of these effects, but you can only use each of the following effects of \"Skybreaker Atmos Khan\" once per turn.\n● Add 1 Spell/Trap that mentions a Dragon Monster from your Deck to your hand.\n● Add 1 Level 6 or lower Dragon Monster that mentions a WIND Monster from your Deck to your hand, except a Monster that shares an Attribute with a Monster you control.\nIf this banished card is sent to the GY: You can target 1 Effect Monster on the field; return it to the hand.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5977227,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5977227.jpg",
       "addedAt": "2026-08-11 04:47:05",
-      "changedAt": "2026-08-11 04:47:05"
+      "changedAt": "2026-08-24 17:05:00"
     },
     {
       "id": 170,
