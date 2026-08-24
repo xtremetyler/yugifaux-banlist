@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T21:04:33.798Z",
+  "updatedAt": "2026-08-24T22:40:19.407Z",
   "cards": [
     {
       "id": 302,
@@ -24,7 +24,7 @@
     {
       "id": 298,
       "name": "Alsabea Ecumundias - The Cardinal Court",
-      "status": "limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Machine",
@@ -38,7 +38,7 @@
       "duelingbookId": 6012054,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012054.jpg",
       "addedAt": "2026-08-24 19:34:44",
-      "changedAt": "2026-08-24 19:34:44"
+      "changedAt": "2026-08-24 22:39:50"
     },
     {
       "id": 303,
