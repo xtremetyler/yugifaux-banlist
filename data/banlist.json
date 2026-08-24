@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:57:25.149Z",
+  "updatedAt": "2026-08-24T14:57:55.098Z",
   "cards": [
     {
       "id": 14,
@@ -4674,7 +4674,7 @@
     {
       "id": 15,
       "name": "Tindangle Angel",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Flip Effect Monster",
       "monsterType": "Fiend",
@@ -4688,7 +4688,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/68860936.jpg",
       "officialUrl": "https://ygoprodeck.com/card/tindangle-angel-8936",
       "addedAt": "2026-07-29 04:34:46",
-      "changedAt": "2026-07-29 04:34:46"
+      "changedAt": "2026-08-24 14:57:46"
     },
     {
       "id": 233,
