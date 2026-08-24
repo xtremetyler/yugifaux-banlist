@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:05:01.821Z",
+  "updatedAt": "2026-08-24T17:05:17.506Z",
   "cards": [
     {
       "id": 14,
@@ -4103,11 +4103,19 @@
       "name": "Skybreaker Resplendent",
       "status": "limeade",
       "source": "custom",
-      "text": "Level 9 WIND Dragon Fusion Effect Monster\n3000 ATK\n2400 DEF\nFUS.MAT.REQ.: 1 Level 6 or higher Dragon + 2 non-Dragon Monsters\nYour opponent cannot activate the effects of Special Summoned WIND Monsters they control.",
+      "cardType": "Fusion Monster",
+      "monsterType": "Dragon",
+      "attribute": "WIND",
+      "levelRankLink": "Level 9",
+      "atk": "3000",
+      "def": "2400",
+      "text": "1 Level 6 or higher Dragon + 2 non-Dragon Monsters\nYour opponent cannot activate the effects of Special Summoned WIND Monsters they control. If this card is sent to the GY: You can add 1 Dragon Tuner Monster from your Deck to your hand.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5977223,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5977223.jpg",
       "addedAt": "2026-08-11 04:47:05",
-      "changedAt": "2026-08-11 04:47:05"
+      "changedAt": "2026-08-24 17:05:16"
     },
     {
       "id": 36,
