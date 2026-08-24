@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:06:40.541Z",
+  "updatedAt": "2026-08-24T17:07:10.506Z",
   "cards": [
     {
       "id": 14,
@@ -4248,11 +4248,16 @@
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
       "text": "Target 1 face-up Monster your opponent controls; its ATK/DEF becomes 0 until the end of this turn, then if you control \"Spirebound Silent\", place 2 Spire Counters on 1 face-up card you control.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5979840,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979840.jpg",
       "addedAt": "2026-08-09 23:28:37",
-      "changedAt": "2026-08-09 23:28:37"
+      "changedAt": "2026-08-24 17:07:08"
     },
     {
       "id": 110,
