@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:17:33.618Z",
+  "updatedAt": "2026-08-24T14:18:33.619Z",
   "cards": [
     {
       "id": 14,
@@ -2516,7 +2516,7 @@
     {
       "id": 3,
       "name": "Manju of the Ten Thousand Hands",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -2529,7 +2529,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/95492061.jpg",
       "officialUrl": "https://ygoprodeck.com/card/manju-of-the-ten-thousand-hands-7954",
       "addedAt": "2026-07-29 04:23:26",
-      "changedAt": "2026-07-29 04:23:26"
+      "changedAt": "2026-08-24 14:18:15"
     },
     {
       "id": 51,
