@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T19:37:41.429Z",
+  "updatedAt": "2026-08-24T20:19:11.476Z",
   "cards": [
     {
       "id": 302,
@@ -331,7 +331,7 @@
     {
       "id": 292,
       "name": "Barrier Law of Ecumundias",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -1333,7 +1333,7 @@
     {
       "id": 293,
       "name": "Ecumundias' Triadic Commandment",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Ritual",
