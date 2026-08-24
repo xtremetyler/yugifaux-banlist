@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:13:18.719Z",
+  "updatedAt": "2026-08-24T17:13:50.555Z",
   "cards": [
     {
       "id": 14,
@@ -4603,10 +4603,10 @@
       "text": "You can Special Summon this card (from your hand) by sending 1 \"Carcosa\" you control to the GY, then you can add 1 card that mentions \"Carcosa\" from your GY to your hand, except a Field Spell. This is a Quick Effect if \"Carcosa\" is in your GY. You can only Special Summon \"The Bearer of the Yellow Sign\" once per turn, regardless of the way it is Special Summoned. A Synchro Monster that used this card as Material cannot be banished by card effects. Once per turn, during the End Phase, if this card was Normal or Special Summoned or flipped face-up this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5980142,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980142.jpg",
+      "duelingbookId": 5995211,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995211.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-24 14:52:39"
+      "changedAt": "2026-08-24 17:13:47"
     },
     {
       "id": 182,
