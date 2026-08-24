@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:42:25.120Z",
+  "updatedAt": "2026-08-24T14:46:55.115Z",
   "cards": [
     {
       "id": 14,
@@ -4058,7 +4058,7 @@
     {
       "id": 37,
       "name": "Solemn Scolding",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Counter",
@@ -4069,12 +4069,12 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/92512625.jpg",
       "officialUrl": "https://ygoprodeck.com/card/solemn-scolding-7705",
       "addedAt": "2026-07-29 04:52:52",
-      "changedAt": "2026-07-29 04:52:52"
+      "changedAt": "2026-08-24 14:46:32"
     },
     {
       "id": 72,
       "name": "Soulicer Crystal",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Aqua",
@@ -4087,7 +4087,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24514503.jpg",
       "officialUrl": "https://ygoprodeck.com/card/soulicer-crystal-14957",
       "addedAt": "2026-07-31 16:50:34",
-      "changedAt": "2026-07-31 16:50:34"
+      "changedAt": "2026-08-24 14:46:49"
     },
     {
       "id": 58,
