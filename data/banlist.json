@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:58:04.288Z",
+  "updatedAt": "2026-08-24T20:58:41.535Z",
   "cards": [
     {
       "id": 302,
@@ -5545,11 +5545,13 @@
       "levelRankLink": "Level 2",
       "atk": "500",
       "def": "800",
-      "text": "You can discard this card from your hand; you can conduct up to 2 Normal Summons/Sets this turn, instead of 1. If this card is Normal or Special Summoned: You can add a Normal Monster from your Deck or GY to the hand. During your Main Phase, if you control a face-up Normal Monster; you can add this card from your GY to your hand. You can only activate each effect of \"Uncanny Blow-Up Robo\" once per turn.",
+      "text": "You can discard this card from your hand; you can conduct up to 2 Normal Summons/Sets this turn, not just 1. If this card is Normal or Special Summoned: You can add a Normal Monster from your Deck or GY to the hand. During your Main Phase, if you control a face-up Normal Monster; you can add this card from your GY to your hand. You can only activate each effect of \"Uncanny Blow-Up Robo\" once per turn.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5965641,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965641.jpg",
       "addedAt": "2026-07-31 03:51:13",
-      "changedAt": "2026-08-24 15:07:28"
+      "changedAt": "2026-08-24 20:58:14"
     },
     {
       "id": 266,
@@ -5582,10 +5584,10 @@
       "text": "Activate each of the following effects, based on the names of cards that have been revealed during this turn.\n● \"P-Power Rushdown\" - Inflict damage to your opponent equal to 500 x the number of cards currently revealed plus 1.\n● \"S-Power Resonance\" - Add any number of \"Saki\" Monsters from your GY to your hand, up to the number of cards currently revealed plus 1, and if you do, you can shuffle this card into the Deck.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5945872,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945872.jpg",
+      "duelingbookId": 5995196,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995196.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:23:34"
+      "changedAt": "2026-08-24 20:58:36"
     },
     {
       "id": 42,
