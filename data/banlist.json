@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:04:39.643Z",
+  "updatedAt": "2026-08-24T14:05:09.682Z",
   "cards": [
     {
       "id": 14,
@@ -2129,7 +2129,7 @@
     {
       "id": 194,
       "name": "Iris the Radiant, the Celestial Eye of Infinite Reflections",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Illusion",
