@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:12:54.805Z",
+  "updatedAt": "2026-08-24T17:13:18.719Z",
   "cards": [
     {
       "id": 14,
@@ -4554,11 +4554,18 @@
       "name": "Supersonic Dive-Bomb",
       "status": "unlimeade",
       "source": "custom",
-      "text": "Normal Trap\nSpecial Summon 1 Level 9 or lower Dragon Monster from your banishment, ignoring its Summoning conditions, then you can banish it and 1 face-up Monster your opponent controls with the same Monster Card type (Fusion, Synchro, Xyz, or Link). During your Main Phase, while this card is in your GY: You can place 2 \"Skybreaker\" Monsters with different original attributes from your banishment on the bottom of the Deck; Set this card. You can only use each effect of \"Supersonic Dive-Bomb\" once per turn.",
+      "cardType": "Trap Card",
+      "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Special Summon 1 Level 9 or lower Dragon Monster from your banishment, ignoring its Summoning conditions, then you can banish it and 1 face-up Monster your opponent controls with the same Monster Card type (Fusion, Synchro, Xyz, or Link). During your Main Phase, while this card is in your GY: You can place 2 \"Skybreaker\" Monsters with different original attributes from your banishment on the bottom of the Deck; Set this card. You can only use each effect of \"Supersonic Dive-Bomb\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5980232,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980232.jpg",
       "addedAt": "2026-08-11 04:47:05",
-      "changedAt": "2026-08-11 04:47:05"
+      "changedAt": "2026-08-24 17:13:17"
     },
     {
       "id": 16,
