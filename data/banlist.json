@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:48:25.161Z",
+  "updatedAt": "2026-08-24T14:48:55.102Z",
   "cards": [
     {
       "id": 14,
@@ -4229,7 +4229,7 @@
     {
       "id": 133,
       "name": "Spirebound Neow",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "XYZ Monster",
       "monsterType": "Fairy",
@@ -4243,7 +4243,7 @@
       "duelingbookId": 5979826,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979826.jpg",
       "addedAt": "2026-08-10 03:04:38",
-      "changedAt": "2026-08-10 03:04:38"
+      "changedAt": "2026-08-24 14:48:35"
     },
     {
       "id": 129,
