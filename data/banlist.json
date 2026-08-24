@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:20:11.484Z",
+  "updatedAt": "2026-08-24T20:20:41.448Z",
   "cards": [
     {
       "id": 302,
@@ -1279,7 +1279,7 @@
     {
       "id": 296,
       "name": "Ecumundias' Edict of the Goat",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -1315,7 +1315,7 @@
     {
       "id": 297,
       "name": "Ecumundias' Edict of the Lion",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
