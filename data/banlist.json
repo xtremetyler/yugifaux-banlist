@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:05:09.682Z",
+  "updatedAt": "2026-08-24T14:05:39.641Z",
   "cards": [
     {
       "id": 14,
@@ -2153,7 +2153,7 @@
     {
       "id": 24,
       "name": "Junk Synchron",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Tuner Monster",
       "monsterType": "Warrior",
