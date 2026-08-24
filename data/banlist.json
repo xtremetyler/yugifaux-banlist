@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T15:07:55.166Z",
+  "updatedAt": "2026-08-24T15:11:25.213Z",
   "cards": [
     {
       "id": 14,
@@ -5103,7 +5103,7 @@
     {
       "id": 176,
       "name": "Xyz Territory",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Field",
@@ -5113,7 +5113,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/4545854.jpg",
       "officialUrl": "https://ygoprodeck.com/card/xyz-territory-409",
       "addedAt": "2026-08-11 17:55:48",
-      "changedAt": "2026-08-11 17:55:48"
+      "changedAt": "2026-08-24 15:11:20"
     },
     {
       "id": 283,
