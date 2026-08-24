@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:21:09.689Z",
+  "updatedAt": "2026-08-24T14:21:39.640Z",
   "cards": [
     {
       "id": 14,
@@ -2412,7 +2412,7 @@
     {
       "id": 200,
       "name": "Masked Beast Des Gardius, Eclipse Incarnate",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Fiend",
