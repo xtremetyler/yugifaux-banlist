@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:49:08.534Z",
+  "updatedAt": "2026-08-24T03:49:38.165Z",
   "cards": [
     {
       "id": 14,
@@ -3711,10 +3711,10 @@
       "text": "You can Special Summon this card (from your hand) by choosing an unrevealed Warrior Fusion Monster from your Extra Deck to become revealed until the end of this turn. Each time a card or effect is activated (Quick Effect): You can choose 1 card from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed by this effect during this Chain. Once per turn (Quick Effect): Activate each of the following effects, based on the attribute(s) of Monster(s) currently revealed.\n● LIGHT: Monsters you control gain 1000 ATK/DEF until the end of this turn.\n● LIGHT, WIND, & WATER: For the rest of this turn after this effect resolves, Monsters you control cannot be targeted by or destroyed by your opponent's card effects.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5945919,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945919.jpg",
+      "duelingbookId": 5995195,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995195.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:23:16"
+      "changedAt": "2026-08-24 03:49:36"
     },
     {
       "id": 219,
