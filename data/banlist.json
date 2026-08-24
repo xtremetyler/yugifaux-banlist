@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:08:33.607Z",
+  "updatedAt": "2026-08-24T14:17:33.618Z",
   "cards": [
     {
       "id": 14,
@@ -2498,7 +2498,7 @@
     {
       "id": 274,
       "name": "Magical Something",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -2511,7 +2511,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/43930492.jpg",
       "officialUrl": "https://ygoprodeck.com/card/magical-something-3752",
       "addedAt": "2026-08-21 18:55:42",
-      "changedAt": "2026-08-21 18:55:42"
+      "changedAt": "2026-08-24 14:17:29"
     },
     {
       "id": 3,
