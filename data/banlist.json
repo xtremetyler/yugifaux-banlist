@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:52:55.178Z",
+  "updatedAt": "2026-08-24T14:54:25.203Z",
   "cards": [
     {
       "id": 14,
@@ -4547,7 +4547,7 @@
     {
       "id": 211,
       "name": "The Masked Beast, Devourer of Souls",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Fiend",
@@ -4561,7 +4561,7 @@
       "duelingbookId": 5945703,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945703.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:22:23"
+      "changedAt": "2026-08-24 14:53:58"
     },
     {
       "id": 242,
