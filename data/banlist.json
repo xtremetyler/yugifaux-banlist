@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:50:14.350Z",
+  "updatedAt": "2026-08-24T03:52:25.180Z",
   "cards": [
     {
       "id": 14,
@@ -3730,10 +3730,10 @@
       "text": "1 Level 4 or 8 Warrior Monster + 1 WIND Monster, either with a different name or named \"Saki, Lightning Psyker\"\nOnce per turn, during your Main Phase while this card is in your Extra Monster Zone: You can add 1 \"P-Power\" card from your GY to the hand. Once per turn (Quick Effect): You can target 1 face-up Monster your opponent controls; its effects are negated until the end of this turn. (Quick Effect): You can discard 1 \"S-Power\" card to activate 1 of the following effects. \n● This card gains 1000 ATK/DEF until the start of your next turn.\n● The next time this turn that this card would be destroyed by battle or card effect, it is not destroyed.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5944979,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944979.jpg",
+      "duelingbookId": 5995199,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995199.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:24:28"
+      "changedAt": "2026-08-24 03:52:23"
     },
     {
       "id": 221,
