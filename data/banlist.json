@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:59:39.834Z",
+  "updatedAt": "2026-08-24T15:06:55.137Z",
   "cards": [
     {
       "id": 14,
@@ -17,7 +17,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/32181268.jpg",
       "officialUrl": "https://ygoprodeck.com/card/amano-iwato-8585",
-      "addedAt": "2026-07-29 04:34:27"
+      "addedAt": "2026-07-29 04:34:27",
+      "changedAt": "2026-07-29 04:34:27"
     },
     {
       "id": 17,
@@ -39,7 +40,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/20665527.jpg",
       "officialUrl": "https://ygoprodeck.com/card/amphibious-swarmship-amblowhale-10047",
-      "addedAt": "2026-07-29 04:36:20"
+      "addedAt": "2026-07-29 04:36:20",
+      "changedAt": "2026-07-29 04:36:20"
     },
     {
       "id": 73,
@@ -56,7 +58,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/25862681.jpg",
       "officialUrl": "https://ygoprodeck.com/card/ancient-fairy-dragon-2229",
-      "addedAt": "2026-07-31 16:50:45"
+      "addedAt": "2026-07-31 16:50:45",
+      "changedAt": "2026-07-31 16:50:45"
     },
     {
       "id": 64,
@@ -73,7 +76,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5987218,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987218.jpg",
-      "addedAt": "2026-07-31 03:57:21"
+      "addedAt": "2026-07-31 03:57:21",
+      "changedAt": "2026-07-31 03:57:21"
     },
     {
       "id": 239,
@@ -91,7 +95,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/81797573.jpg",
       "officialUrl": "https://ygoprodeck.com/card/angelechy-enlisted-15804",
-      "addedAt": "2026-08-17 02:56:59"
+      "addedAt": "2026-08-17 02:56:59",
+      "changedAt": "2026-08-17 02:56:59"
     },
     {
       "id": 33,
@@ -111,7 +116,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/57624336.jpg",
       "officialUrl": "https://ygoprodeck.com/card/archfiend-eccentrick-4907",
-      "addedAt": "2026-07-29 04:51:17"
+      "addedAt": "2026-07-29 04:51:17",
+      "changedAt": "2026-07-29 04:51:17"
     },
     {
       "id": 74,
@@ -128,7 +134,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/29071332.jpg",
       "officialUrl": "https://ygoprodeck.com/card/armory-arm-2464",
-      "addedAt": "2026-07-31 16:50:59"
+      "addedAt": "2026-07-31 16:50:59",
+      "changedAt": "2026-07-31 16:50:59"
     },
     {
       "id": 48,
@@ -142,7 +149,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/88301833.jpg",
       "officialUrl": "https://ygoprodeck.com/card/ascending-soul-7387",
-      "addedAt": "2026-07-29 05:02:31"
+      "addedAt": "2026-07-29 05:02:31",
+      "changedAt": "2026-07-29 05:02:31"
     },
     {
       "id": 195,
@@ -163,7 +171,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5991280,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991280.jpg",
-      "addedAt": "2026-08-12 20:19:49"
+      "addedAt": "2026-08-12 20:19:49",
+      "changedAt": "2026-08-12 20:19:49"
     },
     {
       "id": 162,
@@ -181,14 +190,15 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980161,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980161.jpg",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-23 12:45:29"
     },
     {
       "id": 128,
       "name": "Badlands Stalker of Shaitand",
       "status": "banned",
       "source": "custom",
-      "cardType": "Effect Monster",
+      "cardType": "Pendulum Effect Monster",
       "monsterType": "Rock",
       "attribute": "EARTH",
       "levelRankLink": "Level 5",
@@ -201,7 +211,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948434,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948434.jpg",
-      "addedAt": "2026-08-10 01:40:42"
+      "addedAt": "2026-08-10 01:40:42",
+      "changedAt": "2026-08-10 01:40:42"
     },
     {
       "id": 40,
@@ -218,7 +229,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/13836592.jpg",
       "officialUrl": "https://ygoprodeck.com/card/behemoth-the-king-of-a-hundred-battles-13824",
-      "addedAt": "2026-07-29 04:55:36"
+      "addedAt": "2026-07-29 04:55:36",
+      "changedAt": "2026-07-29 04:55:36"
     },
     {
       "id": 55,
@@ -239,7 +251,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/22125101.jpg",
       "officialUrl": "https://ygoprodeck.com/card/beyond-the-pendulum-12977",
-      "addedAt": "2026-07-29 05:07:17"
+      "addedAt": "2026-07-29 05:07:17",
+      "changedAt": "2026-07-29 05:07:17"
     },
     {
       "id": 13,
@@ -257,7 +270,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/14785765.jpg",
       "officialUrl": "https://ygoprodeck.com/card/blackwing-zephyros-the-elite-1269",
-      "addedAt": "2026-07-29 04:28:40"
+      "addedAt": "2026-07-29 04:28:40",
+      "changedAt": "2026-07-29 04:28:40"
     },
     {
       "id": 253,
@@ -272,7 +286,8 @@
       "contributor": "I \"Lack toes\" Joules",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/2204140.jpg",
       "officialUrl": "https://ygoprodeck.com/card/book-of-life-199",
-      "addedAt": "2026-08-18 13:00:37"
+      "addedAt": "2026-08-18 13:00:37",
+      "changedAt": "2026-08-18 13:00:37"
     },
     {
       "id": 9,
@@ -287,7 +302,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/31834488.jpg",
       "officialUrl": "https://ygoprodeck.com/card/book-of-lunar-eclipse-11920",
-      "addedAt": "2026-07-29 04:25:31"
+      "addedAt": "2026-07-29 04:25:31",
+      "changedAt": "2026-07-29 04:25:31"
     },
     {
       "id": 241,
@@ -302,7 +318,8 @@
       "contributor": "I \"Lack toes\" Joules",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/14087893.jpg",
       "officialUrl": "https://ygoprodeck.com/card/book-of-moon-1206",
-      "addedAt": "2026-08-17 14:02:04"
+      "addedAt": "2026-08-17 14:02:04",
+      "changedAt": "2026-08-17 14:02:04"
     },
     {
       "id": 217,
@@ -317,9 +334,10 @@
       "text": "“S-Power” cards are also treated as “P-Power” cards, and “P-Power” cards are also treated as “S-Power” cards. Once per Chain (Quick Effect): You can shuffle your Deck. Once per turn, when a card or effect is activated (Quick Effect): You can discard 1 “Saki” monster; negate the activation, and if you do, destroy that card. During your Main Phase (Quick Effect): You can banish this card from your field or GY; choose 2 cards with different names from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed during this Chain.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5945865,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945865.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995197,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995197.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-23 23:25:49"
     },
     {
       "id": 168,
@@ -336,7 +354,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980178,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980178.jpg",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-23 12:45:43"
     },
     {
       "id": 70,
@@ -354,7 +373,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/6353603.jpg",
       "officialUrl": "https://ygoprodeck.com/card/brotherhood-of-the-fire-fist-bear-559",
-      "addedAt": "2026-07-31 16:50:13"
+      "addedAt": "2026-07-31 16:50:13",
+      "changedAt": "2026-07-31 16:50:13"
     },
     {
       "id": 27,
@@ -368,7 +388,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24224830.jpg",
       "officialUrl": "https://ygoprodeck.com/card/called-by-the-grave-9244",
-      "addedAt": "2026-07-29 04:48:33"
+      "addedAt": "2026-07-29 04:48:33",
+      "changedAt": "2026-07-29 04:48:33"
     },
     {
       "id": 119,
@@ -385,7 +406,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948451,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948451.jpg",
-      "addedAt": "2026-08-10 01:34:34"
+      "addedAt": "2026-08-10 01:34:34",
+      "changedAt": "2026-08-24 02:45:54"
     },
     {
       "id": 236,
@@ -402,7 +424,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5995216,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995216.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-22 10:20:47"
     },
     {
       "id": 197,
@@ -420,7 +443,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5991456,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991456.jpg",
-      "addedAt": "2026-08-12 22:39:46"
+      "addedAt": "2026-08-12 22:39:46",
+      "changedAt": "2026-08-12 22:39:46"
     },
     {
       "id": 88,
@@ -437,7 +461,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939429,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939429.jpg",
-      "addedAt": "2026-08-06 23:03:57"
+      "addedAt": "2026-08-06 23:03:57",
+      "changedAt": "2026-08-06 23:03:57"
     },
     {
       "id": 5,
@@ -454,7 +479,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/50643638.jpg",
       "officialUrl": "https://ygoprodeck.com/card/chanbar-the-flashy-sportsknight-15280",
-      "addedAt": "2026-07-29 04:24:22"
+      "addedAt": "2026-07-29 04:24:22",
+      "changedAt": "2026-07-29 04:24:22"
     },
     {
       "id": 26,
@@ -468,7 +494,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/8267140.jpg",
       "officialUrl": "https://ygoprodeck.com/card/cosmic-cyclone-700",
-      "addedAt": "2026-07-29 04:48:13"
+      "addedAt": "2026-07-29 04:48:13",
+      "changedAt": "2026-07-29 04:48:13"
     },
     {
       "id": 67,
@@ -486,7 +513,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939420,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939420.jpg",
-      "addedAt": "2026-07-31 04:18:21"
+      "addedAt": "2026-07-31 04:18:21",
+      "changedAt": "2026-07-31 04:18:21"
     },
     {
       "id": 163,
@@ -504,7 +532,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980157,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980157.jpg",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-23 12:46:01"
     },
     {
       "id": 92,
@@ -521,7 +550,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939434,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939434.jpg",
-      "addedAt": "2026-08-07 03:04:59"
+      "addedAt": "2026-08-07 03:04:59",
+      "changedAt": "2026-08-07 03:04:59"
     },
     {
       "id": 30,
@@ -535,7 +565,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/84970821.jpg",
       "officialUrl": "https://ygoprodeck.com/card/curse-of-darkness-7127",
-      "addedAt": "2026-07-29 04:49:38"
+      "addedAt": "2026-07-29 04:49:38",
+      "changedAt": "2026-07-29 04:49:38"
     },
     {
       "id": 254,
@@ -549,7 +580,8 @@
       "contributor": "I \"Lack toes\" Joules",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/94749594.jpg",
       "officialUrl": "https://ygoprodeck.com/card/curse-of-the-ancient-turtle-14866",
-      "addedAt": "2026-08-18 13:08:49"
+      "addedAt": "2026-08-18 13:08:49",
+      "changedAt": "2026-08-18 13:08:49"
     },
     {
       "id": 235,
@@ -570,7 +602,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5995215,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995215.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-22 10:21:05"
     },
     {
       "id": 245,
@@ -588,7 +621,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999300,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999300.jpg",
-      "addedAt": "2026-08-17 15:08:50"
+      "addedAt": "2026-08-17 15:08:50",
+      "changedAt": "2026-08-17 15:08:50"
     },
     {
       "id": 4,
@@ -606,7 +640,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/43316238.jpg",
       "officialUrl": "https://ygoprodeck.com/card/danger-bigfoot-9628",
-      "addedAt": "2026-07-29 04:23:41"
+      "addedAt": "2026-07-29 04:23:41",
+      "changedAt": "2026-07-29 04:23:41"
     },
     {
       "id": 199,
@@ -621,7 +656,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/53129443.jpg",
       "officialUrl": "https://ygoprodeck.com/card/dark-hole-4525",
-      "addedAt": "2026-08-13 19:39:21"
+      "addedAt": "2026-08-13 19:39:21",
+      "changedAt": "2026-08-13 19:39:21"
     },
     {
       "id": 22,
@@ -639,7 +675,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/1035143.jpg",
       "officialUrl": "https://ygoprodeck.com/card/darkuriboh-15005",
-      "addedAt": "2026-07-29 04:47:12"
+      "addedAt": "2026-07-29 04:47:12",
+      "changedAt": "2026-07-29 04:47:12"
     },
     {
       "id": 34,
@@ -657,7 +694,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/82385847.jpg",
       "officialUrl": "https://ygoprodeck.com/card/dinowrestler-pankratops-9666",
-      "addedAt": "2026-07-29 04:51:34"
+      "addedAt": "2026-07-29 04:51:34",
+      "changedAt": "2026-07-29 04:51:34"
     },
     {
       "id": 56,
@@ -674,7 +712,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/90448279.jpg",
       "officialUrl": "https://ygoprodeck.com/card/divine-arsenal-aa-zeus-sky-thunder-11379",
-      "addedAt": "2026-07-29 05:07:52"
+      "addedAt": "2026-07-29 05:07:52",
+      "changedAt": "2026-07-29 05:07:52"
     },
     {
       "id": 198,
@@ -691,7 +730,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5991645,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991645.jpg",
-      "addedAt": "2026-08-13 00:45:36"
+      "addedAt": "2026-08-13 00:45:36",
+      "changedAt": "2026-08-13 00:45:36"
     },
     {
       "id": 191,
@@ -709,7 +749,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989487,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989487.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:18:18"
     },
     {
       "id": 184,
@@ -727,7 +768,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989512,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989512.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:19:09"
     },
     {
       "id": 185,
@@ -745,7 +787,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989508,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989508.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:19:55"
     },
     {
       "id": 186,
@@ -763,7 +806,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989506,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989506.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:20:41"
     },
     {
       "id": 21,
@@ -777,14 +821,15 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/47475363.jpg",
       "officialUrl": "https://ygoprodeck.com/card/drowning-mirror-force-4053",
-      "addedAt": "2026-07-29 04:46:51"
+      "addedAt": "2026-07-29 04:46:51",
+      "changedAt": "2026-07-29 04:46:51"
     },
     {
       "id": 127,
       "name": "Dune Warden of Shaitand",
       "status": "unlimeade",
       "source": "custom",
-      "cardType": "Effect Monster",
+      "cardType": "Pendulum Effect Monster",
       "monsterType": "Rock",
       "attribute": "EARTH",
       "levelRankLink": "Level 6",
@@ -797,7 +842,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948435,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948435.jpg",
-      "addedAt": "2026-08-10 01:40:05"
+      "addedAt": "2026-08-10 01:40:05",
+      "changedAt": "2026-08-24 03:21:59"
     },
     {
       "id": 193,
@@ -811,12 +857,13 @@
       "contributor": "The Original Rough Cheddar",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/67723438.jpg",
       "officialUrl": "https://ygoprodeck.com/card/emergency-teleport-5689",
-      "addedAt": "2026-08-11 21:29:16"
+      "addedAt": "2026-08-11 21:29:16",
+      "changedAt": "2026-08-11 21:29:16"
     },
     {
       "id": 43,
       "name": "Enigmaster Packbit",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Cyberse",
@@ -828,7 +875,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/72444406.jpg",
       "officialUrl": "https://ygoprodeck.com/card/enigmaster-packbit-14197",
-      "addedAt": "2026-07-29 04:57:08"
+      "addedAt": "2026-07-29 04:57:08",
+      "changedAt": "2026-08-24 14:23:42"
     },
     {
       "id": 229,
@@ -845,7 +893,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5995209,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995209.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-23 12:46:56"
     },
     {
       "id": 78,
@@ -859,7 +908,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/15693423.jpg",
       "officialUrl": "https://ygoprodeck.com/card/evenly-matched-8591",
-      "addedAt": "2026-07-31 16:52:04"
+      "addedAt": "2026-07-31 16:52:04",
+      "changedAt": "2026-07-31 16:52:04"
     },
     {
       "id": 61,
@@ -876,7 +926,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5940516,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5940516.jpg",
-      "addedAt": "2026-07-31 03:49:24"
+      "addedAt": "2026-07-31 03:49:24",
+      "changedAt": "2026-07-31 03:49:24"
     },
     {
       "id": 243,
@@ -893,7 +944,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999291,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999291.jpg",
-      "addedAt": "2026-08-17 15:02:49"
+      "addedAt": "2026-08-17 15:02:49",
+      "changedAt": "2026-08-17 15:02:49"
     },
     {
       "id": 76,
@@ -908,7 +960,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
       "officialUrl": "https://ygoprodeck.com/card/fire-formation-tenki-4866",
-      "addedAt": "2026-07-31 16:51:20"
+      "addedAt": "2026-07-31 16:51:20",
+      "changedAt": "2026-07-31 16:51:20"
     },
     {
       "id": 252,
@@ -925,7 +978,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5999524,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999524.jpg",
-      "addedAt": "2026-08-17 17:38:37"
+      "addedAt": "2026-08-17 17:38:37",
+      "changedAt": "2026-08-17 17:38:37"
     },
     {
       "id": 28,
@@ -940,7 +994,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24299458.jpg",
       "officialUrl": "https://ygoprodeck.com/card/forbidden-droplet-11026",
-      "addedAt": "2026-07-29 04:49:14"
+      "addedAt": "2026-07-29 04:49:14",
+      "changedAt": "2026-07-29 04:49:14"
     },
     {
       "id": 277,
@@ -957,8 +1012,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006949,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953524.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006949.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:47:51"
     },
     {
       "id": 188,
@@ -976,7 +1032,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989497,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989497.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:23:40"
     },
     {
       "id": 190,
@@ -994,7 +1051,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989495,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989495.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:24:23"
     },
     {
       "id": 189,
@@ -1012,7 +1070,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989500,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989500.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:25:20"
     },
     {
       "id": 187,
@@ -1030,7 +1089,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989488,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989488.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:25:58"
     },
     {
       "id": 192,
@@ -1048,7 +1108,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5989490,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989490.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-23 12:48:07"
     },
     {
       "id": 160,
@@ -1062,7 +1123,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/6498706.jpg",
       "officialUrl": "https://ygoprodeck.com/card/fusion-deployment-10818",
-      "addedAt": "2026-08-10 16:30:00"
+      "addedAt": "2026-08-10 16:30:00",
+      "changedAt": "2026-08-10 16:30:00"
     },
     {
       "id": 41,
@@ -1079,14 +1141,15 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/70088809.jpg",
       "officialUrl": "https://ygoprodeck.com/card/fydraulis-harmonia-15481",
-      "addedAt": "2026-07-29 04:56:02"
+      "addedAt": "2026-07-29 04:56:02",
+      "changedAt": "2026-07-29 04:56:02"
     },
     {
       "id": 125,
       "name": "Gem Golem of Shaitand",
       "status": "unlimeade",
       "source": "custom",
-      "cardType": "Normal Monster",
+      "cardType": "Pendulum Normal Monster",
       "monsterType": "Rock",
       "attribute": "EARTH",
       "levelRankLink": "Level 5",
@@ -1099,7 +1162,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948438,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948438.jpg",
-      "addedAt": "2026-08-10 01:38:40"
+      "addedAt": "2026-08-10 01:38:40",
+      "changedAt": "2026-08-24 03:26:31"
     },
     {
       "id": 164,
@@ -1117,7 +1181,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980164,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980164.jpg",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-23 12:48:26"
     },
     {
       "id": 12,
@@ -1134,7 +1199,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/59438930.jpg",
       "officialUrl": "https://ygoprodeck.com/card/ghost-ogre-snow-rabbit-5052",
-      "addedAt": "2026-07-29 04:27:09"
+      "addedAt": "2026-07-29 04:27:09",
+      "changedAt": "2026-07-29 04:27:09"
     },
     {
       "id": 244,
@@ -1151,7 +1217,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999295,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999295.jpg",
-      "addedAt": "2026-08-17 15:05:13"
+      "addedAt": "2026-08-17 15:05:13",
+      "changedAt": "2026-08-17 15:05:13"
     },
     {
       "id": 63,
@@ -1168,7 +1235,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5969601,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5969601.jpg",
-      "addedAt": "2026-07-31 03:52:57"
+      "addedAt": "2026-07-31 03:52:57",
+      "changedAt": "2026-07-31 03:52:57"
     },
     {
       "id": 85,
@@ -1182,7 +1250,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/75500286.jpg",
       "officialUrl": "https://ygoprodeck.com/card/gold-sarcophagus-6356",
-      "addedAt": "2026-08-04 14:27:11"
+      "addedAt": "2026-08-04 14:27:11",
+      "changedAt": "2026-08-04 14:27:11"
     },
     {
       "id": 65,
@@ -1199,7 +1268,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5961211,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961211.jpg",
-      "addedAt": "2026-07-31 04:07:31"
+      "addedAt": "2026-07-31 04:07:31",
+      "changedAt": "2026-07-31 04:07:31"
     },
     {
       "id": 208,
@@ -1215,16 +1285,17 @@
       "text": "During your Main Phase, or your opponent’s End Phase (Quick Effect): You can return any number of “Masked Rite” Equip Spells from the field to the hand; Special Summon this card from your hand or GY. If this card is sent to the GY as material for the Ritual or Fusion Summon of a “Masked Beast” monster: You can equip 1 Equip Spell from your hand or GY to that Summoned monster. You can only use each effect of “Grand Tiki Elder of the Masked Rite” once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5946947,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5946947.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995188,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995188.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:27:28"
     },
     {
       "id": 122,
       "name": "Great Alpha Tyrant of Shaitand",
       "status": "limeade",
       "source": "custom",
-      "cardType": "Fusion Monster",
+      "cardType": "Pendulum Fusion Monster",
       "monsterType": "Rock",
       "attribute": "EARTH",
       "levelRankLink": "Level 9",
@@ -1237,7 +1308,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948446,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948446.jpg",
-      "addedAt": "2026-08-10 01:37:00"
+      "addedAt": "2026-08-10 01:37:00",
+      "changedAt": "2026-08-24 03:28:44"
     },
     {
       "id": 268,
@@ -1255,7 +1327,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002872,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002872.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 16:42:59"
     },
     {
       "id": 269,
@@ -1276,7 +1349,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002873,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002873.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 16:43:17"
     },
     {
       "id": 258,
@@ -1294,7 +1368,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002860,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002860.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:23:47"
     },
     {
       "id": 255,
@@ -1312,7 +1387,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002857,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002857.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:22:53"
     },
     {
       "id": 260,
@@ -1330,7 +1406,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002862,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002862.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-23 12:48:43"
     },
     {
       "id": 256,
@@ -1348,7 +1425,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002858,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002858.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:23:12"
     },
     {
       "id": 261,
@@ -1365,7 +1443,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002864,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002864.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:24:24"
     },
     {
       "id": 257,
@@ -1383,7 +1462,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002859,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002859.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:23:29"
     },
     {
       "id": 259,
@@ -1401,7 +1481,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002861,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002861.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:24:06"
     },
     {
       "id": 53,
@@ -1419,14 +1500,15 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/11321089.jpg",
       "officialUrl": "https://ygoprodeck.com/card/guardian-chimera-12783",
-      "addedAt": "2026-07-29 05:06:45"
+      "addedAt": "2026-07-29 05:06:45",
+      "changedAt": "2026-07-29 05:06:45"
     },
     {
       "id": 57,
       "name": "Guthing's Seeking Vine",
       "status": "semi-limeade",
       "source": "custom",
-      "cardType": "Ritual Monster",
+      "cardType": "Pendulum Ritual Monster",
       "monsterType": "Plant",
       "abilities": [
         "Tuner"
@@ -1442,7 +1524,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5938256,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5938256.jpg",
-      "addedAt": "2026-07-31 03:40:58"
+      "addedAt": "2026-07-31 03:40:58",
+      "changedAt": "2026-07-31 03:40:58"
     },
     {
       "id": 214,
@@ -1457,9 +1540,10 @@
       "text": "Activate each of the following effects, based on the names of cards that have been revealed during this turn.\n● \"P-Power Rushdown\" - You can change any number of face-up Monsters your opponent controls to face-down Defense Position, up to the number of your cards that are currently revealed.\n● \"S-Power Resonance\" - Excavate cards from the top of your Deck until you reveal a Level 4 or lower Monster and Special Summon it, also place the rest of the excavated cards on the bottom of your Deck.\nYour opponent cannot activate cards or effects in response to this card's activation.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5945930,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945930.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995194,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995194.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:29:12"
     },
     {
       "id": 224,
@@ -1480,7 +1564,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5995204,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995204.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-22 10:21:59"
     },
     {
       "id": 271,
@@ -1498,7 +1583,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6004328,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004328.jpg",
-      "addedAt": "2026-08-20 13:46:32"
+      "addedAt": "2026-08-20 13:46:32",
+      "changedAt": "2026-08-20 13:46:32"
     },
     {
       "id": 39,
@@ -1515,7 +1601,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/17063599.jpg",
       "officialUrl": "https://ygoprodeck.com/card/heavenly-zephyr-miradora-11635",
-      "addedAt": "2026-07-29 04:54:23"
+      "addedAt": "2026-07-29 04:54:23",
+      "changedAt": "2026-07-29 04:54:23"
     },
     {
       "id": 44,
@@ -1533,7 +1620,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/68144894.jpg",
       "officialUrl": "https://ygoprodeck.com/card/hecahands-godos-15226",
-      "addedAt": "2026-07-29 04:57:31"
+      "addedAt": "2026-07-29 04:57:31",
+      "changedAt": "2026-07-29 04:57:31"
     },
     {
       "id": 103,
@@ -1551,7 +1639,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955913,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955913.jpg",
-      "addedAt": "2026-08-08 17:52:09"
+      "addedAt": "2026-08-08 17:52:09",
+      "changedAt": "2026-08-08 17:52:09"
     },
     {
       "id": 100,
@@ -1569,7 +1658,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955922,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955922.jpg",
-      "addedAt": "2026-08-07 03:40:22"
+      "addedAt": "2026-08-07 03:40:22",
+      "changedAt": "2026-08-07 03:40:22"
     },
     {
       "id": 104,
@@ -1587,7 +1677,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955915,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955915.jpg",
-      "addedAt": "2026-08-08 17:53:17"
+      "addedAt": "2026-08-08 17:53:17",
+      "changedAt": "2026-08-08 17:53:17"
     },
     {
       "id": 96,
@@ -1605,7 +1696,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955888,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955888.jpg",
-      "addedAt": "2026-08-07 03:33:04"
+      "addedAt": "2026-08-07 03:33:04",
+      "changedAt": "2026-08-07 03:33:04"
     },
     {
       "id": 99,
@@ -1623,7 +1715,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955912,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955912.jpg",
-      "addedAt": "2026-08-07 03:39:11"
+      "addedAt": "2026-08-07 03:39:11",
+      "changedAt": "2026-08-07 03:39:11"
     },
     {
       "id": 97,
@@ -1640,7 +1733,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955931,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955931.jpg",
-      "addedAt": "2026-08-07 03:35:08"
+      "addedAt": "2026-08-07 03:35:08",
+      "changedAt": "2026-08-07 03:35:08"
     },
     {
       "id": 105,
@@ -1657,7 +1751,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955924,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955924.jpg",
-      "addedAt": "2026-08-08 17:57:36"
+      "addedAt": "2026-08-08 17:57:36",
+      "changedAt": "2026-08-08 17:57:36"
     },
     {
       "id": 98,
@@ -1674,7 +1769,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955928,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955928.jpg",
-      "addedAt": "2026-08-07 03:38:00"
+      "addedAt": "2026-08-07 03:38:00",
+      "changedAt": "2026-08-07 03:38:00"
     },
     {
       "id": 107,
@@ -1692,7 +1788,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955907,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955907.jpg",
-      "addedAt": "2026-08-08 18:18:09"
+      "addedAt": "2026-08-08 18:18:09",
+      "changedAt": "2026-08-08 18:18:09"
     },
     {
       "id": 101,
@@ -1710,7 +1807,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955918,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955918.jpg",
-      "addedAt": "2026-08-07 03:42:17"
+      "addedAt": "2026-08-07 03:42:17",
+      "changedAt": "2026-08-07 03:42:17"
     },
     {
       "id": 106,
@@ -1728,7 +1826,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955909,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955909.jpg",
-      "addedAt": "2026-08-08 18:17:21"
+      "addedAt": "2026-08-08 18:17:21",
+      "changedAt": "2026-08-08 18:17:21"
     },
     {
       "id": 123,
@@ -1746,7 +1845,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948442,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948442.jpg",
-      "addedAt": "2026-08-10 01:37:31"
+      "addedAt": "2026-08-10 01:37:31",
+      "changedAt": "2026-08-24 03:30:40"
     },
     {
       "id": 234,
@@ -1767,7 +1867,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5995214,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995214.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-22 10:21:23"
     },
     {
       "id": 11,
@@ -1781,7 +1882,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/20899496.jpg",
       "officialUrl": "https://ygoprodeck.com/card/ice-dragon-s-prison-11056",
-      "addedAt": "2026-07-29 04:26:46"
+      "addedAt": "2026-07-29 04:26:46",
+      "changedAt": "2026-07-29 04:26:46"
     },
     {
       "id": 89,
@@ -1798,7 +1900,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939425,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939425.jpg",
-      "addedAt": "2026-08-07 02:53:44"
+      "addedAt": "2026-08-07 02:53:44",
+      "changedAt": "2026-08-07 02:53:44"
     },
     {
       "id": 228,
@@ -1815,7 +1918,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5995208,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995208.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-22 10:21:41"
     },
     {
       "id": 25,
@@ -1832,7 +1936,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/22091647.jpg",
       "officialUrl": "https://ygoprodeck.com/card/immortal-phoenix-gearfried-10517",
-      "addedAt": "2026-07-29 04:48:03"
+      "addedAt": "2026-07-29 04:48:03",
+      "changedAt": "2026-07-29 04:48:03"
     },
     {
       "id": 230,
@@ -1849,7 +1954,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5995210,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995210.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-23 12:49:19"
     },
     {
       "id": 31,
@@ -1863,7 +1969,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/10045474.jpg",
       "officialUrl": "https://ygoprodeck.com/card/infinite-impermanence-9220",
-      "addedAt": "2026-07-29 04:49:57"
+      "addedAt": "2026-07-29 04:49:57",
+      "changedAt": "2026-07-29 04:49:57"
     },
     {
       "id": 279,
@@ -1880,8 +1987,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006951,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5958334.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006951.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:48:51"
     },
     {
       "id": 136,
@@ -1899,7 +2007,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961288,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961288.jpg",
-      "addedAt": "2026-08-10 03:07:33"
+      "addedAt": "2026-08-10 03:07:33",
+      "changedAt": "2026-08-24 03:31:06"
     },
     {
       "id": 140,
@@ -1917,7 +2026,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961262,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961262.jpg",
-      "addedAt": "2026-08-10 03:10:08"
+      "addedAt": "2026-08-10 03:10:08",
+      "changedAt": "2026-08-24 03:31:37"
     },
     {
       "id": 137,
@@ -1935,7 +2045,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961286,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961286.jpg",
-      "addedAt": "2026-08-10 03:07:54"
+      "addedAt": "2026-08-10 03:07:54",
+      "changedAt": "2026-08-24 03:32:11"
     },
     {
       "id": 145,
@@ -1952,7 +2063,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961271,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961271.jpg",
-      "addedAt": "2026-08-10 03:12:15"
+      "addedAt": "2026-08-10 03:12:15",
+      "changedAt": "2026-08-24 03:32:46"
     },
     {
       "id": 146,
@@ -1960,7 +2072,7 @@
       "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
-      "spellTrapType": "Ritual",
+      "spellTrapType": "Normal",
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
@@ -1969,7 +2081,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961276,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961276.jpg",
-      "addedAt": "2026-08-10 03:12:40"
+      "addedAt": "2026-08-10 03:12:40",
+      "changedAt": "2026-08-24 03:33:13"
     },
     {
       "id": 138,
@@ -1987,7 +2100,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961281,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961281.jpg",
-      "addedAt": "2026-08-10 03:08:28"
+      "addedAt": "2026-08-10 03:08:28",
+      "changedAt": "2026-08-24 03:34:20"
     },
     {
       "id": 135,
@@ -2005,7 +2119,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961293,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961293.jpg",
-      "addedAt": "2026-08-10 03:07:17"
+      "addedAt": "2026-08-10 03:07:17",
+      "changedAt": "2026-08-24 03:34:47"
     },
     {
       "id": 144,
@@ -2022,7 +2137,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961265,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961265.jpg",
-      "addedAt": "2026-08-10 03:11:53"
+      "addedAt": "2026-08-10 03:11:53",
+      "changedAt": "2026-08-24 03:35:37"
     },
     {
       "id": 139,
@@ -2040,7 +2156,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961256,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961256.jpg",
-      "addedAt": "2026-08-10 03:09:32"
+      "addedAt": "2026-08-10 03:09:32",
+      "changedAt": "2026-08-24 03:36:33"
     },
     {
       "id": 142,
@@ -2061,7 +2178,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961250,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961250.jpg",
-      "addedAt": "2026-08-10 03:10:54"
+      "addedAt": "2026-08-10 03:10:54",
+      "changedAt": "2026-08-24 03:37:34"
     },
     {
       "id": 143,
@@ -2078,7 +2196,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961246,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961246.jpg",
-      "addedAt": "2026-08-10 03:11:29"
+      "addedAt": "2026-08-10 03:11:29",
+      "changedAt": "2026-08-24 03:38:17"
     },
     {
       "id": 141,
@@ -2096,12 +2215,13 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961259,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961259.jpg",
-      "addedAt": "2026-08-10 03:10:28"
+      "addedAt": "2026-08-10 03:10:28",
+      "changedAt": "2026-08-24 03:38:37"
     },
     {
       "id": 46,
       "name": "Interdimensional Matter Forwarder",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Continuous",
@@ -2110,12 +2230,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/60238002.jpg",
       "officialUrl": "https://ygoprodeck.com/card/interdimensional-matter-forwarder-14487",
-      "addedAt": "2026-07-29 04:59:25"
+      "addedAt": "2026-07-29 04:59:25",
+      "changedAt": "2026-08-24 14:03:59"
     },
     {
       "id": 20,
       "name": "Intimidating Ore - Summonite",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Normal",
@@ -2124,12 +2245,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/91592030.jpg",
       "officialUrl": "https://ygoprodeck.com/card/intimidating-ore-summonite-13567",
-      "addedAt": "2026-07-29 04:44:55"
+      "addedAt": "2026-07-29 04:44:55",
+      "changedAt": "2026-07-29 04:44:55"
     },
     {
       "id": 194,
       "name": "Iris the Radiant, the Celestial Eye of Infinite Reflections",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Illusion",
@@ -2148,12 +2270,13 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5991157,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991157.jpg",
-      "addedAt": "2026-08-12 18:44:19"
+      "addedAt": "2026-08-12 18:44:19",
+      "changedAt": "2026-08-12 18:44:19"
     },
     {
       "id": 24,
       "name": "Junk Synchron",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Tuner Monster",
       "monsterType": "Warrior",
@@ -2166,12 +2289,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/63977008.jpg",
       "officialUrl": "https://ygoprodeck.com/card/junk-synchron-5399",
-      "addedAt": "2026-07-29 04:47:41"
+      "addedAt": "2026-07-29 04:47:41",
+      "changedAt": "2026-07-29 04:47:41"
     },
     {
       "id": 237,
       "name": "Juraishin, the Cursed Thunder God",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Psychic",
@@ -2183,7 +2307,8 @@
       "contributor": "The Original Rough Cheddar",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/78693036.jpg",
       "officialUrl": "https://ygoprodeck.com/card/juraishin-the-cursed-thunder-god-14934",
-      "addedAt": "2026-08-16 23:38:03"
+      "addedAt": "2026-08-16 23:38:03",
+      "changedAt": "2026-08-16 23:38:03"
     },
     {
       "id": 272,
@@ -2201,12 +2326,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6004329,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004329.jpg",
-      "addedAt": "2026-08-20 13:51:19"
+      "addedAt": "2026-08-20 13:51:19",
+      "changedAt": "2026-08-24 14:07:29"
     },
     {
       "id": 240,
       "name": "Kerzebs, the Gaoled Glutton",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "XYZ Monster",
       "monsterType": "Beast",
@@ -2218,7 +2344,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/94503794.jpg",
       "officialUrl": "https://ygoprodeck.com/card/kerzebs-the-gaoled-glutton-15211",
-      "addedAt": "2026-08-17 02:58:04"
+      "addedAt": "2026-08-17 02:58:04",
+      "changedAt": "2026-08-24 14:08:17"
     },
     {
       "id": 175,
@@ -2236,7 +2363,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/43904702.jpg",
       "officialUrl": "https://ygoprodeck.com/card/kewl-tune-clip-15223",
-      "addedAt": "2026-08-11 13:52:53"
+      "addedAt": "2026-08-11 13:52:53",
+      "changedAt": "2026-08-11 13:52:53"
     },
     {
       "id": 87,
@@ -2253,7 +2381,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5948265,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948265.jpg",
-      "addedAt": "2026-08-04 17:28:38"
+      "addedAt": "2026-08-04 17:28:38",
+      "changedAt": "2026-08-04 17:28:38"
     },
     {
       "id": 32,
@@ -2270,7 +2399,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/102380.jpg",
       "officialUrl": "https://ygoprodeck.com/card/lava-golem-8",
-      "addedAt": "2026-07-29 04:50:09"
+      "addedAt": "2026-07-29 04:50:09",
+      "changedAt": "2026-07-29 04:50:09"
     },
     {
       "id": 282,
@@ -2286,8 +2416,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006954,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953501.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006954.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:49:33"
     },
     {
       "id": 2,
@@ -2304,7 +2435,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/9822220.jpg",
       "officialUrl": "https://ygoprodeck.com/card/lord-of-the-heavenly-prison-12481",
-      "addedAt": "2026-07-29 04:23:00"
+      "addedAt": "2026-07-29 04:23:00",
+      "changedAt": "2026-07-29 04:23:00"
     },
     {
       "id": 210,
@@ -2320,9 +2452,10 @@
       "text": "If this card is Normal or Special Summoned: You can add 1 “Masked Beast” Ritual Monster from your Deck to your hand, then you can equip 1 “Masked Rite” Equip Spell from your Deck to this card, then if this card was Normal Summoned, Special Summon 1 \"Umbra, Herald of the Masked Rite\" from your deck to an adjacent monster zone, but negate its effects. If you already control \"Umbra\" you may special summon another \"Masked Rite\" monster instead. If a “Masked Rite” Equip Spell is sent from the field to the GY while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of “Lumis, Herald of the Masked Rite” once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5945682,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945682.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995190,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995190.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:39:16"
     },
     {
       "id": 177,
@@ -2340,7 +2473,8 @@
       "contributor": "The Original Rough Cheddar",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/72971064.jpg",
       "officialUrl": "https://ygoprodeck.com/card/lyrilusc-ensemblue-robin-12217",
-      "addedAt": "2026-08-11 17:57:51"
+      "addedAt": "2026-08-11 17:57:51",
+      "changedAt": "2026-08-11 17:57:51"
     },
     {
       "id": 248,
@@ -2358,12 +2492,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999448,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999448.jpg",
-      "addedAt": "2026-08-17 16:52:27"
+      "addedAt": "2026-08-17 16:52:27",
+      "changedAt": "2026-08-17 16:52:27"
     },
     {
       "id": 274,
       "name": "Magical Something",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -2375,12 +2510,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/43930492.jpg",
       "officialUrl": "https://ygoprodeck.com/card/magical-something-3752",
-      "addedAt": "2026-08-21 18:55:42"
+      "addedAt": "2026-08-21 18:55:42",
+      "changedAt": "2026-08-24 14:17:29"
     },
     {
       "id": 3,
       "name": "Manju of the Ten Thousand Hands",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -2392,12 +2528,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/95492061.jpg",
       "officialUrl": "https://ygoprodeck.com/card/manju-of-the-ten-thousand-hands-7954",
-      "addedAt": "2026-07-29 04:23:26"
+      "addedAt": "2026-07-29 04:23:26",
+      "changedAt": "2026-08-24 14:18:15"
     },
     {
       "id": 51,
       "name": "March of the Monarchs",
-      "status": "banned",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Continuous",
@@ -2407,12 +2544,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/19870120.jpg",
       "officialUrl": "https://ygoprodeck.com/card/march-of-the-monarchs-1709",
-      "addedAt": "2026-07-29 05:03:24"
+      "addedAt": "2026-07-29 05:03:24",
+      "changedAt": "2026-07-29 05:03:24"
     },
     {
       "id": 200,
       "name": "Masked Beast Des Gardius, Eclipse Incarnate",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Fiend",
@@ -2423,9 +2561,10 @@
       "text": "“Lumis, Herald of the Masked Rite” + “Umbra, Herald of the Masked Rite”\nMust first be Fusion Summoned, or Special Summoned from your Extra Deck by shuffling the above cards you control and/or in your GY into the Deck while you control a Ritual Summoned “Masked Beast” monster (This is treated as a fusion summon). You can only Special Summon “Masked Beast Des Gardius, Eclipse Incarnate” once per turn this way. If this card is Special Summoned: You can target up to 2 face-up monsters your opponent controls; equip them to this card as Equip Spells. This card gains 500 ATK for each card equipped to it. When your opponent activates a card or effect (Quick Effect): You can send 1 card equipped to this card to the GY; negate the activation, and if you do, banish that card. You can only use this effect of “Masked Beast Des Gardius, Eclipse Incarnate” once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5945733,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945733.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995180,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995180.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:39:37"
     },
     {
       "id": 206,
@@ -2440,9 +2579,10 @@
       "text": "Equip only to a face-up monster. During either player's Standby Phase: You can target 1 Monster the turn player controls; equip this card to that target. Apply the appropriate effect, based on who controls the equipped monster.\n● You: The equipped Monster can attack directly. If it does while your opponent controls a Monster, its ATK is halved during damage calculation only. Once per turn, when an opponent’s monster declares an attack on it, negate that attack, also you take 500 damage during each of your Standby Phases.\n● Your opponent: It cannot attack, also its controller takes 500 damage during each of their Standby Phases.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5947646,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947646.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995186,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995186.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:40:17"
     },
     {
       "id": 205,
@@ -2457,9 +2597,10 @@
       "text": "Equip only to a face-up monster. Apply the appropriate effect, based on who controls the equipped monster.\n● You: It gains 1000 ATK, but you take 500 damage during each of your Standby Phases.\n● Your opponent: It gains 1000 ATK, but its effects are negated.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5947208,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947208.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995185,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995185.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:40:56"
     },
     {
       "id": 204,
@@ -2474,9 +2615,10 @@
       "text": "Equip only to a face-up monster. During either player's Standby Phase: You can target 1 Monster the turn player controls; equip this card to that target. Apply the appropriate effect, based on who controls the equipped monster.\n● You: It is unaffected by your opponent’s Spell effects, but you take 500 damage during each of your Standby Phases. When you draw for your normal draw in your Draw Phase: You can place 1 of those Equip Spell Cards on the bottom of your Deck to draw 1 additional card.\n● Your opponent: It gains 500 ATK, but the first time each turn its controller activates a Spell Card or effect, negate that effect, and if you do, destroy that card.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5947215,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947215.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995184,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995184.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:41:26"
     },
     {
       "id": 203,
@@ -2491,9 +2633,10 @@
       "text": "Equip only to a face-up monster. Apply the appropriate effect, based on who controls the equipped monster.\n● You: Control of it cannot switch, also it is unaffected by your opponent’s activated monster effects, but you take 500 damage during each of your Standby Phases.\n● Your opponent: Once per turn (Quick Effect): You can send 1 “Masked Beast” or “Masked Rite” card from your hand or field to the GY; take control of the equipped monster",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5947212,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947212.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995183,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995183.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:41:46"
     },
     {
       "id": 202,
@@ -2508,9 +2651,10 @@
       "text": "Equip only to a face-up monster. Apply the appropriate effect, based on who controls the equipped monster.\n● You: When Ritual Summoning a “Masked Beast” monster, you can also Tribute face-up “Masked Rite” Spell/Trap Cards you control, treating each as a Level 4 LIGHT monster, and you can use Equip Spells in your GY by banishing them, treating each as a Level 2 DARK Monster.\n● Your opponent: Its controller cannot Tribute cards.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5947214,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947214.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995182,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995182.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:42:12"
     },
     {
       "id": 180,
@@ -2527,7 +2671,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5987182,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987182.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:42:32"
     },
     {
       "id": 183,
@@ -2544,7 +2689,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5987178,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987178.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:42:57"
     },
     {
       "id": 207,
@@ -2560,14 +2706,15 @@
       "text": "(Quick Effect): You can send this card from your hand to the GY, then target 1 face-up monster on the field; equip 1 “Masked Rite” Equip Spell from your Deck or GY to that target. While this card is in your GY (Quick effect) you can banish this card; equip 1 \"Masked Rite\" Equip Spell from your Deck or GY to that target. You can only use each effect of \"Melchid, Four-Faced Beast of the Masked Rite\" once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5946951,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5946951.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995187,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995187.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:43:21"
     },
     {
       "id": 6,
       "name": "Mereologic Aggregator",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "XYZ Monster",
       "monsterType": "Cyberse",
@@ -2579,12 +2726,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/9940036.jpg",
       "officialUrl": "https://ygoprodeck.com/card/mereologic-aggregator-13405",
-      "addedAt": "2026-07-29 04:24:38"
+      "addedAt": "2026-07-29 04:24:38",
+      "changedAt": "2026-08-24 14:23:23"
     },
     {
       "id": 10,
       "name": "Metaverse",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Normal",
@@ -2593,7 +2741,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/89208725.jpg",
       "officialUrl": "https://ygoprodeck.com/card/metaverse-8605",
-      "addedAt": "2026-07-29 04:26:31"
+      "addedAt": "2026-07-29 04:26:31",
+      "changedAt": "2026-08-24 14:24:06"
     },
     {
       "id": 91,
@@ -2610,7 +2759,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939423,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939423.jpg",
-      "addedAt": "2026-08-07 03:02:03"
+      "addedAt": "2026-08-07 03:02:03",
+      "changedAt": "2026-08-07 03:02:03"
     },
     {
       "id": 238,
@@ -2628,7 +2778,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/50415441.jpg",
       "officialUrl": "https://ygoprodeck.com/card/mimighoul-archfiend-14602",
-      "addedAt": "2026-08-17 00:35:36"
+      "addedAt": "2026-08-17 00:35:36",
+      "changedAt": "2026-08-17 00:35:36"
     },
     {
       "id": 154,
@@ -2645,7 +2796,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965685,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965685.jpg",
-      "addedAt": "2026-08-10 03:17:00"
+      "addedAt": "2026-08-10 03:17:00",
+      "changedAt": "2026-08-10 03:17:00"
     },
     {
       "id": 153,
@@ -2662,7 +2814,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965673,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965673.jpg",
-      "addedAt": "2026-08-10 03:16:38"
+      "addedAt": "2026-08-10 03:16:38",
+      "changedAt": "2026-08-10 03:16:38"
     },
     {
       "id": 152,
@@ -2679,7 +2832,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965671,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965671.jpg",
-      "addedAt": "2026-08-10 03:16:19"
+      "addedAt": "2026-08-10 03:16:19",
+      "changedAt": "2026-08-10 03:16:19"
     },
     {
       "id": 155,
@@ -2696,7 +2850,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965670,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965670.jpg",
-      "addedAt": "2026-08-10 03:17:28"
+      "addedAt": "2026-08-10 03:17:28",
+      "changedAt": "2026-08-10 03:17:28"
     },
     {
       "id": 151,
@@ -2714,7 +2869,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965653,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965653.jpg",
-      "addedAt": "2026-08-10 03:15:45"
+      "addedAt": "2026-08-10 03:15:45",
+      "changedAt": "2026-08-10 03:15:45"
     },
     {
       "id": 156,
@@ -2731,7 +2887,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965688,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965688.jpg",
-      "addedAt": "2026-08-10 03:17:49"
+      "addedAt": "2026-08-10 03:17:49",
+      "changedAt": "2026-08-10 03:17:49"
     },
     {
       "id": 149,
@@ -2749,7 +2906,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965649,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965649.jpg",
-      "addedAt": "2026-08-10 03:14:49"
+      "addedAt": "2026-08-10 03:14:49",
+      "changedAt": "2026-08-10 03:14:49"
     },
     {
       "id": 157,
@@ -2772,7 +2930,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965655,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965655.jpg",
-      "addedAt": "2026-08-10 03:18:16"
+      "addedAt": "2026-08-10 03:18:16",
+      "changedAt": "2026-08-10 03:18:16"
     },
     {
       "id": 150,
@@ -2790,7 +2949,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965654,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965654.jpg",
-      "addedAt": "2026-08-10 03:15:20"
+      "addedAt": "2026-08-10 03:15:20",
+      "changedAt": "2026-08-10 03:15:20"
     },
     {
       "id": 147,
@@ -2808,7 +2968,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965644,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965644.jpg",
-      "addedAt": "2026-08-10 03:13:47"
+      "addedAt": "2026-08-10 03:13:47",
+      "changedAt": "2026-08-10 03:13:47"
     },
     {
       "id": 158,
@@ -2829,7 +2990,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965668,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965668.jpg",
-      "addedAt": "2026-08-10 03:18:42"
+      "addedAt": "2026-08-10 03:18:42",
+      "changedAt": "2026-08-24 03:44:18"
     },
     {
       "id": 148,
@@ -2847,7 +3009,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5975253,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975253.jpg",
-      "addedAt": "2026-08-10 03:14:20"
+      "addedAt": "2026-08-10 03:14:20",
+      "changedAt": "2026-08-10 03:14:20"
     },
     {
       "id": 45,
@@ -2864,7 +3027,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/84040113.jpg",
       "officialUrl": "https://ygoprodeck.com/card/muddy-mudragon-10305",
-      "addedAt": "2026-07-29 04:58:03"
+      "addedAt": "2026-07-29 04:58:03",
+      "changedAt": "2026-07-29 04:58:03"
     },
     {
       "id": 80,
@@ -2882,7 +3046,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/42141493.jpg",
       "officialUrl": "https://ygoprodeck.com/card/mulcharmy-fuwalos-14591",
-      "addedAt": "2026-07-31 16:52:26"
+      "addedAt": "2026-07-31 16:52:26",
+      "changedAt": "2026-07-31 16:52:26"
     },
     {
       "id": 75,
@@ -2896,7 +3061,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/885016.jpg",
       "officialUrl": "https://ygoprodeck.com/card/multi-universe-14475",
-      "addedAt": "2026-07-31 16:51:11"
+      "addedAt": "2026-07-31 16:51:11",
+      "changedAt": "2026-07-31 16:51:11"
     },
     {
       "id": 280,
@@ -2913,8 +3079,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006952,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5952125.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006952.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:48:59"
     },
     {
       "id": 165,
@@ -2932,12 +3099,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980155,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980155.jpg",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-23 12:53:14"
     },
     {
       "id": 68,
       "name": "Nightmare Dream Clown",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -2950,7 +3118,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939421,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939421.jpg",
-      "addedAt": "2026-07-31 04:19:50"
+      "addedAt": "2026-07-31 04:19:50",
+      "changedAt": "2026-08-24 14:29:03"
     },
     {
       "id": 286,
@@ -2966,8 +3135,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006959,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5952025.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006959.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 01:33:50"
     },
     {
       "id": 212,
@@ -2983,9 +3153,10 @@
       "text": "You can return 1 \"Masked Rite\" Spell from your field or GY to your hand; Special Summon this card from your hand or GY. (Quick Effect): You can target 1 \"Masked Rite\" Equip Spell on the field; change its equipped target to another legal monster on the field, then you can add 1 \"Masked\" Fiend monster from your GY to your hand, except \"Nuvia the Wicked of the Masked Rite\". You can only use each effect of \"Nuvia the Wicked of the Masked Rite\" once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5946961,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5946961.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995192,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995192.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:45:14"
     },
     {
       "id": 117,
@@ -3002,7 +3173,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948458,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948458.jpg",
-      "addedAt": "2026-08-10 01:09:28"
+      "addedAt": "2026-08-10 01:09:28",
+      "changedAt": "2026-08-24 03:45:34"
     },
     {
       "id": 90,
@@ -3019,7 +3191,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939432,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939432.jpg",
-      "addedAt": "2026-08-07 02:58:00"
+      "addedAt": "2026-08-07 02:58:00",
+      "changedAt": "2026-08-07 02:58:00"
     },
     {
       "id": 179,
@@ -3036,7 +3209,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5987189,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987189.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-24 03:45:53"
     },
     {
       "id": 250,
@@ -3054,12 +3228,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999456,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999456.jpg",
-      "addedAt": "2026-08-17 16:55:50"
+      "addedAt": "2026-08-17 16:55:50",
+      "changedAt": "2026-08-17 16:55:50"
     },
     {
       "id": 7,
       "name": "Overlay Network",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Continuous",
@@ -3069,7 +3244,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/67378935.jpg",
       "officialUrl": "https://ygoprodeck.com/card/overlay-network-12986",
-      "addedAt": "2026-07-29 04:24:56"
+      "addedAt": "2026-07-29 04:24:56",
+      "changedAt": "2026-08-24 14:30:20"
     },
     {
       "id": 223,
@@ -3084,9 +3260,10 @@
       "text": "If this card becomes revealed: You can add 1 \"S-Power Rushdown\" from your Deck or GY to your hand. Fusion Summon 1 \"Saki\" Monster from your Extra Deck by banishing cards from your field or GY as Fusion Material, then, for the rest of the turn after this effect resolves, that Fusion Summoned Monster is unaffected by your opponent's Monster effects. While you control a face-up Monster Fusion Summoned by this card's effect, it gains the following effect.\n● Once per turn, when an opponent's Monster declares an attack (Quick Effect): You can negate that attack.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5944943,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944943.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995203,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995203.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:46:19"
     },
     {
       "id": 278,
@@ -3103,13 +3280,14 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006950,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5958342.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006950.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:48:12"
     },
     {
       "id": 60,
       "name": "Painful Preference",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -3121,12 +3299,13 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5935631,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5935631.jpg",
-      "addedAt": "2026-07-31 03:48:07"
+      "addedAt": "2026-07-31 03:48:07",
+      "changedAt": "2026-07-31 03:48:07"
     },
     {
       "id": 52,
       "name": "Penguin Soldier",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Flip Effect Monster",
       "monsterType": "Aqua",
@@ -3139,7 +3318,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/93920745.jpg",
       "officialUrl": "https://ygoprodeck.com/card/penguin-soldier-7816",
-      "addedAt": "2026-07-29 05:06:05"
+      "addedAt": "2026-07-29 05:06:05",
+      "changedAt": "2026-08-24 14:31:42"
     },
     {
       "id": 69,
@@ -3157,7 +3337,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939449,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939449.jpg",
-      "addedAt": "2026-07-31 04:21:20"
+      "addedAt": "2026-07-31 04:21:20",
+      "changedAt": "2026-07-31 04:21:20"
     },
     {
       "id": 94,
@@ -3175,7 +3356,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939441,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939441.jpg",
-      "addedAt": "2026-08-07 03:21:07"
+      "addedAt": "2026-08-07 03:21:07",
+      "changedAt": "2026-08-07 03:21:07"
     },
     {
       "id": 273,
@@ -3195,7 +3377,8 @@
       "contributor": "The Original Rough Cheddar",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/47759571.jpg",
       "officialUrl": "https://ygoprodeck.com/card/pitknight-earlie-13427",
-      "addedAt": "2026-08-21 17:51:05"
+      "addedAt": "2026-08-21 17:51:05",
+      "changedAt": "2026-08-21 17:51:05"
     },
     {
       "id": 265,
@@ -3212,14 +3395,15 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002869,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002869.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:25:35"
     },
     {
       "id": 59,
       "name": "Polyflora Hexbloom",
       "status": "limeade",
       "source": "custom",
-      "cardType": "Normal Monster",
+      "cardType": "Pendulum Normal Monster",
       "monsterType": "Plant",
       "attribute": "WIND",
       "levelRankLink": "Level 6",
@@ -3232,7 +3416,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5945201,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945201.jpg",
-      "addedAt": "2026-07-31 03:45:37"
+      "addedAt": "2026-07-31 03:45:37",
+      "changedAt": "2026-07-31 03:45:37"
     },
     {
       "id": 23,
@@ -3246,7 +3431,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24094653.jpg",
       "officialUrl": "https://ygoprodeck.com/card/polymerization-2077",
-      "addedAt": "2026-07-29 04:47:26"
+      "addedAt": "2026-07-29 04:47:26",
+      "changedAt": "2026-07-29 04:47:26"
     },
     {
       "id": 49,
@@ -3261,7 +3447,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/98645731.jpg",
       "officialUrl": "https://ygoprodeck.com/card/pot-of-duality-8196",
-      "addedAt": "2026-07-29 05:02:51"
+      "addedAt": "2026-07-29 05:02:51",
+      "changedAt": "2026-07-29 05:02:51"
     },
     {
       "id": 35,
@@ -3276,7 +3463,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/98476659.jpg",
       "officialUrl": "https://ygoprodeck.com/card/pot-of-sloth-15711",
-      "addedAt": "2026-07-29 04:51:46"
+      "addedAt": "2026-07-29 04:51:46",
+      "changedAt": "2026-07-29 04:51:46"
     },
     {
       "id": 54,
@@ -3294,7 +3482,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/2403771.jpg",
       "officialUrl": "https://ygoprodeck.com/card/power-tool-dragon-218",
-      "addedAt": "2026-07-29 05:07:01"
+      "addedAt": "2026-07-29 05:07:01",
+      "changedAt": "2026-07-29 05:07:01"
     },
     {
       "id": 18,
@@ -3308,7 +3497,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/13048472.jpg",
       "officialUrl": "https://ygoprodeck.com/card/pre-preparation-of-rites-1126",
-      "addedAt": "2026-07-29 04:37:29"
+      "addedAt": "2026-07-29 04:37:29",
+      "changedAt": "2026-07-29 04:37:29"
     },
     {
       "id": 262,
@@ -3325,7 +3515,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002865,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002865.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:24:41"
     },
     {
       "id": 275,
@@ -3340,7 +3531,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/20508881.jpg",
       "officialUrl": "https://ygoprodeck.com/card/radiant-typhoon-vision-15116",
-      "addedAt": "2026-08-21 21:46:06"
+      "addedAt": "2026-08-21 21:46:06",
+      "changedAt": "2026-08-21 21:46:06"
     },
     {
       "id": 213,
@@ -3355,14 +3547,15 @@
       "text": "If this card is revealed from any zone: You can Set it. Choose 1 card from your hand or Extra Deck to become revealed until the end of this turn; you can add 1 \"P-Power\" or \"S-Power\" card from your Deck to the hand. During your Main Phase: You can shuffle this card and another card from your GY into the Deck to target 1 \"Saki\" Monster in your GY; either add it to your hand or Special Summon it in Defense Position.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5947092,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947092.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995193,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995193.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:47:01"
     },
     {
       "id": 84,
       "name": "Redox, Dragon Ruler of Boulders",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
@@ -3374,7 +3567,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/90411554.jpg",
       "officialUrl": "https://ygoprodeck.com/card/redox-dragon-ruler-of-boulders-7551",
-      "addedAt": "2026-08-04 12:58:54"
+      "addedAt": "2026-08-04 12:58:54",
+      "changedAt": "2026-08-24 14:37:03"
     },
     {
       "id": 82,
@@ -3388,7 +3582,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/32807846.jpg",
       "officialUrl": "https://ygoprodeck.com/card/reinforcement-of-the-army-2794",
-      "addedAt": "2026-07-31 17:09:14"
+      "addedAt": "2026-07-31 17:09:14",
+      "changedAt": "2026-07-31 17:09:14"
     },
     {
       "id": 246,
@@ -3405,7 +3600,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999303,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999303.jpg",
-      "addedAt": "2026-08-17 15:10:44"
+      "addedAt": "2026-08-17 15:10:44",
+      "changedAt": "2026-08-17 15:10:44"
     },
     {
       "id": 222,
@@ -3420,9 +3616,10 @@
       "text": "If this card becomes revealed: You can add 1 \"P-Power Resonance\" from your Deck or GY to your hand. Fusion Summon 1 \"Saki\" Monster from your Extra Deck by banishing cards from your field or GY as Fusion Material, then, for the rest of the turn after this effect resolves, that Fusion Summoned Monster is unaffected by your opponent's Spell/Trap effects. While you control a face-up Monster Fusion Summoned by this card's effect, it gains the following effect.\n● This card can make a second attack during each of your Battle Phases.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5944945,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944945.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995202,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995202.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:47:20"
     },
     {
       "id": 95,
@@ -3438,7 +3635,10 @@
       "text": "3 DARK Spellcaster monsters, including a Fusion Monster\nMust first be Fusion Summoned. If this card is Fusion Summoned: You can Set 1 “Crush Clown Virus” or “Illusion Fusion” from your Deck and/or GY, but banish them when they leave the field. Once per turn, when your opponent activates a card or effect while “Crush Clown Virus” is in your GY: You can target 1 face-up monster your opponent controls; apply the effect of 1 “Crush Clown Virus” in your GY to that monster, except you do not Tribute a monster. If this Fusion Summoned card leaves the field by your opponent’s card: You can Special Summon up to 2 monsters that mention “Crush Clown Virus” from your GY and/or banishment, except \"Saggi & Peten, the Viral Vaudeville\". You can only use each effect of “Saggi & Peten, the Viral Vaudeville” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-07 03:24:50"
+      "duelingbookId": 5939446,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939446.jpg",
+      "addedAt": "2026-08-07 03:24:50",
+      "changedAt": "2026-08-24 03:47:48"
     },
     {
       "id": 66,
@@ -3454,7 +3654,10 @@
       "text": "If this card is Normal or Special Summoned: You can add 1 card that mentions “Crush Clown Virus” from your Deck to your hand, except “Saggi, the Contagious Clown”, or Set 1 “Crush Clown Virus” directly from your Deck or GY, and if you do, it can be activated this turn. You can only use this effect of “Saggi, the Contagious Clown” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-07-31 04:16:34"
+      "duelingbookId": 5939418,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939418.jpg",
+      "addedAt": "2026-07-31 04:16:34",
+      "changedAt": "2026-08-24 03:48:08"
     },
     {
       "id": 93,
@@ -3470,7 +3673,10 @@
       "text": "2 DARK Spellcaster monsters\nDuring the Main Phase (Quick Effect): You can Set 1 “Crush Clown Virus” or 1 Spell Card that mentions it from your Deck or GY, and if you do, it can be activated this turn. While “Crush Clown Virus” is in your GY, your opponent cannot activate cards or effects in response to the activation of your Normal Trap Cards. If a monster your opponent controls becomes a DARK Spellcaster monster by a card effect: You can target 1 card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Saggi, the Pandemic Puppeteer” once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-07 03:14:16"
+      "duelingbookId": 5939438,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939438.jpg",
+      "addedAt": "2026-08-07 03:14:16",
+      "changedAt": "2026-08-24 03:48:37"
     },
     {
       "id": 218,
@@ -3486,9 +3692,10 @@
       "text": "You can Special Summon this card (from your hand) by choosing an unrevealed Warrior Fusion Monster from your Extra Deck to become revealed until the end of this turn. Each time a card or effect is activated (Quick Effect): You can choose 1 card from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed by this effect during this Chain. Once per turn (Quick Effect): Activate each of the following effects, based on the attribute(s) of Monster(s) currently revealed.\n● WIND: Draw 2 cards, then discard 1 card.\n● LIGHT: Banish 1 card from your GY to target 1 Spell/Trap your opponent controls; destroy it.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5945847,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945847.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995198,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995198.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:49:06"
     },
     {
       "id": 215,
@@ -3504,9 +3711,10 @@
       "text": "You can Special Summon this card (from your hand) by choosing an unrevealed Warrior Fusion Monster from your Extra Deck to become revealed until the end of this turn. Each time a card or effect is activated (Quick Effect): You can choose 1 card from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed by this effect during this Chain. Once per turn (Quick Effect): Activate each of the following effects, based on the attribute(s) of Monster(s) currently revealed.\n● LIGHT: Monsters you control gain 1000 ATK/DEF until the end of this turn.\n● LIGHT, WIND, & WATER: For the rest of this turn after this effect resolves, Monsters you control cannot be targeted by or destroyed by your opponent's card effects.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5945919,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945919.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995195,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995195.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:49:36"
     },
     {
       "id": 219,
@@ -3522,9 +3730,10 @@
       "text": "1 Level 4 or 8 Warrior Monster + 1 WIND Monster, either with a different name or named \"Saki, Lightning Psyker\"\nOnce per turn, during your Main Phase while this card is in your Extra Monster Zone: You can add 1 \"P-Power\" card from your GY to the hand. Once per turn (Quick Effect): You can target 1 face-up Monster your opponent controls; its effects are negated until the end of this turn. (Quick Effect): You can discard 1 \"S-Power\" card to activate 1 of the following effects. \n● This card gains 1000 ATK/DEF until the start of your next turn.\n● The next time this turn that this card would be destroyed by battle or card effect, it is not destroyed.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5944979,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944979.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995199,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995199.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:52:23"
     },
     {
       "id": 221,
@@ -3540,9 +3749,10 @@
       "text": "You can Special Summon this card (from your hand) by choosing an unrevealed Warrior Fusion Monster from your Extra Deck to become revealed until the end of this turn. Each time a card or effect is activated (Quick Effect): You can choose 1 card from your hand, Deck, or Extra Deck to become revealed until the end of this Chain, but you cannot reveal a card with the same original name as a card already revealed by this effect during this Chain. Once per turn (Quick Effect): Activate each of the following effects, based on the attribute(s) of Monster(s) currently revealed.\n● WATER: You can add 1 \"P-Power\" Spell from your Deck to your hand.\n● WIND: You can add 1 \"S-Power\" Spell from your Deck to your hand.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5944947,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944947.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995201,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995201.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:52:36"
     },
     {
       "id": 220,
@@ -3558,16 +3768,17 @@
       "text": "1 Level 4 or 8 Warrior Monster + 1 WATER Monster, either with a different name or named \"Saki, Monk Specialist\"\nThe first time each turn your opponent's Monster attacks this card in the Extra Monster Zone: Negate that attack. During your Main Phase: You can target 1 other face-up Monster on the field with a different attribute; this card's attribute becomes that target's attribute until the end of this turn. (Quick Effect): You can discard 1 \"P-Power\" card to activate 1 of the following effects. \n● This card gains 1000 ATK/DEF until the start of your next turn.\n● The next time this turn that this card would be destroyed by battle or card effect, it is not destroyed",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5944964,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5944964.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995200,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995200.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:52:54"
     },
     {
       "id": 124,
       "name": "Salt Golem of Shaitand",
       "status": "unlimeade",
       "source": "custom",
-      "cardType": "Normal Monster",
+      "cardType": "Pendulum Normal Monster",
       "monsterType": "Rock",
       "attribute": "EARTH",
       "levelRankLink": "Level 5",
@@ -3580,7 +3791,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948439,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948439.jpg",
-      "addedAt": "2026-08-10 01:38:09"
+      "addedAt": "2026-08-10 01:38:09",
+      "changedAt": "2026-08-24 03:53:11"
     },
     {
       "id": 281,
@@ -3596,8 +3808,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006953,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953493.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006953.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:49:11"
     },
     {
       "id": 196,
@@ -3615,7 +3828,8 @@
       "contributor": "I \"Lack toes\" Joules",
       "duelingbookId": 5991305,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991305.jpg",
-      "addedAt": "2026-08-12 20:36:59"
+      "addedAt": "2026-08-12 20:36:59",
+      "changedAt": "2026-08-12 20:36:59"
     },
     {
       "id": 120,
@@ -3632,12 +3846,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948449,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948449.jpg",
-      "addedAt": "2026-08-10 01:35:22"
+      "addedAt": "2026-08-10 01:35:22",
+      "changedAt": "2026-08-24 03:53:34"
     },
     {
       "id": 47,
       "name": "Shiina, Twin Tempests of Celestial Thunder",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
@@ -3649,17 +3864,27 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/12197223.jpg",
       "officialUrl": "https://ygoprodeck.com/card/shiina-twin-tempests-of-celestial-thunder-15365",
-      "addedAt": "2026-07-29 05:00:33"
+      "addedAt": "2026-07-29 05:00:33",
+      "changedAt": "2026-08-24 14:40:42"
     },
     {
       "id": 166,
       "name": "Shimmering Skybreaker",
       "status": "unlimeade",
       "source": "custom",
-      "text": "Level 6 LIGHT Dragon Effect Monster\n2000 ATK\n2000 DEF\nIf you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon LIGHT Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a LIGHT Monster. You can only use each effect of \"Shimmering Skybreaker\" once per turn.",
+      "cardType": "Effect Monster",
+      "monsterType": "Dragon",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 6",
+      "atk": "2000",
+      "def": "2000",
+      "text": "If you control no face-up Monsters, or the only face-up Monsters you control are Dragon Monsters: You can Special Summon this card from your hand by banishing 1 WIND Monster from your Extra Deck, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except WIND or Dragon Monsters. While you control this face-up card, neither player can Special Summon LIGHT Monsters from the Extra Deck. During your Main Phase: You can banish this card from your GY to send 1 Monster from your banishment to the GY, except a LIGHT Monster. You can only use each effect of \"Shimmering Skybreaker\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "duelingbookId": 5980148,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980148.jpg",
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-24 03:54:29"
     },
     {
       "id": 285,
@@ -3675,8 +3900,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006958,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5952126.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006958.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:50:43"
     },
     {
       "id": 201,
@@ -3691,39 +3917,69 @@
       "text": "Reveal 1 Equip Spell from your hand and shuffle it into the Deck; draw 2 cards, then, if the revealed card was a “Masked Rite” Equip Spell, add 1 “Masked Rite” monster card from your deck to your hand. During your Main Phase, while this card is in your GY: You can banish this card; place 1 \"Masked Rite\" card from your GY on top of your Deck. You can only activate this effect of \"Signature Sigil of the Masked Rites\" once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5981731,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5981731.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "duelingbookId": 5995181,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995181.jpg",
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 03:54:47"
     },
     {
       "id": 169,
       "name": "Sky-Splitting Soundwave",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
-      "text": "Quick-Play Spell\nTarget 1 \"Broken Skies\" or Dragon Monster you control; activate 2 of the following effects in sequence.\n● Special Summon 1 \"Skybreaker\" Monster from your hand.\n● Special Summon 1 \"Skybreaker\" Monster from your banishment.\n● Synchro Summon or Fusion Summon 1 WIND or Dragon Monster from your Extra Deck using Monsters from either field, including any Dragon Monster(s) targeted to activate this effect, if able.\nYou can only activate 1 \"Sky-Splitting Soundwave\" per turn.",
+      "cardType": "Spell Card",
+      "spellTrapType": "Quick-Play",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Target 1 \"Broken Skies\" or Dragon Monster you control; activate 2 of the following effects in sequence. If a Fusion or Synchro Monster was targeted to active this card's effect, you can activate all of the following effects in sequence instead. \n● Special Summon 1 \"Skybreaker\" Monster from your hand.\n● Special Summon 1 \"Skybreaker\" Monster from your banishment.\n● Synchro Summon or Fusion Summon 1 WIND or Dragon Monster from your Extra Deck using Monsters from either field, including any Dragon Monster(s) targeted to activate this effect, if able.\nYou can only activate 1 \"Sky-Splitting Soundwave\" per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "duelingbookId": 5980181,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980181.jpg",
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-24 14:42:13"
     },
     {
       "id": 167,
       "name": "Skybreaker Adolescent",
       "status": "banned",
       "source": "custom",
-      "text": "Level 3 WIND Dragon Effect Monster\n1000 ATK\n1000 DEF\nDuring your Main Phase, while you control no face-up monsters, or the only face-up monsters you control are Dragon monsters: You can banish this card from your hand or field and 1 WIND or Dragon Monster from your Extra Deck; Special Summon 1 Level 6 Dragon Monster from your hand or Deck, except a Monster that shares an attribute with a Monster you control, but it cannot attack this turn. You can only activate this effect of \"Skybreaker Adolescent\" once per turn.",
+      "cardType": "Effect Monster",
+      "monsterType": "Dragon",
+      "abilities": [
+        "Tuner"
+      ],
+      "attribute": "WIND",
+      "levelRankLink": "Level 3",
+      "atk": "1000",
+      "def": "1000",
+      "text": "If you control no face-up Monsters, or the only face-up Monsters you control are Dragon Monsters: You can banish this card from your hand or field and 1 WIND or Dragon Monster from your Extra Deck; Special Summon 1 Level 6 Dragon Monster from your hand or Deck, except a Monster that shares an Attribute with a Monster you control, but it cannot attack this turn. During your Main Phase, while this card is in your banishment: You can target 1 other Dragon Monster in your GY or banishment; shuffle it into the Deck, then banish 1 Dragon Monster from your Extra Deck; activate 1 of the following effects.\n● Add this card to your hand. \n● Add 1 \"Broken Skies\" from your Deck to your hand.\nYou can only use each effect of \"Skybreaker Adolescent\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "duelingbookId": 5977243,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5977243.jpg",
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-24 03:55:28"
     },
     {
       "id": 172,
       "name": "Skybreaker Aeria Rex",
       "status": "semi-limeade",
       "source": "custom",
-      "text": "Level 8 WIND Dragon Fusion Effect Monster\n2500 ATK\n2500 DEF\nFUS.MAT.REQ.:1 Dragon Monster + 1 non-Dragon Monster, including 1 Monster that mentions the Extra Deck\nOnce per turn, during your Main Phase: You can Special Summon 1 Level 6 or lower \"Skybreaker\" Monster from your banishment. If this card is banished or Fusion Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Aeria Rex\" once per turn.\n● Send any number of Dragon Monsters with different names from your banishment to the GY.\n● Add 1 Level 6 or lower Monster that mentions the Extra Deck from your Deck to your hand, except a Monster that shares an attribute with the original attribute of a Monster you control.",
+      "cardType": "Fusion Monster",
+      "monsterType": "Dragon",
+      "attribute": "WIND",
+      "levelRankLink": "Level 8",
+      "atk": "2500",
+      "def": "2500",
+      "text": "1 Dragon Monster + 1 non-Dragon Monster, including 1 Monster that mentions the Extra Deck\nOnce per turn, during your Main Phase: You can Special Summon 1 Level 6 or lower \"Skybreaker\" Monster from your banishment. If this card is banished or Fusion Summoned: You can activate 1 of these effects, but you can only use each of the following effects of \"Skybreaker Aeria Rex\" once per turn.\n● Send any number of Dragon Monsters with different names from your banishment to the GY.\n● Add 1 Level 6 or lower Dragon Monster that mentions the Extra Deck from your Deck to your hand, except a Monster that shares an Attribute with a Monster you control.\nIf this banished card is sent to the GY: Banish 1 Dragon monster you control; your opponent cannot Special Summon monsters of the same attribute from their hand until the end of their next turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "duelingbookId": 5977235,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5977235.jpg",
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-24 03:55:49"
     },
     {
       "id": 173,
@@ -3733,7 +3989,8 @@
       "text": "Level 9 WIND Dragon Synchro Effect Monster\n2600 ATK\n2600 DEF\nSYN.MAT.REQ.: 1 Tuner + 1+ non-Tuner Monster(s), including 1 Dragon Monster and 1 Monster with an effect that banishes a card(s)\nYour opponent cannot target \"Skybreaker\" Monsters with the effects of a Special Summoned Monster(s) they control. If this card is banished or Synchro Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Aloft Sovereign\" once per turn.\n● Target 1 face-up Monster on the field that was Special Summoned, except a Dragon Monster; change it to face-down Defense Position.\n● Add 1 Level 6 or lower Monster with an effect that banishes a card(s) from your Deck to your hand, except a Monster that shares an oattribute with the original attribute of a Monster you control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-11 04:47:05"
     },
     {
       "id": 171,
@@ -3743,7 +4000,8 @@
       "text": "Level 8 WIND Dragon Fusion Effect Monster\n2500 ATK\n2500 DEF\nFUS.MAT.REQ.: 1 Dragon Monster + 1 non-Dragon Monster, including 1 Monster with an effect that Special Summons a Monster(s) from the hand\nThe effects of Special Summoned Dragon Monsters you control cannot be negated. If this card is banished or Fusion Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Apex Magna\" once per turn.\n● Target 1 face-up Monster on the field that was Special Summoned; return it to the hand.\n● Add 1 Level 6 or lower Monster with an effect that Special Summons a Monster(s) from the hand from your Deck to your hand, except a Monster that shares an attribute with the original attribute of a Monster you control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-11 04:47:05"
     },
     {
       "id": 174,
@@ -3753,7 +4011,8 @@
       "text": "Level 9 WIND Dragon Synchro Effect Monster\n2600 ATK\n2600 DEF\nSYN.MAT.REQ.: 1 Tuner + 1+ non-Tuner Monster(s), including 1 Dragon Monster and 1 Monster that mentions a WIND Monster\nAll Special Summoned Monsters your opponent controls lose ATK equal to 300 x the number of different original attributes among Dragon Monsters in your banishment. If this card is banished or Synchro Summoned: You can activate 1 of the following effects, but you can only use each of the following effects of \"Skybreaker Atmos Khan\" once per turn.\n● Add 1 Spell/Trap that mentions a Dragon Monster from your Deck to your hand.\n● Add 1 Level 6 or lower Monster that mentions a WIND Monster from your Deck to your hand, except a Monster that shares an attribute with the original attribute of a Monster you control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-11 04:47:05"
     },
     {
       "id": 170,
@@ -3763,7 +4022,8 @@
       "text": "Level 9 WIND Dragon Fusion Effect Monster\n3000 ATK\n2400 DEF\nFUS.MAT.REQ.: 1 Level 6 or higher Dragon + 2 non-Dragon Monsters\nYour opponent cannot activate the effects of Special Summoned WIND Monsters they control.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-11 04:47:05"
     },
     {
       "id": 36,
@@ -3777,7 +4037,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/89558743.jpg",
       "officialUrl": "https://ygoprodeck.com/card/small-world-12507",
-      "addedAt": "2026-07-29 04:52:18"
+      "addedAt": "2026-07-29 04:52:18",
+      "changedAt": "2026-07-29 04:52:18"
     },
     {
       "id": 1,
@@ -3791,12 +4052,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/45986603.jpg",
       "officialUrl": "https://ygoprodeck.com/card/snatch-steal-3918",
-      "addedAt": "2026-07-29 04:15:05"
+      "addedAt": "2026-07-29 04:15:05",
+      "changedAt": "2026-07-29 04:15:05"
     },
     {
       "id": 37,
       "name": "Solemn Scolding",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Counter",
@@ -3806,12 +4068,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/92512625.jpg",
       "officialUrl": "https://ygoprodeck.com/card/solemn-scolding-7705",
-      "addedAt": "2026-07-29 04:52:52"
+      "addedAt": "2026-07-29 04:52:52",
+      "changedAt": "2026-08-24 14:46:32"
     },
     {
       "id": 72,
       "name": "Soulicer Crystal",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Aqua",
@@ -3823,14 +4086,15 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24514503.jpg",
       "officialUrl": "https://ygoprodeck.com/card/soulicer-crystal-14957",
-      "addedAt": "2026-07-31 16:50:34"
+      "addedAt": "2026-07-31 16:50:34",
+      "changedAt": "2026-08-24 14:46:49"
     },
     {
       "id": 58,
       "name": "Spiralvine Budling",
       "status": "semi-limeade",
       "source": "custom",
-      "cardType": "Effect Monster",
+      "cardType": "Pendulum Effect Monster",
       "monsterType": "Plant",
       "abilities": [
         "Tuner"
@@ -3844,7 +4108,8 @@
       "text": "If this card is Normal or Special Summoned: You can place 1 Plant Pendulum Monster from your deck or face-up extra deck in your Pendulum Zone. If this card is face-up in the Extra Deck: You can banish 1 Monster from your GY; Special Summon this card, then increase its Level by 1, but banish it when it leaves the field. You can only use this effect of “Spiralvine Budling” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-07-31 03:43:19"
+      "addedAt": "2026-07-31 03:43:19",
+      "changedAt": "2026-07-31 03:43:19"
     },
     {
       "id": 113,
@@ -3861,7 +4126,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979841,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979841.jpg",
-      "addedAt": "2026-08-09 23:29:42"
+      "addedAt": "2026-08-09 23:29:42",
+      "changedAt": "2026-08-09 23:29:42"
     },
     {
       "id": 111,
@@ -3873,7 +4139,8 @@
       "text": "Target 1 face-up Monster your opponent controls; negate its effects until the end of this turn, then if you control \"Spirebound Ironclad\", destroy it.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-09 23:27:18"
+      "addedAt": "2026-08-09 23:27:18",
+      "changedAt": "2026-08-09 23:27:18"
     },
     {
       "id": 112,
@@ -3885,7 +4152,8 @@
       "text": "Target 1 face-up Monster your opponent controls; its ATK/DEF becomes 0 until the end of this turn, then if you control \"Spirebound Silent\", place 2 Spire Counters on 1 face-up card you control.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-09 23:28:37"
+      "addedAt": "2026-08-09 23:28:37",
+      "changedAt": "2026-08-09 23:28:37"
     },
     {
       "id": 110,
@@ -3901,7 +4169,8 @@
       "text": "If you control \"Spirebound Merchant\" or \"Spirebound Power-Echo Form\": You can Special Summon this card (from your hand). You can only Special Summon \"Spirebound Defect\" this way once per turn. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Power\" card from your Deck to your hand. If a Spire Counter(s) is placed on a face-up card you control, except \"Spirebound Defect\": You can place 1 Spire Counter on this card.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-09 23:21:00"
+      "addedAt": "2026-08-09 23:21:00",
+      "changedAt": "2026-08-09 23:21:00"
     },
     {
       "id": 134,
@@ -3919,7 +4188,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979821,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979821.jpg",
-      "addedAt": "2026-08-10 03:05:28"
+      "addedAt": "2026-08-10 03:05:28",
+      "changedAt": "2026-08-10 03:05:28"
     },
     {
       "id": 108,
@@ -3935,12 +4205,13 @@
       "text": "You can remove 1 Spire Counter from your field to send this card from your hand or field to the GY; add 1 \"Spirebound Power - Demon Form\" or \"The Spire\" from your Deck to your hand. You can only activate this effect of \"Spirebound Ironclad\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Attack\" card from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; destroy 1 card on the field.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-09 23:19:20"
+      "addedAt": "2026-08-09 23:19:20",
+      "changedAt": "2026-08-09 23:19:20"
     },
     {
       "id": 132,
       "name": "Spirebound Merchant",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -3952,12 +4223,13 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979823,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979823.jpg",
-      "addedAt": "2026-08-10 03:04:00"
+      "addedAt": "2026-08-10 03:04:00",
+      "changedAt": "2026-08-24 14:49:09"
     },
     {
       "id": 133,
       "name": "Spirebound Neow",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "XYZ Monster",
       "monsterType": "Fairy",
@@ -3970,7 +4242,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979826,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979826.jpg",
-      "addedAt": "2026-08-10 03:04:38"
+      "addedAt": "2026-08-10 03:04:38",
+      "changedAt": "2026-08-24 14:48:35"
     },
     {
       "id": 129,
@@ -3987,7 +4260,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979834,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979834.jpg",
-      "addedAt": "2026-08-10 03:02:13"
+      "addedAt": "2026-08-10 03:02:13",
+      "changedAt": "2026-08-10 03:02:13"
     },
     {
       "id": 131,
@@ -4004,7 +4278,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979837,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979837.jpg",
-      "addedAt": "2026-08-10 03:03:22"
+      "addedAt": "2026-08-10 03:03:22",
+      "changedAt": "2026-08-10 03:03:22"
     },
     {
       "id": 130,
@@ -4021,7 +4296,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979836,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979836.jpg",
-      "addedAt": "2026-08-10 03:02:51"
+      "addedAt": "2026-08-10 03:02:51",
+      "changedAt": "2026-08-10 03:02:51"
     },
     {
       "id": 109,
@@ -4037,7 +4313,8 @@
       "text": "You can Special Summon this card (from your hand) by removing 2 Spire Counters from your field, then place 1 Spire Counter on each face-up card you control. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Skill\" from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; draw 1 card, then discard 1 card.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-09 23:20:28"
+      "addedAt": "2026-08-09 23:20:28",
+      "changedAt": "2026-08-09 23:20:28"
     },
     {
       "id": 115,
@@ -4054,12 +4331,13 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979829,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979829.jpg",
-      "addedAt": "2026-08-10 00:30:17"
+      "addedAt": "2026-08-10 00:30:17",
+      "changedAt": "2026-08-10 00:30:17"
     },
     {
       "id": 116,
       "name": "Spirebound Skill - Hologram",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -4071,7 +4349,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979822,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979822.jpg",
-      "addedAt": "2026-08-10 00:30:52"
+      "addedAt": "2026-08-10 00:30:52",
+      "changedAt": "2026-08-24 14:48:21"
     },
     {
       "id": 114,
@@ -4088,7 +4367,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979831,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979831.jpg",
-      "addedAt": "2026-08-10 00:29:46"
+      "addedAt": "2026-08-10 00:29:46",
+      "changedAt": "2026-08-10 00:29:46"
     },
     {
       "id": 270,
@@ -4105,7 +4385,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6004327,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004327.jpg",
-      "addedAt": "2026-08-20 13:44:15"
+      "addedAt": "2026-08-20 13:44:15",
+      "changedAt": "2026-08-20 13:44:15"
     },
     {
       "id": 102,
@@ -4117,7 +4398,8 @@
       "text": "Target 1 Xyz Monster or “High Caliber” monster in your GY or banishment; Special Summon it, then you can attach 1 “High Caliber” card from your Deck to 1 Rank 4 Machine Xyz Monster you control as material, also you cannot declare attacks for the rest of this turn, except with Rank 4 Xyz Monsters. You can banish this card from your GY; attach 1 \"High Caliber\" Monster from your hand or GY to an Xyz Monster you control. You can only active 1 effect of \"Staring Down the High Caliber!\" per turn and only once per turn.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-07 03:43:46"
+      "addedAt": "2026-08-07 03:43:46",
+      "changedAt": "2026-08-07 03:43:46"
     },
     {
       "id": 227,
@@ -4134,7 +4416,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980361,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980361.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-15 01:23:13"
     },
     {
       "id": 19,
@@ -4148,7 +4431,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/48130397.jpg",
       "officialUrl": "https://ygoprodeck.com/card/super-polymerization-4109",
-      "addedAt": "2026-07-29 04:38:08"
+      "addedAt": "2026-07-29 04:38:08",
+      "changedAt": "2026-07-29 04:38:08"
     },
     {
       "id": 161,
@@ -4158,12 +4442,13 @@
       "text": "Normal Trap\nSpecial Summon 1 Level 9 or lower Dragon Monster from your banishment, ignoring its Summoning conditions, then you can banish it and 1 face-up Monster your opponent controls with the same Monster Card type (Fusion, Synchro, Xyz, or Link). During your Main Phase, while this card is in your GY: You can place 2 \"Skybreaker\" Monsters with different original attributes from your banishment on the bottom of the Deck; Set this card. You can only use each effect of \"Supersonic Dive-Bomb\" once per turn.",
       "archetype": "Skybreaker",
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-08-11 04:47:05"
+      "addedAt": "2026-08-11 04:47:05",
+      "changedAt": "2026-08-11 04:47:05"
     },
     {
       "id": 16,
       "name": "T.G. Hyper Librarian",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Spellcaster",
@@ -4176,12 +4461,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/90953320.jpg",
       "officialUrl": "https://ygoprodeck.com/card/t-g-hyper-librarian-7597",
-      "addedAt": "2026-07-29 04:35:09"
+      "addedAt": "2026-07-29 04:35:09",
+      "changedAt": "2026-07-29 04:35:09"
     },
     {
       "id": 231,
       "name": "The Bearer of the Yellow Sign",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Psychic",
@@ -4197,7 +4483,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980142,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980142.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 14:52:39"
     },
     {
       "id": 182,
@@ -4214,7 +4501,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5987175,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987175.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-22 10:22:18"
     },
     {
       "id": 181,
@@ -4231,7 +4519,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5987179,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987179.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-22 10:22:36"
     },
     {
       "id": 225,
@@ -4252,12 +4541,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980370,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980370.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-15 01:23:13"
     },
     {
       "id": 211,
       "name": "The Masked Beast, Devourer of Souls",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Fiend",
@@ -4270,12 +4560,13 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5945703,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945703.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-24 14:53:58"
     },
     {
       "id": 242,
       "name": "The Nine Personas Unseen",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -4287,7 +4578,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5999257,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999257.jpg",
-      "addedAt": "2026-08-17 14:37:22"
+      "addedAt": "2026-08-17 14:37:22",
+      "changedAt": "2026-08-24 14:55:11"
     },
     {
       "id": 226,
@@ -4310,17 +4602,19 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980598,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980598.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-15 01:23:13"
     },
     {
       "id": 86,
       "name": "The Spire",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "text": "Field Spell\nDuring your Main Phase, you can Normal Summon 1 “Spirebound” monster, in addition to your Normal Summon/Set. Each time a monster is sent from the field to the GY, place 1 Spire Counter on this card. If a Level 4 monster you control is destroyed by battle or card effect: You can remove 2 Spire Counters from your field; Special Summon that monster from your GY, also you cannot Special Summon monsters with that original name by this effect for the rest of this turn. You can only activate 1 “The Spire” per turn.",
       "archetype": "Spirebound",
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-08-04 17:15:24"
+      "addedAt": "2026-08-04 17:15:24",
+      "changedAt": "2026-08-04 17:15:24"
     },
     {
       "id": 232,
@@ -4341,12 +4635,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980132,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980132.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-15 01:23:13"
     },
     {
       "id": 71,
       "name": "Three Trolling Trolls",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Tuner Monster",
       "monsterType": "Beast-Warrior",
@@ -4358,7 +4653,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/43464884.jpg",
       "officialUrl": "https://ygoprodeck.com/card/three-trolling-trolls-9245",
-      "addedAt": "2026-07-31 16:50:25"
+      "addedAt": "2026-07-31 16:50:25",
+      "changedAt": "2026-08-24 14:57:10"
     },
     {
       "id": 50,
@@ -4372,12 +4668,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/19403423.jpg",
       "officialUrl": "https://ygoprodeck.com/card/time-tearing-morganite-13693",
-      "addedAt": "2026-07-29 05:03:08"
+      "addedAt": "2026-07-29 05:03:08",
+      "changedAt": "2026-07-29 05:03:08"
     },
     {
       "id": 15,
       "name": "Tindangle Angel",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Flip Effect Monster",
       "monsterType": "Fiend",
@@ -4390,7 +4687,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/68860936.jpg",
       "officialUrl": "https://ygoprodeck.com/card/tindangle-angel-8936",
-      "addedAt": "2026-07-29 04:34:46"
+      "addedAt": "2026-07-29 04:34:46",
+      "changedAt": "2026-08-24 14:57:46"
     },
     {
       "id": 233,
@@ -4411,7 +4709,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5980128,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980128.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-15 01:23:13"
     },
     {
       "id": 29,
@@ -4425,12 +4724,13 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/53582587.jpg",
       "officialUrl": "https://ygoprodeck.com/card/torrential-tribute-4567",
-      "addedAt": "2026-07-29 04:49:26"
+      "addedAt": "2026-07-29 04:49:26",
+      "changedAt": "2026-07-29 04:49:26"
     },
     {
       "id": 81,
       "name": "Training Dummy",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -4441,7 +4741,8 @@
       "text": "When you draw this card: Reveal it; then Special Summon it to your opponent's field. This face-up card cannot leave the field. If this is the only face-up Monster you control: Your opponent's Monsters can attack directly.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
-      "addedAt": "2026-07-31 17:07:37"
+      "addedAt": "2026-07-31 17:07:37",
+      "changedAt": "2026-08-24 14:58:54"
     },
     {
       "id": 79,
@@ -4455,7 +4756,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/59616123.jpg",
       "officialUrl": "https://ygoprodeck.com/card/trap-stun-5064",
-      "addedAt": "2026-07-31 16:52:14"
+      "addedAt": "2026-07-31 16:52:14",
+      "changedAt": "2026-07-31 16:52:14"
     },
     {
       "id": 38,
@@ -4469,7 +4771,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/80101899.jpg",
       "officialUrl": "https://ygoprodeck.com/card/trap-trick-9620",
-      "addedAt": "2026-07-29 04:53:07"
+      "addedAt": "2026-07-29 04:53:07",
+      "changedAt": "2026-07-29 04:53:07"
     },
     {
       "id": 77,
@@ -4483,14 +4786,15 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/25311006.jpg",
       "officialUrl": "https://ygoprodeck.com/card/triple-tactics-talent-11112",
-      "addedAt": "2026-07-31 16:51:29"
+      "addedAt": "2026-07-31 16:51:29",
+      "changedAt": "2026-07-31 16:51:29"
     },
     {
       "id": 121,
       "name": "True Omega Tyrant of Shaitand",
-      "status": "banned",
+      "status": "limeade",
       "source": "custom",
-      "cardType": "Fusion Monster",
+      "cardType": "Pendulum Fusion Monster",
       "monsterType": "Rock",
       "attribute": "EARTH",
       "levelRankLink": "Level 9",
@@ -4503,7 +4807,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948447,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948447.jpg",
-      "addedAt": "2026-08-10 01:36:12"
+      "addedAt": "2026-08-10 01:36:12",
+      "changedAt": "2026-08-10 01:36:12"
     },
     {
       "id": 247,
@@ -4520,7 +4825,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999442,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999442.jpg",
-      "addedAt": "2026-08-17 16:50:43"
+      "addedAt": "2026-08-17 16:50:43",
+      "changedAt": "2026-08-17 16:50:43"
     },
     {
       "id": 8,
@@ -4534,7 +4840,8 @@
       "contributor": "Edward Swissorhands",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/43898403.jpg",
       "officialUrl": "https://ygoprodeck.com/card/twin-twisters-3747",
-      "addedAt": "2026-07-29 04:25:12"
+      "addedAt": "2026-07-29 04:25:12",
+      "changedAt": "2026-07-29 04:25:12"
     },
     {
       "id": 251,
@@ -4552,12 +4859,13 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999466,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999466.jpg",
-      "addedAt": "2026-08-17 17:02:36"
+      "addedAt": "2026-08-17 17:02:36",
+      "changedAt": "2026-08-17 17:02:36"
     },
     {
       "id": 83,
       "name": "Ultimate Prime Materia",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Thunder",
@@ -4568,7 +4876,8 @@
       "text": "2 Ritual/Toon/Gemini/Spirit/Union/Tuner Monsters\n\nWhile you control this Fusion Summoned card, apply each of the following effects, based on the Monsters used as Material for its Fusion Summon.\n● This card's Level becomes equal to the total Level of those Monsters. \n● This card's type also becomes each different type of those Monsters.\n● This card's Attribute also becomes each different Attribute of those Monsters.\n● This card gains ATK/DEF equal to the total ATK/DEF of those Monsters.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-07-31 18:46:57"
+      "addedAt": "2026-07-31 18:46:57",
+      "changedAt": "2026-08-24 15:06:45"
     },
     {
       "id": 209,
@@ -4586,7 +4895,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5945692,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945692.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-23 23:21:46"
     },
     {
       "id": 62,
@@ -4602,7 +4912,8 @@
       "text": "You can discard this card from your hand; you can conduct up to 2 Normal Summons/Sets this turn, instead of 1. If this card is Normal or Special Summoned: You can add a Normal Monster from your Deck or GY to the hand. During your Main Phase, if you control a face-up Normal Monster; you can add this card from your GY to your hand. You can only activate each effect of \"Uncanny Blow-Up Robo\" once per turn.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
-      "addedAt": "2026-07-31 03:51:13"
+      "addedAt": "2026-07-31 03:51:13",
+      "changedAt": "2026-07-31 03:51:13"
     },
     {
       "id": 266,
@@ -4619,7 +4930,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002870,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002870.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:25:53"
     },
     {
       "id": 216,
@@ -4636,7 +4948,8 @@
       "contributor": "I \"Lack toes\" Joules",
       "duelingbookId": 5945872,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945872.jpg",
-      "addedAt": "2026-08-15 01:23:13"
+      "addedAt": "2026-08-15 01:23:13",
+      "changedAt": "2026-08-23 23:23:34"
     },
     {
       "id": 42,
@@ -4653,7 +4966,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/78783557.jpg",
       "officialUrl": "https://ygoprodeck.com/card/veidos-the-eruption-dragon-of-extinction-14378",
-      "addedAt": "2026-07-29 04:56:45"
+      "addedAt": "2026-07-29 04:56:45",
+      "changedAt": "2026-07-29 04:56:45"
     },
     {
       "id": 284,
@@ -4669,15 +4983,16 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006957,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953519.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006957.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:50:18"
     },
     {
       "id": 126,
       "name": "Wandering Rukh of Shaitand",
       "status": "banned",
       "source": "custom",
-      "cardType": "Effect Monster",
+      "cardType": "Pendulum Effect Monster",
       "monsterType": "Rock",
       "attribute": "EARTH",
       "levelRankLink": "Level 8",
@@ -4690,7 +5005,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948437,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948437.jpg",
-      "addedAt": "2026-08-10 01:39:24"
+      "addedAt": "2026-08-10 01:39:24",
+      "changedAt": "2026-08-10 01:39:24"
     },
     {
       "id": 249,
@@ -4708,7 +5024,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999454,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999454.jpg",
-      "addedAt": "2026-08-17 16:53:52"
+      "addedAt": "2026-08-17 16:53:52",
+      "changedAt": "2026-08-17 16:53:52"
     },
     {
       "id": 267,
@@ -4725,7 +5042,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002871,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002871.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 16:42:45"
     },
     {
       "id": 118,
@@ -4742,7 +5060,8 @@
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948457,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948457.jpg",
-      "addedAt": "2026-08-10 01:33:55"
+      "addedAt": "2026-08-10 01:33:55",
+      "changedAt": "2026-08-10 01:33:55"
     },
     {
       "id": 178,
@@ -4759,7 +5078,8 @@
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 5987190,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987190.jpg",
-      "addedAt": "2026-08-11 21:18:42"
+      "addedAt": "2026-08-11 21:18:42",
+      "changedAt": "2026-08-23 22:08:37"
     },
     {
       "id": 276,
@@ -4776,8 +5096,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006948,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5952063.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006948.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:47:43"
     },
     {
       "id": 176,
@@ -4791,7 +5112,8 @@
       "contributor": "The Original Rough Cheddar",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/4545854.jpg",
       "officialUrl": "https://ygoprodeck.com/card/xyz-territory-409",
-      "addedAt": "2026-08-11 17:55:48"
+      "addedAt": "2026-08-11 17:55:48",
+      "changedAt": "2026-08-11 17:55:48"
     },
     {
       "id": 283,
@@ -4807,8 +5129,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006955,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953452.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006955.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:49:52"
     },
     {
       "id": 287,
@@ -4824,8 +5147,9 @@
       "archetype": "Xigg, the Lost",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6006960,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5953521.jpg",
-      "addedAt": "2026-08-22 00:34:48"
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006960.jpg",
+      "addedAt": "2026-08-22 00:34:48",
+      "changedAt": "2026-08-24 00:51:24"
     },
     {
       "id": 263,
@@ -4842,7 +5166,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002866,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002866.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:25:00"
     },
     {
       "id": 264,
@@ -4859,7 +5184,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002868,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002868.jpg",
-      "addedAt": "2026-08-19 15:23:58"
+      "addedAt": "2026-08-19 15:23:58",
+      "changedAt": "2026-08-22 10:25:17"
     },
     {
       "id": 159,
@@ -4880,7 +5206,8 @@
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965669,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965669.jpg",
-      "addedAt": "2026-08-10 03:19:09"
+      "addedAt": "2026-08-10 03:19:09",
+      "changedAt": "2026-08-10 03:19:09"
     }
   ]
 }
