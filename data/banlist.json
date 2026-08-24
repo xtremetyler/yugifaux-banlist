@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:15:13.476Z",
+  "updatedAt": "2026-08-24T17:15:29.291Z",
   "cards": [
     {
       "id": 14,
@@ -4719,13 +4719,13 @@
       "linkMarkers": [
         "Bottom"
       ],
-      "text": "1 Tuner Monster, except \"The Phantom of Truth\"\nIf this card is Special Summoned, while \"Carcosa\" is in your field or GY: You can add 1 Spirit Monster from your Deck to your hand with a different name than the cards in your GY, then, if the added card mentions \"Carcosa\", you can Set a card from your GY to your field in the same column as a zone this card points to. You can only activate this effect of \"The Phantom of Truth\" once per turn, and you can only Set a card with this effect of \"The Phantom of Truth\" once per Duel. Once per turn, during the End Phase, if this card was Link Summoned this turn: Return this card to the hand.",
+      "text": "1 Tuner Monster, except \"The Phantom of Truth\"\nIf this card is Special Summoned, while \"Carcosa\" is in your field or GY: You can add 1 Spirit Monster from your Deck to your hand with a different name than the cards in your GY. You can only activate this effect of \"The Phantom of Truth\" once per turn. Once per turn, during the End Phase, if this card was Link Summoned this turn: Return this card to the hand.",
       "archetype": "Carcosa",
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 5980598,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980598.jpg",
+      "duelingbookId": 5995206,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995206.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-15 01:23:13"
+      "changedAt": "2026-08-24 17:15:26"
     },
     {
       "id": 86,
