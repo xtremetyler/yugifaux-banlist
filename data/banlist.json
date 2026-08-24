@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:23:41.503Z",
+  "updatedAt": "2026-08-24T20:24:11.502Z",
   "cards": [
     {
       "id": 302,
@@ -709,7 +709,7 @@
     {
       "id": 310,
       "name": "Card Wars Creature - Husker Knights and Worms",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
