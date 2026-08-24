@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:10:24.829Z",
+  "updatedAt": "2026-08-24T17:10:45.059Z",
   "cards": [
     {
       "id": 14,
@@ -4421,8 +4421,10 @@
       "text": "You can Special Summon this card (from your hand) by removing 2 Spire Counters from your field, then place 1 Spire Counter on each face-up card you control. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Skill\" from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; draw 1 card, then discard 1 card.",
       "clauses": 5,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5979847,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979847.jpg",
       "addedAt": "2026-08-09 23:20:28",
-      "changedAt": "2026-08-09 23:20:28"
+      "changedAt": "2026-08-24 17:10:42"
     },
     {
       "id": 115,
