@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:44:20.409Z",
+  "updatedAt": "2026-08-24T03:45:16.285Z",
   "cards": [
     {
       "id": 14,
@@ -3153,10 +3153,10 @@
       "text": "You can return 1 \"Masked Rite\" Spell from your field or GY to your hand; Special Summon this card from your hand or GY. (Quick Effect): You can target 1 \"Masked Rite\" Equip Spell on the field; change its equipped target to another legal monster on the field, then you can add 1 \"Masked\" Fiend monster from your GY to your hand, except \"Nuvia the Wicked of the Masked Rite\". You can only use each effect of \"Nuvia the Wicked of the Masked Rite\" once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5946961,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5946961.jpg",
+      "duelingbookId": 5995192,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995192.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:22:40"
+      "changedAt": "2026-08-24 03:45:14"
     },
     {
       "id": 117,
