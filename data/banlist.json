@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:19:41.493Z",
+  "updatedAt": "2026-08-24T20:20:11.484Z",
   "cards": [
     {
       "id": 302,
@@ -1297,7 +1297,7 @@
     {
       "id": 295,
       "name": "Ecumundias' Edict of the Hornet",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
