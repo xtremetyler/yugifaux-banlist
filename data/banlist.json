@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:15:29.291Z",
+  "updatedAt": "2026-08-24T17:15:50.455Z",
   "cards": [
     {
       "id": 14,
@@ -4732,11 +4732,18 @@
       "name": "The Spire",
       "status": "unlimeade",
       "source": "custom",
-      "text": "Field Spell\nDuring your Main Phase, you can Normal Summon 1 “Spirebound” monster, in addition to your Normal Summon/Set. Each time a monster is sent from the field to the GY, place 1 Spire Counter on this card. If a Level 4 monster you control is destroyed by battle or card effect: You can remove 2 Spire Counters from your field; Special Summon that monster from your GY, also you cannot Special Summon monsters with that original name by this effect for the rest of this turn. You can only activate 1 “The Spire” per turn.",
+      "cardType": "Spell Card",
+      "spellTrapType": "Field",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "When this card is placed face-up in the Field Zone: You can add 1 Level 5 or lower Warrior from your Deck to your hand with a different name than the cards in your GY. During your Main Phase, you can Normal Summon 1 \"Spirebound\" Monster, in addition to your normal Normal Summon/Set. Each time a Monster(s) is sent from the field to the GY, place that many Spire Counters on this card. If a Level 4 Monster you control is destroyed and sent to the GY: You can remove 2 Spire Counters from your field; Special Summon that Monster, also you cannot Special Summon Monsters with the same original name by this effect for the rest of this turn. You can only activate 1 \"The Spire\" per turn.",
       "archetype": "Spirebound",
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5979842,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979842.jpg",
       "addedAt": "2026-08-04 17:15:24",
-      "changedAt": "2026-08-04 17:15:24"
+      "changedAt": "2026-08-24 17:15:49"
     },
     {
       "id": 232,
