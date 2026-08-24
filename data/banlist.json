@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:55:50.174Z",
+  "updatedAt": "2026-08-24T14:04:03.587Z",
   "cards": [
     {
       "id": 14,
@@ -2221,7 +2221,7 @@
     {
       "id": 46,
       "name": "Interdimensional Matter Forwarder",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Continuous",
@@ -2231,7 +2231,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/60238002.jpg",
       "officialUrl": "https://ygoprodeck.com/card/interdimensional-matter-forwarder-14487",
       "addedAt": "2026-07-29 04:59:25",
-      "changedAt": "2026-07-29 04:59:25"
+      "changedAt": "2026-08-24 14:03:59"
     },
     {
       "id": 20,
