@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:24:11.502Z",
+  "updatedAt": "2026-08-24T20:32:41.495Z",
   "cards": [
     {
       "id": 302,
@@ -562,7 +562,7 @@
     {
       "id": 318,
       "name": "Card Wars Action - Reclaim Landscape",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -580,7 +580,7 @@
     {
       "id": 317,
       "name": "Card Wars Building - Astral Fortress",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -598,7 +598,7 @@
     {
       "id": 316,
       "name": "Card Wars Building - Cave of Solitude",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -616,7 +616,7 @@
     {
       "id": 315,
       "name": "Card Wars Building - Corn Castle",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -634,7 +634,7 @@
     {
       "id": 314,
       "name": "Card Wars Building - Schoolhouse",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -652,7 +652,7 @@
     {
       "id": 313,
       "name": "Card Wars Creature - Ancient Scholar and Cool Dog",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast-Warrior",
@@ -671,7 +671,7 @@
     {
       "id": 312,
       "name": "Card Wars Creature - Archer Dan",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -690,7 +690,7 @@
     {
       "id": 311,
       "name": "Card Wars Creature - Field Reaper",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
