@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:40:58.918Z",
+  "updatedAt": "2026-08-24T03:41:29.008Z",
   "cards": [
     {
       "id": 14,
@@ -2615,10 +2615,10 @@
       "text": "Equip only to a face-up monster. During either player's Standby Phase: You can target 1 Monster the turn player controls; equip this card to that target. Apply the appropriate effect, based on who controls the equipped monster.\n● You: It is unaffected by your opponent’s Spell effects, but you take 500 damage during each of your Standby Phases. When you draw for your normal draw in your Draw Phase: You can place 1 of those Equip Spell Cards on the bottom of your Deck to draw 1 additional card.\n● Your opponent: It gains 500 ATK, but the first time each turn its controller activates a Spell Card or effect, negate that effect, and if you do, destroy that card.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5947215,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947215.jpg",
+      "duelingbookId": 5995184,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995184.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:20:16"
+      "changedAt": "2026-08-24 03:41:26"
     },
     {
       "id": 203,
