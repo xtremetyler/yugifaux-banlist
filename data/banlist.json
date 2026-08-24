@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:16:40.655Z",
+  "updatedAt": "2026-08-24T17:17:34.845Z",
   "cards": [
     {
       "id": 14,
@@ -4870,8 +4870,10 @@
       "text": "When you draw this card: Reveal it; then Special Summon it to your opponent's field. This face-up card cannot leave the field. If this is the only face-up Monster you control: Your opponent's Monsters can attack directly.",
       "clauses": 2,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5971415,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5971415.jpg",
       "addedAt": "2026-07-31 17:07:37",
-      "changedAt": "2026-08-24 14:58:54"
+      "changedAt": "2026-08-24 17:17:32"
     },
     {
       "id": 79,
