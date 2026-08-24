@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:41:29.008Z",
+  "updatedAt": "2026-08-24T03:41:48.588Z",
   "cards": [
     {
       "id": 14,
@@ -2633,10 +2633,10 @@
       "text": "Equip only to a face-up monster. Apply the appropriate effect, based on who controls the equipped monster.\n● You: Control of it cannot switch, also it is unaffected by your opponent’s activated monster effects, but you take 500 damage during each of your Standby Phases.\n● Your opponent: Once per turn (Quick Effect): You can send 1 “Masked Beast” or “Masked Rite” card from your hand or field to the GY; take control of the equipped monster",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5947212,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5947212.jpg",
+      "duelingbookId": 5995183,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995183.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:19:57"
+      "changedAt": "2026-08-24 03:41:46"
     },
     {
       "id": 202,
