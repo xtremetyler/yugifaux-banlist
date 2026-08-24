@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:24:25.116Z",
+  "updatedAt": "2026-08-24T14:29:25.171Z",
   "cards": [
     {
       "id": 14,
@@ -3105,7 +3105,7 @@
     {
       "id": 68,
       "name": "Nightmare Dream Clown",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -3119,7 +3119,7 @@
       "duelingbookId": 5939421,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939421.jpg",
       "addedAt": "2026-07-31 04:19:50",
-      "changedAt": "2026-07-31 04:19:50"
+      "changedAt": "2026-08-24 14:29:03"
     },
     {
       "id": 286,
