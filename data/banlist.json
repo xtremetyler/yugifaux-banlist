@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:32:48.530Z",
+  "updatedAt": "2026-08-24T03:33:15.311Z",
   "cards": [
     {
       "id": 14,
@@ -2072,7 +2072,7 @@
       "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
-      "spellTrapType": "Ritual",
+      "spellTrapType": "Normal",
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
@@ -2082,7 +2082,7 @@
       "duelingbookId": 5961276,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961276.jpg",
       "addedAt": "2026-08-10 03:12:40",
-      "changedAt": "2026-08-10 03:12:40"
+      "changedAt": "2026-08-24 03:33:13"
     },
     {
       "id": 138,
