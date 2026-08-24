@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:07:33.574Z",
+  "updatedAt": "2026-08-24T14:08:33.607Z",
   "cards": [
     {
       "id": 14,
@@ -2332,7 +2332,7 @@
     {
       "id": 240,
       "name": "Kerzebs, the Gaoled Glutton",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "XYZ Monster",
       "monsterType": "Beast",
@@ -2345,7 +2345,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/94503794.jpg",
       "officialUrl": "https://ygoprodeck.com/card/kerzebs-the-gaoled-glutton-15211",
       "addedAt": "2026-08-17 02:58:04",
-      "changedAt": "2026-08-17 02:58:04"
+      "changedAt": "2026-08-24 14:08:17"
     },
     {
       "id": 175,
