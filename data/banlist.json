@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:57:55.098Z",
+  "updatedAt": "2026-08-24T14:59:25.124Z",
   "cards": [
     {
       "id": 14,
@@ -4730,7 +4730,7 @@
     {
       "id": 81,
       "name": "Training Dummy",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -4742,7 +4742,7 @@
       "clauses": 2,
       "contributor": "Edward Swissorhands",
       "addedAt": "2026-07-31 17:07:37",
-      "changedAt": "2026-07-31 17:07:37"
+      "changedAt": "2026-08-24 14:58:54"
     },
     {
       "id": 79,
