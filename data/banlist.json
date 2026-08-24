@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:05:39.641Z",
+  "updatedAt": "2026-08-24T14:06:09.631Z",
   "cards": [
     {
       "id": 14,
@@ -2171,7 +2171,7 @@
     {
       "id": 237,
       "name": "Juraishin, the Cursed Thunder God",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Psychic",
