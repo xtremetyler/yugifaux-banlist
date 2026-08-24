@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:55:41.518Z",
+  "updatedAt": "2026-08-24T20:56:11.506Z",
   "cards": [
     {
       "id": 302,
@@ -5507,11 +5507,13 @@
       "levelRankLink": "Level 7",
       "atk": "700",
       "def": "700",
-      "text": "2 Ritual/Toon/Gemini/Spirit/Union/Tuner Monsters\n\nWhile you control this Fusion Summoned card, apply each of the following effects, based on the Monsters used as Material for its Fusion Summon.\n● This card's Level becomes equal to the total Level of those Monsters. \n● This card's type also becomes each different type of those Monsters.\n● This card's Attribute also becomes each different Attribute of those Monsters.\n● This card gains ATK/DEF equal to the total ATK/DEF of those Monsters.",
+      "text": "2 Ritual/Toon/Gemini/Spirit/Union/Tuner Monsters\nWhile you control this Fusion Summoned card, apply each of the following effects, based on the Monsters used as Material for its Fusion Summon.\n● This card's Level becomes equal to the total Level of those Monsters. \n● This card's type also becomes each different type of those Monsters.\n● This card's Attribute also becomes each different Attribute of those Monsters.\n● This card gains ATK/DEF equal to the total ATK/DEF of those Monsters.",
       "clauses": 4,
       "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5969968,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5969968.jpg",
       "addedAt": "2026-07-31 18:46:57",
-      "changedAt": "2026-08-24 15:06:45"
+      "changedAt": "2026-08-24 20:56:10"
     },
     {
       "id": 209,
