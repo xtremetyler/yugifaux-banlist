@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:31:55.127Z",
+  "updatedAt": "2026-08-24T14:37:25.133Z",
   "cards": [
     {
       "id": 14,
@@ -3555,7 +3555,7 @@
     {
       "id": 84,
       "name": "Redox, Dragon Ruler of Boulders",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
@@ -3568,7 +3568,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/90411554.jpg",
       "officialUrl": "https://ygoprodeck.com/card/redox-dragon-ruler-of-boulders-7551",
       "addedAt": "2026-08-04 12:58:54",
-      "changedAt": "2026-08-04 12:58:54"
+      "changedAt": "2026-08-24 14:37:03"
     },
     {
       "id": 82,
