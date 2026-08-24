@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T03:28:47.188Z",
+  "updatedAt": "2026-08-24T03:29:14.398Z",
   "cards": [
     {
       "id": 14,
@@ -1540,10 +1540,10 @@
       "text": "Activate each of the following effects, based on the names of cards that have been revealed during this turn.\n● \"P-Power Rushdown\" - You can change any number of face-up Monsters your opponent controls to face-down Defense Position, up to the number of your cards that are currently revealed.\n● \"S-Power Resonance\" - Excavate cards from the top of your Deck until you reveal a Level 4 or lower Monster and Special Summon it, also place the rest of the excavated cards on the bottom of your Deck.\nYour opponent cannot activate cards or effects in response to this card's activation.",
       "archetype": "Saki",
       "contributor": "I \"Lack toes\" Joules",
-      "duelingbookId": 5945930,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945930.jpg",
+      "duelingbookId": 5995194,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995194.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 12:49:02"
+      "changedAt": "2026-08-24 03:29:12"
     },
     {
       "id": 224,
