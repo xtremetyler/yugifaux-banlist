@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T17:05:17.506Z",
+  "updatedAt": "2026-08-24T17:05:55.562Z",
   "cards": [
     {
       "id": 14,
@@ -4196,12 +4196,14 @@
       "atk": "300",
       "def": "300",
       "pendulumScale": "3",
-      "pendulumEffect": "N/A",
+      "pendulumEffect": "No Pendulum Effect.",
       "text": "If this card is Normal or Special Summoned: You can place 1 Plant Pendulum Monster from your deck or face-up extra deck in your Pendulum Zone. If this card is face-up in the Extra Deck: You can banish 1 Monster from your GY; Special Summon this card, then increase its Level by 1, but banish it when it leaves the field. You can only use this effect of “Spiralvine Budling” once per turn.",
       "clauses": 4,
       "contributor": "Edward Swissorhands",
+      "duelingbookId": 5940517,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5940517.jpg",
       "addedAt": "2026-07-31 03:43:19",
-      "changedAt": "2026-07-31 03:43:19"
+      "changedAt": "2026-08-24 17:05:54"
     },
     {
       "id": 113,
