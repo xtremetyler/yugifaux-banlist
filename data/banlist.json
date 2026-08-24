@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:56:11.506Z",
+  "updatedAt": "2026-08-24T20:56:41.521Z",
   "cards": [
     {
       "id": 302,
@@ -5529,10 +5529,10 @@
       "text": "If you control a “Masked Rite” card, you can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can add 1 “Masked Rite” Equip Spell from your Deck or GY to your hand, then, if your opponent controls a face-up monster, you can equip 1 “Masked Rite” Equip Spell from your hand to 1 face-up monster they control, and if you do, you may pay 1000 points to draw 1 card. You can only use each effect of “Umbra, Herald of the Masked Rite” once per turn.",
       "archetype": "Masked Rite",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5945692,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5945692.jpg",
+      "duelingbookId": 5995189,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995189.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-23 23:21:46"
+      "changedAt": "2026-08-24 20:56:30"
     },
     {
       "id": 62,
