@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T16:46:25.458Z",
+  "updatedAt": "2026-08-24T16:58:55.537Z",
   "cards": [
     {
       "id": 14,
@@ -1282,6 +1282,21 @@
       "officialUrl": "https://ygoprodeck.com/card/gold-sarcophagus-6356",
       "addedAt": "2026-08-04 14:27:11",
       "changedAt": "2026-08-04 14:27:11"
+    },
+    {
+      "id": 291,
+      "name": "Gordian Slicer",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "This card's activation and effect cannot be negated. At the start of your Main Phase 1 or 2: Target any number of face-up cards on the field; for each targeted card, banish 1 card from your hand, or 6 cards from your Extra Deck, face-down, then return those targeted cards to the hand.",
+      "contributor": "Edward Swissorhands",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/66236707.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/gordian-slicer-14932",
+      "addedAt": "2026-08-24 16:58:41",
+      "changedAt": "2026-08-24 16:58:41"
     },
     {
       "id": 65,
