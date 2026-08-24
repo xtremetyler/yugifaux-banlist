@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:23:55.113Z",
+  "updatedAt": "2026-08-24T14:24:25.116Z",
   "cards": [
     {
       "id": 14,
@@ -2732,7 +2732,7 @@
     {
       "id": 10,
       "name": "Metaverse",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Normal",
@@ -2742,7 +2742,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/89208725.jpg",
       "officialUrl": "https://ygoprodeck.com/card/metaverse-8605",
       "addedAt": "2026-07-29 04:26:31",
-      "changedAt": "2026-07-29 04:26:31"
+      "changedAt": "2026-08-24 14:24:06"
     },
     {
       "id": 91,
