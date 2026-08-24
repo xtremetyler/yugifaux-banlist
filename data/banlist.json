@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:20:41.448Z",
+  "updatedAt": "2026-08-24T20:21:11.471Z",
   "cards": [
     {
       "id": 302,
@@ -24,7 +24,7 @@
     {
       "id": 298,
       "name": "Alsabea Ecumundias - The Cardinal Court",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Machine",
@@ -62,7 +62,7 @@
     {
       "id": 299,
       "name": "Alsabea Triad - Gluttony, Envy, & Greed",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Dragon",
