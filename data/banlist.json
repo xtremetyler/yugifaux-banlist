@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T20:21:41.475Z",
+  "updatedAt": "2026-08-24T20:22:11.489Z",
   "cards": [
     {
       "id": 302,
@@ -806,7 +806,7 @@
     {
       "id": 305,
       "name": "Card Wars Location - Useless Swamp",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
