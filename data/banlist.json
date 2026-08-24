@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T14:54:25.203Z",
+  "updatedAt": "2026-08-24T14:55:25.125Z",
   "cards": [
     {
       "id": 14,
@@ -4566,7 +4566,7 @@
     {
       "id": 242,
       "name": "The Nine Personas Unseen",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -4579,7 +4579,7 @@
       "duelingbookId": 5999257,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999257.jpg",
       "addedAt": "2026-08-17 14:37:22",
-      "changedAt": "2026-08-17 14:37:22"
+      "changedAt": "2026-08-24 14:55:11"
     },
     {
       "id": 226,
