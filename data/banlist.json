@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T12:55:16.022Z",
+  "updatedAt": "2026-08-25T13:13:45.994Z",
   "cards": [
     {
       "id": 302,
@@ -4172,7 +4172,7 @@
     {
       "id": 330,
       "name": "Professor Hawthorne, Beyond the Horizon",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Psychic",
@@ -4189,7 +4189,7 @@
       "duelingbookId": 6012863,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012863.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:13:36"
     },
     {
       "id": 275,
