@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T04:04:50.189Z",
+  "updatedAt": "2026-08-25T04:05:20.161Z",
   "cards": [
     {
       "id": 302,
@@ -2913,7 +2913,7 @@
     {
       "id": 237,
       "name": "Juraishin, the Cursed Thunder God",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Psychic",
@@ -2926,7 +2926,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/78693036.jpg",
       "officialUrl": "https://ygoprodeck.com/card/juraishin-the-cursed-thunder-god-14934",
       "addedAt": "2026-08-16 23:38:03",
-      "changedAt": "2026-08-16 23:38:03"
+      "changedAt": "2026-08-25 04:05:06"
     },
     {
       "id": 272,
