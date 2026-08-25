@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T04:04:20.167Z",
+  "updatedAt": "2026-08-25T04:04:50.189Z",
   "cards": [
     {
       "id": 302,
@@ -2854,7 +2854,7 @@
     {
       "id": 20,
       "name": "Intimidating Ore - Summonite",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Normal",
@@ -2864,7 +2864,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/91592030.jpg",
       "officialUrl": "https://ygoprodeck.com/card/intimidating-ore-summonite-13567",
       "addedAt": "2026-07-29 04:44:55",
-      "changedAt": "2026-07-29 04:44:55"
+      "changedAt": "2026-08-25 04:04:36"
     },
     {
       "id": 194,
@@ -2894,7 +2894,7 @@
     {
       "id": 24,
       "name": "Junk Synchron",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Tuner Monster",
       "monsterType": "Warrior",
@@ -2908,7 +2908,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/63977008.jpg",
       "officialUrl": "https://ygoprodeck.com/card/junk-synchron-5399",
       "addedAt": "2026-07-29 04:47:41",
-      "changedAt": "2026-07-29 04:47:41"
+      "changedAt": "2026-08-25 04:04:49"
     },
     {
       "id": 237,
