@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T03:46:50.204Z",
+  "updatedAt": "2026-08-25T03:48:20.148Z",
   "cards": [
     {
       "id": 302,
@@ -909,6 +909,24 @@
       "officialUrl": "https://ygoprodeck.com/card/chanbar-the-flashy-sportsknight-15280",
       "addedAt": "2026-07-29 04:24:22",
       "changedAt": "2026-07-29 04:24:22"
+    },
+    {
+      "id": 332,
+      "name": "Condemned Witch",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Fairy",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "100",
+      "def": "2000",
+      "text": "When this card is Normal Summoned: You can add 1 \"Forbidden\" Quick-Play Spell from your Deck to your hand. During your opponent's Main Phase (Quick Effect): You can Tribute this card; Special Summon 1 Level 4 Fairy monster from your Deck, except \"Condemned Witch\". You can only use each effect of \"Condemned Witch\" once per turn.",
+      "contributor": "Edward Swissorhands",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/44656450.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/condemned-witch-9635",
+      "addedAt": "2026-08-25 03:48:15",
+      "changedAt": "2026-08-25 03:48:15"
     },
     {
       "id": 26,
