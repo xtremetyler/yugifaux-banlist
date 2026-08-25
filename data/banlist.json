@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T04:05:50.173Z",
+  "updatedAt": "2026-08-25T04:06:20.204Z",
   "cards": [
     {
       "id": 302,
@@ -3168,7 +3168,7 @@
     {
       "id": 200,
       "name": "Masked Beast Des Gardius, Eclipse Incarnate",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Fiend",
@@ -3182,7 +3182,7 @@
       "duelingbookId": 5995180,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995180.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-24 03:39:37"
+      "changedAt": "2026-08-25 04:05:57"
     },
     {
       "id": 206,
