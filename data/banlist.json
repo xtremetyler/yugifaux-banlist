@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T04:07:50.188Z",
+  "updatedAt": "2026-08-25T04:12:20.205Z",
   "cards": [
     {
       "id": 302,
@@ -5356,7 +5356,7 @@
     {
       "id": 16,
       "name": "T.G. Hyper Librarian",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Spellcaster",
@@ -5370,7 +5370,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/90953320.jpg",
       "officialUrl": "https://ygoprodeck.com/card/t-g-hyper-librarian-7597",
       "addedAt": "2026-07-29 04:35:09",
-      "changedAt": "2026-07-29 04:35:09"
+      "changedAt": "2026-08-25 04:12:10"
     },
     {
       "id": 231,
