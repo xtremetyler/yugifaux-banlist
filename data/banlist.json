@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T22:40:19.407Z",
+  "updatedAt": "2026-08-25T00:26:49.550Z",
   "cards": [
     {
       "id": 302,
@@ -690,7 +690,7 @@
     {
       "id": 311,
       "name": "Card Wars Creature - Field Reaper",
-      "status": "semi-limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
@@ -704,7 +704,7 @@
       "duelingbookId": 6012069,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012069.jpg",
       "addedAt": "2026-08-24 19:34:44",
-      "changedAt": "2026-08-24 19:34:44"
+      "changedAt": "2026-08-25 00:26:42"
     },
     {
       "id": 310,
