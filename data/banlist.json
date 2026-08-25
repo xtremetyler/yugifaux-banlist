@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T03:48:50.154Z",
+  "updatedAt": "2026-08-25T04:04:20.167Z",
   "cards": [
     {
       "id": 302,
@@ -2869,7 +2869,7 @@
     {
       "id": 194,
       "name": "Iris the Radiant, the Celestial Eye of Infinite Reflections",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Illusion",
@@ -2889,7 +2889,7 @@
       "duelingbookId": 5991157,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991157.jpg",
       "addedAt": "2026-08-12 18:44:19",
-      "changedAt": "2026-08-12 18:44:19"
+      "changedAt": "2026-08-25 04:04:02"
     },
     {
       "id": 24,
