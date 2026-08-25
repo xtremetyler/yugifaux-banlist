@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T13:14:16.078Z",
+  "updatedAt": "2026-08-25T13:14:46.002Z",
   "cards": [
     {
       "id": 302,
@@ -4136,7 +4136,7 @@
     {
       "id": 327,
       "name": "Premature Collapse",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -4149,7 +4149,7 @@
       "duelingbookId": 6012860,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012860.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:14:23"
     },
     {
       "id": 262,
@@ -4598,7 +4598,7 @@
     {
       "id": 326,
       "name": "Singularitech Controlled Collapse",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -4611,7 +4611,7 @@
       "duelingbookId": 6012859,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012859.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:14:31"
     },
     {
       "id": 328,
@@ -4753,7 +4753,7 @@
     {
       "id": 325,
       "name": "Singularity Reversal",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -4766,7 +4766,7 @@
       "duelingbookId": 6012858,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012858.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:14:40"
     },
     {
       "id": 169,
