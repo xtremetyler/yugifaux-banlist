@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T04:06:20.204Z",
+  "updatedAt": "2026-08-25T04:07:50.188Z",
   "cards": [
     {
       "id": 302,
@@ -5516,7 +5516,7 @@
     {
       "id": 86,
       "name": "The Spire",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -5529,7 +5529,7 @@
       "duelingbookId": 5979842,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979842.jpg",
       "addedAt": "2026-08-04 17:15:24",
-      "changedAt": "2026-08-24 17:15:49"
+      "changedAt": "2026-08-25 04:07:24"
     },
     {
       "id": 232,
