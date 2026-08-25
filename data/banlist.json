@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T13:13:45.994Z",
+  "updatedAt": "2026-08-25T13:14:16.078Z",
   "cards": [
     {
       "id": 302,
@@ -2170,7 +2170,7 @@
     {
       "id": 329,
       "name": "Hawthorne’s Final Equation",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
@@ -2183,7 +2183,7 @@
       "duelingbookId": 6012862,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012862.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:13:51"
     },
     {
       "id": 271,
@@ -4616,7 +4616,7 @@
     {
       "id": 328,
       "name": "Singularitech Dark Hole Device",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -4629,7 +4629,7 @@
       "duelingbookId": 6012861,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012861.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:14:10"
     },
     {
       "id": 324,
