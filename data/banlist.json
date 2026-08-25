@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T03:48:20.148Z",
+  "updatedAt": "2026-08-25T03:48:50.154Z",
   "cards": [
     {
       "id": 302,
@@ -1104,6 +1104,25 @@
       "officialUrl": "https://ygoprodeck.com/card/dark-hole-4525",
       "addedAt": "2026-08-13 19:39:21",
       "changedAt": "2026-08-13 19:39:21"
+    },
+    {
+      "id": 333,
+      "name": "Darklord Nurse Reficule",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Fairy",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "1400",
+      "def": "600",
+      "text": "Any effect that would make your opponent gain LP inflicts the same amount of damage to them, instead.",
+      "archetype": "Darklord",
+      "contributor": "Edward Swissorhands",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/67316075.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/darklord-nurse-reficule-5662",
+      "addedAt": "2026-08-25 03:48:46",
+      "changedAt": "2026-08-25 03:48:46"
     },
     {
       "id": 22,
