@@ -35,11 +35,18 @@
       <section class="summary" id="summary" aria-label="Legality summary"></section>
 
       <section class="toolbar" aria-label="Banlist filters">
-        <label class="search">
-          <span class="sr-only">Search cards</span>
-          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z" /></svg>
-          <input id="search" type="search" placeholder="Search by card name, text, or archetype…" autocomplete="off" />
-        </label>
+        <div class="search-group" aria-label="Card searches">
+          <label class="search">
+            <span>Card name</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z" /></svg>
+            <input id="name-search" type="search" placeholder="Search card names…" autocomplete="off" />
+          </label>
+          <label class="search">
+            <span>Card effect</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z" /></svg>
+            <input id="effect-search" type="search" placeholder="Search effect or card text…" autocomplete="off" />
+          </label>
+        </div>
 
         <div class="filter-row">
           <label>

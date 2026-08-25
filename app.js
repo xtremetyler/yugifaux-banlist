@@ -6,7 +6,7 @@ const STATUS = {
   voting: { label: "Voting Pending", copies: null, order: 4 },
 };
 
-const state = { cards: [], query: "", status: "all", source: "all", cardType: "all", attribute: "all",
+const state = { cards: [], nameQuery: "", effectQuery: "", status: "all", source: "all", cardType: "all", attribute: "all",
   monsterType: "all", ability: "all", sort: "name", view: "all", favorites: new Set() };
 
 const FAVORITES_KEY = "yugifaux-banlist-favorites";
@@ -20,7 +20,8 @@ const elements = {
   count: document.querySelector("#result-count"),
   total: document.querySelector("#card-total"),
   updated: document.querySelector("#last-updated"),
-  search: document.querySelector("#search"),
+  nameSearch: document.querySelector("#name-search"),
+  effectSearch: document.querySelector("#effect-search"),
   status: document.querySelector("#status-filter"),
   source: document.querySelector("#source-filter"),
   cardType: document.querySelector("#card-type-filter"),
@@ -202,7 +203,8 @@ function renderSummary() {
 }
 
 function getVisibleCards() {
-  const query = state.query.trim().toLocaleLowerCase();
+  const nameTerms = state.nameQuery.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
+  const effectTerms = state.effectQuery.trim().toLocaleLowerCase().split(/\s+/).filter(Boolean);
   const result = state.cards.filter(card => {
     if (state.view === "recent" && !isRecent(card)) return false;
     if (state.view === "favorites" && !state.favorites.has(String(card.id))) return false;
@@ -212,10 +214,11 @@ function getVisibleCards() {
     if (state.attribute !== "all" && String(card.attribute || "").toLocaleLowerCase() !== state.attribute) return false;
     if (state.monsterType !== "all" && String(card.monsterType || "").toLocaleLowerCase() !== state.monsterType) return false;
     if (state.ability !== "all" && !(card.abilities || []).some(value => String(value).toLocaleLowerCase() === state.ability)) return false;
-    if (!query) return true;
-    return [card.name, card.text, card.pendulumEffect, card.archetype, card.cardType, card.monsterType,
-      card.spellTrapType, ...(card.abilities || []), ...(card.linkMarkers || [])]
-      .filter(Boolean).some(value => String(value).toLocaleLowerCase().includes(query));
+    const name = String(card.name || "").toLocaleLowerCase();
+    const effect = [card.text,card.pendulumEffect].filter(Boolean).join(" ").toLocaleLowerCase();
+    if (nameTerms.length && !nameTerms.every(term => name.includes(term))) return false;
+    if (effectTerms.length && !effectTerms.every(term => effect.includes(term))) return false;
+    return true;
   });
 
   return result.sort((a, b) => {
@@ -283,9 +286,10 @@ function showCard(card) {
 }
 
 function resetFilters() {
-  Object.assign(state, { query: "", status: "all", source: "all", cardType: "all", attribute: "all",
+  Object.assign(state, { nameQuery: "", effectQuery: "", status: "all", source: "all", cardType: "all", attribute: "all",
     monsterType: "all", ability: "all", sort: "name", view: "all" });
-  elements.search.value = "";
+  elements.nameSearch.value = "";
+  elements.effectSearch.value = "";
   elements.status.value = "all";
   elements.source.value = "all";
   elements.cardType.value = "all";
@@ -325,7 +329,8 @@ async function loadData() {
   }
 }
 
-elements.search.addEventListener("input", event => { state.query = event.target.value; renderCards(); });
+elements.nameSearch.addEventListener("input", event => { state.nameQuery = event.target.value; renderCards(); });
+elements.effectSearch.addEventListener("input", event => { state.effectQuery = event.target.value; renderCards(); });
 elements.status.addEventListener("change", event => { state.status = event.target.value; renderCards(); });
 elements.source.addEventListener("change", event => { state.source = event.target.value; renderCards(); });
 elements.cardType.addEventListener("change", event => { state.cardType = event.target.value; renderCards(); });

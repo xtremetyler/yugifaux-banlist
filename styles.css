@@ -139,8 +139,10 @@ h1 { margin: 0; max-width: 760px; font-size: clamp(2.35rem, 7vw, 4.8rem); line-h
   background: var(--surface);
 }
 
-.search { position: relative; display: block; }
-.search svg { position: absolute; left: 15px; top: 50%; width: 20px; transform: translateY(-50%); fill: none; stroke: var(--muted); stroke-width: 2; }
+.search-group { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+.search { position: relative; display: grid; gap: 6px; }
+.search > span { color: var(--muted); font-size: .68rem; font-weight: 600; text-transform: uppercase; letter-spacing: .08em; }
+.search svg { position: absolute; left: 15px; bottom: 14px; width: 20px; fill: none; stroke: var(--muted); stroke-width: 2; }
 .search input { width: 100%; height: 48px; padding: 0 16px 0 45px; }
 
 input, select {
@@ -343,6 +345,7 @@ footer { margin-top: 64px; border-top: 1px solid var(--line); color: var(--muted
   .hero__title-row { gap: 11px; }
   .hero__logo { width: 46px; height: 46px; flex-basis: 46px; }
   .summary { grid-template-columns: repeat(2, 1fr); }
+  .search-group { grid-template-columns: 1fr; }
   .filter-row { grid-template-columns: 1fr; }
   .card-grid { grid-template-columns: 1fr; }
   .ban-card { grid-template-columns: 38% minmax(0, 1fr); min-height: 210px; }
