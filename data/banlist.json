@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T04:05:20.161Z",
+  "updatedAt": "2026-08-25T04:05:50.173Z",
   "cards": [
     {
       "id": 302,
@@ -821,7 +821,7 @@
     {
       "id": 305,
       "name": "Card Wars Location - Useless Swamp",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -834,7 +834,7 @@
       "duelingbookId": 6012062,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012062.jpg",
       "addedAt": "2026-08-24 19:34:44",
-      "changedAt": "2026-08-24 19:34:44"
+      "changedAt": "2026-08-25 04:05:37"
     },
     {
       "id": 304,
@@ -1092,7 +1092,7 @@
     {
       "id": 199,
       "name": "Dark Hole",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -1103,7 +1103,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/53129443.jpg",
       "officialUrl": "https://ygoprodeck.com/card/dark-hole-4525",
       "addedAt": "2026-08-13 19:39:21",
-      "changedAt": "2026-08-13 19:39:21"
+      "changedAt": "2026-08-25 04:05:37"
     },
     {
       "id": 333,
@@ -3152,7 +3152,7 @@
     {
       "id": 51,
       "name": "March of the Monarchs",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Continuous",
@@ -3163,7 +3163,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/19870120.jpg",
       "officialUrl": "https://ygoprodeck.com/card/march-of-the-monarchs-1709",
       "addedAt": "2026-07-29 05:03:24",
-      "changedAt": "2026-07-29 05:03:24"
+      "changedAt": "2026-08-25 04:05:41"
     },
     {
       "id": 200,
@@ -6005,7 +6005,7 @@
     {
       "id": 276,
       "name": "Xigg, the Lost",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -6019,7 +6019,7 @@
       "duelingbookId": 6006948,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006948.jpg",
       "addedAt": "2026-08-22 00:34:48",
-      "changedAt": "2026-08-24 00:47:43"
+      "changedAt": "2026-08-25 04:05:39"
     },
     {
       "id": 176,
