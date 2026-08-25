@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T13:15:16.058Z",
+  "updatedAt": "2026-08-25T13:15:46.009Z",
   "cards": [
     {
       "id": 302,
@@ -4652,7 +4652,7 @@
     {
       "id": 320,
       "name": "Singularitech Observer",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Psychic",
@@ -4666,12 +4666,12 @@
       "duelingbookId": 6012853,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012853.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:15:31"
     },
     {
       "id": 321,
       "name": "Singularitech Paradox Assistant",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Psychic",
@@ -4685,12 +4685,12 @@
       "duelingbookId": 6012854,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012854.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:15:16"
     },
     {
       "id": 319,
       "name": "Singularitech Professor Hawthorne",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Psychic",
@@ -4704,7 +4704,7 @@
       "duelingbookId": 6012852,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012852.jpg",
       "addedAt": "2026-08-25 01:53:28",
-      "changedAt": "2026-08-25 01:53:28"
+      "changedAt": "2026-08-25 13:15:42"
     },
     {
       "id": 322,
