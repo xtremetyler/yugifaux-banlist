@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T17:33:38.294Z",
+  "updatedAt": "2026-08-26T18:19:08.488Z",
   "cards": [
     {
       "id": 302,
@@ -423,7 +423,7 @@
     {
       "id": 334,
       "name": "Bonfire",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -1551,7 +1551,7 @@
     {
       "id": 289,
       "name": "Firestorms Over Atlantis",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -1561,7 +1561,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/17151328.jpg",
       "officialUrl": "https://ygoprodeck.com/card/firestorms-over-atlantis-14626",
       "addedAt": "2026-08-24 16:45:15",
-      "changedAt": "2026-08-24 16:45:15"
+      "changedAt": "2026-08-26 18:18:43"
     },
     {
       "id": 252,
@@ -1856,7 +1856,7 @@
     {
       "id": 291,
       "name": "Gordian Slicer",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -1866,7 +1866,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/66236707.jpg",
       "officialUrl": "https://ygoprodeck.com/card/gordian-slicer-14932",
       "addedAt": "2026-08-24 16:58:41",
-      "changedAt": "2026-08-24 16:58:41"
+      "changedAt": "2026-08-26 18:18:43"
     },
     {
       "id": 65,
