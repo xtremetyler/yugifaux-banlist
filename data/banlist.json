@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T17:30:08.318Z",
+  "updatedAt": "2026-08-26T17:33:38.294Z",
   "cards": [
     {
       "id": 302,
@@ -423,7 +423,7 @@
     {
       "id": 334,
       "name": "Bonfire",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
