@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T19:19:30.170Z",
+  "updatedAt": "2026-08-27T19:20:30.531Z",
   "cards": [
     {
       "id": 302,
@@ -5585,6 +5585,28 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017313.jpg",
       "addedAt": "2026-08-27 19:19:13",
       "changedAt": "2026-08-27 19:19:13"
+    },
+    {
+      "id": 338,
+      "name": "The Sojourner in Summer",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Fairy",
+      "abilities": [
+        "Tuner"
+      ],
+      "attribute": "FIRE",
+      "levelRankLink": "Level 2",
+      "atk": "200",
+      "def": "1500",
+      "text": "(Quick Effect): You can discard this card; place 1 Journey Counter on each face-up Monster on the field. You can only activate 1 other \"The Sojourner\" Monster effect, the turn you activate this effect. While this card is in your GY; apply the following effects.\n● Reduce the Level of a Monster by 1 for each Journey Counter on it.\n● Each time your opponent Special Summons a non-Tuner Monster(s) with a Level from the hand: Place 1 Journey Counter on it.",
+      "clauses": 3,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6017316,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017316.jpg",
+      "addedAt": "2026-08-27 19:20:05",
+      "changedAt": "2026-08-27 19:20:05"
     },
     {
       "id": 86,
