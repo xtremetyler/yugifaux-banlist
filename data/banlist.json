@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T20:51:30.147Z",
+  "updatedAt": "2026-08-27T20:52:30.155Z",
   "cards": [
     {
       "id": 302,
@@ -1633,6 +1633,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006949.jpg",
       "addedAt": "2026-08-22 00:34:48",
       "changedAt": "2026-08-24 00:47:51"
+    },
+    {
+      "id": 342,
+      "name": "Frequency Shift",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "During either player's Main Phase: You can send 1 “Sonivolt, the Unstruck” you control to the GY; Special Summon 1 “Sonivolt” Fusion Monster from your Extra Deck.",
+      "clauses": 1,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6017457,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017457.jpg",
+      "addedAt": "2026-08-27 20:52:01",
+      "changedAt": "2026-08-27 20:52:01"
     },
     {
       "id": 188,
@@ -4999,6 +5017,25 @@
       "officialUrl": "https://ygoprodeck.com/card/solemn-scolding-7705",
       "addedAt": "2026-07-29 04:52:52",
       "changedAt": "2026-08-24 14:46:32"
+    },
+    {
+      "id": 343,
+      "name": "Sonivolt, Riot Frequency",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Fusion Monster",
+      "monsterType": "Thunder",
+      "attribute": "DARK",
+      "levelRankLink": "Level 8",
+      "atk": "2800",
+      "def": "1400",
+      "text": "\"Sonivolt, the Unstruck\" + 1 monster with 2000 or more ATK\nIf this card is Special Summoned: You can target 1 card your opponent controls; return it to the hand. When your opponent activates a monster effect (Quick Effect): You can return this card to the Extra Deck to Special Summon 1 “Sonivolt, Bastion Frequency” from your Extra Deck. You can only use each effect of “Sonivolt, Riot Frequency” once per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6017459,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017459.jpg",
+      "addedAt": "2026-08-27 20:52:29",
+      "changedAt": "2026-08-27 20:52:29"
     },
     {
       "id": 341,
