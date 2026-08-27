@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T13:29:59.160Z",
+  "updatedAt": "2026-08-27T13:36:29.166Z",
   "cards": [
     {
       "id": 302,
@@ -3394,6 +3394,24 @@
       "officialUrl": "https://ygoprodeck.com/card/metaverse-8605",
       "addedAt": "2026-07-29 04:26:31",
       "changedAt": "2026-08-24 14:24:06"
+    },
+    {
+      "id": 336,
+      "name": "Mezuki",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Zombie",
+      "attribute": "EARTH",
+      "levelRankLink": "Level 4",
+      "atk": "1700",
+      "def": "800",
+      "text": "You can banish this card from your GY, then target 1 Zombie monster in your GY; Special Summon that target.",
+      "contributor": "I \"Lack toes\" Joules",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/92826944.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/mezuki-7727",
+      "addedAt": "2026-08-27 13:36:00",
+      "changedAt": "2026-08-27 13:36:00"
     },
     {
       "id": 91,
