@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T19:21:30.192Z",
+  "updatedAt": "2026-08-27T20:51:30.147Z",
   "cards": [
     {
       "id": 302,
@@ -4999,6 +4999,25 @@
       "officialUrl": "https://ygoprodeck.com/card/solemn-scolding-7705",
       "addedAt": "2026-07-29 04:52:52",
       "changedAt": "2026-08-24 14:46:32"
+    },
+    {
+      "id": 341,
+      "name": "Sonivolt, the Unstruck",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Thunder",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "1400",
+      "def": "1400",
+      "text": "If you control no \"Sonivolt\" Monsters: You can Special Summon this card from your hand, and if you do, place 1 \"Frequency Shift\" from your Deck face-up in your Spell & Trap Zone. During your End Phase, if this card was used as Fusion Material this turn: You can add this card from your GY to your hand. You can only activate each effect of \"Sonivolt, the Unstruck\" once per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6017455,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017455.jpg",
+      "addedAt": "2026-08-27 20:51:27",
+      "changedAt": "2026-08-27 20:51:27"
     },
     {
       "id": 72,
