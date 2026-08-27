@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T21:24:24.090Z",
+  "updatedAt": "2026-08-27T13:29:59.160Z",
   "cards": [
     {
       "id": 302,
@@ -1288,6 +1288,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5989506.jpg",
       "addedAt": "2026-08-11 21:18:42",
       "changedAt": "2026-08-24 03:20:41"
+    },
+    {
+      "id": 335,
+      "name": "Dragonecro Nethersoul Dragon",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Fusion Monster",
+      "monsterType": "Dragon",
+      "attribute": "DARK",
+      "levelRankLink": "Level 8",
+      "atk": "3000",
+      "def": "0",
+      "text": "2 Zombie monsters\r\nMust first be Fusion Summoned. Monsters cannot be destroyed by battle with this card. At the end of the Damage Step, if this card battled a monster that has an original Level: That monster's ATK becomes 0, also, if that monster is still face-up on the field, Special Summon 1 \"Dark Soul Token\" (Zombie/DARK/Level ?/ATK ?/DEF 0). (When Summoned, its Level and ATK become equal to the original Level and ATK of that monster.) You can only control 1 \"Dragonecro Nethersoul Dragon\".",
+      "contributor": "I \"Lack toes\" Joules",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/8198620.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/dragonecro-nethersoul-dragon-692",
+      "addedAt": "2026-08-27 13:29:54",
+      "changedAt": "2026-08-27 13:29:54"
     },
     {
       "id": 21,
