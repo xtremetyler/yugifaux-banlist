@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T20:52:30.155Z",
+  "updatedAt": "2026-08-27T20:53:00.119Z",
   "cards": [
     {
       "id": 302,
@@ -5017,6 +5017,25 @@
       "officialUrl": "https://ygoprodeck.com/card/solemn-scolding-7705",
       "addedAt": "2026-07-29 04:52:52",
       "changedAt": "2026-08-24 14:46:32"
+    },
+    {
+      "id": 344,
+      "name": "Sonivolt, Bastion Frequency",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Fusion Monster",
+      "monsterType": "Thunder",
+      "attribute": "DARK",
+      "levelRankLink": "Level 8",
+      "atk": "1400",
+      "def": "2800",
+      "text": "\"Sonivolt, the Unstruck\" + 1 monster with 2000 or more DEF\nThe first time each other card you control would be destroyed by an opponent’s activated effect each turn, it is not destroyed. When your opponent activates a Spell/Trap Card or effect (Quick Effect): You can return this card to the Extra Deck to Special Summon 1 “Sonivolt, Riot Frequency” from your Extra Deck.",
+      "clauses": 2,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6017460,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017460.jpg",
+      "addedAt": "2026-08-27 20:52:57",
+      "changedAt": "2026-08-27 20:52:57"
     },
     {
       "id": 343,
