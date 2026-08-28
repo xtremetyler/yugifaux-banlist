@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27T20:53:00.119Z",
+  "updatedAt": "2026-08-28T19:29:21.342Z",
   "cards": [
     {
       "id": 302,
@@ -2625,6 +2625,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995210.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-08-23 12:49:19"
+    },
+    {
+      "id": 345,
+      "name": "Infernoble Knight Captain Roland",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Synchro Tuner Monster",
+      "monsterType": "Warrior",
+      "attribute": "FIRE",
+      "levelRankLink": "Level 5",
+      "atk": "2000",
+      "def": "500",
+      "text": "1 Tuner + 1+ non-Tuner monsters\r\nIf this card is Synchro Summoned: You can activate this effect; during the End Phase of this turn, send 1 Equip Spell from your Deck to the GY, then add 1 Warrior monster from your Deck to your hand. During the Main Phase, if this card is in your GY (Quick Effect): You can target 1 Warrior monster you control; equip this card to that monster you control as an Equip Spell that gives it 500 ATK. You can only use each effect of \"Infernoble Knight Captain Roland\" once per turn.",
+      "archetype": "Noble Knight",
+      "contributor": "The Original Rough Cheddar",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/40251688.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/infernoble-knight-captain-roland-10995",
+      "addedAt": "2026-08-28 19:29:05",
+      "changedAt": "2026-08-28 19:29:05"
     },
     {
       "id": 31,
