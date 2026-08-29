@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-28T19:29:21.342Z",
+  "updatedAt": "2026-08-29T03:45:55.152Z",
   "cards": [
     {
       "id": 302,
@@ -5837,6 +5837,21 @@
       "officialUrl": "https://ygoprodeck.com/card/tindangle-angel-8936",
       "addedAt": "2026-07-29 04:34:46",
       "changedAt": "2026-08-24 14:57:46"
+    },
+    {
+      "id": 346,
+      "name": "Tokusano Shinkyojin",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Send monster(s) from your hand and/or face-up field to the GY whose total Levels equal 10; draw 2 cards.",
+      "contributor": "Edward Swissorhands",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/50357013.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/tokusano-shinkyojin-13806",
+      "addedAt": "2026-08-29 03:45:47",
+      "changedAt": "2026-08-29 03:45:47"
     },
     {
       "id": 233,
