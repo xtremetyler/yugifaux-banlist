@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T03:45:55.152Z",
+  "updatedAt": "2026-08-31T19:17:28.001Z",
   "cards": [
     {
       "id": 302,
@@ -1598,6 +1598,21 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999524.jpg",
       "addedAt": "2026-08-17 17:38:37",
       "changedAt": "2026-08-17 17:38:37"
+    },
+    {
+      "id": 347,
+      "name": "Flourishing Frolic",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Excavate cards from your Deck equal to the number of \"Flourishing Frolic\" in your GY + 3, and if you excavate at least 1 Monster, 1 Spell, and 1 Trap, add 1 of them to your hand and send the other cards to the GY. If you did not, shuffle all excavated cards into your Deck. You can only activate 1 \"Flourishing Frolic\" per turn.",
+      "contributor": "The Original Rough Cheddar",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/32887445.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/flourishing-frolic-10810",
+      "addedAt": "2026-08-31 19:16:58",
+      "changedAt": "2026-08-31 19:16:58"
     },
     {
       "id": 28,
