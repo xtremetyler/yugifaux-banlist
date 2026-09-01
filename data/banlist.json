@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T14:04:57.601Z",
+  "updatedAt": "2026-09-01T14:05:27.616Z",
   "cards": [
     {
       "id": 302,
@@ -2344,7 +2344,7 @@
     {
       "id": 351,
       "name": "Hero of Hyrule - Adventurer",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Warrior",
@@ -2360,12 +2360,12 @@
       "duelingbookId": 6024531,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024531.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:04:57"
     },
     {
       "id": 352,
       "name": "Hero of Hyrule - Awakening",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -2379,12 +2379,12 @@
       "duelingbookId": 6024532,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024532.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:02"
     },
     {
       "id": 353,
       "name": "Hero of Hyrule - Champion",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Warrior",
@@ -2402,7 +2402,7 @@
       "duelingbookId": 6024533,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024533.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:11"
     },
     {
       "id": 354,
