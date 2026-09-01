@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T17:56:28.129Z",
+  "updatedAt": "2026-09-01T18:08:28.159Z",
   "cards": [
     {
       "id": 302,
@@ -6570,6 +6570,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948457.jpg",
       "addedAt": "2026-08-10 01:33:55",
       "changedAt": "2026-08-24 20:59:37"
+    },
+    {
+      "id": 365,
+      "name": "Wollow, Founder of the Drudge Dragons",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "XYZ Monster",
+      "monsterType": "Zombie",
+      "attribute": "DARK",
+      "levelRankLink": "Rank 6",
+      "atk": "2400",
+      "def": "1300",
+      "text": "2+ Level 6 monsters\r\nMonsters you control gain 100 ATK/DEF for each card in your opponent's GY. (Quick Effect): You can target 1 card in your opponent's GY and detach 1 or 2 materials from this card, then activate the appropriate effect;\r\n● 1: Return it to the Deck.\r\n● 2: If the target is a monster, Special Summon it face-up, or in face-down Defense Position, to your field. If it is not, Set it on your field.\r\nYou can only use this effect of \"Wollow, Founder of the Drudge Dragons\" once per turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/45935145.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/wollow-founder-of-the-drudge-dragons-13416",
+      "addedAt": "2026-09-01 18:08:20",
+      "changedAt": "2026-09-01 18:08:20"
     },
     {
       "id": 178,
