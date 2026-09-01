@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T04:30:26.074Z",
+  "updatedAt": "2026-09-01T04:30:55.672Z",
   "cards": [
     {
       "id": 302,
@@ -2198,8 +2198,8 @@
       "text": "You can discard this card; add 1 \"Hyrule Castle\" from your Deck to your hand. If a \"Hero of Hyrule\" or \"Princess of Hyrule\" monster is Special Summoned to your field while this card is in your GY: You can special summon this card. You can only use each effect of \"Guide of Hyrule - Mapmaker\" once per turn.",
       "archetype": "Hyrule",
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6003051,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6003051.jpg",
+      "duelingbookId": 6024530,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024530.jpg",
       "addedAt": "2026-09-01 04:29:36",
       "changedAt": "2026-09-01 04:29:36"
     },
@@ -5878,7 +5878,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Equip only to a \"Hero of Hyrule\" monster. It gains 1000 ATK. If the equipped monster destroys a \"Scourge of Hyrule\" monster by battle: inflict damage to your opponent equal to the original ATK the destroyed monster. When your opponent would pay LP to activate an effect: They pay twice that much LP instead.",
+      "text": "Equip only to a \"Hero of Hyrule\" monster. It gains 1000 ATK. If the equipped monster destroys a \"Scourge of Hyrule\" monster by battle: inflict damage to your opponent equal to the original ATK the destroyed monster. When your opponent would pay LP to activate an effect: They pay twice that much LP instead. Your opponent cannot Tribute the equipped Monster.",
       "archetype": "Hyrule",
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 6003034,
@@ -6252,7 +6252,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "During your Main Phase: You can add 1 \"Scourge of Hyrule\" Monster from your GY to your hand. During your Main Phase, while this card is in the GY: You can banish it; add 1 \"The Master Sword\" from your Deck or GY to your hand. You can only activate each effect of \"Triforce of Power\" once per turn. You can only control 1 \"Triforce of Power\".",
+      "text": "You can Tribute this card and 1 Monster your opponent controls in the same column as a \"Hero of Hyrule\" Link Monster; Special Summon 1 \"Scourge of Hyrule\" Monster from your hand or GY in the same zone as your opponent's Monster in Attack Position, ignoring Summoning conditions. During your Main Phase: You can add 1 \"Scourge of Hyrule\" Monster from your GY to your hand. During your Main Phase, while this card is in the GY: You can banish it; add 1 \"The Master Sword\" from your Deck, GY, or banishment to your hand. You can only activate each effect of \"Triforce of Power\" once per turn. You can only control 1 \"Triforce of Power\".",
       "archetype": "Hyrule",
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 6003040,
