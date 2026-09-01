@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T14:05:27.616Z",
+  "updatedAt": "2026-09-01T14:05:57.582Z",
   "cards": [
     {
       "id": 302,
@@ -2407,7 +2407,7 @@
     {
       "id": 354,
       "name": "Hero of Hyrule - Elements",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Warrior",
@@ -2424,12 +2424,12 @@
       "duelingbookId": 6024534,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024534.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:31"
     },
     {
       "id": 355,
       "name": "Hero of Hyrule - Legend",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Warrior",
@@ -2448,7 +2448,7 @@
       "duelingbookId": 6024536,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024536.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:35"
     },
     {
       "id": 103,
@@ -2700,7 +2700,7 @@
     {
       "id": 356,
       "name": "Hyrule Castle",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -2713,7 +2713,7 @@
       "duelingbookId": 6024537,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024537.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:37"
     },
     {
       "id": 11,
@@ -4436,7 +4436,7 @@
     {
       "id": 357,
       "name": "Princess of Hyrule - Fate",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -4450,12 +4450,12 @@
       "duelingbookId": 6024538,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024538.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:40"
     },
     {
       "id": 358,
       "name": "Princess of Hyrule - Shadow",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -4469,7 +4469,7 @@
       "duelingbookId": 6024539,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024539.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:41"
     },
     {
       "id": 330,
@@ -4809,7 +4809,7 @@
     {
       "id": 360,
       "name": "Scourge of Hyrule - King of Thieves",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -4823,7 +4823,7 @@
       "duelingbookId": 6024542,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024542.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:46"
     },
     {
       "id": 196,
@@ -5871,7 +5871,7 @@
     {
       "id": 361,
       "name": "The Master Sword",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -5884,7 +5884,7 @@
       "duelingbookId": 6024544,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024544.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:48"
     },
     {
       "id": 242,
@@ -6227,7 +6227,7 @@
     {
       "id": 362,
       "name": "Triforce of Courage",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -6240,12 +6240,12 @@
       "duelingbookId": 6024545,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024545.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:51"
     },
     {
       "id": 363,
       "name": "Triforce of Power",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -6258,12 +6258,12 @@
       "duelingbookId": 6024546,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024546.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:55"
     },
     {
       "id": 364,
       "name": "Triforce of Wisdom",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -6276,7 +6276,7 @@
       "duelingbookId": 6024547,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024547.jpg",
       "addedAt": "2026-09-01 04:29:36",
-      "changedAt": "2026-09-01 04:29:36"
+      "changedAt": "2026-09-01 14:05:56"
     },
     {
       "id": 77,
