@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T04:29:55.686Z",
+  "updatedAt": "2026-09-01T04:30:26.074Z",
   "cards": [
     {
       "id": 302,
@@ -2707,7 +2707,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "During your Main Phase: You can activate this effect; Ritual Summon 1 \"Scourge of Hyrule\" Ritual Monster from your hand or GY to your opponent's field in Attack Position by Tributing Monsters from your hand or field whose total Levels equal or exceed that Ritual Monster's Level. You can also Tribute 1 face-up \"Triforce of Power\" you control as the entire Tribute for this Ritual Summon. If a \"Hero of Hyrule\" Link Monster is Link Summoned: You can add 1 \"Princess of Hyrule\" Monster from your Deck or GY to your hand. You can only use each effect of \"Hyrule Castle\" once per turn.",
+      "text": "During your Main Phase: You can activate this effect; Ritual Summon 1 \"Scourge of Hyrule\" Ritual Monster from your hand or GY to your opponent's field in Attack Position by Tributing Monsters from your hand or field whose total Levels equal or exceed that Ritual Monster's Level. You can also Tribute 1 face-up \"Triforce of Power\" you control as the entire Tribute for this Ritual Summon. If a \"Hero of Hyrule\" Link Monster is Link Summoned: You can add 1 \"Princess of Hyrule\" Monster from your Deck or GY to your hand. During your Main Phase, while this card is in your GY: You can banish this card to target 1 \"Hero of Hyrule\" Link Monster in your GY; Special Summon it to your Extra Monster Zone or Main Monster Zone.\nYou can only use each effect of \"Hyrule Castle\" once per turn.",
       "archetype": "Hyrule",
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 6003032,
@@ -4463,7 +4463,7 @@
       "levelRankLink": "Level 3",
       "atk": "1400",
       "def": "1200",
-      "text": "If this card is Special Summoned: You can place 1 \"Triforce\" Continuous Spell from your Deck face-up in your Spell & Trap Zone. During the Main Phase (Quick Effect): You can return this face-up card to the hand; Special Summon 1 \"Princess of Hyrule: Fate\" from your hand or Deck. You can only use this effect of \"Princess of Hyrule: Shadow\" once per turn.",
+      "text": "When your opponent pays LP to activate a Spell Card or effect (Quick Effect): You can discard this card from your hand; negate that effect as it resolves, and if you do, draw 1 card. If this card is Special Summoned: You can place 1 \"Triforce\" Continuous Spell from your Deck face-up in your Spell & Trap Zone. During the Main Phase (Quick Effect): You can return this face-up card to the hand; Special Summon 1 \"Princess of Hyrule: Fate\" from your hand or Deck. You can only use each effect of \"Princess of Hyrule: Shadow\" once per turn.",
       "archetype": "Hyrule",
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 6002991,
@@ -4798,7 +4798,7 @@
       "levelRankLink": "Level 10",
       "atk": "3000",
       "def": "3000",
-      "text": "Must be Ritual Summoned with \"Hyrule Castle\". The controller of this card must pay 100 LP each time they activate a card or effect. Cannot be destroyed by battle or card effects. If this card is sent from your opponent's field to your GY: Inflict 300 damage to your opponent for each \"Triforce\" card in your GY, Banishment, and/or field.",
+      "text": "During your Main Phase: You can discard this card to target a face-up Field Spell your opponent controls; destroy it, and if you do, your opponent banishes all cards from their Deck and/or GY with the same original name as that destroyed card. Must be Ritual Summoned with \"Hyrule Castle\". The controller of this card must pay 100 LP each time they activate a card or effect. Cannot be destroyed by battle or card effects. If this card is sent from your opponent's field to your GY: Inflict 300 damage to your opponent for each \"Triforce\" card in your GY, Banishment, and/or field.",
       "archetype": "Hyrule",
       "contributor": "The Original Rough Cheddar",
       "duelingbookId": 6003025,
