@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T17:14:34.594Z",
+  "updatedAt": "2026-09-02T17:15:04.663Z",
   "cards": [
     {
       "id": 302,
@@ -1929,6 +1929,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980164.jpg",
       "addedAt": "2026-08-11 04:47:05",
       "changedAt": "2026-08-23 12:48:26"
+    },
+    {
+      "id": 374,
+      "name": "Genex Ally Birdman",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Tuner Monster",
+      "monsterType": "Machine",
+      "attribute": "DARK",
+      "levelRankLink": "Level 3",
+      "atk": "1400",
+      "def": "400",
+      "text": "You can return 1 face-up monster you control to the hand; Special Summon this card from your hand, but banish it when it leaves the field, also it gains 500 ATK if the returned monster was WIND on the field.",
+      "archetype": "Genex",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/64034255.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/genex-ally-birdman-5403",
+      "addedAt": "2026-09-02 17:14:45",
+      "changedAt": "2026-09-02 17:14:45"
     },
     {
       "id": 12,
