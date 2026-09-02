@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T17:11:34.705Z",
+  "updatedAt": "2026-09-02T17:12:34.635Z",
   "cards": [
     {
       "id": 302,
@@ -5125,6 +5125,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012858.jpg",
       "addedAt": "2026-08-25 01:53:28",
       "changedAt": "2026-08-25 13:14:40"
+    },
+    {
+      "id": 367,
+      "name": "Skull Meister",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Fiend",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "1700",
+      "def": "400",
+      "text": "When a card effect is activated in your opponent's GY (Quick Effect): You can send this card from your hand to the GY; negate that effect.",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/67750322.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/skull-meister-5691",
+      "addedAt": "2026-09-02 17:12:19",
+      "changedAt": "2026-09-02 17:12:19"
     },
     {
       "id": 169,
