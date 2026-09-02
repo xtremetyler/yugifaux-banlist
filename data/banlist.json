@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T17:15:04.663Z",
+  "updatedAt": "2026-09-02T17:16:04.611Z",
   "cards": [
     {
       "id": 302,
@@ -3742,6 +3742,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939423.jpg",
       "addedAt": "2026-08-07 03:02:03",
       "changedAt": "2026-08-07 03:02:03"
+    },
+    {
+      "id": 375,
+      "name": "Mimicking Man-Eater Bug",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Flip Effect Monster",
+      "monsterType": "Insect",
+      "attribute": "EARTH",
+      "levelRankLink": "Level 4",
+      "atk": "450",
+      "def": "600",
+      "text": "FLIP: Target 1 monster on the field; destroy it, and if you do, this card gains ATK equal to that monster's original ATK, then you can change this card's Type to that monster's original Type.\r\nCannot be destroyed by battle. Cannot be destroyed by the effects of monsters with its same Type.",
+      "archetype": "Man-Eater Bug",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/72427512.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/mimicking-man-eater-bug-12443",
+      "addedAt": "2026-09-02 17:15:36",
+      "changedAt": "2026-09-02 17:15:36"
     },
     {
       "id": 238,
