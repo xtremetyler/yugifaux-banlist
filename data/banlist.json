@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T17:12:34.635Z",
+  "updatedAt": "2026-09-02T17:13:04.659Z",
   "cards": [
     {
       "id": 302,
@@ -1136,6 +1136,21 @@
       "changedAt": "2026-08-31 19:18:35"
     },
     {
+      "id": 369,
+      "name": "Dark Scheme",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Trap Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Your opponent can discard 1 card to negate this card's effect, otherwise both players discard 2 cards, then draw 2 cards.",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/69402394.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/dark-scheme-5837",
+      "addedAt": "2026-09-02 17:12:52",
+      "changedAt": "2026-09-02 17:12:52"
+    },
+    {
       "id": 333,
       "name": "Darklord Nurse Reficule",
       "status": "semi-limeade",
@@ -1172,6 +1187,22 @@
       "officialUrl": "https://ygoprodeck.com/card/darkuriboh-15005",
       "addedAt": "2026-07-29 04:47:12",
       "changedAt": "2026-07-29 04:47:12"
+    },
+    {
+      "id": 368,
+      "name": "Dinomorphia Shell",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Trap Card",
+      "monsterType": "Counter",
+      "spellTrapType": "Counter",
+      "text": "At the start of your opponent's Battle Phase: Pay half your LP; Special Summon 1 \"Dinomorphia Token\" (Dinosaur/DARK/Level 10/ATK 0/DEF 3000), and if you do, for the rest of this turn, while you control that Token in your Monster Zone, your opponent cannot target other monsters for attacks, except that one. During damage calculation, while your LP are 2000 or less, if you would take battle damage: You can banish this card from your GY; you take no battle damage from that battle. You can only activate 1 \"Dinomorphia Shell\" per turn.",
+      "archetype": "Dinomorphia",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/25419323.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/dinomorphia-shell-12750",
+      "addedAt": "2026-09-02 17:12:36",
+      "changedAt": "2026-09-02 17:12:36"
     },
     {
       "id": 34,
