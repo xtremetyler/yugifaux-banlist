@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01T18:08:28.159Z",
+  "updatedAt": "2026-09-02T17:11:34.705Z",
   "cards": [
     {
       "id": 302,
@@ -1531,6 +1531,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5940516.jpg",
       "addedAt": "2026-07-31 03:49:24",
       "changedAt": "2026-07-31 03:49:24"
+    },
+    {
+      "id": 366,
+      "name": "EXTREMELY Advanced Ritual Art",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Ritual",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Pay 1000 LP; This card can be used to Ritual Summon any 1 Ritual Monster from your hand or GY. You must also send Normal Monsters from your Pendulum Zones or Deck to the GY whose total Levels exactly equal the Level of that Ritual Monster.",
+      "clauses": 2,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6026630,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6026630.jpg",
+      "addedAt": "2026-09-02 17:11:22",
+      "changedAt": "2026-09-02 17:11:22"
     },
     {
       "id": 243,
