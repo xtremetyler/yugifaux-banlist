@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T17:16:04.611Z",
+  "updatedAt": "2026-09-02T17:16:34.597Z",
   "cards": [
     {
       "id": 302,
@@ -4138,6 +4138,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006959.jpg",
       "addedAt": "2026-08-22 00:34:48",
       "changedAt": "2026-08-24 01:33:50"
+    },
+    {
+      "id": 376,
+      "name": "Number 2: Ninja Shadow Mosquito",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "XYZ Monster",
+      "monsterType": "Insect",
+      "attribute": "WIND",
+      "levelRankLink": "Rank 2",
+      "atk": "0",
+      "def": "0",
+      "text": "2+ Level 2 monsters\r\nCannot be destroyed by battle, also you take no damage from battles involving this card. All monsters your opponent controls must attack, if able. When an attack is declared: You can activate 1 of these effects;\r\n● Detach 1 material from this card, and if you do, place 1 Hallucination Counter on 1 face-up monster your opponent controls. (The effects, if any, of monsters with Hallucination Counters are negated.)\r\n● Inflict damage to your opponent equal to the ATK of 1 monster with a Hallucination Counter.",
+      "archetype": "Ninja",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/32453837.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/number-2-ninja-shadow-mosquito-13344",
+      "addedAt": "2026-09-02 17:16:24",
+      "changedAt": "2026-09-02 17:16:24"
     },
     {
       "id": 212,
