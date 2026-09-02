@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T17:13:04.659Z",
+  "updatedAt": "2026-09-02T17:13:34.747Z",
   "cards": [
     {
       "id": 302,
@@ -603,6 +603,21 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995216.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-08-22 10:20:47"
+    },
+    {
+      "id": 370,
+      "name": "Card Destruction",
+      "status": "limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Both players discard as many cards as possible from their hands, then each player draws the same number of cards they discarded.",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/72892473.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/card-destruction-6117",
+      "addedAt": "2026-09-02 17:13:11",
+      "changedAt": "2026-09-02 17:13:11"
     },
     {
       "id": 318,
