@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T17:14:04.556Z",
+  "updatedAt": "2026-09-02T17:14:34.594Z",
   "cards": [
     {
       "id": 302,
@@ -4639,6 +4639,25 @@
       "officialUrl": "https://ygoprodeck.com/card/reinforcement-of-the-army-2794",
       "addedAt": "2026-07-31 17:09:14",
       "changedAt": "2026-07-31 17:09:14"
+    },
+    {
+      "id": 373,
+      "name": "Relinquished",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Ritual Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Level 1",
+      "atk": "0",
+      "def": "0",
+      "text": "You can Ritual Summon this card with \"Black Illusion Ritual\". Once per turn: You can target 1 monster your opponent controls; equip that target to this card (max. 1). This card's ATK/DEF become equal to that equipped monster's. If this card would be destroyed by battle, destroy that equipped monster instead. While equipped with that monster, any battle damage you take from battles involving this card inflicts equal effect damage to your opponent.",
+      "archetype": "Eyes Restrict",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/64631466.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/relinquished-5455",
+      "addedAt": "2026-09-02 17:14:22",
+      "changedAt": "2026-09-02 17:14:22"
     },
     {
       "id": 246,
