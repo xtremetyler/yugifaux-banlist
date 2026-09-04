@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T17:51:38.547Z",
+  "updatedAt": "2026-09-04T17:52:38.533Z",
   "cards": [
     {
       "id": 384,
@@ -6885,6 +6885,24 @@
       "officialUrl": "https://ygoprodeck.com/card/veidos-the-eruption-dragon-of-extinction-14378",
       "addedAt": "2026-07-29 04:56:45",
       "changedAt": "2026-07-29 04:56:45"
+    },
+    {
+      "id": 391,
+      "name": "Vermillion Dragon Mech",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Synchro Monster",
+      "monsterType": "Machine",
+      "attribute": "FIRE",
+      "levelRankLink": "Level 9",
+      "atk": "2700",
+      "def": "1800",
+      "text": "1 Tuner + 1+ non-Tuner monsters\nOnce per turn: You can banish 1 Tuner from your hand, GY, or face-up field, then target 1 card on the field; destroy it. If this Synchro Summoned card is destroyed by card effect and sent to the GY: You can target 1 of your banished Tuners; add it to your hand.",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/66698383.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/vermillion-dragon-mech-5600",
+      "addedAt": "2026-09-04 17:52:21",
+      "changedAt": "2026-09-04 17:52:21"
     },
     {
       "id": 380,
