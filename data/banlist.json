@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T16:48:38.245Z",
+  "updatedAt": "2026-09-04T17:51:38.547Z",
   "cards": [
     {
       "id": 384,
@@ -6097,6 +6097,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5980232.jpg",
       "addedAt": "2026-08-11 04:47:05",
       "changedAt": "2026-08-24 17:13:17"
+    },
+    {
+      "id": 390,
+      "name": "Swordsoul Supreme Sovereign - Chengying",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Synchro Monster",
+      "monsterType": "Wyrm",
+      "attribute": "WATER",
+      "levelRankLink": "Level 10",
+      "atk": "3000",
+      "def": "3000",
+      "text": "1 Tuner + 1+ non-Tuner monsters\r\nFor each banished card, this card gains 100 ATK/DEF and monsters your opponent controls lose 100 ATK/DEF. If this card would be destroyed by card effect, you can banish 1 card from your GY instead. If a card(s) is banished (except during the Damage Step): You can banish 1 card each from both your opponent's field and GY. You can only use this effect of \"Swordsoul Supreme Sovereign - Chengying\" once per turn.",
+      "archetype": "Swordsoul",
+      "contributor": "Left Parm of the Forbitten One",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/96633955.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/swordsoul-supreme-sovereign-chengying-12463",
+      "addedAt": "2026-09-04 17:51:37",
+      "changedAt": "2026-09-04 17:51:37"
     },
     {
       "id": 16,
