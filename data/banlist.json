@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T16:47:08.209Z",
+  "updatedAt": "2026-09-04T16:47:38.264Z",
   "cards": [
     {
       "id": 384,
@@ -12,7 +12,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "This card's name also becomes \"Inverting Purp-eL\" while on the field or in the GY or Banishment. When this card is activated: You can add 1 \"Purp-eL\" Spell or Pendulum Monster from your Deck to your hand. Once per turn, during either player's turn (except the Damage Step): You can destroy 1 \"Inverting Purp-eL\" in your field or Banishment; Special Summon 1 \"Purp-eL\" Pendulum Monster from your Banishment to your Extra Monster Zone, ignoring Summoning conditions. You can only activate 1 \"A Certain Purp-eL Wrongness\" per turn.",
+      "text": "This card's name also becomes \"Inverting Purp-eL\" while on the field or in the GY or Banishment. When this card is activated: You can add 1 \"Purp-eL\" Spell or Pendulum Monster from your Deck to your hand. Once per turn, during either player's turn (except the Damage Step): You can destroy 1 \"Inverting Purp-eL\" in your field or Banishment; Special Summon 1 \"Purp-eL\" Pendulum Monster from your Banishment to your Extra Monster Zone, ignoring Summoning conditions. When your opponent targets a face-up \"Purp-eL\" card you control, while this card is in your GY: You can banish this card face-down; negate that effect as it resolves. You can only activate each effect of \"A Certain Purp-eL Wrongness\" once per turn.",
       "archetype": "Purp-eL",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6003006,
@@ -3296,7 +3296,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Reveal 1 Pendulum Monster Card with an odd original Level from your face-up or face-down Extra Deck; activate it to 1 of your empty Pendulum Zones, then Special Summon it, ignoring Summoning conditions, and equip it with this card. Destroy the equipped Monster when this card leaves the field. Once per turn, during either player's turn (except the Damage Step): You can return this card you control to the hand. You can only activate this effect of \"Inverting Purp-eL\" once per turn.",
+      "text": "Reveal 1 Wyrm Pendulum Monster Card with an odd original Level from your Extra Deck; activate it to 1 of your empty Pendulum Zones, then Special Summon it, ignoring Summoning conditions, and equip it with this card. Destroy the equipped Monster when this card leaves the field. During either player's turn (except the Damage Step): You can return this card you control to the hand. You can only activate this effect of \"Inverting Purp-eL\" once per turn. You can only equip \"Inverting Purp-eL\" thrice per turn.",
       "archetype": "Purp-eL",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6002992,
@@ -3581,7 +3581,7 @@
       "atk": "1300",
       "def": "1700",
       "pendulumScale": "7",
-      "pendulumEffect": "During your Main Phase: You can add 1 \"Inverting Purp-eL\" or 1 Field Spell from your GY to your hand. You can only activate this effect of \"Maligned Magnate of the Purp-eL Inversion\" once per turn.",
+      "pendulumEffect": "During your Main Phase: You can add 1 \"Inverting Purp-eL\" or 1 Field Spell from your GY to your hand. If a card you own was destroyed this turn, you can add both instead. You can only activate this effect of \"Maligned Magnate of the Purp-eL Inversion\" once per turn.",
       "text": "1 Tuner + 1+ non-Tuner Monster(s), including 1 non-Effect Monster\nFor this card's Synchro Summon, you can only use Monsters with a Level as Synchro Material and you must treat the Level of exactly 1 non-Tuner Monster used as Synchro Material as a negative Level instead. Your opponent must target this card when activating card effects, if able. If this card is destroyed by battle or card effect: You can banish it; add up to 1 Field Spell from your Deck to your hand. You can only activate this effect of \"Maligned Magnate of Purp-eL Inversion\" once per turn.",
       "archetype": "Purp-eL",
       "contributor": "Left Parm of the Forbitten One",
@@ -7009,7 +7009,7 @@
       "def": "1100",
       "pendulumScale": "11",
       "pendulumEffect": "During your Main Phase: You can add 1 \"Inverting Purp-eL\" or 1 Normal Spell from your GY to your hand. You can only activate this effect of \"Whispering Wain of the Purp-eL Inversion\" once per turn.",
-      "text": "1 Tuner + 1+ non-Tuner Monster(s), including 1 non-Effect Monster\nFor this card's Synchro Summon, you can only use Monsters with a Level as Synchro Material and you must treat the Level of exactly 1 non-Tuner Monster used as Synchro Material as a negative Level instead. At the start of each Battle Phase: The turn player chooses 1 Monster they control; only Monsters that share a name with the chosen Monster can attack during this Battle Phase. If this card is destroyed by battle or card effect: You can banish it; add up to 1 Normal Spell from your Deck to your hand. You can only activate this effect of \"Whispering Wain of Purp-eL Inversion\" once per turn.",
+      "text": "1 Tuner + 1+ non-Tuner Monster(s), including 1 non-Effect Monster\nFor this card's Synchro Summon, you can only use Monsters with a Level as Synchro Material and you must treat the Level of exactly 1 non-Tuner Monster used as Synchro Material as a negative Level instead. At the start of each Battle Phase: The turn player chooses 1 Monster they control; only Monsters that share a name with the chosen Monster can attack during this Battle Phase. If this card is destroyed by battle or card effect: You can banish it; add up to 1 Normal Spell from your Deck to your hand, and if you do, you can activate cards with the same original name as that card as a Quick Effect for the rest of this turn. You can only activate this effect of \"Whispering Wain of Purp-eL Inversion\" once per turn.",
       "archetype": "Purp-eL",
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6002686,
