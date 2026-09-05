@@ -41,6 +41,45 @@ function shuffled(cards) {
   return result;
 }
 
+function randomFraction() {
+  const value = new Uint32Array(1);
+  crypto.getRandomValues(value);
+  return value[0] / 0x100000000;
+}
+
+function archetypeKey(card) {
+  return String(card.archetype || "").trim().toLocaleLowerCase();
+}
+
+function draftPack(cards) {
+  const priorArchetypes = new Map();
+  state.packs.flat().forEach(card => {
+    const key = archetypeKey(card);
+    if (key) priorArchetypes.set(key, (priorArchetypes.get(key) || 0) + 1);
+  });
+
+  const available = [...cards];
+  const pack = [];
+  while (pack.length < 5 && available.length) {
+    const weights = available.map(card => {
+      const priorCopies = priorArchetypes.get(archetypeKey(card)) || 0;
+      return 1 + Math.min(0.35, priorCopies * 0.12);
+    });
+    const totalWeight = weights.reduce((sum, weight) => sum + weight, 0);
+    let roll = randomFraction() * totalWeight;
+    let selectedIndex = weights.length - 1;
+    for (let index = 0; index < weights.length; index += 1) {
+      roll -= weights[index];
+      if (roll < 0) {
+        selectedIndex = index;
+        break;
+      }
+    }
+    pack.push(available.splice(selectedIndex, 1)[0]);
+  }
+  return pack;
+}
+
 function frameCategory(card) {
   const type = String(card.cardType || "").toLowerCase();
   if (type.includes("spell")) return "spell";
@@ -131,7 +170,7 @@ function renderCollection() {
 function openPack() {
   if (state.cards.length < 5) return;
   elements.open.disabled = true;
-  const pack = shuffled(state.cards).slice(0, 5);
+  const pack = draftPack(state.cards);
   state.packs.push(pack);
   saveCollection();
   elements.stage.classList.remove("is-open", "is-ripping");
