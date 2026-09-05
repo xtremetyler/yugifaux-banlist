@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0d1018" />
+    <meta name="description" content="Open five-card packs from the YugiFaux Dynamic Limeade List for Draft Night." />
+    <title>YugiFaux Draft Night</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="draft-styles.css" />
+  </head>
+  <body class="draft-page">
+    <header class="hero draft-hero">
+      <div class="hero__glow"></div>
+      <div class="shell hero__content">
+        <nav class="site-nav" aria-label="YugiFaux pages">
+          <a href="index.html">Dynamic Limeade List</a>
+          <a href="draft.html" aria-current="page">Draft Night</a>
+        </nav>
+        <p class="eyebrow">YugiFaux Custom Card League</p>
+        <div class="hero__title-row">
+          <span class="hero__logo" aria-hidden="true"></span>
+          <h1>Draft Night</h1>
+        </div>
+        <p class="hero__intro">Rip five-card packs from the current legal shared-card pool and build your picks for the night.</p>
+        <div class="hero__meta">
+          <span id="draft-pool-status">Loading draft pool…</span>
+          <span class="hero__dot" aria-hidden="true"></span>
+          <span id="pack-count">0 packs opened</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="shell draft-main">
+      <section class="draft-controls" aria-labelledby="pack-station-title">
+        <div>
+          <p class="draft-kicker">Pack station</p>
+          <h2 id="pack-station-title">Five cards. One rip.</h2>
+          <p>Banned and voting-pending cards are excluded. Every card in a single pack is different.</p>
+        </div>
+        <div class="draft-actions">
+          <button id="open-pack" class="pack-button" type="button" disabled>Rip a pack</button>
+          <button id="reset-draft" class="draft-reset" type="button">Reset draft</button>
+        </div>
+      </section>
+
+      <p id="draft-message" class="draft-message" role="status" aria-live="polite"></p>
+      <section id="pack-stage" class="pack-stage" aria-label="Most recently opened pack">
+        <div class="pack-empty">
+          <span>YF</span>
+          <h2>Your next pack is waiting</h2>
+          <p>Select “Rip a pack” to reveal five cards.</p>
+        </div>
+      </section>
+
+      <section class="draft-collection" aria-labelledby="collection-title">
+        <div class="draft-section-heading">
+          <div>
+            <p class="draft-kicker">Your pulls</p>
+            <h2 id="collection-title">Draft pool</h2>
+          </div>
+          <span id="pull-total">0 cards</span>
+        </div>
+        <div id="draft-picks" class="draft-picks">
+          <p class="draft-picks-empty">Cards from every pack you open will be collected here.</p>
+        </div>
+      </section>
+
+      <section id="draft-error" class="error-state" hidden>
+        <h2>Draft Night could not load</h2>
+        <p>Refresh the page in a moment. If the problem continues, let a league administrator know.</p>
+      </section>
+    </main>
+
+    <dialog id="draft-card-dialog" class="card-dialog">
+      <button class="dialog-close" type="button" aria-label="Close card details">×</button>
+      <div id="draft-dialog-content"></div>
+    </dialog>
+
+    <footer>
+      <div class="shell footer__content">
+        <span>YugiFaux Draft Night</span>
+        <span>Your draft collection is saved in this browser</span>
+      </div>
+    </footer>
+    <script src="draft.js" defer></script>
+  </body>
+</html>
+
