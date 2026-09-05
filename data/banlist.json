@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T06:22:05.650Z",
+  "updatedAt": "2026-09-05T06:22:35.637Z",
   "cards": [
     {
       "id": 384,
@@ -23,7 +23,7 @@
     {
       "id": 382,
       "name": "A Landscape Drowning in Purp-eL",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -36,12 +36,12 @@
       "duelingbookId": 6029731,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029731.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:28"
     },
     {
       "id": 383,
       "name": "A Shade Too Purp-eL",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -54,7 +54,7 @@
       "duelingbookId": 6029732,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029732.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:31"
     },
     {
       "id": 302,
@@ -3268,7 +3268,7 @@
     {
       "id": 381,
       "name": "Inverter of the Eponymous Purp-eL",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Pendulum Effect Monster",
       "monsterType": "Wyrm",
@@ -3284,7 +3284,7 @@
       "duelingbookId": 6029730,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029730.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:22"
     },
     {
       "id": 385,
@@ -6755,7 +6755,7 @@
     {
       "id": 379,
       "name": "Ultra-Purp-eL Wavelength",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -6768,7 +6768,7 @@
       "duelingbookId": 6029728,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029728.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:09"
     },
     {
       "id": 209,
@@ -6907,7 +6907,7 @@
     {
       "id": 380,
       "name": "Virulent Vassal of Purp-eL Inversion",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Pendulum Xyz Monster",
       "monsterType": "Wyrm",
@@ -6922,7 +6922,7 @@
       "duelingbookId": 6029729,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029729.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:19"
     },
     {
       "id": 284,
