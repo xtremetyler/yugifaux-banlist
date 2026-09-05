@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T06:22:35.637Z",
+  "updatedAt": "2026-09-05T06:23:05.575Z",
   "cards": [
     {
       "id": 384,
       "name": "A Certain Purp-eL Wrongness",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -18,7 +18,7 @@
       "duelingbookId": 6029733,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029733.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:36"
     },
     {
       "id": 382,
@@ -3289,7 +3289,7 @@
     {
       "id": 385,
       "name": "Inverting Purp-eL",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -3302,7 +3302,7 @@
       "duelingbookId": 6029734,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029734.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:38"
     },
     {
       "id": 194,
@@ -3572,7 +3572,7 @@
     {
       "id": 387,
       "name": "Maligned Magnate of Purp-eL Inversion",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Pendulum Synchro Monster",
       "monsterType": "Wyrm",
@@ -3588,7 +3588,7 @@
       "duelingbookId": 6029736,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029736.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:58"
     },
     {
       "id": 3,
@@ -4851,7 +4851,7 @@
     {
       "id": 388,
       "name": "Roiling Regent of Purp-eL Inversion",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Pendulum Synchro Monster",
       "monsterType": "Wyrm",
@@ -4867,7 +4867,7 @@
       "duelingbookId": 6029737,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029737.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:23:01"
     },
     {
       "id": 222,
@@ -6029,7 +6029,7 @@
     {
       "id": 389,
       "name": "Strange Seneschal of the Purp-eL Inversion",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Pendulum Synchro Monster",
       "monsterType": "Wyrm",
@@ -6045,7 +6045,7 @@
       "duelingbookId": 6029738,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029738.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:23:05"
     },
     {
       "id": 227,
@@ -7036,7 +7036,7 @@
     {
       "id": 386,
       "name": "Whispering Wain of Purp-eL Inversion",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Pendulum Synchro Monster",
       "monsterType": "Wyrm",
@@ -7052,7 +7052,7 @@
       "duelingbookId": 6029735,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029735.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:22:41"
     },
     {
       "id": 365,
