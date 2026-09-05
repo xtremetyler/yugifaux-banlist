@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T17:52:38.533Z",
+  "updatedAt": "2026-09-05T06:22:05.650Z",
   "cards": [
     {
       "id": 384,
@@ -6829,7 +6829,7 @@
     {
       "id": 378,
       "name": "Unseeing Dragon of Purp-eL Inversion",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Pendulum Normal Monster",
       "monsterType": "Wyrm",
@@ -6848,7 +6848,7 @@
       "duelingbookId": 6029727,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029727.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-04 16:46:47"
+      "changedAt": "2026-09-05 06:21:52"
     },
     {
       "id": 216,
