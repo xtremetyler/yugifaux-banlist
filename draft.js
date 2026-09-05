@@ -134,12 +134,27 @@ function openPack() {
   const pack = shuffled(state.cards).slice(0, 5);
   state.packs.push(pack);
   saveCollection();
-  elements.stage.innerHTML = pack.map(packCard).join("");
-  bindCards(elements.stage);
-  requestAnimationFrame(() => elements.stage.classList.add("is-open"));
-  elements.message.textContent = `Pack ${state.packs.length} opened — five cards added to your draft pool.`;
+  elements.stage.classList.remove("is-open", "is-ripping");
+  elements.stage.innerHTML = `<div class="pack-rip" aria-label="Opening YugiFaux Draft Night booster pack">
+    <div class="pack-rip__glow"></div>
+    <img class="pack-rip__whole" src="assets/draft-pack.jpg" alt="" />
+    <div class="pack-rip__half pack-rip__half--top"><img src="assets/draft-pack.jpg" alt="" /></div>
+    <div class="pack-rip__half pack-rip__half--bottom"><img src="assets/draft-pack.jpg" alt="" /></div>
+    <span class="pack-rip__tear" aria-hidden="true"></span>
+  </div>`;
+  void elements.stage.offsetWidth;
+  elements.stage.classList.add("is-ripping");
+  elements.message.textContent = `Ripping pack ${state.packs.length}…`;
   renderCollection();
-  window.setTimeout(() => { elements.open.disabled = false; elements.open.focus(); }, 850);
+  window.setTimeout(() => {
+    elements.stage.classList.remove("is-ripping");
+    elements.stage.innerHTML = pack.map(packCard).join("");
+    bindCards(elements.stage);
+    void elements.stage.offsetWidth;
+    requestAnimationFrame(() => elements.stage.classList.add("is-open"));
+    elements.message.textContent = `Pack ${state.packs.length} opened — five cards added to your draft pool.`;
+  }, 1050);
+  window.setTimeout(() => { elements.open.disabled = false; elements.open.focus(); }, 1950);
 }
 
 function resetDraft() {
@@ -147,7 +162,7 @@ function resetDraft() {
     state.packs = [];
     localStorage.removeItem(COLLECTION_KEY);
     elements.stage.classList.remove("is-open");
-    elements.stage.innerHTML = '<div class="pack-empty"><span>YF</span><h2>Your next pack is waiting</h2><p>Select “Rip a pack” to reveal five cards.</p></div>';
+    elements.stage.innerHTML = '<div class="pack-empty"><img src="assets/draft-pack.jpg" alt="YugiFaux Draft Night booster pack" /><h2>Your next pack is waiting</h2><p>Select “Rip a pack” to reveal five cards.</p></div>';
     elements.message.textContent = "Draft reset. Your next pack is ready.";
     renderCollection();
   }
