@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:01:54.343Z",
+  "updatedAt": "2026-09-07T04:03:32.034Z",
   "cards": [
     {
       "id": 384,
@@ -127,6 +127,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972248.jpg",
       "addedAt": "2026-09-07 04:01:42",
       "changedAt": "2026-09-07 04:01:42"
+    },
+    {
+      "id": 397,
+      "name": "A-Re:L Detach Ejection",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Quick-Play",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Send 1 Spell/Trap from your hand or field to the GY; choose 1 face-up card your opponent controls, and until the end of this turn, its effects are negated, then, if you sent a Continuous Spell/Trap to activate this card's effect, you can Set this card. While this card is in your GY: You can banish this card; shuffle 1 \"A-Re:L\" Fusion Monster you control into the Extra Deck, and if you do, place 3 ‎ ‎ ‎ \"A-Re:L Assault\" Continuous Spells with different names from your Deck face-up in your Spell & Trap Zones.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5972245,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972245.jpg",
+      "addedAt": "2026-09-07 04:03:24",
+      "changedAt": "2026-09-07 04:03:24"
     },
     {
       "id": 395,
