@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:00:28.100Z",
+  "updatedAt": "2026-09-07T04:01:17.179Z",
   "cards": [
     {
       "id": 384,
@@ -109,6 +109,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972251.jpg",
       "addedAt": "2026-09-07 04:00:19",
       "changedAt": "2026-09-07 04:00:19"
+    },
+    {
+      "id": 395,
+      "name": "A-Re:L Reserve Module",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "This card's name also becomes \"A-Re:L Assault - Rushdown Red\", \"A-Re:L Blitzing Blue\", and \"A-Re:L Guardian Green\" while face-up on the field. While this card is face-up on the field, if an “A-Re:L Assault” Continuous Spell would be activated by the effect of an \"A-Re:L\" Spell/Trap , you can Special Summon it to your Main Monster Zone as an Effect Monster (Machine/LIGHT/Level 9/ATK 1400/DEF 1400) instead. It is also treated as a Continuous Spell, and gains its original effects. During your turn, while this card is in your GY (Quick Effect): You can shuffle any number of \"A-Re:L\" cards with different names from your GY or banishment into the Deck (min.1); activate 1 of the following effects.\n● Place this card face-up in your Field Zone.\n● Equip this card from your GY to a face-up Monster you control.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5972246,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972246.jpg",
+      "addedAt": "2026-09-07 04:00:56",
+      "changedAt": "2026-09-07 04:00:56"
     },
     {
       "id": 302,
