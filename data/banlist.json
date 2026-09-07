@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T03:59:09.752Z",
+  "updatedAt": "2026-09-07T04:00:03.261Z",
   "cards": [
     {
       "id": 384,
@@ -73,6 +73,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972253.jpg",
       "addedAt": "2026-09-07 03:59:02",
       "changedAt": "2026-09-07 03:59:02"
+    },
+    {
+      "id": 393,
+      "name": "A-Re:L Assault - Guardian Green",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Face-up Level 9 or higher Monsters you control cannot be destroyed by card effects. During your turn, while this card is in your GY (Quick Effect): You can choose 1 unrevealed Fusion Monster from your Extra Deck to become revealed until the start of your next turn; activate this card, then, if you revealed \"A-Re:L GRB Guardian Grand\" this way, you can send 1 Continuous Spell from your field or Deck to the GY. If this card is sent from the field to the GY: You can target 1 \"A-Re:L\" Fusion Monster you control; banish it until the start of the next Phase. You can only activate each effect of \"A-Re:L Assault - Guardian Green\" once per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5972250,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972250.jpg",
+      "addedAt": "2026-09-07 03:59:50",
+      "changedAt": "2026-09-07 03:59:50"
     },
     {
       "id": 302,
