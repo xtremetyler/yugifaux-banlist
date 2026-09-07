@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:06:17.323Z",
+  "updatedAt": "2026-09-07T04:07:47.233Z",
   "cards": [
     {
       "id": 384,
@@ -183,6 +183,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972260.jpg",
       "addedAt": "2026-09-07 04:06:15",
       "changedAt": "2026-09-07 04:06:15"
+    },
+    {
+      "id": 403,
+      "name": "A-Re:L RBG Rushdown Ronin",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Fusion Monster",
+      "monsterType": "Machine",
+      "attribute": "WIND",
+      "levelRankLink": "Level 9",
+      "atk": "3100",
+      "def": "2300",
+      "text": "3 Monsters with the same type, but with different names\nYou can also Fusion Summon this unrevealed card (from your Extra Deck) by shuffling 2 Continuous Spells with different names from your hand or GY into the Deck while you control \"A-Re:L Assault - Rushdown Red\", and if you do, equip it to this card. Once per Chain (Quick Effect): You can send 1 Continuous Spell from your field to the GY to target 1 other Spell in either GY; activate it. If this card is revealed from your Extra Deck: You can target 1 face-up Monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. You can only activate 3 \"A-Re:L RGB Rushdown Ronin\" effects per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5972263,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972263.jpg",
+      "addedAt": "2026-09-07 04:07:17",
+      "changedAt": "2026-09-07 04:07:17"
     },
     {
       "id": 395,
