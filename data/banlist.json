@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:04:56.550Z",
+  "updatedAt": "2026-09-07T04:06:17.323Z",
   "cards": [
     {
       "id": 384,
@@ -111,6 +111,25 @@
       "changedAt": "2026-09-07 04:00:19"
     },
     {
+      "id": 401,
+      "name": "A-Re:L BGR Blitzing Battery",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Fusion Monster",
+      "monsterType": "Machine",
+      "attribute": "WIND",
+      "levelRankLink": "Level 9",
+      "atk": "2900",
+      "def": "2700",
+      "text": "3 Monsters with the same type, but with different names\nYou can also Fusion Summon this unrevealed card (from your Extra Deck) by shuffling 2 Continuous Spells with different names from your hand or GY into the Deck while you control \"A-Re:L Assault - Blitzing Blue\", and if you do, equip it to this card. Once per Chain (Quick Effect): You can send 1 Continuous Spell from your field to the GY to target 1 face-up Monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. If this card is revealed from your Extra Deck: You can target 1 face-up Spell on the field; its effects are negated until the end of the next turn. You can only activate 3 \"A-Re:L BGR Blitzing Battery\" effects per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5972265,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972265.jpg",
+      "addedAt": "2026-09-07 04:05:57",
+      "changedAt": "2026-09-07 04:05:57"
+    },
+    {
       "id": 396,
       "name": "A-Re:L Control Protocol",
       "status": "banned",
@@ -145,6 +164,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972245.jpg",
       "addedAt": "2026-09-07 04:03:24",
       "changedAt": "2026-09-07 04:03:24"
+    },
+    {
+      "id": 402,
+      "name": "A-Re:L GRB Guardian Grand",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Fusion Monster",
+      "monsterType": "Machine",
+      "attribute": "WIND",
+      "levelRankLink": "Level 9",
+      "atk": "2700",
+      "def": "3100",
+      "text": "3 Monsters with the same type, but with different names\nYou can also Fusion Summon this unrevealed card (from your Extra Deck) by shuffling 2 Continuous Spells with different names from your hand or GY into the Deck while you control \"A-Re:L Assault - Guardian Green\", and if you do, equip it to this card. Once per Chain (Quick Effect): You can send 1 Continuous Spell from your field to the GY to target 1 face-up Spell on the field; its effects are negated until the end of the next turn. If this card is revealed from your Extra Deck: You can target 1 Spell in either GY; activate it. You can only activate 3 \"A-Re:L GRB Guardian Grand\" effects per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5972260,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972260.jpg",
+      "addedAt": "2026-09-07 04:06:15",
+      "changedAt": "2026-09-07 04:06:15"
     },
     {
       "id": 395,
