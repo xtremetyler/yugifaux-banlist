@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:01:17.179Z",
+  "updatedAt": "2026-09-07T04:01:47.196Z",
   "cards": [
     {
       "id": 384,
@@ -109,6 +109,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972251.jpg",
       "addedAt": "2026-09-07 04:00:19",
       "changedAt": "2026-09-07 04:00:19"
+    },
+    {
+      "id": 396,
+      "name": "A-Re:L Control Protocol",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Send 1 Continuous Spell from your Deck or banishment to the GY, then you can activate 1 \"A-Re:L\" Continuous Spell with a different name than the cards in your GY from your Deck or banishment.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5972248,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972248.jpg",
+      "addedAt": "2026-09-07 04:01:42",
+      "changedAt": "2026-09-07 04:01:42"
     },
     {
       "id": 395,
