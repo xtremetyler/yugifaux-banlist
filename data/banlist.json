@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:03:32.034Z",
+  "updatedAt": "2026-09-07T04:04:14.614Z",
   "cards": [
     {
       "id": 384,
@@ -163,6 +163,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972246.jpg",
       "addedAt": "2026-09-07 04:00:56",
       "changedAt": "2026-09-07 04:00:56"
+    },
+    {
+      "id": 398,
+      "name": "A-Re:L Tactic - Blue Battery",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Trap Card",
+      "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "During your turn: You can activate this card from your hand by sending 1 Continuous Spell from your field or Deck to the GY. Choose 1 unrevealed Fusion Monster from your Extra Deck to become revealed until the start of your next turn; you can have the original ATK of your opponent's Monster with the highest ATK become 0 until the end of this turn, then if you revealed \"A-Re:L BGR Blitzing Battery\" this way, your opponent cannot activate the effects of a Monster(s) with the same name as that card for the rest of this turn. You can only activate each effect of \"A-Re:L Tactic - Blue Battery\" once per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5972258,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972258.jpg",
+      "addedAt": "2026-09-07 04:03:49",
+      "changedAt": "2026-09-07 04:03:49"
     },
     {
       "id": 302,
