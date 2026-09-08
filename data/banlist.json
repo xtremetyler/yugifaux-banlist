@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T03:36:05.875Z",
+  "updatedAt": "2026-09-08T03:36:35.833Z",
   "cards": [
     {
       "id": 384,
@@ -1257,8 +1257,8 @@
       "text": "Special Summon 3 “Quiz Panel” monsters from your Deck in face-down defense position, then your opponent chooses 1 to flip face-up. If they were all the same name, this card's effect becomes their Flip Effect. For the rest of this turn, you cannot Special Summon from the Extra Deck, except Spellcaster monsters.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6002901,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002901.jpg",
+      "duelingbookId": 6035631,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035631.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -2355,8 +2355,8 @@
       "text": "If a Monster would be Special Summoned face-up to either field, it is Summoned in face-down Defense Position instead. If your opponent answers correctly when a “Quiz Panel” effect resolves: Place 1 Quiz Counter on this card. During the End Phase: Remove all Quiz Counters from this card, then destroy this card if you do not have a \"Quiz Panel\" monster either on your field or in your GY. If this card has 3 or more Quiz Counters, your opponent wins the Duel.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6002956,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002956.jpg",
+      "duelingbookId": 6035634,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035634.jpg",
       "addedAt": "2026-09-08 03:34:01",
       "changedAt": "2026-09-08 03:34:01"
     },
@@ -2762,8 +2762,8 @@
       "text": "You can Special Summon up to 1 Flip Monster from your hand or GY in face-down Defense Position, then immediately after this effect resolves, Link Summon 1 Spellcaster Link Monster that mentions “Quiz Panel”, using monsters from either field as material, including face-down Defense Position monsters. Flip any face-down monsters used as material, before sending them to the GY. If only quiz \"panel monsters\" were flipped this way your opponent loses 1000 LP and you gain 1000 LP",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6002834,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002834.jpg",
+      "duelingbookId": 6035632,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035632.jpg",
       "addedAt": "2026-09-08 03:34:01",
       "changedAt": "2026-09-08 03:34:01"
     },
@@ -5051,8 +5051,8 @@
       "text": "When your opponent activates a card or effect that targets a card you control: Change 1 face-down Defense Position “Quiz Panel” monster you control to face-up Defense Position; negate that effect, then if a monster card's effect was negated this way, its Atk becomes 0",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6002844,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002844.jpg",
+      "duelingbookId": 6035633,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035633.jpg",
       "addedAt": "2026-09-08 03:34:01",
       "changedAt": "2026-09-08 03:34:01"
     },
@@ -5267,8 +5267,8 @@
       "text": "Once per turn: You can reveal 1 “Quiz Panel” monster in your hand; place it on top of the Deck, then Set 1 “Quiz Panel” monster with a different name directly from your Deck. If a “Quiz Panel” monster is flipped face-up: You can change 1 other face-up monster on the field to face-down Defense Position. Each time opponent answers incorrectly for the effect of a “Quiz Panel” monster: You can draw 1 card, then place 1 card from your hand on the bottom of the Deck. While you control a \"The Quizzler\" Monster, the effects of your Trap Cards that say \"If this card has 3 or more Quiz Counters, your opponent wins the Duel.\" becomes \"If this card has 3 or more Quiz Counters, remove all counters from it to make your opponent's LP 4000.\"",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6002915,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002915.jpg",
+      "duelingbookId": 6035630,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035630.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
