@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T14:33:37.720Z",
+  "updatedAt": "2026-09-08T14:34:07.688Z",
   "cards": [
     {
       "id": 384,
@@ -2879,7 +2879,7 @@
     {
       "id": 414,
       "name": "Heve Starvey as \"The Quizzler!\"",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Spellcaster",
@@ -2895,7 +2895,7 @@
       "duelingbookId": 6035627,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035627.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 14:34:00"
     },
     {
       "id": 103,
@@ -5125,7 +5125,7 @@
     {
       "id": 411,
       "name": "Quiz Panel – Ra 10",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
@@ -5142,12 +5142,12 @@
       "duelingbookId": 6035624,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035624.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 14:33:38"
     },
     {
       "id": 412,
       "name": "Quiz Panel – Ra 20",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -5164,12 +5164,12 @@
       "duelingbookId": 6035625,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035625.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 14:33:41"
     },
     {
       "id": 413,
       "name": "Quiz Panel – Ra 30",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Pyro",
@@ -5186,7 +5186,7 @@
       "duelingbookId": 6035626,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035626.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 14:33:43"
     },
     {
       "id": 405,
