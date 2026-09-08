@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-07T04:07:59.751Z",
+  "updatedAt": "2026-09-08T01:58:05.445Z",
   "cards": [
     {
       "id": 384,
@@ -845,7 +845,7 @@
     {
       "id": 27,
       "name": "Called by the Grave",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Quick-Play",
@@ -855,7 +855,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24224830.jpg",
       "officialUrl": "https://ygoprodeck.com/card/called-by-the-grave-9244",
       "addedAt": "2026-07-29 04:48:33",
-      "changedAt": "2026-07-29 04:48:33"
+      "changedAt": "2026-09-08 01:57:42"
     },
     {
       "id": 119,
@@ -1921,7 +1921,7 @@
     {
       "id": 76,
       "name": "Fire Formation - Tenki",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Continuous",
@@ -1932,7 +1932,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/57103969.jpg",
       "officialUrl": "https://ygoprodeck.com/card/fire-formation-tenki-4866",
       "addedAt": "2026-07-31 16:51:20",
-      "changedAt": "2026-07-31 16:51:20"
+      "changedAt": "2026-09-08 01:57:42"
     },
     {
       "id": 289,
@@ -6583,7 +6583,7 @@
     {
       "id": 340,
       "name": "The Sojourner in Winter",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -6600,7 +6600,7 @@
       "duelingbookId": 6017320,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017320.jpg",
       "addedAt": "2026-08-27 19:21:24",
-      "changedAt": "2026-08-27 19:21:24"
+      "changedAt": "2026-09-08 01:57:42"
     },
     {
       "id": 86,
