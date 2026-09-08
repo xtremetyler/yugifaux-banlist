@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T03:35:05.810Z",
+  "updatedAt": "2026-09-08T03:35:35.856Z",
   "cards": [
     {
       "id": 384,
@@ -2352,7 +2352,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "All Special Summoned monsters are changed to face-down Defense Position. If your opponent answers correctly when a “Quiz Panel” effect resolves: Place 1 Quiz Counter on this card. During the End Phase: Remove all Quiz Counters from this card, then destroy this card if you do not have a \"Quiz Panel\" monster either on your field or in your GY. If this card has 3 or more Quiz Counters, your opponent wins the Duel.",
+      "text": "If a Monster would be Special Summoned face-up to either field, it is Summoned in face-down Defense Position instead. If your opponent answers correctly when a “Quiz Panel” effect resolves: Place 1 Quiz Counter on this card. During the End Phase: Remove all Quiz Counters from this card, then destroy this card if you do not have a \"Quiz Panel\" monster either on your field or in your GY. If this card has 3 or more Quiz Counters, your opponent wins the Duel.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002956,
@@ -2759,7 +2759,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "You can Special Summon up to 1 Flip Monster from your hand or GY in face-down Defense Position, then immediately after this effect resolves, Link Summon 1 Spellcaster Link Monster that mentions “Quiz Panel”, using monsters from either field as material, including face-down Defense Position monsters. Flip any face-down monsters used as material, before sending them to the GY.",
+      "text": "You can Special Summon up to 1 Flip Monster from your hand or GY in face-down Defense Position, then immediately after this effect resolves, Link Summon 1 Spellcaster Link Monster that mentions “Quiz Panel”, using monsters from either field as material, including face-down Defense Position monsters. Flip any face-down monsters used as material, before sending them to the GY. If only quiz \"panel monsters\" were flipped this way your opponent loses 1000 LP and you gain 1000 LP",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002834,
@@ -5048,7 +5048,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "When your opponent activates a card or effect that targets a card you control: Change 1 face-down Defense Position “Quiz Panel” monster you control to face-up Defense Position; negate that effect.",
+      "text": "When your opponent activates a card or effect that targets a card you control: Change 1 face-down Defense Position “Quiz Panel” monster you control to face-up Defense Position; negate that effect, then if a monster card's effect was negated this way, its Atk becomes 0",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002844,
@@ -5205,8 +5205,8 @@
       "text": "FLIP: Your opponent declares Monster, Spell, or Trap, then send the top 3 cards of your Deck to the GY. Apply the appropriate effect.\n● Correct: Add 1 card of the declared type that mentions “Quiz Panel” from your GY to your hand.\n● Incorrect: Your opponent gains 100 LP.\nWhen your opponent activates a Spell Card or effect (Quick Effect): You can flip this face-up card to face-down Defense Position.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5998710,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5998710.jpg",
+      "duelingbookId": 6035617,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035617.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -6639,8 +6639,8 @@
       "text": "Return 1 Flip monster from your field to your hand; Special Summon 1 monster from your hand in face-down Defense Position, and if you do, change it to face-up Defense Position, then if a Flip monster was flipped face-up by this card's effect, this effect becomes that monster's Flip effect. During your opponent's End Phase, while this card is in your GY: If you control a face-up Flip monster, you can add this card to your hand. You can only activate each effect of \"Survey Says...\" once per turn.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6012904,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012904.jpg",
+      "duelingbookId": 6035616,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035616.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
