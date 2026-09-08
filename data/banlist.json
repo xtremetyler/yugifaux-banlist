@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T14:33:07.747Z",
+  "updatedAt": "2026-09-08T14:33:37.720Z",
   "cards": [
     {
       "id": 384,
@@ -5059,7 +5059,7 @@
     {
       "id": 408,
       "name": "Quiz Panel – Obelisk 10",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -5076,12 +5076,12 @@
       "duelingbookId": 6035621,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035621.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 14:33:21"
     },
     {
       "id": 409,
       "name": "Quiz Panel – Obelisk 20",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -5098,12 +5098,12 @@
       "duelingbookId": 6035622,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035622.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 14:33:24"
     },
     {
       "id": 410,
       "name": "Quiz Panel – Obelisk 30",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast",
@@ -5120,7 +5120,7 @@
       "duelingbookId": 6035623,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035623.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 14:33:29"
     },
     {
       "id": 411,
