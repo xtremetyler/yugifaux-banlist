@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T03:34:35.805Z",
+  "updatedAt": "2026-09-08T03:35:05.810Z",
   "cards": [
     {
       "id": 384,
@@ -1254,7 +1254,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Special Summon 3 “Quiz Panel” monsters from your Deck in face-down defense position, then your opponent chooses 1 to flip face-up. For the rest of this turn, you cannot Special Summon from the Extra Deck, except Spellcaster monsters.",
+      "text": "Special Summon 3 “Quiz Panel” monsters from your Deck in face-down defense position, then your opponent chooses 1 to flip face-up. If they were all the same name, this card's effect becomes their Flip Effect. For the rest of this turn, you cannot Special Summon from the Extra Deck, except Spellcaster monsters.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002901,
@@ -5180,7 +5180,7 @@
       "levelRankLink": "Level 1",
       "atk": "0",
       "def": "0",
-      "text": "FLIP: Your opponent declares Monster, Spell, or Trap, then excavate the top card of your Deck. Apply the appropriate effect based on the revealed card’s type.\n● Incorrect: Negate the effects of all face-up cards your opponent controls with the same card type as the excavated card, until the end of this turn.\n● Correct: Your opponent gains 300 LP.\nSend the excavated card to the GY.",
+      "text": "FLIP: Your opponent declares Monster, Spell, or Trap, then excavate the top card of your Deck. Apply the appropriate effect based on the revealed card’s type.\n● Incorrect: Negate the effects of all face-up cards your opponent controls with the same card type as the excavated card, until the end of this turn.\n● Correct: Your opponent gains 300 LP.\nSend the excavated card to the GY.\nIf this card is sent from the field to the GY: You can Special Summon 1 Flip Monsters from your hand or GY in face-down Defense Position, except “Quiz Panel - Ra 30”. You can only use this effect of \"Quiz Panel - Ra 30\" once per turn.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6012876,
@@ -5264,7 +5264,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Once per turn: You can reveal 1 “Quiz Panel” monster in your hand; place it on top of the Deck, then Set 1 “Quiz Panel” monster with a different name directly from your Deck. If a “Quiz Panel” monster is flipped face-up: You can change 1 other face-up monster on the field to face-down Defense Position. Each time opponent answers incorrectly for the effect of a “Quiz Panel” monster: You can draw 1 card, then place 1 card from your hand on the bottom of the Deck.",
+      "text": "Once per turn: You can reveal 1 “Quiz Panel” monster in your hand; place it on top of the Deck, then Set 1 “Quiz Panel” monster with a different name directly from your Deck. If a “Quiz Panel” monster is flipped face-up: You can change 1 other face-up monster on the field to face-down Defense Position. Each time opponent answers incorrectly for the effect of a “Quiz Panel” monster: You can draw 1 card, then place 1 card from your hand on the bottom of the Deck. While you control a \"The Quizzler\" Monster, the effects of your Trap Cards that say \"If this card has 3 or more Quiz Counters, your opponent wins the Duel.\" becomes \"If this card has 3 or more Quiz Counters, remove all counters from it to make your opponent's LP 4000.\"",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 6002915,
@@ -7574,7 +7574,7 @@
       "linkMarkers": [
         "Top"
       ],
-      "text": "1 Face-down monster\nIf a face-down Defense Position monster would be destroyed: Flip it face-up before it is destroyed. Declare the name of a \"Quiz Panel\" card that has not been declared to activate a card effect this turn; you can shuffle any number of cards with the declared name from either player's GY into the Deck, and if you do, inflict 300 damage to your opponent for each card shuffled into the Deck this way.",
+      "text": "1 Face-down monster\nIf a face-down Defense Position monster would be destroyed: Flip it face-up before it is destroyed. Declare the name of a \"Quiz Panel\" card that has not been declared to activate a card effect this turn; you can shuffle any number of cards with the declared name from either player's GY into the Deck, and if you do, inflict 300 damage to your opponent for each card shuffled into the Deck this way. Attack Position Flip Monsters you control can attack your opponent directly, and if your opponent takes no battle damage from that attack, you can activate 1 Spell that mentions either “Quiz Panel” or a Flip Monster from your GY, but shuffle it into the Deck as it resolves.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5998803,
