@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T14:34:37.735Z",
+  "updatedAt": "2026-09-08T15:17:37.961Z",
   "cards": [
     {
       "id": 384,
@@ -5235,7 +5235,7 @@
     {
       "id": 407,
       "name": "Quiz Panel – Slifer 30",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Wyrm",
@@ -5252,7 +5252,7 @@
       "duelingbookId": 6035619,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035619.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 15:17:32"
     },
     {
       "id": 416,
@@ -6629,7 +6629,7 @@
     {
       "id": 404,
       "name": "Survey Says...",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -6642,7 +6642,7 @@
       "duelingbookId": 6035616,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035616.jpg",
       "addedAt": "2026-09-08 03:34:00",
-      "changedAt": "2026-09-08 03:34:00"
+      "changedAt": "2026-09-08 15:17:35"
     },
     {
       "id": 390,
