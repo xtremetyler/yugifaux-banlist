@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T03:35:35.856Z",
+  "updatedAt": "2026-09-08T03:36:05.875Z",
   "cards": [
     {
       "id": 384,
@@ -2892,8 +2892,8 @@
       "text": "1 Face-down monster\nFace-down Defense Position monsters you control are unaffected by your opponent’s activated effects. If this card is attacked by an opponent's monster: You can Special Summon 1 \"Quiz Panel\" monster from your hand, Deck or GY in face-down position and change the attack target to that card. If a \"Quiz Panel\" monster is destroyed by battle or card effect: you can Special Summon 1 \"Quiz Panel\" monster from your hand or Deck face-down. Each time your opponent gains LP: This card gains that much ATK until the end of the turn.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5998790,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5998790.jpg",
+      "duelingbookId": 6035627,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035627.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -5073,8 +5073,8 @@
       "text": "FLIP: Your opponent declares 1 Attribute, then excavate cards from the top of your Deck until you excavate a monster. Apply the appropriate effect based on that monster’s original Attribute.\n● Incorrect: Special Summon that monster in face-down Defense Position.\n● Correct: Send that monster to the GY, then your opponent gains 100 LP.\nPlace the other excavated cards on the bottom of the Deck in any order.\nWhen your opponent activates a Spell Card or effect, while this card is in your GY (Quick Effect): You can Special Summon this card in face-down Defense Position. You can only use this effect of \"Quiz Panel – Obelisk 10\" once per turn.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5998767,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5998767.jpg",
+      "duelingbookId": 6035621,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035621.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -5095,8 +5095,8 @@
       "text": "FLIP: Your opponent declares either “500 or more ATK” or “less than 500 ATK”, then excavate cards from the top of your Deck until you excavate a monster. Apply the appropriate effect based on that monster’s ATK.\n● Incorrect: Special Summon that monster in face-down Defense Position, then you can Set 1 excavated Spell/Trap.\n● Correct: Send that monster to the GY, then your opponent gains 200 LP.\nPlace the other excavated cards on the bottom of the Deck in any order. \nWhen your opponent Special Summons a Monster(s), while this card is in your GY (Quick Effect): You can Special Summon this card in face-down Defense Position. You can only use this effect of \"Quiz Panel – Obelisk 20\" once per turn.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5998776,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5998776.jpg",
+      "duelingbookId": 6035622,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035622.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -5117,8 +5117,8 @@
       "text": "FLIP: Your opponent declares 10, 20, or 30, then excavate cards from the top of your Deck until you excavate a “Quiz Panel” monster; If the declared number is not included in that monster’s name, Special Summon that monster in face-down Defense Position. Otherwise, send that excavated monster to the GY, and if you do, your opponent gains 300 LP. Place the remaining excavated cards on the bottom of the Deck in any order. When your opponent activates the effect of a Special Summoned Monster they control, while this card is in the GY (Quick Effect): You can activate 1 Spell Card from your hand that mentions \"Quiz Panel\".",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5998783,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5998783.jpg",
+      "duelingbookId": 6035623,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035623.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -5139,8 +5139,8 @@
       "text": "FLIP: Excavate the top 3 cards of your Deck, then your opponent declares Monster, Spell, or Trap. Randomly reveal 1 of the excavated cards, and apply the appropriate effect.\n● Incorrect: Add 1 of the excavated cards to your hand, then place the rest on the bottom of the Deck in any order.\n● Correct: Your opponent sends 1 of the excavated cards to the GY, gains 100 LP, then places the rest on the bottom of the Deck in any order.\n(Quick Effect): When your opponent activates a spell/trap card, you can Special Summon this monster (from your hand) in face-down Defense Position in the same column as the activated card, then flip this card.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6002939,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002939.jpg",
+      "duelingbookId": 6035624,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035624.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -5161,8 +5161,8 @@
       "text": "FLIP: Your opponent declares Monster, Spell, or Trap, then reveal 1 random card from your hand. Apply the appropriate effect based on the revealed card’s type.\n● Incorrect: Special Summon 1 “Quiz Panel” monster directly from your Deck, or Set 1 Spell/Trap that mentions \"Quiz Panel\".\n● Correct: Your opponent gains 200 LP.\n(Quick Effect): during your opponents end phase, you may special summon this card in facedown defense position, then flip it face up.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6012865,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012865.jpg",
+      "duelingbookId": 6035625,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035625.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -5183,8 +5183,8 @@
       "text": "FLIP: Your opponent declares Monster, Spell, or Trap, then excavate the top card of your Deck. Apply the appropriate effect based on the revealed card’s type.\n● Incorrect: Negate the effects of all face-up cards your opponent controls with the same card type as the excavated card, until the end of this turn.\n● Correct: Your opponent gains 300 LP.\nSend the excavated card to the GY.\nIf this card is sent from the field to the GY: You can Special Summon 1 Flip Monsters from your hand or GY in face-down Defense Position, except “Quiz Panel - Ra 30”. You can only use this effect of \"Quiz Panel - Ra 30\" once per turn.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6012876,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012876.jpg",
+      "duelingbookId": 6035626,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035626.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -5227,8 +5227,8 @@
       "text": "FLIP: Your opponent declares a number from 0 to 3, then reveal the top 3 cards of your Deck. Apply the appropriate effect, based on the number of monsters revealed.\n● Incorrect: Special Summon as many revealed monsters as possible in face-down Defense Position, then send the remaining cards to the GY.\n● Correct: Shuffle all revealed cards into the Deck, then your opponent gains 200 LP.\nWhen your opponent Special Summons a Monster(s) (Quick Effect): You can flip this face-up card to face-down Defense Position.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5998749,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5998749.jpg",
+      "duelingbookId": 6035618,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035618.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -5249,8 +5249,8 @@
       "text": "FLIP: Your opponent declares Monster, Spell, or Trap for each of the top 3 cards of your Deck, in order, then reveal those cards. Apply the appropriate effects to each revealed card.\n● Incorrect: Add that card to your hand.\n● Correct: Send that card to the GY, then your opponent gains 100 LP.\nWhen your opponent activates the effect of a Special Summoned Monster they control (Quick Effect): You can flip any number of face-down \"Quiz Panel - Slifer\" Monsters you control face-up, including this card.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5998754,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5998754.jpg",
+      "duelingbookId": 6035619,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035619.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
@@ -7577,8 +7577,8 @@
       "text": "1 Face-down monster\nIf a face-down Defense Position monster would be destroyed: Flip it face-up before it is destroyed. Declare the name of a \"Quiz Panel\" card that has not been declared to activate a card effect this turn; you can shuffle any number of cards with the declared name from either player's GY into the Deck, and if you do, inflict 300 damage to your opponent for each card shuffled into the Deck this way. Attack Position Flip Monsters you control can attack your opponent directly, and if your opponent takes no battle damage from that attack, you can activate 1 Spell that mentions either “Quiz Panel” or a Flip Monster from your GY, but shuffle it into the Deck as it resolves.",
       "archetype": "Quiz Panel",
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 5998803,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5998803.jpg",
+      "duelingbookId": 6035629,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035629.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 03:34:00"
     },
