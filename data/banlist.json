@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:23:28.011Z",
+  "updatedAt": "2026-09-09T14:23:38.313Z",
   "cards": [
     {
       "id": 384,
@@ -11873,7 +11873,7 @@
       "finalAddedClauses": 57,
       "notes": "Historical Ephtear archetype; clause total unavailable.",
       "historySource": "historical",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "cards": [
         {
           "id": 88,
