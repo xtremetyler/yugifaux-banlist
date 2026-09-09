@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:14:16.894Z",
+  "updatedAt": "2026-09-09T16:14:23.294Z",
   "cards": [
     {
       "id": 384,
@@ -3657,11 +3657,13 @@
       "def": "0",
       "text": "If a Ritual Summoned monster you control attacks a Defense Position monster, inflict piercing battle damage. You can only use each of the following effects of “Inkarnate Shrine” once per turn.\n● When this card is activated: You can add 1 “Inkarnate” Ritual Monster from your Deck to your hand.\n● You can Tribute 1 “Inkarnate” monster from your hand or face-up field; add 1 “Inkarnate” Spell/Trap from your Deck to your hand, except “Inkarnate Shrine”.\n● If an “Inkarnate” Ritual Monster is Ritual Summoned: You can target 1 “Inkarnate” monster in your GY; add it to your hand.",
       "clauses": 4,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961246,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961246.jpg",
       "addedAt": "2026-08-10 03:11:29",
-      "changedAt": "2026-08-24 03:38:17"
+      "changedAt": "2026-09-09 16:14:22"
     },
     {
       "id": 141,
@@ -12604,6 +12606,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961250.jpg",
           "addedAt": "2026-08-10 03:10:54",
           "changedAt": "2026-09-09 16:14:16"
+        },
+        {
+          "id": 143,
+          "name": "Inkarnate Shrine",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If a Ritual Summoned monster you control attacks a Defense Position monster, inflict piercing battle damage. You can only use each of the following effects of “Inkarnate Shrine” once per turn.\n● When this card is activated: You can add 1 “Inkarnate” Ritual Monster from your Deck to your hand.\n● You can Tribute 1 “Inkarnate” monster from your hand or face-up field; add 1 “Inkarnate” Spell/Trap from your Deck to your hand, except “Inkarnate Shrine”.\n● If an “Inkarnate” Ritual Monster is Ritual Summoned: You can target 1 “Inkarnate” monster in your GY; add it to your hand.",
+          "clauses": 4,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961246,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961246.jpg",
+          "addedAt": "2026-08-10 03:11:29",
+          "changedAt": "2026-09-09 16:14:22"
         },
         {
           "id": 141,
