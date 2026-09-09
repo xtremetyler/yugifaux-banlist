@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:56:02.880Z",
+  "updatedAt": "2026-09-09T14:56:27.087Z",
   "cards": [
     {
       "id": 384,
@@ -7054,6 +7054,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995205.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-08-24 17:14:51"
+    },
+    {
+      "id": 428,
+      "name": "The Lighthouse, Rapture - 63° N, 32° W",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Field",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "(This card is always treated as \"Umi\".)\nIf a \"Big Daddy\" monster you control battles an opponent's monster, during damage calculation: Your battling monster's ATK/DEF each become double its current ATK/DEF during that damage calculation only. Once per turn, if you Fusion Summon an Aqua Fusion Monster: Draw 1 card.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6037656,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6037656.jpg",
+      "addedAt": "2026-09-09 14:56:25",
+      "changedAt": "2026-09-09 14:56:25"
     },
     {
       "id": 211,
