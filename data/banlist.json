@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:29:14.781Z",
+  "updatedAt": "2026-09-09T15:29:25.769Z",
   "cards": [
     {
       "id": 384,
@@ -4343,6 +4343,8 @@
       "def": "0",
       "text": "3 Level 1 Monsters with different names\nThis card gains 200 ATK/DEF for each banished card and each card attached to it as Xyz Material. The first time each turn your opponent activates a card or effect that includes an effect that would add a card(s) from the Deck to the hand, except by drawing it: Your opponent banishes a card from their hand as it resolves. Once per turn (Quick Effect): You can detach 1 Material from this card to have your opponent reveal a random card from their hand; banish each card with the same original name as the revealed card from your opponent's Deck, then, if exactly 1 card was banished this way, your opponent banishes a Spell Card from their hand or field. You can only control 1 \"Mer-Mercenary Okhotsk, the Czar\" at a time.",
       "clauses": 4,
+      "archetype": "Mer-Mer",
+      "archetypeId": 4,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5960237,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960237.jpg",
@@ -12159,6 +12161,27 @@
       "historySource": "historical",
       "cardListComplete": false,
       "cards": [
+        {
+          "id": 431,
+          "name": "Mer-Mercenary Okhotsk, the Czar",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "XYZ Monster",
+          "monsterType": "Fish",
+          "attribute": "DARK",
+          "levelRankLink": "Rank 1",
+          "atk": "0",
+          "def": "0",
+          "text": "3 Level 1 Monsters with different names\nThis card gains 200 ATK/DEF for each banished card and each card attached to it as Xyz Material. The first time each turn your opponent activates a card or effect that includes an effect that would add a card(s) from the Deck to the hand, except by drawing it: Your opponent banishes a card from their hand as it resolves. Once per turn (Quick Effect): You can detach 1 Material from this card to have your opponent reveal a random card from their hand; banish each card with the same original name as the revealed card from your opponent's Deck, then, if exactly 1 card was banished this way, your opponent banishes a Spell Card from their hand or field. You can only control 1 \"Mer-Mercenary Okhotsk, the Czar\" at a time.",
+          "clauses": 4,
+          "archetype": "Mer-Mer",
+          "archetypeId": 4,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5960237,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960237.jpg",
+          "addedAt": "2026-09-09 14:57:21",
+          "changedAt": "2026-09-09 14:57:21"
+        },
         {
           "id": 429,
           "name": "Mer-Mercenary Sargasso, the Duke",
