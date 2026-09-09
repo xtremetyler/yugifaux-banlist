@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:12:18.348Z",
+  "updatedAt": "2026-09-09T16:13:34.290Z",
   "cards": [
     {
       "id": 384,
@@ -3566,11 +3566,13 @@
       "def": "1000",
       "text": "If this card is Normal Summoned or Tributed: You can add 1 \"Inkarnate\" Monster from your Deck to the hand. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Ryujin\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Monk - Ryujin Seal\" once per turn.",
       "clauses": 4,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961293,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961293.jpg",
       "addedAt": "2026-08-10 03:07:17",
-      "changedAt": "2026-08-24 03:34:47"
+      "changedAt": "2026-09-09 16:13:33"
     },
     {
       "id": 144,
@@ -12438,7 +12440,29 @@
       "notes": "Historical Ephtear archetype; clause total unavailable.",
       "historySource": "historical",
       "cardListComplete": false,
-      "cards": []
+      "cards": [
+        {
+          "id": 135,
+          "name": "Inkarnate Monk - Ryujin Seal",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "WATER",
+          "levelRankLink": "Level 4",
+          "atk": "1600",
+          "def": "1000",
+          "text": "If this card is Normal Summoned or Tributed: You can add 1 \"Inkarnate\" Monster from your Deck to the hand. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Ryujin\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Monk - Ryujin Seal\" once per turn.",
+          "clauses": 4,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961293,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961293.jpg",
+          "addedAt": "2026-08-10 03:07:17",
+          "changedAt": "2026-09-09 16:13:33"
+        }
+      ]
     },
     {
       "id": 7,
