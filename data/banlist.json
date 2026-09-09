@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:45:32.746Z",
+  "updatedAt": "2026-09-09T15:45:45.106Z",
   "cards": [
     {
       "id": 384,
@@ -12724,7 +12724,7 @@
       "finalAddedClauses": 10,
       "notes": "First designed; retired honorably at +10 clauses.",
       "historySource": "historical",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "cards": [
         {
           "id": 128,
