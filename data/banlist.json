@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T17:12:29.417Z",
+  "updatedAt": "2026-09-09T17:15:52.183Z",
   "cards": [
     {
       "id": 384,
@@ -8436,9 +8436,9 @@
       "notes": "🎤 **Ladies and gentlemen, welcome to the most unpredictable game show in all of Duel Monsters!**  Choose a Panel, lock in your answer, and prepare to meet your host—**Heve Starvey as “The Quizzler!”** The “Quiz Panel” Deck fills the stage with colorful face-down contestants that challenge your opponent to predict card types, Attributes, ATK values, and even which Panel is hiding next.  A wrong answer earns you monsters, cards, disruption, and more questions—but correct answers bring your opponent closer to the **Grand Prize Jackpot!** With Miss Information recycling used Panels and the Quizzler turning even your opponent’s face-down monsters into Link Material, nobody leaves the stage without playing.  Can your opponent answer three questions correctly and win the Duel, or will they hear the most terrifying words in game-show history?  **Survey says… WRONG!**",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 417,
-      "featuredCardName": "Choose a Panel!",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035631.jpg",
+      "featuredCardId": 414,
+      "featuredCardName": "Heve Starvey as \"The Quizzler!\"",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035627.jpg",
       "cards": [
         {
           "id": 417,
