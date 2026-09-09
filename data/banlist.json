@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:14:41.990Z",
+  "updatedAt": "2026-09-09T16:14:50.454Z",
   "cards": [
     {
       "id": 384,
@@ -3536,11 +3536,13 @@
       "def": "0",
       "text": "Activate 1 of these effects.\n● Shuffle 1 Level 4 \"Inkarnate\" Monster from your hand into the Deck; add 1 Ritual Spell from your GY to the hand, and if you do, you can place 1 \"Inkarnate\" Monster from your GY or banishment on the top or bottom of the Deck.\n● Shuffle 1 \"Inkarnate\" Ritual Monster from your hand into the Deck; add 1 Ritual Spell from your Deck to the hand.\n● Shuffle 1 \"Inkarnate\" Ritual Spell from your hand into the Deck; draw 2 cards.\n● Send 1 card that mentions a Ritual Monster or a Ritual Spell from your Extra Deck to the GY; add 1 Spell card that mentions a Ritual Monster from your Deck to your hand, except a Ritual Spell or \"Inkarnate Inscription\".",
       "clauses": 4,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961276,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961276.jpg",
       "addedAt": "2026-08-10 03:12:40",
-      "changedAt": "2026-08-24 03:33:13"
+      "changedAt": "2026-09-09 16:14:49"
     },
     {
       "id": 138,
@@ -12543,6 +12545,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961271.jpg",
           "addedAt": "2026-08-10 03:12:15",
           "changedAt": "2026-09-09 16:14:41"
+        },
+        {
+          "id": 146,
+          "name": "Inkarnate Inscription",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Activate 1 of these effects.\n● Shuffle 1 Level 4 \"Inkarnate\" Monster from your hand into the Deck; add 1 Ritual Spell from your GY to the hand, and if you do, you can place 1 \"Inkarnate\" Monster from your GY or banishment on the top or bottom of the Deck.\n● Shuffle 1 \"Inkarnate\" Ritual Monster from your hand into the Deck; add 1 Ritual Spell from your Deck to the hand.\n● Shuffle 1 \"Inkarnate\" Ritual Spell from your hand into the Deck; draw 2 cards.\n● Send 1 card that mentions a Ritual Monster or a Ritual Spell from your Extra Deck to the GY; add 1 Spell card that mentions a Ritual Monster from your Deck to your hand, except a Ritual Spell or \"Inkarnate Inscription\".",
+          "clauses": 4,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961276,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961276.jpg",
+          "addedAt": "2026-08-10 03:12:40",
+          "changedAt": "2026-09-09 16:14:49"
         },
         {
           "id": 138,
