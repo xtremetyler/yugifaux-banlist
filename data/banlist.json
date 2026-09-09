@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:56:27.087Z",
+  "updatedAt": "2026-09-09T14:56:53.096Z",
   "cards": [
     {
       "id": 384,
@@ -4220,6 +4220,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995187.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-08-24 03:43:21"
+    },
+    {
+      "id": 429,
+      "name": "Mer-Mercenary Sargasso, the Duke",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "XYZ Monster",
+      "monsterType": "Fish",
+      "attribute": "DARK",
+      "levelRankLink": "Rank 1",
+      "atk": "0",
+      "def": "0",
+      "text": "3 Level 1 Fish Monsters\nThis card gains 200 ATK/DEF for each banished card and each card attached to it as Xyz Material. When any player activates the effect of \"Mer-Mercado Merrakesh\" (Quick Effect): You can target 1 card in that player's banishment; place it on the bottom of the Deck. You can only use this effect of \"Mer-Mercenary Sargasso, the Duke\" twice per turn. Once per turn, during your Main Phase: You can target any number of Rank 1 Xyz Monsters you control; attach 1 card from your banishment to each of those targets as Xyz Material. Once per turn (Quick Effect): You can detach 1 Material from this card to target 1 card in your opponent's GY; banish each card with the same original name as that target from your opponent's Deck, then, if exactly 1 card was banished this way, your opponent banishes a Trap Card from their hand or field. You can only control 1 \"Mer-Mercenary Sargasso, the Duke\" at a time.",
+      "clauses": 5,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5960238,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960238.jpg",
+      "addedAt": "2026-09-09 14:56:38",
+      "changedAt": "2026-09-09 14:56:38"
     },
     {
       "id": 425,
