@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:14:34.515Z",
+  "updatedAt": "2026-09-09T16:14:41.990Z",
   "cards": [
     {
       "id": 384,
@@ -3516,11 +3516,13 @@
       "def": "0",
       "text": "This card can be used to Ritual Summon \"Inkarnate Byakko\", \"Inkarnate Ryujin\", or \"Inkarnate Tsuruhime\" from your hand or GY. You must also Tribute \"Inkarnate\" Monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster. A Ritual Monster Summoned by this card's effect gains 500 ATK and cannot be destroyed by battle until your next Battle Phase after it is Summoned. If a Ritual Monster is Tributed: You can banish this card from your GY; Special Summon 1 Level 4 or lower \"Inkarnate\" Monster from your GY. You can only use this effect of \"Inkarnate Incarnate\" once per turn.",
       "clauses": 3,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961271,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961271.jpg",
       "addedAt": "2026-08-10 03:12:15",
-      "changedAt": "2026-08-24 03:32:46"
+      "changedAt": "2026-09-09 16:14:41"
     },
     {
       "id": 146,
@@ -12521,6 +12523,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961286.jpg",
           "addedAt": "2026-08-10 03:07:54",
           "changedAt": "2026-09-09 16:13:45"
+        },
+        {
+          "id": 145,
+          "name": "Inkarnate Incarnate",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Ritual",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "This card can be used to Ritual Summon \"Inkarnate Byakko\", \"Inkarnate Ryujin\", or \"Inkarnate Tsuruhime\" from your hand or GY. You must also Tribute \"Inkarnate\" Monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster. A Ritual Monster Summoned by this card's effect gains 500 ATK and cannot be destroyed by battle until your next Battle Phase after it is Summoned. If a Ritual Monster is Tributed: You can banish this card from your GY; Special Summon 1 Level 4 or lower \"Inkarnate\" Monster from your GY. You can only use this effect of \"Inkarnate Incarnate\" once per turn.",
+          "clauses": 3,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961271,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961271.jpg",
+          "addedAt": "2026-08-10 03:12:15",
+          "changedAt": "2026-09-09 16:14:41"
         },
         {
           "id": 138,
