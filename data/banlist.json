@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:13:34.290Z",
+  "updatedAt": "2026-09-09T16:13:40.011Z",
   "cards": [
     {
       "id": 384,
@@ -3454,11 +3454,13 @@
       "def": "800",
       "text": "If this card is Normal Summoned or Tributed: You can Special Summon 1 Level 4 \"Inkarnate\" Monster from your hand or Deck. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Byakko\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Brawler - Byakko Seal\" once per turn.",
       "clauses": 4,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961288,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961288.jpg",
       "addedAt": "2026-08-10 03:07:33",
-      "changedAt": "2026-08-24 03:31:06"
+      "changedAt": "2026-09-09 16:13:39"
     },
     {
       "id": 140,
@@ -12441,6 +12443,27 @@
       "historySource": "historical",
       "cardListComplete": false,
       "cards": [
+        {
+          "id": 136,
+          "name": "Inkarnate Brawler - Byakko Seal",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast-Warrior",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 4",
+          "atk": "1800",
+          "def": "800",
+          "text": "If this card is Normal Summoned or Tributed: You can Special Summon 1 Level 4 \"Inkarnate\" Monster from your hand or Deck. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Byakko\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Brawler - Byakko Seal\" once per turn.",
+          "clauses": 4,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961288,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961288.jpg",
+          "addedAt": "2026-08-10 03:07:33",
+          "changedAt": "2026-09-09 16:13:39"
+        },
         {
           "id": 135,
           "name": "Inkarnate Monk - Ryujin Seal",
