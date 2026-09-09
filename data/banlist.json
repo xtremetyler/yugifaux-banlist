@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:35:14.525Z",
+  "updatedAt": "2026-09-09T15:35:25.363Z",
   "cards": [
     {
       "id": 384,
@@ -150,11 +150,13 @@
       "def": "0",
       "text": "Send 1 Continuous Spell from your Deck or banishment to the GY, then you can activate 1 \"A-Re:L\" Continuous Spell with a different name than the cards in your GY from your Deck or banishment.",
       "clauses": 3,
+      "archetype": "A-Re:L",
+      "archetypeId": 5,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5972248,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972248.jpg",
       "addedAt": "2026-09-07 04:01:42",
-      "changedAt": "2026-09-07 04:01:42"
+      "changedAt": "2026-09-09 15:35:24"
     },
     {
       "id": 397,
@@ -12188,6 +12190,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972251.jpg",
           "addedAt": "2026-09-07 04:00:19",
           "changedAt": "2026-09-09 15:35:04"
+        },
+        {
+          "id": 396,
+          "name": "A-Re:L Control Protocol",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Send 1 Continuous Spell from your Deck or banishment to the GY, then you can activate 1 \"A-Re:L\" Continuous Spell with a different name than the cards in your GY from your Deck or banishment.",
+          "clauses": 3,
+          "archetype": "A-Re:L",
+          "archetypeId": 5,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5972248,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972248.jpg",
+          "addedAt": "2026-09-07 04:01:42",
+          "changedAt": "2026-09-09 15:35:24"
         },
         {
           "id": 395,
