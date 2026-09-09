@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:13:52.929Z",
+  "updatedAt": "2026-09-09T16:13:58.612Z",
   "cards": [
     {
       "id": 384,
@@ -3611,11 +3611,13 @@
       "def": "2400",
       "text": "You can Ritual Summon this card with any \"Inkarnate\" Ritual Spell. If this card is Ritual Summoned: You can activate 1 of the following effects.\n● Destroy all Attack Position monsters your opponent controls.\n● Destroy all Defense Position monsters your opponent controls.\n● Return all Spell and Trap cards on the field to the hand.\nYou can only use each effect of \"Inkarnate Ryujin\" once per turn.",
       "clauses": 3,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961256,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961256.jpg",
       "addedAt": "2026-08-10 03:09:32",
-      "changedAt": "2026-08-24 03:36:33"
+      "changedAt": "2026-09-09 16:13:57"
     },
     {
       "id": 142,
@@ -12530,6 +12532,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961293.jpg",
           "addedAt": "2026-08-10 03:07:17",
           "changedAt": "2026-09-09 16:13:33"
+        },
+        {
+          "id": 139,
+          "name": "Inkarnate Ryujin",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Ritual Monster",
+          "monsterType": "Dragon",
+          "attribute": "WATER",
+          "levelRankLink": "Level 8",
+          "atk": "2800",
+          "def": "2400",
+          "text": "You can Ritual Summon this card with any \"Inkarnate\" Ritual Spell. If this card is Ritual Summoned: You can activate 1 of the following effects.\n● Destroy all Attack Position monsters your opponent controls.\n● Destroy all Defense Position monsters your opponent controls.\n● Return all Spell and Trap cards on the field to the hand.\nYou can only use each effect of \"Inkarnate Ryujin\" once per turn.",
+          "clauses": 3,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961256,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961256.jpg",
+          "addedAt": "2026-08-10 03:09:32",
+          "changedAt": "2026-09-09 16:13:57"
         }
       ]
     },
