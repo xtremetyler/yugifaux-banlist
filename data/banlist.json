@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:02:40.262Z",
+  "updatedAt": "2026-09-09T15:02:57.298Z",
   "cards": [
     {
       "id": 384,
@@ -4220,6 +4220,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995187.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-08-24 03:43:21"
+    },
+    {
+      "id": 436,
+      "name": "Mer-Mer Mercy!?",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Trap Card",
+      "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "During your Main Phase: You can reveal this card from your hand to declare 1 card name, except \"Mer-Mer Mercy!?\"; banish 1 card with the declared name from your Deck, then Set this card. You can only activate this effect of \"Mer-Mer Mercy!?\" once per turn. Change all face-up monsters on the field to face-down Defense Position, except Xyz or Link Monsters, then each player draws cards equal to the number of Monsters they controlled that were changed face-down by this effect. During your Standby Phase: You can banish this card and another card from your GY; until the start of your next turn after this effect resolves, any time you would pay LP, you gain 500 LP instead. You can only use this effect of \"Mer-Mer Mercy!?\" once per turn.",
+      "clauses": 5,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5960251,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960251.jpg",
+      "addedAt": "2026-09-09 15:02:54",
+      "changedAt": "2026-09-09 15:02:54"
     },
     {
       "id": 435,
