@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:55:42.454Z",
+  "updatedAt": "2026-09-09T14:55:49.056Z",
   "cards": [
     {
       "id": 384,
@@ -3837,6 +3837,28 @@
       "officialUrl": "https://ygoprodeck.com/card/lava-golem-8",
       "addedAt": "2026-07-29 04:50:09",
       "changedAt": "2026-07-29 04:50:09"
+    },
+    {
+      "id": 426,
+      "name": "Little Sister",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Aqua",
+      "abilities": [
+        "Tuner"
+      ],
+      "attribute": "WATER",
+      "levelRankLink": "Level 3",
+      "atk": "500",
+      "def": "1000",
+      "text": "If this card is Normal or Special Summoned: You can Fusion Summon 1 \"Big Daddy\" Fusion Monster from your Extra Deck using cards from your hand or battlefield. If you control \"Vita-Chamber\" when this effect resolves, you do not need to use Fusion Materials for that Fusion Summon. While you control a \"Big Daddy\" monster, your opponent cannot target this card with card effects.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6037654,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6037654.jpg",
+      "addedAt": "2026-09-09 14:55:47",
+      "changedAt": "2026-09-09 14:55:47"
     },
     {
       "id": 282,
