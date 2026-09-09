@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:44:24.012Z",
+  "updatedAt": "2026-09-09T15:44:31.368Z",
   "cards": [
     {
       "id": 384,
@@ -7761,11 +7761,13 @@
       "pendulumEffect": "When a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation. You can only control 1 \"True Omega Tyrant of Shaitand\".",
       "text": "1 Level 5 or higher EARTH Monster + 1 Pendulum Monster card\nThis card in face-up Defense Position is unaffected by the effects of your opponent's Spell/Trap cards. While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 300 damage to your opponent. When your opponent Special Summons a Monster(s) from their hand or Deck with less DEF than this card (Quick Effect): Negate that Summon, and if you do, destroy that Monster(s). You can only activate this effect of \"True Omega Tyrant of Shaitand\" once per turn.",
       "clauses": 7,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948447,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948447.jpg",
       "addedAt": "2026-08-10 01:36:12",
-      "changedAt": "2026-08-25 12:54:51"
+      "changedAt": "2026-09-09 15:44:30"
     },
     {
       "id": 247,
@@ -12769,6 +12771,29 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948449.jpg",
           "addedAt": "2026-08-10 01:35:22",
           "changedAt": "2026-09-09 15:44:23"
+        },
+        {
+          "id": 121,
+          "name": "True Omega Tyrant of Shaitand",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Pendulum Fusion Monster",
+          "monsterType": "Rock",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 9",
+          "atk": "2700",
+          "def": "2800",
+          "pendulumScale": "9",
+          "pendulumEffect": "When a card or effect is activated that would destroy a card(s) on the field (Quick Effect): You can Tribute this card; negate the activation. You can only control 1 \"True Omega Tyrant of Shaitand\".",
+          "text": "1 Level 5 or higher EARTH Monster + 1 Pendulum Monster card\nThis card in face-up Defense Position is unaffected by the effects of your opponent's Spell/Trap cards. While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 300 damage to your opponent. When your opponent Special Summons a Monster(s) from their hand or Deck with less DEF than this card (Quick Effect): Negate that Summon, and if you do, destroy that Monster(s). You can only activate this effect of \"True Omega Tyrant of Shaitand\" once per turn.",
+          "clauses": 7,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948447,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948447.jpg",
+          "addedAt": "2026-08-10 01:36:12",
+          "changedAt": "2026-09-09 15:44:30"
         },
         {
           "id": 118,
