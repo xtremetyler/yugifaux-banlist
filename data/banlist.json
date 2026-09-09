@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:44:05.543Z",
+  "updatedAt": "2026-09-09T15:44:14.419Z",
   "cards": [
     {
       "id": 384,
@@ -925,11 +925,13 @@
       "def": "0",
       "text": "You can add 1 Spell that mentions an EARTH Monster(s) from your Deck to your hand, except \"Calling the Gale\". During your End Phase: You can banish this card from your GY to target 1 face-up card on the field; banish it until the next End Phase. You can only use 1 \"Calling the Gale\" effect per turn, and only once that turn.",
       "clauses": 2,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948451,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948451.jpg",
       "addedAt": "2026-08-10 01:34:34",
-      "changedAt": "2026-08-24 02:45:54"
+      "changedAt": "2026-09-09 15:44:13"
     },
     {
       "id": 236,
@@ -12706,6 +12708,26 @@
       "historySource": "historical",
       "cardListComplete": false,
       "cards": [
+        {
+          "id": 119,
+          "name": "Calling the Gale",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "You can add 1 Spell that mentions an EARTH Monster(s) from your Deck to your hand, except \"Calling the Gale\". During your End Phase: You can banish this card from your GY to target 1 face-up card on the field; banish it until the next End Phase. You can only use 1 \"Calling the Gale\" effect per turn, and only once that turn.",
+          "clauses": 2,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948451,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948451.jpg",
+          "addedAt": "2026-08-10 01:34:34",
+          "changedAt": "2026-09-09 15:44:13"
+        },
         {
           "id": 117,
           "name": "Omnidirectional Headwind",
