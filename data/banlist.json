@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T19:30:03.219Z",
+  "updatedAt": "2026-09-09T19:30:33.139Z",
   "cards": [
     {
       "id": 384,
@@ -1066,8 +1066,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025779,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025779.jpg",
+      "duelingbookId": 6038071,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038071.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -3615,8 +3615,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025794,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025794.jpg",
+      "duelingbookId": 6038076,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038076.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -3634,8 +3634,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025800,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025800.jpg",
+      "duelingbookId": 6038073,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038073.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -3657,8 +3657,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025821,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025821.jpg",
+      "duelingbookId": 6038067,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038067.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -3680,8 +3680,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025818,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025818.jpg",
+      "duelingbookId": 6038069,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038069.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -3703,8 +3703,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025826,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025826.jpg",
+      "duelingbookId": 6038068,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038068.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -3722,8 +3722,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025802,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025802.jpg",
+      "duelingbookId": 6038074,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038074.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -4405,8 +4405,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025831,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025831.jpg",
+      "duelingbookId": 6038072,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038072.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -8503,8 +8503,8 @@
       "archetype": "Hollow Era",
       "archetypeId": 27,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6025781,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025781.jpg",
+      "duelingbookId": 6038070,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038070.jpg",
       "addedAt": "2026-09-09 19:29:04",
       "changedAt": "2026-09-09 19:29:04"
     },
@@ -9638,7 +9638,7 @@
       "cardListComplete": false,
       "featuredCardId": 443,
       "featuredCardName": "Brahei from the Hollow Era",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025779.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038071.jpg",
       "cards": [
         {
           "id": 443,
@@ -9655,8 +9655,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025779,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025779.jpg",
+          "duelingbookId": 6038071,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038071.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         },
@@ -9694,8 +9694,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025794,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025794.jpg",
+          "duelingbookId": 6038076,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038076.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         },
@@ -9713,8 +9713,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025800,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025800.jpg",
+          "duelingbookId": 6038073,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038073.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         },
@@ -9736,8 +9736,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025821,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025821.jpg",
+          "duelingbookId": 6038067,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038067.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         },
@@ -9759,8 +9759,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025818,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025818.jpg",
+          "duelingbookId": 6038069,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038069.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         },
@@ -9782,8 +9782,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025826,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025826.jpg",
+          "duelingbookId": 6038068,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038068.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         },
@@ -9801,8 +9801,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025802,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025802.jpg",
+          "duelingbookId": 6038074,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038074.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         },
@@ -9821,8 +9821,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025831,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025831.jpg",
+          "duelingbookId": 6038072,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038072.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         },
@@ -9881,8 +9881,8 @@
           "archetype": "Hollow Era",
           "archetypeId": 27,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6025781,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6025781.jpg",
+          "duelingbookId": 6038070,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038070.jpg",
           "addedAt": "2026-09-09 19:29:04",
           "changedAt": "2026-09-09 19:29:04"
         }
