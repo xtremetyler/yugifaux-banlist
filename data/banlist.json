@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:29:35.124Z",
+  "updatedAt": "2026-09-09T15:29:42.600Z",
   "cards": [
     {
       "id": 384,
@@ -4305,6 +4305,8 @@
       "def": "0",
       "text": "During your Main Phase, while this card is in your banishment and you control no cards in your Field Spell Zone: You can Set this card, also for the rest of this turn after this effect resolves, you cannot Set or activate another Field Spell from your hand. You can only Set \"Mer-Mercado Merrakesh\" this way once per turn. If a player would draw a card(s), banish that card(s) instead. During each Main Phase: Up to twice per turn, the turn player may pay LP equal to 100 x the number of face-up cards in their banishment to activate up to 3 of the following effects, in sequence.\n● Add 1 face-up card from their banishment to their hand.\n● Target 1 Xyz Monster they control; add 1 card attached to it to the hand.\n● Banish 1 card from your hand or GY.\n● Banish the bottom card of your Deck.\n● Attach 1 card from your banishment to an Xyz Monster you control as Material.",
       "clauses": 7,
+      "archetype": "Mer-Mer",
+      "archetypeId": 4,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5960239,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960239.jpg",
@@ -12163,6 +12165,26 @@
       "historySource": "historical",
       "cardListComplete": false,
       "cards": [
+        {
+          "id": 433,
+          "name": "Mer-Mercado Merrakesh",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During your Main Phase, while this card is in your banishment and you control no cards in your Field Spell Zone: You can Set this card, also for the rest of this turn after this effect resolves, you cannot Set or activate another Field Spell from your hand. You can only Set \"Mer-Mercado Merrakesh\" this way once per turn. If a player would draw a card(s), banish that card(s) instead. During each Main Phase: Up to twice per turn, the turn player may pay LP equal to 100 x the number of face-up cards in their banishment to activate up to 3 of the following effects, in sequence.\n● Add 1 face-up card from their banishment to their hand.\n● Target 1 Xyz Monster they control; add 1 card attached to it to the hand.\n● Banish 1 card from your hand or GY.\n● Banish the bottom card of your Deck.\n● Attach 1 card from your banishment to an Xyz Monster you control as Material.",
+          "clauses": 7,
+          "archetype": "Mer-Mer",
+          "archetypeId": 4,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5960239,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960239.jpg",
+          "addedAt": "2026-09-09 15:00:59",
+          "changedAt": "2026-09-09 15:00:59"
+        },
         {
           "id": 432,
           "name": "Mer-Mercenary Irminger, the Jarl",
