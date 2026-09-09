@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:21:56.613Z",
+  "updatedAt": "2026-09-09T14:22:07.984Z",
   "cards": [
     {
       "id": 384,
@@ -5563,11 +5563,13 @@
       "def": "1800",
       "text": "3 DARK Spellcaster monsters, including a Fusion Monster\nMust first be Fusion Summoned. If this card is Fusion Summoned: You can Set 1 “Crush Clown Virus” or “Illusion Fusion” from your Deck and/or GY, but banish them when they leave the field. Once per turn, when your opponent activates a card or effect while “Crush Clown Virus” is in your GY: You can target 1 face-up monster your opponent controls; apply the effect of 1 “Crush Clown Virus” in your GY to that monster, except you do not Tribute a monster. If this Fusion Summoned card leaves the field by your opponent’s card: You can Special Summon up to 2 monsters that mention “Crush Clown Virus” from your GY and/or banishment, except \"Saggi & Peten, the Viral Vaudeville\". You can only use each effect of “Saggi & Peten, the Viral Vaudeville” once per turn.",
       "clauses": 5,
+      "archetype": "Crush Clown",
+      "archetypeId": 6,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939446,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939446.jpg",
       "addedAt": "2026-08-07 03:24:50",
-      "changedAt": "2026-08-24 03:47:48"
+      "changedAt": "2026-09-09 14:22:07"
     },
     {
       "id": 66,
@@ -12030,6 +12032,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939441.jpg",
           "addedAt": "2026-08-07 03:21:07",
           "changedAt": "2026-09-09 14:21:56"
+        },
+        {
+          "id": 95,
+          "name": "Saggi & Peten, the Viral Vaudeville",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "DARK",
+          "levelRankLink": "Level 9",
+          "atk": "2800",
+          "def": "1800",
+          "text": "3 DARK Spellcaster monsters, including a Fusion Monster\nMust first be Fusion Summoned. If this card is Fusion Summoned: You can Set 1 “Crush Clown Virus” or “Illusion Fusion” from your Deck and/or GY, but banish them when they leave the field. Once per turn, when your opponent activates a card or effect while “Crush Clown Virus” is in your GY: You can target 1 face-up monster your opponent controls; apply the effect of 1 “Crush Clown Virus” in your GY to that monster, except you do not Tribute a monster. If this Fusion Summoned card leaves the field by your opponent’s card: You can Special Summon up to 2 monsters that mention “Crush Clown Virus” from your GY and/or banishment, except \"Saggi & Peten, the Viral Vaudeville\". You can only use each effect of “Saggi & Peten, the Viral Vaudeville” once per turn.",
+          "clauses": 5,
+          "archetype": "Crush Clown",
+          "archetypeId": 6,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5939446,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939446.jpg",
+          "addedAt": "2026-08-07 03:24:50",
+          "changedAt": "2026-09-09 14:22:07"
         },
         {
           "id": 66,
