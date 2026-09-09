@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:37:30.252Z",
+  "updatedAt": "2026-09-09T15:37:51.788Z",
   "cards": [
     {
       "id": 384,
@@ -12143,7 +12143,7 @@
       "finalAddedClauses": 6,
       "notes": "Third designed; forcibly retired to Limb-Faux at +6 clauses and incurred Double Garnet Tax.",
       "historySource": "historical",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "cards": [
         {
           "id": 392,
