@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:29:48.941Z",
+  "updatedAt": "2026-09-09T14:30:26.993Z",
   "cards": [
     {
       "id": 384,
@@ -10356,7 +10356,7 @@
       "finalAddedClauses": 10,
       "notes": "",
       "historySource": "bot",
-      "cardListComplete": true,
+      "cardListComplete": false,
       "cards": []
     },
     {
