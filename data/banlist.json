@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:44:38.404Z",
+  "updatedAt": "2026-09-09T15:44:47.721Z",
   "cards": [
     {
       "id": 384,
@@ -3240,11 +3240,13 @@
       "def": "2600",
       "text": "To Tribute Summon this card, you can also Tribute face-up cards you control in your Pendulum Zones. While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. If this card is Normal or Special Summoned: You can change this card to face-up Defense Position; place a Level 5 or higher Pendulum Monster from your Deck or face-up Extra Deck into 1 of your empty Pendulum Zones. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 200 damage to your opponent. (Quick Effect): You can shuffle this card into your Deck to Special Summon 1 \"Tyrant of Shaitand\" Monster from your Extra Deck in face-up Defense Position. You can only use this effect of \"High Tyrant of Shaitand\" once per turn.",
       "clauses": 7,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948442,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948442.jpg",
       "addedAt": "2026-08-10 01:37:31",
-      "changedAt": "2026-08-24 03:30:40"
+      "changedAt": "2026-09-09 15:44:47"
     },
     {
       "id": 234,
@@ -12756,6 +12758,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948446.jpg",
           "addedAt": "2026-08-10 01:37:00",
           "changedAt": "2026-09-09 15:44:37"
+        },
+        {
+          "id": 123,
+          "name": "High Tyrant of Shaitand",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 7",
+          "atk": "2500",
+          "def": "2600",
+          "text": "To Tribute Summon this card, you can also Tribute face-up cards you control in your Pendulum Zones. While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. If this card is Normal or Special Summoned: You can change this card to face-up Defense Position; place a Level 5 or higher Pendulum Monster from your Deck or face-up Extra Deck into 1 of your empty Pendulum Zones. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 200 damage to your opponent. (Quick Effect): You can shuffle this card into your Deck to Special Summon 1 \"Tyrant of Shaitand\" Monster from your Extra Deck in face-up Defense Position. You can only use this effect of \"High Tyrant of Shaitand\" once per turn.",
+          "clauses": 7,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948442,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948442.jpg",
+          "addedAt": "2026-08-10 01:37:31",
+          "changedAt": "2026-09-09 15:44:47"
         },
         {
           "id": 117,
