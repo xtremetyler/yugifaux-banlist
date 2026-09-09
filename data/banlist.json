@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:38:06.175Z",
+  "updatedAt": "2026-09-09T15:43:56.871Z",
   "cards": [
     {
       "id": 384,
@@ -5015,11 +5015,13 @@
       "def": "0",
       "text": "During your End Phase: You can activate each of the following effects in sequence.\n● If you control a Field Spell: Add a \"Shaitand\" Monster from your GY to hand.\n● If you control an EARTH Monster: Your opponent banishes a card they control until the End Phase of the next turn.\n● Inflict 100 damage to each player who does not control a Monster with the highest DEF on the field, and if you do, return 1 card you control to the hand.",
       "clauses": 4,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948458,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948458.jpg",
       "addedAt": "2026-08-10 01:09:28",
-      "changedAt": "2026-08-24 03:45:34"
+      "changedAt": "2026-09-09 15:43:56"
     },
     {
       "id": 90,
@@ -12701,7 +12703,28 @@
       "notes": "First designed; retired honorably at +10 clauses.",
       "historySource": "historical",
       "cardListComplete": false,
-      "cards": []
+      "cards": [
+        {
+          "id": 117,
+          "name": "Omnidirectional Headwind",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During your End Phase: You can activate each of the following effects in sequence.\n● If you control a Field Spell: Add a \"Shaitand\" Monster from your GY to hand.\n● If you control an EARTH Monster: Your opponent banishes a card they control until the End Phase of the next turn.\n● Inflict 100 damage to each player who does not control a Monster with the highest DEF on the field, and if you do, return 1 card you control to the hand.",
+          "clauses": 4,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948458,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948458.jpg",
+          "addedAt": "2026-08-10 01:09:28",
+          "changedAt": "2026-09-09 15:43:56"
+        }
+      ]
     },
     {
       "id": 6,
