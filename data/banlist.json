@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T19:32:03.152Z",
+  "updatedAt": "2026-09-09T21:28:55.910Z",
   "cards": [
     {
       "id": 384,
@@ -9141,7 +9141,7 @@
       "finalAddedClauses": 10,
       "notes": "Take a stroll into the depth of the dungeon. Surely nothing there will try to eat you. Certainly not a grue.",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 468,
       "featuredCardName": "Cove Area of the Dungeon Dark",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038099.jpg",
@@ -9410,7 +9410,7 @@
       "finalAddedClauses": 6,
       "notes": "Book of Life go brrrrrr",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 451,
       "featuredCardName": "Anointed Alfred, Mummy King",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038080.jpg",
@@ -9635,7 +9635,7 @@
       "finalAddedClauses": 16,
       "notes": "In the name of science, lend me your rears... oh, bother, I meant \"ears\"! Anywho, take a look into this alternate timeline where famous astronomers were liquefied to mystical stellar energy upon their greatest revelations about the greater universe by the wills of the stars themselves. Bear witness as the collected discoveries form bodies as fiery avatars and finally ascend to the booming presence of deific star-sized entities themselves. Enjoy the subtheme of \"Fusion\" normal spells and new tri-type combination of Aqua, Pyro, and Thunder--as well as the contained packages pertinent to each of the archetype's fusion spells. Huzzah!",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 443,
       "featuredCardName": "Brahei from the Hollow Era",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038071.jpg",
