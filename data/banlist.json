@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:34:54.679Z",
+  "updatedAt": "2026-09-09T15:35:04.770Z",
   "cards": [
     {
       "id": 384,
@@ -111,11 +111,13 @@
       "def": "0",
       "text": "Your opponent cannot activate cards or effects during a battle involving a Level 9 or higher Monster you control. During your turn, while this card is in your GY (Quick Effect): You can choose 1 unrevealed Fusion Monster from your Extra Deck to become revealed until the start of your next turn; activate this card, then, if you revealed \"A-Re:L RBG Rushdown Ronin\" this way, you can send 1 Continuous Spell from your field or Deck to the GY. If this card is sent from the field to the GY: You can target 1 \"A-Re:L\" Monster you control; it cannot be destroyed by battle until the start of your next turn. You can only activate each effect of \"A-Re:L Assault - Rushdown Red\" once per turn.",
       "clauses": 3,
+      "archetype": "A-Re:L",
+      "archetypeId": 5,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5972251,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972251.jpg",
       "addedAt": "2026-09-07 04:00:19",
-      "changedAt": "2026-09-07 04:00:19"
+      "changedAt": "2026-09-09 15:35:04"
     },
     {
       "id": 401,
@@ -12164,6 +12166,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972250.jpg",
           "addedAt": "2026-09-07 03:59:50",
           "changedAt": "2026-09-09 15:34:54"
+        },
+        {
+          "id": 394,
+          "name": "A-Re:L Assault - Rushdown Red",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Your opponent cannot activate cards or effects during a battle involving a Level 9 or higher Monster you control. During your turn, while this card is in your GY (Quick Effect): You can choose 1 unrevealed Fusion Monster from your Extra Deck to become revealed until the start of your next turn; activate this card, then, if you revealed \"A-Re:L RBG Rushdown Ronin\" this way, you can send 1 Continuous Spell from your field or Deck to the GY. If this card is sent from the field to the GY: You can target 1 \"A-Re:L\" Monster you control; it cannot be destroyed by battle until the start of your next turn. You can only activate each effect of \"A-Re:L Assault - Rushdown Red\" once per turn.",
+          "clauses": 3,
+          "archetype": "A-Re:L",
+          "archetypeId": 5,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5972251,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972251.jpg",
+          "addedAt": "2026-09-07 04:00:19",
+          "changedAt": "2026-09-09 15:35:04"
         }
       ]
     },
