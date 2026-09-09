@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:45:15.957Z",
+  "updatedAt": "2026-09-09T15:45:24.858Z",
   "cards": [
     {
       "id": 384,
@@ -1792,11 +1792,13 @@
       "pendulumEffect": "Once per turn, when you conduct a Pendulum Summon: You can Pendulum Summon 1 appropriate Level 5, 7, or 8 EARTH Monster from your GY as if it was in your hand.",
       "text": "During your Main Phase: You can discard this card from your hand; place 1 Level 5 or higher Pendulum Monster from your Deck or face-up Extra Deck into 1 of your empty Pendulum Zones. You can Pendulum Summon this card from your GY as if it were in your hand. During the End Phase: You can flip a face-up card on the field face-down (if a Monster is flipped this way, it is flipped to face-down Defense Position).",
       "clauses": 4,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948435,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948435.jpg",
       "addedAt": "2026-08-10 01:40:05",
-      "changedAt": "2026-08-24 03:21:59"
+      "changedAt": "2026-09-09 15:45:24"
     },
     {
       "id": 294,
@@ -12741,6 +12743,29 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948451.jpg",
           "addedAt": "2026-08-10 01:34:34",
           "changedAt": "2026-09-09 15:44:13"
+        },
+        {
+          "id": 127,
+          "name": "Dune Warden of Shaitand",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Pendulum Effect Monster",
+          "monsterType": "Rock",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 6",
+          "atk": "2400",
+          "def": "1700",
+          "pendulumScale": "6",
+          "pendulumEffect": "Once per turn, when you conduct a Pendulum Summon: You can Pendulum Summon 1 appropriate Level 5, 7, or 8 EARTH Monster from your GY as if it was in your hand.",
+          "text": "During your Main Phase: You can discard this card from your hand; place 1 Level 5 or higher Pendulum Monster from your Deck or face-up Extra Deck into 1 of your empty Pendulum Zones. You can Pendulum Summon this card from your GY as if it were in your hand. During the End Phase: You can flip a face-up card on the field face-down (if a Monster is flipped this way, it is flipped to face-down Defense Position).",
+          "clauses": 4,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948435,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948435.jpg",
+          "addedAt": "2026-08-10 01:40:05",
+          "changedAt": "2026-09-09 15:45:24"
         },
         {
           "id": 125,
