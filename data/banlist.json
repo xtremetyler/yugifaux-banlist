@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:45:08.585Z",
+  "updatedAt": "2026-09-09T15:45:15.957Z",
   "cards": [
     {
       "id": 384,
@@ -8078,11 +8078,13 @@
       "pendulumEffect": "If any player controls a Field Spell (Quick Effect): Return this card to your hand; Set 1 \"Whirling Detritus\" from your Deck, and if you do, you can activate it this turn. You can only use this effect of \"Wandering Rukh of Shaitand\" once per turn.",
       "text": "If you control a Field Spell: You can Special Summon this card (from your hand) to your opponent's field in Attack Position by placing 1 face-up Monster they control on the bottom of its owner's Deck. You can only Special Summon \"Wandering Rukh of Shaitand\" this way once per turn. This card cannot be Tributed or used as Material. During the End Phase: Inflict 100 damage to each player. You can only control 1 \"Wandering Rukh of Shaitand\".",
       "clauses": 5,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948437,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948437.jpg",
       "addedAt": "2026-08-10 01:39:24",
-      "changedAt": "2026-08-24 20:59:11"
+      "changedAt": "2026-09-09 15:45:15"
     },
     {
       "id": 249,
@@ -12892,6 +12894,29 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948447.jpg",
           "addedAt": "2026-08-10 01:36:12",
           "changedAt": "2026-09-09 15:44:30"
+        },
+        {
+          "id": 126,
+          "name": "Wandering Rukh of Shaitand",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Pendulum Effect Monster",
+          "monsterType": "Rock",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 8",
+          "atk": "2600",
+          "def": "2000",
+          "pendulumScale": "5",
+          "pendulumEffect": "If any player controls a Field Spell (Quick Effect): Return this card to your hand; Set 1 \"Whirling Detritus\" from your Deck, and if you do, you can activate it this turn. You can only use this effect of \"Wandering Rukh of Shaitand\" once per turn.",
+          "text": "If you control a Field Spell: You can Special Summon this card (from your hand) to your opponent's field in Attack Position by placing 1 face-up Monster they control on the bottom of its owner's Deck. You can only Special Summon \"Wandering Rukh of Shaitand\" this way once per turn. This card cannot be Tributed or used as Material. During the End Phase: Inflict 100 damage to each player. You can only control 1 \"Wandering Rukh of Shaitand\".",
+          "clauses": 5,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948437,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948437.jpg",
+          "addedAt": "2026-08-10 01:39:24",
+          "changedAt": "2026-09-09 15:45:15"
         },
         {
           "id": 118,
