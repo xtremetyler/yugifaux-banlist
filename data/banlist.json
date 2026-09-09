@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:20:59.448Z",
+  "updatedAt": "2026-09-09T14:21:05.875Z",
   "cards": [
     {
       "id": 384,
@@ -1249,11 +1249,13 @@
       "def": "0",
       "text": "Activate the following effects in order:\n● Add 1 Level 4 or lower DARK Spellcaster monster from your Deck to your hand, or, if “Crush Clown Virus” is in your GY, you can send it to the GY instead. \n●You can banish 1 \"Crush Clown Virus\" from your Deck or GY.\nYou can only activate 1 “Casting Call” per turn.",
       "clauses": 3,
+      "archetype": "Crush Clown",
+      "archetypeId": 6,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939429,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939429.jpg",
       "addedAt": "2026-08-06 23:03:57",
-      "changedAt": "2026-08-06 23:03:57"
+      "changedAt": "2026-09-09 14:21:05"
     },
     {
       "id": 5,
@@ -11833,6 +11835,26 @@
       "historySource": "historical",
       "cardListComplete": false,
       "cards": [
+        {
+          "id": 88,
+          "name": "Casting Call",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Activate the following effects in order:\n● Add 1 Level 4 or lower DARK Spellcaster monster from your Deck to your hand, or, if “Crush Clown Virus” is in your GY, you can send it to the GY instead. \n●You can banish 1 \"Crush Clown Virus\" from your Deck or GY.\nYou can only activate 1 “Casting Call” per turn.",
+          "clauses": 3,
+          "archetype": "Crush Clown",
+          "archetypeId": 6,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5939429,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939429.jpg",
+          "addedAt": "2026-08-06 23:03:57",
+          "changedAt": "2026-09-09 14:21:05"
+        },
         {
           "id": 67,
           "name": "Crass Clown, the Rude Awakening",
