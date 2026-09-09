@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T03:19:45.215Z",
+  "updatedAt": "2026-09-09T04:07:55.600Z",
   "cards": [
     {
       "id": 384,
@@ -7143,6 +7143,25 @@
       "officialUrl": "https://ygoprodeck.com/card/three-trolling-trolls-9245",
       "addedAt": "2026-07-31 16:50:25",
       "changedAt": "2026-08-24 14:57:10"
+    },
+    {
+      "id": 421,
+      "name": "Time Wizard",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 2",
+      "atk": "500",
+      "def": "400",
+      "text": "Once per turn: You can toss a coin and call it. If you call it right, destroy all monsters your opponent controls. If you call it wrong, destroy as many monsters you control as possible, and if you do, take damage equal to half the total ATK those destroyed monsters had while face-up on the field.",
+      "archetype": "Magician",
+      "contributor": "Edward Swissorhands",
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/71625222.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/time-wizard-6017",
+      "addedAt": "2026-09-09 04:07:37",
+      "changedAt": "2026-09-09 04:07:37"
     },
     {
       "id": 50,
