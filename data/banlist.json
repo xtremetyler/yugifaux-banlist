@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:14:23.294Z",
+  "updatedAt": "2026-09-09T16:14:34.515Z",
   "cards": [
     {
       "id": 384,
@@ -3594,11 +3594,13 @@
       "def": "0",
       "text": "Activate 1 of these effects.\n● This card can be used to Ritual Summon any \"Inkarnate\" Ritual Monster from your Deck. You must also Tribute Monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster.\n● This card can be used to Ritual Summon any \"Inkarnate\" Ritual Monster from your hand. You must also Tribute 1 \"Inkarnate\" Monster from your Deck whose Level equals or exceeds the Level of that Ritual Monster. You can Tribute an \"Inkarnate\" Monster who shares an attribute with that Ritual Monster as the entire Tribute instead.",
       "clauses": 4,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961265,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961265.jpg",
       "addedAt": "2026-08-10 03:11:53",
-      "changedAt": "2026-08-24 03:35:37"
+      "changedAt": "2026-09-09 16:14:33"
     },
     {
       "id": 139,
@@ -12561,6 +12563,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961293.jpg",
           "addedAt": "2026-08-10 03:07:17",
           "changedAt": "2026-09-09 16:13:33"
+        },
+        {
+          "id": 144,
+          "name": "Inkarnate Release",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Ritual",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Activate 1 of these effects.\n● This card can be used to Ritual Summon any \"Inkarnate\" Ritual Monster from your Deck. You must also Tribute Monsters from your hand or field whose total Levels equal or exceed the Level of that Ritual Monster.\n● This card can be used to Ritual Summon any \"Inkarnate\" Ritual Monster from your hand. You must also Tribute 1 \"Inkarnate\" Monster from your Deck whose Level equals or exceeds the Level of that Ritual Monster. You can Tribute an \"Inkarnate\" Monster who shares an attribute with that Ritual Monster as the entire Tribute instead.",
+          "clauses": 4,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961265,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961265.jpg",
+          "addedAt": "2026-08-10 03:11:53",
+          "changedAt": "2026-09-09 16:14:33"
         },
         {
           "id": 139,
