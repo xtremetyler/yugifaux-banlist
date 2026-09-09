@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:20:51.948Z",
+  "updatedAt": "2026-09-09T14:20:59.448Z",
   "cards": [
     {
       "id": 384,
@@ -4877,11 +4877,13 @@
       "def": "1200",
       "text": "You can send this card from your hand to the GY; add 1 DARK Monster with 1500 or less ATK from your GY to your hand, except \"Peten, the Endless Encore\", and if you do, you can banish 1 \"Crush Clown Virus\" from your Deck. If this card is Tributed: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck, except “Peten, the Endless Encore”. You can banish this card from your GY; Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck. You can only use each effect of “Peten, the Endless Encore” once per turn.",
       "clauses": 5,
+      "archetype": "Crush Clown",
+      "archetypeId": 6,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939449,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939449.jpg",
       "addedAt": "2026-07-31 04:21:20",
-      "changedAt": "2026-07-31 04:21:20"
+      "changedAt": "2026-09-09 14:20:58"
     },
     {
       "id": 94,
@@ -11872,6 +11874,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939421.jpg",
           "addedAt": "2026-07-31 04:19:50",
           "changedAt": "2026-09-09 14:20:51"
+        },
+        {
+          "id": 69,
+          "name": "Peten, the Endless Encore",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "DARK",
+          "levelRankLink": "Level 3",
+          "atk": "500",
+          "def": "1200",
+          "text": "You can send this card from your hand to the GY; add 1 DARK Monster with 1500 or less ATK from your GY to your hand, except \"Peten, the Endless Encore\", and if you do, you can banish 1 \"Crush Clown Virus\" from your Deck. If this card is Tributed: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck, except “Peten, the Endless Encore”. You can banish this card from your GY; Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck. You can only use each effect of “Peten, the Endless Encore” once per turn.",
+          "clauses": 5,
+          "archetype": "Crush Clown",
+          "archetypeId": 6,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5939449,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939449.jpg",
+          "addedAt": "2026-07-31 04:21:20",
+          "changedAt": "2026-09-09 14:20:58"
         },
         {
           "id": 66,
