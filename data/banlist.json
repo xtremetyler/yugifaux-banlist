@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:21:37.085Z",
+  "updatedAt": "2026-09-09T14:21:43.253Z",
   "cards": [
     {
       "id": 384,
@@ -4908,11 +4908,13 @@
       "def": "1200",
       "text": "2 DARK Spellcaster monsters\nDuring the turn this card is Fusion Summoned: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your GY or banishment, except “Peten, the Endless Masquerade”. If a monster is Tributed to activate “Crush Clown Virus”: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck, except “Peten, the Endless Encore”. If this card leaves the field by your opponent's card effect: You can target 1 face-up Monster your opponent controls; change it to Attack Position, if able, then you can apply the effect of 1 \"Crush Clown Virus\" in your GY or banishment to that target, except you do not Tribute a Monster. You can only use each effect of “Peten, the Endless Masquerade” once per turn.",
       "clauses": 6,
+      "archetype": "Crush Clown",
+      "archetypeId": 6,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939441,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939441.jpg",
       "addedAt": "2026-08-07 03:21:07",
-      "changedAt": "2026-08-07 03:21:07"
+      "changedAt": "2026-09-09 14:21:42"
     },
     {
       "id": 273,
@@ -12007,6 +12009,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939449.jpg",
           "addedAt": "2026-07-31 04:21:20",
           "changedAt": "2026-09-09 14:20:58"
+        },
+        {
+          "id": 94,
+          "name": "Peten, the Endless Masquerade",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "DARK",
+          "levelRankLink": "Level 6",
+          "atk": "2400",
+          "def": "1200",
+          "text": "2 DARK Spellcaster monsters\nDuring the turn this card is Fusion Summoned: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your GY or banishment, except “Peten, the Endless Masquerade”. If a monster is Tributed to activate “Crush Clown Virus”: You can Special Summon 1 monster that mentions “Crush Clown Virus” from your Deck, except “Peten, the Endless Encore”. If this card leaves the field by your opponent's card effect: You can target 1 face-up Monster your opponent controls; change it to Attack Position, if able, then you can apply the effect of 1 \"Crush Clown Virus\" in your GY or banishment to that target, except you do not Tribute a Monster. You can only use each effect of “Peten, the Endless Masquerade” once per turn.",
+          "clauses": 6,
+          "archetype": "Crush Clown",
+          "archetypeId": 6,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5939441,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939441.jpg",
+          "addedAt": "2026-08-07 03:21:07",
+          "changedAt": "2026-09-09 14:21:42"
         },
         {
           "id": 66,
