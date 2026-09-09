@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:03:09.906Z",
+  "updatedAt": "2026-09-09T15:03:44.134Z",
   "cards": [
     {
       "id": 384,
@@ -4220,6 +4220,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995187.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-08-24 03:43:21"
+    },
+    {
+      "id": 437,
+      "name": "Mer-Mer Mercuriality",
+      "status": "banned",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "During your Main Phase: You can reveal this card from your hand to declare 1 card name, except \"Mer-Mer Mercuriality!?\"; banish 1 card with the declared name from your Extra Deck, then place this card face-up in your empty Spell & Trap Zone. You can only activate this effect of \"Mer-Mer Mercuriality!?\" once per turn. When you draw for your normal draw in your Draw Phase, while you control \"Mer-Mercado Merrakesh\": Draw 2 cards instead of 1. If your opponent pays LP because of a card effect or to activate a card effect: Gain that many LP. During your opponent's Standby Phase (Quick Effect): You can banish this card and another card from your GY; attach 1 card from any player's banishment to a face-up Xyz Monster on the field as Material. You can only use this effect of \"Mer-Mer Mercuriality!?\" once per turn.",
+      "clauses": 5,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 5960240,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960240.jpg",
+      "addedAt": "2026-09-09 15:03:31",
+      "changedAt": "2026-09-09 15:03:31"
     },
     {
       "id": 436,
