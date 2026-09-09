@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:44:47.721Z",
+  "updatedAt": "2026-09-09T15:44:59.322Z",
   "cards": [
     {
       "id": 384,
@@ -6048,11 +6048,13 @@
       "pendulumEffect": "EARTH Monsters you control gain 200 DEF. During your Main Phase: You can Special Summon this card from your Pendulum Zone in Defense Position. You can only Special Summon 1 \"Gem Golem of Shaitand\" this way per turn. During your End Phase: Inflict 100 damage to each player who does not control a Monster with the highest DEF on the field.",
       "text": "If you think this one is bad, just wait until you see the Pepper one.",
       "clauses": 3,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948439,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948439.jpg",
       "addedAt": "2026-08-10 01:38:09",
-      "changedAt": "2026-08-24 03:53:11"
+      "changedAt": "2026-09-09 15:44:58"
     },
     {
       "id": 281,
@@ -12799,6 +12801,29 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948458.jpg",
           "addedAt": "2026-08-10 01:09:28",
           "changedAt": "2026-09-09 15:43:56"
+        },
+        {
+          "id": 124,
+          "name": "Salt Golem of Shaitand",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Pendulum Normal Monster",
+          "monsterType": "Rock",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 5",
+          "atk": "1400",
+          "def": "2100",
+          "pendulumScale": "4",
+          "pendulumEffect": "EARTH Monsters you control gain 200 DEF. During your Main Phase: You can Special Summon this card from your Pendulum Zone in Defense Position. You can only Special Summon 1 \"Gem Golem of Shaitand\" this way per turn. During your End Phase: Inflict 100 damage to each player who does not control a Monster with the highest DEF on the field.",
+          "text": "If you think this one is bad, just wait until you see the Pepper one.",
+          "clauses": 3,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948439,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948439.jpg",
+          "addedAt": "2026-08-10 01:38:09",
+          "changedAt": "2026-09-09 15:44:58"
         },
         {
           "id": 120,
