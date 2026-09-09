@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:13:46.289Z",
+  "updatedAt": "2026-09-09T16:13:52.929Z",
   "cards": [
     {
       "id": 384,
@@ -3551,11 +3551,13 @@
       "def": "0",
       "text": "You can reveal this card in your hand and shuffle it into the Deck; add 1 Level 8 or lower Ritual Monster or 1 Ritual Spell from your Deck to the hand. If this card is Tributed: You can add 1 Ritual Spell from your GY to the hand, and if you do, shuffle this card into the Deck. If you are Tributing Monsters for a Ritual Summon, you can also use this card in your GY, by banishing it, and if you do, you can place 1 \"Inkarnate\" Monster from your GY or banishment on the top or bottom of the Deck You can only use each effect of \"Inkarnate Living Ink\" once per turn.",
       "clauses": 3,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961281,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961281.jpg",
       "addedAt": "2026-08-10 03:08:28",
-      "changedAt": "2026-08-24 03:34:20"
+      "changedAt": "2026-09-09 16:13:52"
     },
     {
       "id": 135,
@@ -12486,6 +12488,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961286.jpg",
           "addedAt": "2026-08-10 03:07:54",
           "changedAt": "2026-09-09 16:13:45"
+        },
+        {
+          "id": 138,
+          "name": "Inkarnate Living Ink",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Aqua",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 8",
+          "atk": "0",
+          "def": "0",
+          "text": "You can reveal this card in your hand and shuffle it into the Deck; add 1 Level 8 or lower Ritual Monster or 1 Ritual Spell from your Deck to the hand. If this card is Tributed: You can add 1 Ritual Spell from your GY to the hand, and if you do, shuffle this card into the Deck. If you are Tributing Monsters for a Ritual Summon, you can also use this card in your GY, by banishing it, and if you do, you can place 1 \"Inkarnate\" Monster from your GY or banishment on the top or bottom of the Deck You can only use each effect of \"Inkarnate Living Ink\" once per turn.",
+          "clauses": 3,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961281,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961281.jpg",
+          "addedAt": "2026-08-10 03:08:28",
+          "changedAt": "2026-09-09 16:13:52"
         },
         {
           "id": 135,
