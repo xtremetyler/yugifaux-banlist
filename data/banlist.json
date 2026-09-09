@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:27:26.689Z",
+  "updatedAt": "2026-09-09T14:29:48.941Z",
   "cards": [
     {
       "id": 384,
@@ -11762,7 +11762,7 @@
       "finalAddedClauses": 12,
       "notes": "Based on the hit video game -  Slay The Spire!\nHistorical note: Fifth designed.",
       "historySource": "bot",
-      "cardListComplete": true,
+      "cardListComplete": false,
       "cards": [
         {
           "id": 86,
