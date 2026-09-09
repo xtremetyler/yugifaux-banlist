@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:55:49.056Z",
+  "updatedAt": "2026-09-09T14:56:02.880Z",
   "cards": [
     {
       "id": 384,
@@ -699,6 +699,25 @@
       "officialUrl": "https://ygoprodeck.com/card/beyond-the-pendulum-12977",
       "addedAt": "2026-07-29 05:07:17",
       "changedAt": "2026-07-29 05:07:17"
+    },
+    {
+      "id": 427,
+      "name": "Big Daddy",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Fusion Monster",
+      "monsterType": "Aqua",
+      "attribute": "WATER",
+      "levelRankLink": "Level 5",
+      "atk": "2500",
+      "def": "2500",
+      "text": "2 Aqua Effect Monster\nMonsters your opponent controls that can attack must attack this card. This card cannot be destroyed in battle. Your opponent can only attack one during their Battle Phase unless they control an Aqua monster.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6037655,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6037655.jpg",
+      "addedAt": "2026-09-09 14:56:01",
+      "changedAt": "2026-09-09 14:56:01"
     },
     {
       "id": 371,
