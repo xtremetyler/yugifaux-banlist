@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:21:05.875Z",
+  "updatedAt": "2026-09-09T14:21:11.006Z",
   "cards": [
     {
       "id": 384,
@@ -3266,11 +3266,13 @@
       "def": "0",
       "text": "If this card is added to the hand by the effect of a DARK monster (except by drawing it): You can add 1 \"Midnight Matinee\" from your Deck to your hand. You can only use this effect of \"Illusion Fusion\" once per turn. Fusion Summon 1 DARK Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field as material. If “Crush Clown Virus” is in your GY, you can also use Dark Spellcaster monster(s) your opponent controls as material.",
       "clauses": 4,
+      "archetype": "Crush Clown",
+      "archetypeId": 6,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939425,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939425.jpg",
       "addedAt": "2026-08-07 02:53:44",
-      "changedAt": "2026-08-07 02:53:44"
+      "changedAt": "2026-09-09 14:21:10"
     },
     {
       "id": 228,
@@ -11875,6 +11877,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939420.jpg",
           "addedAt": "2026-07-31 04:18:21",
           "changedAt": "2026-09-09 14:20:41"
+        },
+        {
+          "id": 89,
+          "name": "Illusion Fusion",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If this card is added to the hand by the effect of a DARK monster (except by drawing it): You can add 1 \"Midnight Matinee\" from your Deck to your hand. You can only use this effect of \"Illusion Fusion\" once per turn. Fusion Summon 1 DARK Spellcaster Fusion Monster from your Extra Deck, using monsters from your hand or field as material. If “Crush Clown Virus” is in your GY, you can also use Dark Spellcaster monster(s) your opponent controls as material.",
+          "clauses": 4,
+          "archetype": "Crush Clown",
+          "archetypeId": 6,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5939425,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939425.jpg",
+          "addedAt": "2026-08-07 02:53:44",
+          "changedAt": "2026-09-09 14:21:10"
         },
         {
           "id": 68,
