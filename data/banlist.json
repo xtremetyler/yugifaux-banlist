@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:21:11.006Z",
+  "updatedAt": "2026-09-09T14:21:19.905Z",
   "cards": [
     {
       "id": 384,
@@ -4717,11 +4717,13 @@
       "def": "0",
       "text": "All monsters on the field become 1500 ATK until the end of this turn. If “Crush Clown Virus” is in your GY, monsters you control cannot be destroyed by battle this turn. Then, if \"Crush Clown Virus\" is in your banishment, Monsters your opponent controls lose 100 ATK until the end of this turn. If you control a DARK Fusion Monster: You can activate this card from your GY, but banish it as it resolves. You can only use this effect of \"One Size Fits All\" once per Duel.",
       "clauses": 3,
+      "archetype": "Crush Clown",
+      "archetypeId": 6,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939432,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939432.jpg",
       "addedAt": "2026-08-07 02:58:00",
-      "changedAt": "2026-08-07 02:58:00"
+      "changedAt": "2026-09-09 14:21:19"
     },
     {
       "id": 179,
@@ -11918,6 +11920,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939421.jpg",
           "addedAt": "2026-07-31 04:19:50",
           "changedAt": "2026-09-09 14:20:51"
+        },
+        {
+          "id": 90,
+          "name": "One Size Fits All!",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "All monsters on the field become 1500 ATK until the end of this turn. If “Crush Clown Virus” is in your GY, monsters you control cannot be destroyed by battle this turn. Then, if \"Crush Clown Virus\" is in your banishment, Monsters your opponent controls lose 100 ATK until the end of this turn. If you control a DARK Fusion Monster: You can activate this card from your GY, but banish it as it resolves. You can only use this effect of \"One Size Fits All\" once per Duel.",
+          "clauses": 3,
+          "archetype": "Crush Clown",
+          "archetypeId": 6,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5939432,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939432.jpg",
+          "addedAt": "2026-08-07 02:58:00",
+          "changedAt": "2026-09-09 14:21:19"
         },
         {
           "id": 69,
