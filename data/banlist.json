@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:36:33.174Z",
+  "updatedAt": "2026-09-09T15:36:55.307Z",
   "cards": [
     {
       "id": 384,
@@ -288,11 +288,13 @@
       "def": "0",
       "text": "During your turn: You can activate this card from your hand by sending 1 Continuous Spell from your field or Deck to the GY. Choose 1 unrevealed Fusion Monster from your Extra Deck to become revealed until the start of your next turn; Set 1 Spell/Trap from either GY, then if you revealed \"A-Re:L RBG Rushdown Ronin\" this way, you can activate it this turn as a Quick Effect. You can only activate each effect of \"A-Re:L Tactic - Red Ronin\" once per turn.",
       "clauses": 3,
+      "archetype": "A-Re:L",
+      "archetypeId": 5,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5972256,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972256.jpg",
       "addedAt": "2026-09-07 04:04:48",
-      "changedAt": "2026-09-07 04:04:48"
+      "changedAt": "2026-09-09 15:36:54"
     },
     {
       "id": 302,
@@ -12296,6 +12298,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972254.jpg",
           "addedAt": "2026-09-07 04:04:19",
           "changedAt": "2026-09-09 15:36:32"
+        },
+        {
+          "id": 400,
+          "name": "A-Re:L Tactic - Red Ronin",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During your turn: You can activate this card from your hand by sending 1 Continuous Spell from your field or Deck to the GY. Choose 1 unrevealed Fusion Monster from your Extra Deck to become revealed until the start of your next turn; Set 1 Spell/Trap from either GY, then if you revealed \"A-Re:L RBG Rushdown Ronin\" this way, you can activate it this turn as a Quick Effect. You can only activate each effect of \"A-Re:L Tactic - Red Ronin\" once per turn.",
+          "clauses": 3,
+          "archetype": "A-Re:L",
+          "archetypeId": 5,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5972256,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972256.jpg",
+          "addedAt": "2026-09-07 04:04:48",
+          "changedAt": "2026-09-09 15:36:54"
         }
       ]
     },
