@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T04:07:55.600Z",
+  "updatedAt": "2026-09-09T14:20:29.568Z",
   "cards": [
     {
       "id": 384,
@@ -5564,11 +5564,13 @@
       "def": "1500",
       "text": "If this card is Normal or Special Summoned: You can add 1 card that mentions “Crush Clown Virus” from your Deck to your hand, except “Saggi, the Contagious Clown”, or Set 1 “Crush Clown Virus” directly from your Deck or GY, and if you do, it can be activated this turn. You can only use this effect of “Saggi, the Contagious Clown” once per turn.",
       "clauses": 4,
+      "archetype": "Crush Clown",
+      "archetypeId": 6,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939418,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939418.jpg",
       "addedAt": "2026-07-31 04:16:34",
-      "changedAt": "2026-08-24 03:48:08"
+      "changedAt": "2026-09-09 14:20:28"
     },
     {
       "id": 93,
@@ -11824,7 +11826,29 @@
       "notes": "Historical Ephtear archetype; clause total unavailable.",
       "historySource": "historical",
       "cardListComplete": false,
-      "cards": []
+      "cards": [
+        {
+          "id": 66,
+          "name": "Saggi, the Contagious Clown",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "DARK",
+          "levelRankLink": "Level 3",
+          "atk": "600",
+          "def": "1500",
+          "text": "If this card is Normal or Special Summoned: You can add 1 card that mentions “Crush Clown Virus” from your Deck to your hand, except “Saggi, the Contagious Clown”, or Set 1 “Crush Clown Virus” directly from your Deck or GY, and if you do, it can be activated this turn. You can only use this effect of “Saggi, the Contagious Clown” once per turn.",
+          "clauses": 4,
+          "archetype": "Crush Clown",
+          "archetypeId": 6,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5939418,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939418.jpg",
+          "addedAt": "2026-07-31 04:16:34",
+          "changedAt": "2026-09-09 14:20:28"
+        }
+      ]
     },
     {
       "id": 4,
