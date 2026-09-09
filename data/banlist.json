@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:21:31.526Z",
+  "updatedAt": "2026-09-09T14:21:37.085Z",
   "cards": [
     {
       "id": 384,
@@ -5601,11 +5601,13 @@
       "def": "1200",
       "text": "2 DARK Spellcaster monsters\nDuring the Main Phase (Quick Effect): You can Set 1 “Crush Clown Virus” or 1 Spell Card that mentions it from your Deck or GY, and if you do, it can be activated this turn. While “Crush Clown Virus” is in your GY, your opponent cannot activate cards or effects in response to the activation of your Normal Trap Cards. If a monster your opponent controls becomes a DARK Spellcaster monster by a card effect: You can target 1 card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Saggi, the Pandemic Puppeteer” once per turn.",
       "clauses": 5,
+      "archetype": "Crush Clown",
+      "archetypeId": 6,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5939438,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939438.jpg",
       "addedAt": "2026-08-07 03:14:16",
-      "changedAt": "2026-08-24 03:48:37"
+      "changedAt": "2026-09-09 14:21:36"
     },
     {
       "id": 218,
@@ -12026,6 +12028,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939418.jpg",
           "addedAt": "2026-07-31 04:16:34",
           "changedAt": "2026-09-09 14:20:28"
+        },
+        {
+          "id": 93,
+          "name": "Saggi, the Pandemic Puppeteer",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "DARK",
+          "levelRankLink": "Level 6",
+          "atk": "2300",
+          "def": "1200",
+          "text": "2 DARK Spellcaster monsters\nDuring the Main Phase (Quick Effect): You can Set 1 “Crush Clown Virus” or 1 Spell Card that mentions it from your Deck or GY, and if you do, it can be activated this turn. While “Crush Clown Virus” is in your GY, your opponent cannot activate cards or effects in response to the activation of your Normal Trap Cards. If a monster your opponent controls becomes a DARK Spellcaster monster by a card effect: You can target 1 card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Saggi, the Pandemic Puppeteer” once per turn.",
+          "clauses": 5,
+          "archetype": "Crush Clown",
+          "archetypeId": 6,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5939438,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939438.jpg",
+          "addedAt": "2026-08-07 03:14:16",
+          "changedAt": "2026-09-09 14:21:36"
         }
       ]
     },
