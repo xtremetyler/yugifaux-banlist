@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:44:31.368Z",
+  "updatedAt": "2026-09-09T15:44:38.404Z",
   "cards": [
     {
       "id": 384,
@@ -2496,11 +2496,13 @@
       "pendulumEffect": "During your Battle Phase (Quick Effect): You can Tribute this card to target 1 face-up Monster you control in Defense Position; for the rest of this turn after this effect resolves, it can attack while in Defense Position (If it does, apply its ATK for damage calculation as normal). You can only control 1 \"Great Alpha Tyrant of Shaitand\".",
       "text": "1 Level 5 or higher EARTH Monster + 1 Pendulum Monster card\nThis card can attack while in Defense Position. (If it does, apply its ATK for damage calculation as normal). While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 300 damage to your opponent. When your opponent Special Summons a Monster(s) from the Extra Deck with less DEF than this card (Quick Effect): Negate that Summon, and if you do, destroy that Monster(s). You can only activate this effect of \"Great Alpha Tyrant of Shaitand\" once per turn.",
       "clauses": 7,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948446,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948446.jpg",
       "addedAt": "2026-08-10 01:37:00",
-      "changedAt": "2026-08-24 03:28:44"
+      "changedAt": "2026-09-09 15:44:37"
     },
     {
       "id": 268,
@@ -12731,6 +12733,29 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948451.jpg",
           "addedAt": "2026-08-10 01:34:34",
           "changedAt": "2026-09-09 15:44:13"
+        },
+        {
+          "id": 122,
+          "name": "Great Alpha Tyrant of Shaitand",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Pendulum Fusion Monster",
+          "monsterType": "Rock",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 9",
+          "atk": "2700",
+          "def": "2800",
+          "pendulumScale": "9",
+          "pendulumEffect": "During your Battle Phase (Quick Effect): You can Tribute this card to target 1 face-up Monster you control in Defense Position; for the rest of this turn after this effect resolves, it can attack while in Defense Position (If it does, apply its ATK for damage calculation as normal). You can only control 1 \"Great Alpha Tyrant of Shaitand\".",
+          "text": "1 Level 5 or higher EARTH Monster + 1 Pendulum Monster card\nThis card can attack while in Defense Position. (If it does, apply its ATK for damage calculation as normal). While you control this face-up card, the effects of cards you control that begin with \"During the End Phase\" or \"During your End Phase\" activate during each player's End Phase instead. Each time a player activates a card effect during the End Phase, except a \"Tyrant of Shaitand\" Monster: Inflict 300 damage to your opponent. When your opponent Special Summons a Monster(s) from the Extra Deck with less DEF than this card (Quick Effect): Negate that Summon, and if you do, destroy that Monster(s). You can only activate this effect of \"Great Alpha Tyrant of Shaitand\" once per turn.",
+          "clauses": 7,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948446,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948446.jpg",
+          "addedAt": "2026-08-10 01:37:00",
+          "changedAt": "2026-09-09 15:44:37"
         },
         {
           "id": 117,
