@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:43:56.871Z",
+  "updatedAt": "2026-09-09T15:44:05.543Z",
   "cards": [
     {
       "id": 384,
@@ -8157,11 +8157,13 @@
       "def": "0",
       "text": "You can activate 1 of the following effects.\n●Fusion Summon 1 EARTH Monster from your Extra Deck, using cards from your hand and field as Fusion Material. \n●If you control a Field Spell: Banish up to 2 face-up cards until the End Phase. \nDuring your End Phase: You can banish this card from your GY; add 1 EARTH Monster from your GY to your hand. You can only use 1 \"Whirling Detritus\" effect per turn, and only once that turn.",
       "clauses": 3,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948457,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948457.jpg",
       "addedAt": "2026-08-10 01:33:55",
-      "changedAt": "2026-08-24 20:59:37"
+      "changedAt": "2026-09-09 15:44:04"
     },
     {
       "id": 386,
@@ -12723,6 +12725,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948458.jpg",
           "addedAt": "2026-08-10 01:09:28",
           "changedAt": "2026-09-09 15:43:56"
+        },
+        {
+          "id": 118,
+          "name": "Whirling Detritus",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "You can activate 1 of the following effects.\n●Fusion Summon 1 EARTH Monster from your Extra Deck, using cards from your hand and field as Fusion Material. \n●If you control a Field Spell: Banish up to 2 face-up cards until the End Phase. \nDuring your End Phase: You can banish this card from your GY; add 1 EARTH Monster from your GY to your hand. You can only use 1 \"Whirling Detritus\" effect per turn, and only once that turn.",
+          "clauses": 3,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948457,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948457.jpg",
+          "addedAt": "2026-08-10 01:33:55",
+          "changedAt": "2026-09-09 15:44:04"
         }
       ]
     },
