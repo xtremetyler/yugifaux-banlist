@@ -19,11 +19,14 @@ function renderArchive() {
     const entries=archiveState.archetypes.filter(entry=>entry.destination===destination && (!query || `${entry.name} ${entry.creator}`.toLowerCase().includes(query)));
     archiveElements.counts[destination].textContent=String(entries.length);
     archiveElements.grids[destination].innerHTML=entries.length?entries.map(entry=>`
-      <button class="archive-entry" style="--archive-color:${destination==="ephtear"?"#ef5a45":destination==="duelhalla"?"#e2b84a":"#9a64e8"}" type="button" data-archetype-id="${entry.id}">
-        <span class="archive-entry__tags"><span class="archive-tag">${escapeHtml(archiveLabels[destination])}</span>${entry.cardListComplete?"":'<span class="archive-tag archive-tag--incomplete">Card list incomplete</span>'}</span>
-        <h3>${escapeHtml(entry.name)}</h3>
-        <p>Created by ${escapeHtml(entry.creator)}</p>
-        <p>${dateLabel(entry.retiredAt)} · ${entry.cards.length} linked card${entry.cards.length===1?"":"s"}</p>
+      <button class="archive-entry${entry.featuredImageUrl?" archive-entry--featured":""}" style="--archive-color:${destination==="ephtear"?"#ef5a45":destination==="duelhalla"?"#e2b84a":"#9a64e8"}" type="button" data-archetype-id="${entry.id}">
+        <span class="archive-entry__details">
+          <span class="archive-entry__tags"><span class="archive-tag">${escapeHtml(archiveLabels[destination])}</span>${entry.cardListComplete?"":'<span class="archive-tag archive-tag--incomplete">Card list incomplete</span>'}</span>
+          <h3>${escapeHtml(entry.name)}</h3>
+          <p>Created by ${escapeHtml(entry.creator)}</p>
+          <p>${dateLabel(entry.retiredAt)} · ${entry.cards.length} linked card${entry.cards.length===1?"":"s"}</p>
+        </span>
+        ${entry.featuredImageUrl?`<span class="archive-entry__art"><img src="${escapeHtml(entry.featuredImageUrl)}" alt="Featured artwork from ${escapeHtml(entry.featuredCardName||entry.name)}" loading="lazy" /></span>`:""}
       </button>`).join(""):'<p class="archive-empty">No matching archetypes in this section.</p>';
   }
 }
