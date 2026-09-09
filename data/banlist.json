@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:36:55.307Z",
+  "updatedAt": "2026-09-09T15:37:04.866Z",
   "cards": [
     {
       "id": 384,
@@ -132,11 +132,13 @@
       "def": "2700",
       "text": "3 Monsters with the same type, but with different names\nYou can also Fusion Summon this unrevealed card (from your Extra Deck) by shuffling 2 Continuous Spells with different names from your hand or GY into the Deck while you control \"A-Re:L Assault - Blitzing Blue\", and if you do, equip it to this card. Once per Chain (Quick Effect): You can send 1 Continuous Spell from your field to the GY to target 1 face-up Monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. If this card is revealed from your Extra Deck: You can target 1 face-up Spell on the field; its effects are negated until the end of the next turn. You can only activate 3 \"A-Re:L BGR Blitzing Battery\" effects per turn.",
       "clauses": 3,
+      "archetype": "A-Re:L",
+      "archetypeId": 5,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5972265,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972265.jpg",
       "addedAt": "2026-09-07 04:05:57",
-      "changedAt": "2026-09-07 04:05:57"
+      "changedAt": "2026-09-09 15:37:04"
     },
     {
       "id": 396,
@@ -12198,6 +12200,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972251.jpg",
           "addedAt": "2026-09-07 04:00:19",
           "changedAt": "2026-09-09 15:35:04"
+        },
+        {
+          "id": 401,
+          "name": "A-Re:L BGR Blitzing Battery",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Machine",
+          "attribute": "WIND",
+          "levelRankLink": "Level 9",
+          "atk": "2900",
+          "def": "2700",
+          "text": "3 Monsters with the same type, but with different names\nYou can also Fusion Summon this unrevealed card (from your Extra Deck) by shuffling 2 Continuous Spells with different names from your hand or GY into the Deck while you control \"A-Re:L Assault - Blitzing Blue\", and if you do, equip it to this card. Once per Chain (Quick Effect): You can send 1 Continuous Spell from your field to the GY to target 1 face-up Monster on the field or in either GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell. If this card is revealed from your Extra Deck: You can target 1 face-up Spell on the field; its effects are negated until the end of the next turn. You can only activate 3 \"A-Re:L BGR Blitzing Battery\" effects per turn.",
+          "clauses": 3,
+          "archetype": "A-Re:L",
+          "archetypeId": 5,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5972265,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972265.jpg",
+          "addedAt": "2026-09-07 04:05:57",
+          "changedAt": "2026-09-09 15:37:04"
         },
         {
           "id": 396,
