@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:29:50.475Z",
+  "updatedAt": "2026-09-09T15:29:59.679Z",
   "cards": [
     {
       "id": 384,
@@ -4269,6 +4269,8 @@
       "def": "0",
       "text": "During your Main Phase: You can reveal this card from your hand to declare 1 card name, except \"Mer-Mer Merging!?\"; banish 1 card with the declared name from your Extra Deck, then Set this card. You can only activate this effect of \"Mer-Mer Merging!?\" once per turn. Special Summon a Rank 1 Xyz Monster from your Extra Deck or banishment by using any number of other \"Mer-Mer\" cards with different names from one another (min. 1 & max. 5) from your banishment as Material (This counts as an Xyz Summon). During your Standby Phase: You can banish this card and another card from your GY; each player draws 2 cards. You can only use this effect of \"Mer-Mer Merging!?\" once per turn.",
       "clauses": 4,
+      "archetype": "Mer-Mer",
+      "archetypeId": 4,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5960252,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960252.jpg",
@@ -12167,6 +12169,26 @@
       "historySource": "historical",
       "cardListComplete": false,
       "cards": [
+        {
+          "id": 435,
+          "name": "Mer-Mer Merging!?",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During your Main Phase: You can reveal this card from your hand to declare 1 card name, except \"Mer-Mer Merging!?\"; banish 1 card with the declared name from your Extra Deck, then Set this card. You can only activate this effect of \"Mer-Mer Merging!?\" once per turn. Special Summon a Rank 1 Xyz Monster from your Extra Deck or banishment by using any number of other \"Mer-Mer\" cards with different names from one another (min. 1 & max. 5) from your banishment as Material (This counts as an Xyz Summon). During your Standby Phase: You can banish this card and another card from your GY; each player draws 2 cards. You can only use this effect of \"Mer-Mer Merging!?\" once per turn.",
+          "clauses": 4,
+          "archetype": "Mer-Mer",
+          "archetypeId": 4,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5960252,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5960252.jpg",
+          "addedAt": "2026-09-09 15:02:22",
+          "changedAt": "2026-09-09 15:02:22"
+        },
         {
           "id": 434,
           "name": "Mer-Mer Merrymaking",
