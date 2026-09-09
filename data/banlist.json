@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:13:58.612Z",
+  "updatedAt": "2026-09-09T16:14:03.989Z",
   "cards": [
     {
       "id": 384,
@@ -3475,11 +3475,13 @@
       "def": "2000",
       "text": "You can Ritual Summon this card with any \"Inkarnate\" Ritual Spell. This card can attack up to 3 Defense Position Monsters your opponent controls, once each. If this card is Ritual Summoned: You can activate 1 of the following effects.\n● You can target as many Attack Position Monsters your opponent controls as possible; change them to face-down Defense Position, also this card cannot attack directly this turn.\n● Special Summon 1 Level 4 \"Inkarnate\" Monster from your GY.\nDuring the Battle Phase, your opponent cannot activate cards or effects. You can only use each effect of \"Inkarnate Byakko\" once per turn.",
       "clauses": 3,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961262,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961262.jpg",
       "addedAt": "2026-08-10 03:10:08",
-      "changedAt": "2026-08-24 03:31:37"
+      "changedAt": "2026-09-09 16:14:03"
     },
     {
       "id": 137,
@@ -12469,6 +12471,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961288.jpg",
           "addedAt": "2026-08-10 03:07:33",
           "changedAt": "2026-09-09 16:13:39"
+        },
+        {
+          "id": 140,
+          "name": "Inkarnate Byakko",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Ritual Monster",
+          "monsterType": "Beast",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 8",
+          "atk": "2700",
+          "def": "2000",
+          "text": "You can Ritual Summon this card with any \"Inkarnate\" Ritual Spell. This card can attack up to 3 Defense Position Monsters your opponent controls, once each. If this card is Ritual Summoned: You can activate 1 of the following effects.\n● You can target as many Attack Position Monsters your opponent controls as possible; change them to face-down Defense Position, also this card cannot attack directly this turn.\n● Special Summon 1 Level 4 \"Inkarnate\" Monster from your GY.\nDuring the Battle Phase, your opponent cannot activate cards or effects. You can only use each effect of \"Inkarnate Byakko\" once per turn.",
+          "clauses": 3,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961262,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961262.jpg",
+          "addedAt": "2026-08-10 03:10:08",
+          "changedAt": "2026-09-09 16:14:03"
         },
         {
           "id": 137,
