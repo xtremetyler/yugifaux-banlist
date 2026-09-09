@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:22:07.984Z",
+  "updatedAt": "2026-09-09T14:23:28.011Z",
   "cards": [
     {
       "id": 384,
@@ -11838,13 +11838,39 @@
       "cards": []
     },
     {
+      "id": 4,
+      "name": "Mer-Mer",
+      "creator": "Left Parm of the Forbitten One",
+      "creatorId": "484079309955399691",
+      "destination": "limb-faux",
+      "retiredAt": "2026-07-01 00:00:00",
+      "finalAddedClauses": 14,
+      "notes": "Second designed; retired at +14 clauses.",
+      "historySource": "historical",
+      "cardListComplete": false,
+      "cards": []
+    },
+    {
+      "id": 3,
+      "name": "Shaitand",
+      "creator": "Left Parm of the Forbitten One",
+      "creatorId": "484079309955399691",
+      "destination": "duelhalla",
+      "retiredAt": "2026-07-01 00:00:00",
+      "finalAddedClauses": 10,
+      "notes": "First designed; retired honorably at +10 clauses.",
+      "historySource": "historical",
+      "cardListComplete": false,
+      "cards": []
+    },
+    {
       "id": 6,
       "name": "Crush Clown",
       "creator": "Edward Swissorhands",
       "creatorId": "487278554355073026",
       "destination": "ephtear",
-      "retiredAt": "2026-07-01 00:00:00",
-      "finalAddedClauses": 0,
+      "retiredAt": "2026-07-01",
+      "finalAddedClauses": 57,
       "notes": "Historical Ephtear archetype; clause total unavailable.",
       "historySource": "historical",
       "cardListComplete": false,
@@ -12097,32 +12123,6 @@
           "changedAt": "2026-09-09 14:21:36"
         }
       ]
-    },
-    {
-      "id": 4,
-      "name": "Mer-Mer",
-      "creator": "Left Parm of the Forbitten One",
-      "creatorId": "484079309955399691",
-      "destination": "limb-faux",
-      "retiredAt": "2026-07-01 00:00:00",
-      "finalAddedClauses": 14,
-      "notes": "Second designed; retired at +14 clauses.",
-      "historySource": "historical",
-      "cardListComplete": false,
-      "cards": []
-    },
-    {
-      "id": 3,
-      "name": "Shaitand",
-      "creator": "Left Parm of the Forbitten One",
-      "creatorId": "484079309955399691",
-      "destination": "duelhalla",
-      "retiredAt": "2026-07-01 00:00:00",
-      "finalAddedClauses": 10,
-      "notes": "First designed; retired honorably at +10 clauses.",
-      "historySource": "historical",
-      "cardListComplete": false,
-      "cards": []
     }
   ]
 }
