@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:30:42.037Z",
+  "updatedAt": "2026-09-09T15:34:43.964Z",
   "cards": [
     {
       "id": 384,
@@ -71,11 +71,13 @@
       "def": "0",
       "text": "Face-up Level 9 or higher Monsters you control gain ATK/DEF equal to 100 x their Level. During your turn, while this card is in your GY (Quick Effect): You can choose 1 unrevealed Fusion Monster from your Extra Deck to become revealed until the start of your next turn; activate this card, then, if you revealed \"A-Re:L BGR Blitzing Battery\" this way, you can send 1 Continuous Spell from your field or Deck to the GY. If this card is sent from the field to the GY: You can target 1 \"A-Re:L\" Fusion Monster you control; double its ATK for the rest of this turn, but destroy it during the End Phase. You can only activate each effect of \"A-Re:L Assault - Blitzing Blue\" once per turn.",
       "clauses": 3,
+      "archetype": "A-Re:L",
+      "archetypeId": 5,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5972253,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972253.jpg",
       "addedAt": "2026-09-07 03:59:02",
-      "changedAt": "2026-09-07 03:59:02"
+      "changedAt": "2026-09-09 15:34:43"
     },
     {
       "id": 393,
@@ -12120,7 +12122,28 @@
       "notes": "Third designed; forcibly retired to Limb-Faux at +6 clauses and incurred Double Garnet Tax.",
       "historySource": "historical",
       "cardListComplete": false,
-      "cards": []
+      "cards": [
+        {
+          "id": 392,
+          "name": "A-Re:L Assault - Blitzing Blue",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Face-up Level 9 or higher Monsters you control gain ATK/DEF equal to 100 x their Level. During your turn, while this card is in your GY (Quick Effect): You can choose 1 unrevealed Fusion Monster from your Extra Deck to become revealed until the start of your next turn; activate this card, then, if you revealed \"A-Re:L BGR Blitzing Battery\" this way, you can send 1 Continuous Spell from your field or Deck to the GY. If this card is sent from the field to the GY: You can target 1 \"A-Re:L\" Fusion Monster you control; double its ATK for the rest of this turn, but destroy it during the End Phase. You can only activate each effect of \"A-Re:L Assault - Blitzing Blue\" once per turn.",
+          "clauses": 3,
+          "archetype": "A-Re:L",
+          "archetypeId": 5,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5972253,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972253.jpg",
+          "addedAt": "2026-09-07 03:59:02",
+          "changedAt": "2026-09-09 15:34:43"
+        }
+      ]
     },
     {
       "id": 9,
