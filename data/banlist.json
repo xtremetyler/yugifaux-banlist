@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:44:14.419Z",
+  "updatedAt": "2026-09-09T15:44:24.012Z",
   "cards": [
     {
       "id": 384,
@@ -6140,11 +6140,13 @@
       "def": "0",
       "text": "This face-up card you control cannot be targeted by your opponent's card effects. EARTH Monsters you control gain 200 DEF. During your End Phase: You can take 1 Level 5 or higher EARTH Monster from your Deck or face-up Extra Deck and either add it to your hand or, if it is a Pendulum Monster, place it face-up in 1 of your empty Pendulum Zones. During your End Phase: You can banish this card from your GY; activate 1 \"Shaitand, the Prowling Gale\" from your hand or Deck.",
       "clauses": 5,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948449,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948449.jpg",
       "addedAt": "2026-08-10 01:35:22",
-      "changedAt": "2026-08-24 03:53:34"
+      "changedAt": "2026-09-09 15:44:23"
     },
     {
       "id": 377,
@@ -12747,6 +12749,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948458.jpg",
           "addedAt": "2026-08-10 01:09:28",
           "changedAt": "2026-09-09 15:43:56"
+        },
+        {
+          "id": 120,
+          "name": "Shaitand, the Prowling Gale",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "This face-up card you control cannot be targeted by your opponent's card effects. EARTH Monsters you control gain 200 DEF. During your End Phase: You can take 1 Level 5 or higher EARTH Monster from your Deck or face-up Extra Deck and either add it to your hand or, if it is a Pendulum Monster, place it face-up in 1 of your empty Pendulum Zones. During your End Phase: You can banish this card from your GY; activate 1 \"Shaitand, the Prowling Gale\" from your hand or Deck.",
+          "clauses": 5,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948449,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948449.jpg",
+          "addedAt": "2026-08-10 01:35:22",
+          "changedAt": "2026-09-09 15:44:23"
         },
         {
           "id": 118,
