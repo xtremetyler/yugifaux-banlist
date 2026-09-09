@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T14:56:53.096Z",
+  "updatedAt": "2026-09-09T14:56:56.844Z",
   "cards": [
     {
       "id": 384,
@@ -7833,6 +7833,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029729.jpg",
       "addedAt": "2026-09-04 16:46:47",
       "changedAt": "2026-09-05 06:22:19"
+    },
+    {
+      "id": 430,
+      "name": "Vita-Chamber",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "During your Main Phase: You can Fusion Summon 1 Aqua Fusion Monster from your Extra Deck by using monsters from your hand as Material. You can also use this card you control as Fusion Material for this Summon by treating it as a Monster Card with the same name as a material whose name is mentioned on that Fusion Monster.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6037657,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6037657.jpg",
+      "addedAt": "2026-09-09 14:56:55",
+      "changedAt": "2026-09-09 14:56:55"
     },
     {
       "id": 284,
