@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:13:40.011Z",
+  "updatedAt": "2026-09-09T16:13:46.289Z",
   "cards": [
     {
       "id": 384,
@@ -3494,11 +3494,13 @@
       "def": "1600",
       "text": "If this card is Normal Summoned or Tributed: You can add 1 \"Inkarnate\" Spell/Trap from your Deck to the hand. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Tsuruhime\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Dancer - Tsuruhime Seal\" once per turn.",
       "clauses": 4,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961286,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961286.jpg",
       "addedAt": "2026-08-10 03:07:54",
-      "changedAt": "2026-08-24 03:32:11"
+      "changedAt": "2026-09-09 16:13:45"
     },
     {
       "id": 145,
@@ -12463,6 +12465,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961288.jpg",
           "addedAt": "2026-08-10 03:07:33",
           "changedAt": "2026-09-09 16:13:39"
+        },
+        {
+          "id": 137,
+          "name": "Inkarnate Dancer - Tsuruhime Seal",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "WIND",
+          "levelRankLink": "Level 4",
+          "atk": "1400",
+          "def": "1600",
+          "text": "If this card is Normal Summoned or Tributed: You can add 1 \"Inkarnate\" Spell/Trap from your Deck to the hand. During the Main Phase (Quick Effect): You can send this face-up card to the GY; activate 1 Ritual Spell from your hand. If you Ritual Summon \"Inkarnate Tsuruhime\", this card can be treated as the entire Tribute. You can only use each effect of \"Inkarnate Dancer - Tsuruhime Seal\" once per turn.",
+          "clauses": 4,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961286,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961286.jpg",
+          "addedAt": "2026-08-10 03:07:54",
+          "changedAt": "2026-09-09 16:13:45"
         },
         {
           "id": 135,
