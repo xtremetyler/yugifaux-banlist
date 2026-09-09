@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T03:17:25.470Z",
+  "updatedAt": "2026-09-09T03:19:45.215Z",
   "cards": [
     {
       "id": 384,
@@ -11812,7 +11812,7 @@
       "name": "Mer-Mer",
       "creator": "Left Parm of the Forbitten One",
       "creatorId": "484079309955399691",
-      "destination": "ephtear",
+      "destination": "limb-faux",
       "retiredAt": "2026-07-01 00:00:00",
       "finalAddedClauses": 14,
       "notes": "Second designed; retired at +14 clauses.",
