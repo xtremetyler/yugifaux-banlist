@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T16:14:10.724Z",
+  "updatedAt": "2026-09-09T16:14:16.894Z",
   "cards": [
     {
       "id": 384,
@@ -3637,11 +3637,13 @@
       ],
       "text": "2 Level 4 Monsters\nThis card can be treated as the entire Tribute for a Ritual Summon. Once per turn, if a Ritual Monster is Special Summoned to a zone this card points to: Draw 1 card. If this card is sent to the GY: You can banish it; add both 1 Ritual Spell and 1 Ritual Monster whose name is mentioned on that Ritual Spell from your Deck or GY to your hand.",
       "clauses": 4,
+      "archetype": "Inkarnate",
+      "archetypeId": 8,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5961250,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961250.jpg",
       "addedAt": "2026-08-10 03:10:54",
-      "changedAt": "2026-08-24 03:37:34"
+      "changedAt": "2026-09-09 16:14:16"
     },
     {
       "id": 143,
@@ -12578,6 +12580,30 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961256.jpg",
           "addedAt": "2026-08-10 03:09:32",
           "changedAt": "2026-09-09 16:13:57"
+        },
+        {
+          "id": 142,
+          "name": "Inkarnate Sage - Kitsune Seal",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Warrior",
+          "attribute": "LIGHT",
+          "levelRankLink": "Link 2",
+          "atk": "1800",
+          "linkMarkers": [
+            "Bottom-Right",
+            "Bottom-Left"
+          ],
+          "text": "2 Level 4 Monsters\nThis card can be treated as the entire Tribute for a Ritual Summon. Once per turn, if a Ritual Monster is Special Summoned to a zone this card points to: Draw 1 card. If this card is sent to the GY: You can banish it; add both 1 Ritual Spell and 1 Ritual Monster whose name is mentioned on that Ritual Spell from your Deck or GY to your hand.",
+          "clauses": 4,
+          "archetype": "Inkarnate",
+          "archetypeId": 8,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5961250,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961250.jpg",
+          "addedAt": "2026-08-10 03:10:54",
+          "changedAt": "2026-09-09 16:14:16"
         },
         {
           "id": 141,
