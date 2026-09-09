@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-09T15:45:24.858Z",
+  "updatedAt": "2026-09-09T15:45:32.746Z",
   "cards": [
     {
       "id": 384,
@@ -659,11 +659,13 @@
       "pendulumEffect": "(Quick Effect): Return this card to the hand; banish 1 card you control until the End Phase. You can only use this effect of \"Badlands Stalker of Shaitand\" once per turn.",
       "text": "If you control no Monsters, except EARTH Monsters, you can Normal Summon this card (from your hand) without Tributing. Once per turn, during the Main Phase (Quick Effect): You can Tribute this card to banish 1 \"Shaitand\" Monster from your Deck or GY, except \"Badlands Stalker of Shaitand\", and if you do, Special Summon that Monster from your banishment during the End Phase. You can only use this effect of \"Badlands Stalker of Shaitand\" once per turn.",
       "clauses": 4,
+      "archetype": "Shaitand",
+      "archetypeId": 3,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5948434,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948434.jpg",
       "addedAt": "2026-08-10 01:40:42",
-      "changedAt": "2026-08-10 01:40:42"
+      "changedAt": "2026-09-09 15:45:32"
     },
     {
       "id": 292,
@@ -12724,6 +12726,29 @@
       "historySource": "historical",
       "cardListComplete": false,
       "cards": [
+        {
+          "id": 128,
+          "name": "Badlands Stalker of Shaitand",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Pendulum Effect Monster",
+          "monsterType": "Rock",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 5",
+          "atk": "2100",
+          "def": "2000",
+          "pendulumScale": "8",
+          "pendulumEffect": "(Quick Effect): Return this card to the hand; banish 1 card you control until the End Phase. You can only use this effect of \"Badlands Stalker of Shaitand\" once per turn.",
+          "text": "If you control no Monsters, except EARTH Monsters, you can Normal Summon this card (from your hand) without Tributing. Once per turn, during the Main Phase (Quick Effect): You can Tribute this card to banish 1 \"Shaitand\" Monster from your Deck or GY, except \"Badlands Stalker of Shaitand\", and if you do, Special Summon that Monster from your banishment during the End Phase. You can only use this effect of \"Badlands Stalker of Shaitand\" once per turn.",
+          "clauses": 4,
+          "archetype": "Shaitand",
+          "archetypeId": 3,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5948434,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948434.jpg",
+          "addedAt": "2026-08-10 01:40:42",
+          "changedAt": "2026-09-09 15:45:32"
+        },
         {
           "id": 119,
           "name": "Calling the Gale",
