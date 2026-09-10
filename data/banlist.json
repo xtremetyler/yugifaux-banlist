@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:22:10.816Z",
+  "updatedAt": "2026-09-10T00:45:05.871Z",
   "cards": [
     {
       "id": 384,
@@ -7765,6 +7765,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004327.jpg",
       "addedAt": "2026-08-20 13:44:15",
       "changedAt": "2026-08-20 13:44:15"
+    },
+    {
+      "id": 500,
+      "name": "Staff of Deceit",
+      "status": "limeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Equip",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "If your opponent adds a card(s) from the Deck to their hand while you control a face-up Monster, except during the Draw Phase (Quick Effect): You can activate this card from your hand by targeting 1 face-up monster you control; equip this card to it. The equipped monster gains 500 ATK. For the rest of this turn after this card becomes equipped, your opponent cannot add cards from the Deck to their hand. You can only activate 1 \"Staff of Deceit\" per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948298,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948298.jpg",
+      "addedAt": "2026-09-10 00:45:03",
+      "changedAt": "2026-09-10 00:45:03"
     },
     {
       "id": 102,
