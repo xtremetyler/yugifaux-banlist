@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:46:16.439Z",
+  "updatedAt": "2026-09-10T00:46:48.810Z",
   "cards": [
     {
       "id": 384,
@@ -3183,6 +3183,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038103.jpg",
       "addedAt": "2026-09-09 19:29:07",
       "changedAt": "2026-09-09 19:29:07"
+    },
+    {
+      "id": 502,
+      "name": "Hama Vailo, Righteous Virtue",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "XYZ Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "LIGHT",
+      "levelRankLink": "Rank 4",
+      "atk": "1550",
+      "def": "1400",
+      "text": "2 Level 4 LIGHT or Spellcaster Monsters\nYou can also Xyz Summon this card by using 1 \"Vailo\" Monster you control as material (Transfer its materials to this card.). During your Standby Phase: You can Tribute 1 card equipped to this card; add up to 1 Equip Spell from your banishment to your hand. While this card has a card(s) equipped to it: It gains 500 ATK/DEF for each card equipped to it and any battle damage it inflicts to your opponent is doubled. During the turn this card is Xyz Summoned (Quick Effect): You can target any number of Equip Spells in either player's GY and/or banishment; for each target, either attach it to this card as material or equip it to this card. (Quick Effect): You can detach 1 material from this card; equip 1 Equip Spell from your Deck to this card. When this card equipped with 3+ cards becomes the target of your opponent's card effect (Quick Effect): You can negate that effect, and if you do, destroy that card. You can only use each effect of \"Hama Vailo, Righteous Virtue\" once per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948272,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948272.jpg",
+      "addedAt": "2026-09-10 00:46:46",
+      "changedAt": "2026-09-10 00:46:46"
     },
     {
       "id": 214,
