@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:48:47.319Z",
+  "updatedAt": "2026-09-10T00:49:16.444Z",
   "cards": [
     {
       "id": 384,
@@ -9746,6 +9746,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002868.jpg",
       "addedAt": "2026-08-19 15:23:58",
       "changedAt": "2026-08-22 10:25:17"
+    },
+    {
+      "id": 506,
+      "name": "Yuno Vailo, Seeker of the Elements",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "1550",
+      "def": "1400",
+      "text": "During the Main Phase, while you have exactly 1 Equip Spell in your GY (Quick Effect): You can Special Summon this card (from your hand), and if you do, you can activate 1 Equip Spell from your Deck. During your Main Phase: You can target 1 face-up Equip Spell on the field; destroy it, and if you do, inflict 500 damage to your opponent.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948257,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948257.jpg",
+      "addedAt": "2026-09-10 00:49:12",
+      "changedAt": "2026-09-10 00:49:12"
     },
     {
       "id": 159,
