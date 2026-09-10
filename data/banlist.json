@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:45:05.871Z",
+  "updatedAt": "2026-09-10T00:46:16.439Z",
   "cards": [
     {
       "id": 384,
@@ -874,6 +874,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012048.jpg",
       "addedAt": "2026-08-24 19:34:43",
       "changedAt": "2026-08-24 19:34:43"
+    },
+    {
+      "id": 501,
+      "name": "Bati Vailo Flagbearer",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 4",
+      "atk": "1200",
+      "def": "2000",
+      "text": "You can Special Summon this card (from your hand) by discarding 1 Equip Spell. If this card is Normal or Special Summoned: You can add 1 “Kurushēta” card from your Deck to your hand. If this card is sent to the GY: You can add 1 Level 4 Monster that mentions an Equip Spell from your Deck to your hand.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948263,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948263.jpg",
+      "addedAt": "2026-09-10 00:46:14",
+      "changedAt": "2026-09-10 00:46:14"
     },
     {
       "id": 40,
