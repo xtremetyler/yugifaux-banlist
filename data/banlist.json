@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:18:32.462Z",
+  "updatedAt": "2026-09-10T00:20:41.209Z",
   "cards": [
     {
       "id": 384,
@@ -985,8 +985,8 @@
       "archetype": "VeloCity",
       "archetypeId": 28,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6018742,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018742.jpg",
+      "duelingbookId": 6038459,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038459.jpg",
       "addedAt": "2026-09-10 00:18:16",
       "changedAt": "2026-09-10 00:18:16"
     },
@@ -2895,8 +2895,8 @@
       "archetype": "VeloCity",
       "archetypeId": 28,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6018733,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018733.jpg",
+      "duelingbookId": 6038456,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038456.jpg",
       "addedAt": "2026-09-10 00:18:16",
       "changedAt": "2026-09-10 00:18:16"
     },
@@ -6152,8 +6152,8 @@
       "archetype": "VeloCity",
       "archetypeId": 28,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6018746,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018746.jpg",
+      "duelingbookId": 6038462,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038462.jpg",
       "addedAt": "2026-09-10 00:18:16",
       "changedAt": "2026-09-10 00:18:16"
     },
@@ -6453,8 +6453,8 @@
       "archetype": "VeloCity",
       "archetypeId": 28,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6018739,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018739.jpg",
+      "duelingbookId": 6038457,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038457.jpg",
       "addedAt": "2026-09-10 00:18:16",
       "changedAt": "2026-09-10 00:18:16"
     },
@@ -9553,8 +9553,8 @@
       "archetype": "VeloCity",
       "archetypeId": 28,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6018743,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018743.jpg",
+      "duelingbookId": 6038461,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038461.jpg",
       "addedAt": "2026-09-10 00:18:16",
       "changedAt": "2026-09-10 00:18:16"
     },
@@ -9668,7 +9668,7 @@
       "finalAddedClauses": 6,
       "notes": "",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "cards": [
         {
           "id": 499,
@@ -9694,10 +9694,10 @@
       "finalAddedClauses": 0,
       "notes": "VeloCity is a Sonic Adventure 2–inspired Synchro-spam archetype built around explosive Special Summons, flexible Levels, and climbing through a team of high-speed Synchro Monsters. Golden Rings protect and fuel your monsters, while the seven Chaos Emeralds are collected face-down in banishment to unlock the deck’s ultimate Xyz boss: Super Sonic.",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 476,
       "featuredCardName": "Blue Chaos Emerald",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018742.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038459.jpg",
       "cards": [
         {
           "id": 476,
@@ -9715,8 +9715,8 @@
           "archetype": "VeloCity",
           "archetypeId": 28,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6018742,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018742.jpg",
+          "duelingbookId": 6038459,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038459.jpg",
           "addedAt": "2026-09-10 00:18:16",
           "changedAt": "2026-09-10 00:18:16"
         },
@@ -9757,8 +9757,8 @@
           "archetype": "VeloCity",
           "archetypeId": 28,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6018733,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018733.jpg",
+          "duelingbookId": 6038456,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038456.jpg",
           "addedAt": "2026-09-10 00:18:16",
           "changedAt": "2026-09-10 00:18:16"
         },
@@ -9778,8 +9778,8 @@
           "archetype": "VeloCity",
           "archetypeId": 28,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6018746,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018746.jpg",
+          "duelingbookId": 6038462,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038462.jpg",
           "addedAt": "2026-09-10 00:18:16",
           "changedAt": "2026-09-10 00:18:16"
         },
@@ -9799,8 +9799,8 @@
           "archetype": "VeloCity",
           "archetypeId": 28,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6018739,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018739.jpg",
+          "duelingbookId": 6038457,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038457.jpg",
           "addedAt": "2026-09-10 00:18:16",
           "changedAt": "2026-09-10 00:18:16"
         },
@@ -10209,8 +10209,8 @@
           "archetype": "VeloCity",
           "archetypeId": 28,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6018743,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018743.jpg",
+          "duelingbookId": 6038461,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038461.jpg",
           "addedAt": "2026-09-10 00:18:16",
           "changedAt": "2026-09-10 00:18:16"
         }
