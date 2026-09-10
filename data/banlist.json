@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T01:01:44.128Z",
+  "updatedAt": "2026-09-10T01:06:40.909Z",
   "cards": [
     {
       "id": 384,
@@ -9844,32 +9844,6 @@
     }
   ],
   "archetypes": [
-    {
-      "id": 26,
-      "name": "Pandora",
-      "creator": "The Original Rough Cheddar",
-      "creatorId": "239180417876361217",
-      "destination": "duelhalla",
-      "retiredAt": "2026-09-10 00:18:18",
-      "finalAddedClauses": 6,
-      "notes": "",
-      "historySource": "bot",
-      "cardListComplete": true,
-      "cards": [
-        {
-          "id": 499,
-          "name": "Pandoran Tyrant – Handsome Jack",
-          "status": "voting",
-          "source": "custom",
-          "text": "Level 5 | LIGHT | Warrior / Synchro / Effect\nATK 1900 / DEF 2000\n1 Tuner + 1+ non-Tuner “Pandoran” monsters\n\nIf this card is Synchro Summoned: You can place 1 each of “Loot – Common”, “Loot – Rare”, “Loot – Epic”, and “Loot – Legendary” from your Deck on top of your Deck in any order, then excavate the top 4 cards of your Deck, and if you do, equip any number of excavated Equip Spells to this card, also shuffle the rest into the Deck. If this Synchro Summoned card leaves the field because of an opponent’s card: You can Special Summon 1 “Pandoran” Xyz Monster from your Extra Deck.",
-          "archetype": "Pandora",
-          "archetypeId": 26,
-          "contributor": "The Original Rough Cheddar",
-          "addedAt": "2026-09-10 00:18:18",
-          "changedAt": "2026-09-10 00:18:18"
-        }
-      ]
-    },
     {
       "id": 28,
       "name": "VeloCity",
