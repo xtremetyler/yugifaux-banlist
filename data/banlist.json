@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:51:10.278Z",
+  "updatedAt": "2026-09-10T00:52:10.876Z",
   "cards": [
     {
       "id": 384,
@@ -4509,6 +4509,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948265.jpg",
       "addedAt": "2026-08-04 17:28:38",
       "changedAt": "2026-08-04 17:28:38"
+    },
+    {
+      "id": 508,
+      "name": "Kurushēta - The Immortal Battlefield",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Field",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "During your opponent's turn, while you control no card in your Field Zone (Quick Effect): You can activate this card (from your hand or banishment) by sending 1 Equip Spell or \"Vailo\" Monster from your Deck to the GY. You can only activate 1 \"Kurushēta - The Immortal Battlefield\" this way per turn. During your Standby Phase: You can add up to 1 Equip Spell or \"Vailo\" card from your banishment to your hand. Monsters you control gain 300 ATK for each card equipped to it. You can also treat any number of \"Vailo\" Monster(s) in your hand, Deck, or GY as an Equip Spell Card(s) while activating and resolving your card effects. Place 1 Spell Counter on your Equip Spells as they resolve. During your Main Phase: You can discard 2 Equip Spells; banish 1 \"Vailo\" card or 1 Equip Spell from your Deck.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948267,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948267.jpg",
+      "addedAt": "2026-09-10 00:51:41",
+      "changedAt": "2026-09-10 00:51:41"
     },
     {
       "id": 32,
@@ -9357,6 +9375,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006957.jpg",
       "addedAt": "2026-08-22 00:34:48",
       "changedAt": "2026-08-24 00:50:18"
+    },
+    {
+      "id": 509,
+      "name": "Wand of Time",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Equip",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "When this card becomes equipped: You can equip 1 Equip Spell from your Deck or GY to the equipped Monster, except \"Wand of Time\". If this card is discarded: you can Special Summon 1 \"Bati Vailo Flagbearer\" from your Deck or banishment. During the Main Phase, while this card is in your GY (Quick Effect): You can banish this card to target 1 Spell/Trap on the field; destroy it. You can only use this effect of \"Wand of Time\" once per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948276,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948276.jpg",
+      "addedAt": "2026-09-10 00:52:04",
+      "changedAt": "2026-09-10 00:52:04"
     },
     {
       "id": 473,
