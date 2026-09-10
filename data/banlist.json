@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:46:48.810Z",
+  "updatedAt": "2026-09-10T00:47:14.464Z",
   "cards": [
     {
       "id": 384,
@@ -4398,6 +4398,25 @@
       "officialUrl": "https://ygoprodeck.com/card/juraishin-the-cursed-thunder-god-14934",
       "addedAt": "2026-08-16 23:38:03",
       "changedAt": "2026-08-25 04:05:06"
+    },
+    {
+      "id": 503,
+      "name": "Kaja Vailo, Divine Scaler",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "XYZ Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Rank 4",
+      "atk": "1550",
+      "def": "1400",
+      "text": "2 Level 4 LIGHT Monsters\nWhen an equipped Monster you control battles a Defense Position Monster: It inflicts piercing damage. Once per turn: You can detach 1 material from this card to target any number of Equip Spells in your GY, up to the number of empty Spell & Trap Zones on your field; equip them to an appropriate Monster(s) you control.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948270,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948270.jpg",
+      "addedAt": "2026-09-10 00:47:12",
+      "changedAt": "2026-09-10 00:47:12"
     },
     {
       "id": 272,
