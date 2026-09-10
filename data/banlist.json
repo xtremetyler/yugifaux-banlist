@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:49:16.444Z",
+  "updatedAt": "2026-09-10T00:51:10.278Z",
   "cards": [
     {
       "id": 384,
@@ -3202,6 +3202,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948272.jpg",
       "addedAt": "2026-09-10 00:46:46",
       "changedAt": "2026-09-10 00:46:46"
+    },
+    {
+      "id": 507,
+      "name": "Hammer of Heaven",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Equip",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "You can discard this card from your hand (Quick Effect); shuffle any number of Equip Spells from your field and/or GY into the Deck, and if you do, add the same number of \"Vailo\" cards with different names from your Deck to your hand. Equip this card only to a “Vailo” or Warrior Monster you control. The equipped monster gains 500 ATK. When the equipped monster declares an attack: You can equip 1 Equip Spell from your Deck to it. Once per turn (Quick Effect): You can pay 500 LP; for the rest of this turn after this effect resolves, the equipped Monster cannot be targeted by card effects, and if you do, destroy this card.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948288,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948288.jpg",
+      "addedAt": "2026-09-10 00:50:48",
+      "changedAt": "2026-09-10 00:50:48"
     },
     {
       "id": 214,
