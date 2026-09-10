@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:47:47.936Z",
+  "updatedAt": "2026-09-10T00:48:47.319Z",
   "cards": [
     {
       "id": 384,
@@ -9630,6 +9630,25 @@
       "officialUrl": "https://ygoprodeck.com/card/xyz-territory-409",
       "addedAt": "2026-08-11 17:55:48",
       "changedAt": "2026-08-24 15:11:20"
+    },
+    {
+      "id": 505,
+      "name": "Yana Vailo, Sol Forger",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 4",
+      "atk": "1550",
+      "def": "1400",
+      "text": "During the Main Phase, while you have exactly 1 Equip Spell in your GY (Quick Effect): You can Special Summon this card (from your hand), then you can send 1 Equip Spell from your Deck to your GY. Once per turn (Quick Effect): You can shuffle any number of Equip Spells from your GY into your Deck; you can Special Summon 1 Monster from your Deck whose Level exactly equals the number of cards shuffled into the Deck this way.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948259,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948259.jpg",
+      "addedAt": "2026-09-10 00:48:45",
+      "changedAt": "2026-09-10 00:48:45"
     },
     {
       "id": 477,
