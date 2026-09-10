@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T01:06:40.909Z",
+  "updatedAt": "2026-09-10T15:23:12.988Z",
   "cards": [
     {
       "id": 384,
@@ -1206,7 +1206,7 @@
     {
       "id": 236,
       "name": "Carcosa",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -1220,7 +1220,7 @@
       "duelingbookId": 5995216,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995216.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-22 10:20:47"
+      "changedAt": "2026-09-10 15:22:56"
     },
     {
       "id": 370,
@@ -1818,7 +1818,7 @@
     {
       "id": 235,
       "name": "Damned King Aldones",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Psychic",
@@ -1836,7 +1836,7 @@
       "duelingbookId": 5995215,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995215.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-22 10:21:05"
+      "changedAt": "2026-09-10 15:22:46"
     },
     {
       "id": 245,
@@ -8050,7 +8050,7 @@
     {
       "id": 16,
       "name": "T.G. Hyper Librarian",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Spellcaster",
@@ -8064,7 +8064,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/90953320.jpg",
       "officialUrl": "https://ygoprodeck.com/card/t-g-hyper-librarian-7597",
       "addedAt": "2026-07-29 04:35:09",
-      "changedAt": "2026-08-25 04:12:10"
+      "changedAt": "2026-09-10 15:22:46"
     },
     {
       "id": 450,
@@ -13527,7 +13527,7 @@
         {
           "id": 236,
           "name": "Carcosa",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -13541,12 +13541,12 @@
           "duelingbookId": 5995216,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995216.jpg",
           "addedAt": "2026-08-15 01:23:13",
-          "changedAt": "2026-08-22 10:20:47"
+          "changedAt": "2026-09-10 15:22:56"
         },
         {
           "id": 235,
           "name": "Damned King Aldones",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Psychic",
@@ -13564,7 +13564,7 @@
           "duelingbookId": 5995215,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995215.jpg",
           "addedAt": "2026-08-15 01:23:13",
-          "changedAt": "2026-08-22 10:21:05"
+          "changedAt": "2026-09-10 15:22:46"
         },
         {
           "id": 229,
