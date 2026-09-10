@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T00:47:14.464Z",
+  "updatedAt": "2026-09-10T00:47:47.936Z",
   "cards": [
     {
       "id": 384,
@@ -5572,6 +5572,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038102.jpg",
       "addedAt": "2026-09-09 19:29:07",
       "changedAt": "2026-09-09 19:29:07"
+    },
+    {
+      "id": 504,
+      "name": "Neha Vailo, Storm Searcher",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 4",
+      "atk": "1550",
+      "def": "1400",
+      "text": "During the Main Phase (Quick Effect): You can Special Summon this card (from your hand) by discarding 2 Equip Spells or removing 3 Spell Counters from face-up cards you control. Once per turn (Quick Effect): You can shuffle up to 4 Equip Spells from your GY into your Deck (min. 1) to target 1 face-up Monster your opponent controls; negate its effects until the end of this turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 5948260,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948260.jpg",
+      "addedAt": "2026-09-10 00:47:46",
+      "changedAt": "2026-09-10 00:47:46"
     },
     {
       "id": 280,
