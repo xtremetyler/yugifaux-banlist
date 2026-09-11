@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:04:33.607Z",
+  "updatedAt": "2026-09-11T21:04:39.362Z",
   "cards": [
     {
       "id": 384,
@@ -5446,11 +5446,13 @@
       ],
       "text": "1 Level 3 Monster",
       "clauses": 0,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965655,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965655.jpg",
       "addedAt": "2026-08-10 03:18:16",
-      "changedAt": "2026-08-10 03:18:16"
+      "changedAt": "2026-09-11 21:04:38"
     },
     {
       "id": 150,
@@ -15389,6 +15391,32 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965649.jpg",
           "addedAt": "2026-08-10 03:14:49",
           "changedAt": "2026-09-11 21:03:44"
+        },
+        {
+          "id": 157,
+          "name": "Misadventurer's Miss Adventure",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Spellcaster",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "LIGHT",
+          "levelRankLink": "Link 3",
+          "atk": "800",
+          "linkMarkers": [
+            "Bottom"
+          ],
+          "text": "1 Level 3 Monster",
+          "clauses": 0,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965655,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965655.jpg",
+          "addedAt": "2026-08-10 03:18:16",
+          "changedAt": "2026-09-11 21:04:38"
         },
         {
           "id": 150,
