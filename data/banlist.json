@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:46:18.785Z",
+  "updatedAt": "2026-09-11T21:46:25.565Z",
   "cards": [
     {
       "id": 384,
@@ -7732,11 +7732,13 @@
       "def": "0",
       "text": "During your Main Phase: You can remove 1 Counter (of any kind) from your field; apply 1 of the following effects.\n● Draw 1 card.\n● Send 1 \"Spirebound\" card from your Deck to the GY.\n● Add 1 \"Spirebound\" card from your GY to the hand.\n● Return 1 \"Spirebound\" card you control to the hand, except \"Spirebound Merchant\".\nYou can only apply each of the above effects once per turn.",
       "clauses": 4,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979823,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979823.jpg",
       "addedAt": "2026-08-10 03:04:00",
-      "changedAt": "2026-08-24 17:08:39"
+      "changedAt": "2026-09-11 21:46:24"
     },
     {
       "id": 133,
@@ -14960,10 +14962,30 @@
       "notes": "Based on the hit video game -  Slay The Spire!\nHistorical note: Fifth designed.",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 129,
-      "featuredCardName": "Spirebound Power - Demon Form",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979834.jpg",
+      "featuredCardId": 132,
+      "featuredCardName": "Spirebound Merchant",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979823.jpg",
       "cards": [
+        {
+          "id": 132,
+          "name": "Spirebound Merchant",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During your Main Phase: You can remove 1 Counter (of any kind) from your field; apply 1 of the following effects.\n● Draw 1 card.\n● Send 1 \"Spirebound\" card from your Deck to the GY.\n● Add 1 \"Spirebound\" card from your GY to the hand.\n● Return 1 \"Spirebound\" card you control to the hand, except \"Spirebound Merchant\".\nYou can only apply each of the above effects once per turn.",
+          "clauses": 4,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979823,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979823.jpg",
+          "addedAt": "2026-08-10 03:04:00",
+          "changedAt": "2026-09-11 21:46:24"
+        },
         {
           "id": 129,
           "name": "Spirebound Power - Demon Form",
