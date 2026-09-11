@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T01:04:28.074Z",
+  "updatedAt": "2026-09-11T01:21:28.136Z",
   "cards": [
     {
       "id": 384,
@@ -1094,7 +1094,7 @@
     {
       "id": 443,
       "name": "Brahei from the Hollow Era",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Pyro",
@@ -1109,7 +1109,7 @@
       "duelingbookId": 6038071,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038071.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 01:21:06"
     },
     {
       "id": 217,
@@ -10619,7 +10619,7 @@
         {
           "id": 443,
           "name": "Brahei from the Hollow Era",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Pyro",
@@ -10634,7 +10634,7 @@
           "duelingbookId": 6038071,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038071.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 01:21:06"
         },
         {
           "id": 449,
