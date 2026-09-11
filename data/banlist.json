@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:30:24.499Z",
+  "updatedAt": "2026-09-11T23:30:42.268Z",
   "cards": [
     {
       "id": 384,
@@ -5896,11 +5896,13 @@
       "def": "100",
       "text": "During your turn (Quick Effect): You can reveal this card from your hand; attach it and up to 1 Spell/Trap you control to to a LIGHT Xyz Monster you control as Material, except a Psychic Monster. Once per turn, during your Main Phase: You can Special Summon 1 Level 1 \"of the Horde\" Monster from your Deck or GY, except a Psychic Monster. A LIGHT Monster equipped with this card gains each of the above activated effects of this card.",
       "clauses": 3,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999456,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999456.jpg",
       "addedAt": "2026-08-17 16:55:50",
-      "changedAt": "2026-08-17 16:55:50"
+      "changedAt": "2026-09-11 23:30:41"
     },
     {
       "id": 288,
@@ -13736,6 +13738,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999448.jpg",
           "addedAt": "2026-08-17 16:52:27",
           "changedAt": "2026-09-11 23:30:08"
+        },
+        {
+          "id": 250,
+          "name": "Origin of the Horde - Kevin W. Crumb",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Psychic",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 1",
+          "atk": "100",
+          "def": "100",
+          "text": "During your turn (Quick Effect): You can reveal this card from your hand; attach it and up to 1 Spell/Trap you control to to a LIGHT Xyz Monster you control as Material, except a Psychic Monster. Once per turn, during your Main Phase: You can Special Summon 1 Level 1 \"of the Horde\" Monster from your Deck or GY, except a Psychic Monster. A LIGHT Monster equipped with this card gains each of the above activated effects of this card.",
+          "clauses": 3,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5999456,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999456.jpg",
+          "addedAt": "2026-08-17 16:55:50",
+          "changedAt": "2026-09-11 23:30:41"
         },
         {
           "id": 246,
