@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T15:27:29.099Z",
+  "updatedAt": "2026-09-11T20:47:52.372Z",
   "cards": [
     {
       "id": 384,
@@ -1788,10 +1788,10 @@
       "archetype": "VeloCity",
       "archetypeId": 28,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6018747,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018747.jpg",
+      "duelingbookId": 6038463,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038463.jpg",
       "addedAt": "2026-09-10 00:18:16",
-      "changedAt": "2026-09-10 00:18:16"
+      "changedAt": "2026-09-11 20:47:50"
     },
     {
       "id": 438,
@@ -10165,10 +10165,10 @@
           "archetype": "VeloCity",
           "archetypeId": 28,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6018747,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6018747.jpg",
+          "duelingbookId": 6038463,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038463.jpg",
           "addedAt": "2026-09-10 00:18:16",
-          "changedAt": "2026-09-10 00:18:16"
+          "changedAt": "2026-09-11 20:47:50"
         },
         {
           "id": 474,
