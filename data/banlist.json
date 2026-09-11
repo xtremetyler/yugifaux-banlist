@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:46:40.041Z",
+  "updatedAt": "2026-09-11T21:46:52.989Z",
   "cards": [
     {
       "id": 384,
@@ -7716,11 +7716,13 @@
       "def": "1000",
       "text": "You can remove 1 Spire Counter from your field to send this card from your hand or field to the GY; add 1 \"Spirebound Power - Demon Form\" or \"The Spire\" from your Deck to your hand. You can only activate this effect of \"Spirebound Ironclad\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Attack\" card from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; destroy 1 card on the field.",
       "clauses": 5,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979844,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979844.jpg",
       "addedAt": "2026-08-09 23:19:20",
-      "changedAt": "2026-08-24 17:08:14"
+      "changedAt": "2026-09-11 21:46:52"
     },
     {
       "id": 132,
@@ -14990,6 +14992,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979821.jpg",
           "addedAt": "2026-08-10 03:05:28",
           "changedAt": "2026-09-11 21:46:39"
+        },
+        {
+          "id": 108,
+          "name": "Spirebound Ironclad",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 4",
+          "atk": "1800",
+          "def": "1000",
+          "text": "You can remove 1 Spire Counter from your field to send this card from your hand or field to the GY; add 1 \"Spirebound Power - Demon Form\" or \"The Spire\" from your Deck to your hand. You can only activate this effect of \"Spirebound Ironclad\" once per turn. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Attack\" card from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; destroy 1 card on the field.",
+          "clauses": 5,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979844,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979844.jpg",
+          "addedAt": "2026-08-09 23:19:20",
+          "changedAt": "2026-09-11 21:46:52"
         },
         {
           "id": 132,
