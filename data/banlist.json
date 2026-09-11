@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:47:12.364Z",
+  "updatedAt": "2026-09-11T21:47:17.757Z",
   "cards": [
     {
       "id": 384,
@@ -7659,11 +7659,13 @@
       "def": "0",
       "text": "Target 1 face-up Monster your opponent controls; its ATK/DEF becomes 0 until the end of this turn, then if you control \"Spirebound Silent\", place 2 Spire Counters on 1 face-up card you control.",
       "clauses": 2,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979840,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979840.jpg",
       "addedAt": "2026-08-09 23:28:37",
-      "changedAt": "2026-08-24 17:07:08"
+      "changedAt": "2026-09-11 21:47:17"
     },
     {
       "id": 110,
@@ -14997,6 +14999,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979838.jpg",
           "addedAt": "2026-08-09 23:27:18",
           "changedAt": "2026-09-11 21:47:11"
+        },
+        {
+          "id": 112,
+          "name": "Spirebound Attack - Neutralize",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 face-up Monster your opponent controls; its ATK/DEF becomes 0 until the end of this turn, then if you control \"Spirebound Silent\", place 2 Spire Counters on 1 face-up card you control.",
+          "clauses": 2,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979840,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979840.jpg",
+          "addedAt": "2026-08-09 23:28:37",
+          "changedAt": "2026-09-11 21:47:17"
         },
         {
           "id": 110,
