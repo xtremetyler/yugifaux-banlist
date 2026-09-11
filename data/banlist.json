@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:29:12.783Z",
+  "updatedAt": "2026-09-11T23:29:22.628Z",
   "cards": [
     {
       "id": 384,
@@ -2766,11 +2766,13 @@
       "def": "0",
       "text": "When this card is activated: You can Special Summon 1 Level 1 LIGHT Monster from your hand or GY. During your Main Phase: You can target an Xyz Monster you control; equip a card attached to that target to it but treat the equipped card as a Trap Card while it is equipped this way. You can only activate each effect of \"Glass: Escape of the Horde\" once per turn.",
       "clauses": 3,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999295,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999295.jpg",
       "addedAt": "2026-08-17 15:05:13",
-      "changedAt": "2026-08-17 15:05:13"
+      "changedAt": "2026-09-11 23:29:22"
     },
     {
       "id": 63,
@@ -13620,6 +13622,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999291.jpg",
           "addedAt": "2026-08-17 15:02:49",
           "changedAt": "2026-09-11 23:29:12"
+        },
+        {
+          "id": 244,
+          "name": "Glass: Escape of the Horde",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can Special Summon 1 Level 1 LIGHT Monster from your hand or GY. During your Main Phase: You can target an Xyz Monster you control; equip a card attached to that target to it but treat the equipped card as a Trap Card while it is equipped this way. You can only activate each effect of \"Glass: Escape of the Horde\" once per turn.",
+          "clauses": 3,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5999295,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999295.jpg",
+          "addedAt": "2026-08-17 15:05:13",
+          "changedAt": "2026-09-11 23:29:22"
         },
         {
           "id": 271,
