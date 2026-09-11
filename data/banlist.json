@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:03:31.850Z",
+  "updatedAt": "2026-09-11T21:03:39.013Z",
   "cards": [
     {
       "id": 384,
@@ -5513,11 +5513,13 @@
       "def": "300",
       "text": "Once per Duel (Quick Effect): You can Normal Summon this card from your GY, in addition to your Normal Summon/Set. If this card is Normal Summoned: You can add 1 Level 3 “Misadventurer” monster from your Deck to your hand, except “Misadventurer’s Reckless Rogue”, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can excavate the top 4 cards of your Deck, add 1 excavated “Misadventurer” card to your hand, also place the rest on the bottom of the Deck in any order. You can only use each effect of “Misadventurer’s Reckless Rogue” once per turn.",
       "clauses": 3,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5975253,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975253.jpg",
       "addedAt": "2026-08-10 03:14:20",
-      "changedAt": "2026-08-10 03:14:20"
+      "changedAt": "2026-09-11 21:03:38"
     },
     {
       "id": 45,
@@ -15250,6 +15252,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965644.jpg",
           "addedAt": "2026-08-10 03:13:47",
           "changedAt": "2026-09-11 21:03:31"
+        },
+        {
+          "id": 148,
+          "name": "Misadventurer’s Reckless Rogue",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "DARK",
+          "levelRankLink": "Level 3",
+          "atk": "1500",
+          "def": "300",
+          "text": "Once per Duel (Quick Effect): You can Normal Summon this card from your GY, in addition to your Normal Summon/Set. If this card is Normal Summoned: You can add 1 Level 3 “Misadventurer” monster from your Deck to your hand, except “Misadventurer’s Reckless Rogue”, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can excavate the top 4 cards of your Deck, add 1 excavated “Misadventurer” card to your hand, also place the rest on the bottom of the Deck in any order. You can only use each effect of “Misadventurer’s Reckless Rogue” once per turn.",
+          "clauses": 3,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5975253,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975253.jpg",
+          "addedAt": "2026-08-10 03:14:20",
+          "changedAt": "2026-09-11 21:03:38"
         }
       ]
     },
