@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T20:52:03.936Z",
+  "updatedAt": "2026-09-11T21:03:31.850Z",
   "cards": [
     {
       "id": 384,
@@ -5470,11 +5470,13 @@
       "def": "2900",
       "text": "Cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 “Misadventurer” monster, except \"Misadventurer’s Overworked Healer\". If this card is Normal Summoned: You can add 1 “Misadventurer” Spell/Trap from your Deck to your hand, then you can Immediately Normal Summon 1 Level 3 monster from your GY as if it were in your hand. When your opponent activates a Monster effect (Quick Effect): You can return 1 other “Misadventurer” monster from your field or GY to the hand; negate that effect. If another “Misadventurer” monster(s) you control would be destroyed by battle or card effect, you can send the top card of your Deck to the GY instead. Once per Duel (Quick Effect): You can return this card from the field or GY to your hand; Normal Summon 1 Level 3 Monster from your Deck or GY, then, immediately after this effect resolves, you can Normal Summon 1 Monster. You can only use this effect of “Misadventurer’s Overworked Healer” twice per turn.",
       "clauses": 6,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965644,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965644.jpg",
       "addedAt": "2026-08-10 03:13:47",
-      "changedAt": "2026-08-10 03:13:47"
+      "changedAt": "2026-09-11 21:03:31"
     },
     {
       "id": 158,
@@ -15224,7 +15226,32 @@
       "notes": "Historical Ephtear archetype; YouWillBeMissed Adventurers; purchased historical four-clause buffer.",
       "historySource": "historical",
       "cardListComplete": false,
-      "cards": []
+      "featuredCardId": 147,
+      "featuredCardName": "Misadventurer's Overworked Healer",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965644.jpg",
+      "cards": [
+        {
+          "id": 147,
+          "name": "Misadventurer's Overworked Healer",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 9",
+          "atk": "2600",
+          "def": "2900",
+          "text": "Cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 “Misadventurer” monster, except \"Misadventurer’s Overworked Healer\". If this card is Normal Summoned: You can add 1 “Misadventurer” Spell/Trap from your Deck to your hand, then you can Immediately Normal Summon 1 Level 3 monster from your GY as if it were in your hand. When your opponent activates a Monster effect (Quick Effect): You can return 1 other “Misadventurer” monster from your field or GY to the hand; negate that effect. If another “Misadventurer” monster(s) you control would be destroyed by battle or card effect, you can send the top card of your Deck to the GY instead. Once per Duel (Quick Effect): You can return this card from the field or GY to your hand; Normal Summon 1 Level 3 Monster from your Deck or GY, then, immediately after this effect resolves, you can Normal Summon 1 Monster. You can only use this effect of “Misadventurer’s Overworked Healer” twice per turn.",
+          "clauses": 6,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965644,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965644.jpg",
+          "addedAt": "2026-08-10 03:13:47",
+          "changedAt": "2026-09-11 21:03:31"
+        }
+      ]
     },
     {
       "id": 8,
