@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:29:56.823Z",
+  "updatedAt": "2026-09-11T23:30:09.514Z",
   "cards": [
     {
       "id": 384,
@@ -4709,11 +4709,13 @@
       "def": "200",
       "text": "3 Level 1 LIGHT Monsters with different types, except Reptile Monsters\nOnce per turn, you can also Xyz Summon \"Madame of the Horde - Patricia\" by using 1 \"of the Horde\" Monster you control with a different type as Material, except an Xyz Monster. Once per turn, you can detach 1 Material from this card; destroy a random card your opponent controls. A LIGHT Xyz Monster equipped with this card gains the above activated effect of this card and the following effect.\n● Once per turn (Quick Effect): You can activate 1 \"Personas\" Trap Card attached to this card, except a Counter Trap.",
       "clauses": 4,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999448,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999448.jpg",
       "addedAt": "2026-08-17 16:52:27",
-      "changedAt": "2026-08-17 16:52:27"
+      "changedAt": "2026-09-11 23:30:08"
     },
     {
       "id": 274,
@@ -13711,6 +13713,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004329.jpg",
           "addedAt": "2026-08-20 13:51:19",
           "changedAt": "2026-09-11 23:27:25"
+        },
+        {
+          "id": 248,
+          "name": "Madame of the Horde - Patricia",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "XYZ Monster",
+          "monsterType": "Reptile",
+          "attribute": "LIGHT",
+          "levelRankLink": "Rank 1",
+          "atk": "2000",
+          "def": "200",
+          "text": "3 Level 1 LIGHT Monsters with different types, except Reptile Monsters\nOnce per turn, you can also Xyz Summon \"Madame of the Horde - Patricia\" by using 1 \"of the Horde\" Monster you control with a different type as Material, except an Xyz Monster. Once per turn, you can detach 1 Material from this card; destroy a random card your opponent controls. A LIGHT Xyz Monster equipped with this card gains the above activated effect of this card and the following effect.\n● Once per turn (Quick Effect): You can activate 1 \"Personas\" Trap Card attached to this card, except a Counter Trap.",
+          "clauses": 4,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5999448,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999448.jpg",
+          "addedAt": "2026-08-17 16:52:27",
+          "changedAt": "2026-09-11 23:30:08"
         },
         {
           "id": 246,
