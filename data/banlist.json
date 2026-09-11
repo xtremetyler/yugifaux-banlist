@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:30:42.268Z",
+  "updatedAt": "2026-09-11T23:30:51.154Z",
   "cards": [
     {
       "id": 384,
@@ -8868,11 +8868,13 @@
       "def": "2300",
       "text": "2 Xyz Monsters with the same Rank and Attribute but different types, except Beast Monsters\n(This card's original Rank is always treated as 1.) \nThis card's Rank is increased by 1 for each Monster Card attached to it and it gains ATK/DEF equal to 100 x its Rank (there is no max Rank for this card). If this card is Special Summoned or this card destroys your opponent's Monster by battle or card effect: Equip an \"of the Horde\" card attached to this card to it but treat it as a Trap Card while it is equipped to this face-up card you control, then attach each other card equipped to this card to it as Material. This card cannot be equipped with Spell Cards. Your opponent cannot activate the effects of Monsters they control that share a type with a Monster Card equipped to this card. If this card would leave the field by your opponent's card effect, detach 1 Material from it instead.",
       "clauses": 6,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999466,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999466.jpg",
       "addedAt": "2026-08-17 17:02:36",
-      "changedAt": "2026-08-17 17:02:36"
+      "changedAt": "2026-09-11 23:30:50"
     },
     {
       "id": 83,
@@ -13839,6 +13841,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999442.jpg",
           "addedAt": "2026-08-17 16:50:43",
           "changedAt": "2026-09-11 23:29:56"
+        },
+        {
+          "id": 251,
+          "name": "Ultimate Persona of the Horde - The Beast",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "XYZ Monster",
+          "monsterType": "Beast",
+          "attribute": "LIGHT",
+          "levelRankLink": "Rank 0",
+          "atk": "2300",
+          "def": "2300",
+          "text": "2 Xyz Monsters with the same Rank and Attribute but different types, except Beast Monsters\n(This card's original Rank is always treated as 1.) \nThis card's Rank is increased by 1 for each Monster Card attached to it and it gains ATK/DEF equal to 100 x its Rank (there is no max Rank for this card). If this card is Special Summoned or this card destroys your opponent's Monster by battle or card effect: Equip an \"of the Horde\" card attached to this card to it but treat it as a Trap Card while it is equipped to this face-up card you control, then attach each other card equipped to this card to it as Material. This card cannot be equipped with Spell Cards. Your opponent cannot activate the effects of Monsters they control that share a type with a Monster Card equipped to this card. If this card would leave the field by your opponent's card effect, detach 1 Material from it instead.",
+          "clauses": 6,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5999466,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999466.jpg",
+          "addedAt": "2026-08-17 17:02:36",
+          "changedAt": "2026-09-11 23:30:50"
         },
         {
           "id": 249,
