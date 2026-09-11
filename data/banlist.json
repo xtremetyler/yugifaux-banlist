@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:04:21.080Z",
+  "updatedAt": "2026-09-11T21:04:26.121Z",
   "cards": [
     {
       "id": 384,
@@ -5358,11 +5358,13 @@
       "def": "0",
       "text": "Your opponent cannot target \"Misadventurer\" cards in your GY with card effects. Once per turn, if 1 or more Level 3 “Misadventurer” monsters are destroyed by battle or card effect: You can Special Summon as many of those monsters as possible, then gain LP equal to their combined original ATK. If you control “Misadventurer’s Overworked Healer”, treat those Special Summons as Normal Summons. You can only use this effect of \"Misadventurer Encounter – You Can Still Fight!\" once per turn.",
       "clauses": 4,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965670,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965670.jpg",
       "addedAt": "2026-08-10 03:17:28",
-      "changedAt": "2026-08-10 03:17:28"
+      "changedAt": "2026-09-11 21:04:25"
     },
     {
       "id": 151,
@@ -15303,6 +15305,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965671.jpg",
           "addedAt": "2026-08-10 03:16:19",
           "changedAt": "2026-09-11 21:04:05"
+        },
+        {
+          "id": 155,
+          "name": "Misadventurer Encounter - You Can Still Fight!",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Your opponent cannot target \"Misadventurer\" cards in your GY with card effects. Once per turn, if 1 or more Level 3 “Misadventurer” monsters are destroyed by battle or card effect: You can Special Summon as many of those monsters as possible, then gain LP equal to their combined original ATK. If you control “Misadventurer’s Overworked Healer”, treat those Special Summons as Normal Summons. You can only use this effect of \"Misadventurer Encounter – You Can Still Fight!\" once per turn.",
+          "clauses": 4,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965670,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965670.jpg",
+          "addedAt": "2026-08-10 03:17:28",
+          "changedAt": "2026-09-11 21:04:25"
         },
         {
           "id": 151,
