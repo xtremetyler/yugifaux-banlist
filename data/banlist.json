@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:28:42.423Z",
+  "updatedAt": "2026-09-11T23:28:53.835Z",
   "cards": [
     {
       "id": 384,
@@ -1065,13 +1065,12 @@
       "monsterType": "Quick-Play",
       "spellTrapType": "Quick-Play",
       "text": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
-      "archetype": "The Horde",
-      "archetypeId": 14,
+      "archetype": "Book of",
       "contributor": "I \"Lack toes\" Joules",
       "imageUrl": "https://images.ygoprodeck.com/images/cards/14087893.jpg",
       "officialUrl": "https://ygoprodeck.com/card/book-of-moon-1206",
       "addedAt": "2026-08-17 14:02:04",
-      "changedAt": "2026-09-11 23:28:41"
+      "changedAt": "2026-09-11 23:28:53"
     },
     {
       "id": 460,
@@ -13594,27 +13593,10 @@
       "notes": "",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 241,
-      "featuredCardName": "Book of Moon",
-      "featuredImageUrl": "https://images.ygoprodeck.com/images/cards/14087893.jpg",
+      "featuredCardId": 271,
+      "featuredCardName": "Heart of the Horde - Hedwig",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004328.jpg",
       "cards": [
-        {
-          "id": 241,
-          "name": "Book of Moon",
-          "status": "semi-limeade",
-          "source": "official",
-          "cardType": "Spell Card",
-          "monsterType": "Quick-Play",
-          "spellTrapType": "Quick-Play",
-          "text": "Target 1 face-up monster on the field; change that target to face-down Defense Position.",
-          "archetype": "The Horde",
-          "archetypeId": 14,
-          "contributor": "I \"Lack toes\" Joules",
-          "imageUrl": "https://images.ygoprodeck.com/images/cards/14087893.jpg",
-          "officialUrl": "https://ygoprodeck.com/card/book-of-moon-1206",
-          "addedAt": "2026-08-17 14:02:04",
-          "changedAt": "2026-09-11 23:28:41"
-        },
         {
           "id": 271,
           "name": "Heart of the Horde - Hedwig",
