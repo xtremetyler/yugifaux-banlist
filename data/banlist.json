@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:09:23.178Z",
+  "updatedAt": "2026-09-11T23:09:31.997Z",
   "cards": [
     {
       "id": 384,
@@ -3602,11 +3602,13 @@
       "def": "0",
       "text": "Detach any number of materials from Machine Xyz Monsters you control; destroy that many cards your opponent controls, then you can attach 1 “High Caliber” card from your GY to 1 Xyz Monster you control as material, then you can attach 1 Machine Monster from your Deck to another Xyz Monster you control. You cannot declare attacks for the rest of this turn, except with Rank 4 Xyz Monsters. While this card is in your GY, if a card is destroyed by your Monster effect: You can banish this card; draw 1 card. You can only activate each effect of “High Caliber Full Salvo” once per turn.",
       "clauses": 5,
+      "archetype": "High Caliber",
+      "archetypeId": 7,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955931,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955931.jpg",
       "addedAt": "2026-08-07 03:35:08",
-      "changedAt": "2026-08-07 03:35:08"
+      "changedAt": "2026-09-11 23:09:31"
     },
     {
       "id": 105,
@@ -16175,6 +16177,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955888.jpg",
           "addedAt": "2026-08-07 03:33:04",
           "changedAt": "2026-09-11 23:09:22"
+        },
+        {
+          "id": 97,
+          "name": "High Caliber Full Salvo",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Detach any number of materials from Machine Xyz Monsters you control; destroy that many cards your opponent controls, then you can attach 1 “High Caliber” card from your GY to 1 Xyz Monster you control as material, then you can attach 1 Machine Monster from your Deck to another Xyz Monster you control. You cannot declare attacks for the rest of this turn, except with Rank 4 Xyz Monsters. While this card is in your GY, if a card is destroyed by your Monster effect: You can banish this card; draw 1 card. You can only activate each effect of “High Caliber Full Salvo” once per turn.",
+          "clauses": 5,
+          "archetype": "High Caliber",
+          "archetypeId": 7,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5955931,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955931.jpg",
+          "addedAt": "2026-08-07 03:35:08",
+          "changedAt": "2026-09-11 23:09:31"
         }
       ]
     },
