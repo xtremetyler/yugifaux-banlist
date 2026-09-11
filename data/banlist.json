@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:46:52.989Z",
+  "updatedAt": "2026-09-11T21:47:00.153Z",
   "cards": [
     {
       "id": 384,
@@ -7838,11 +7838,13 @@
       "def": "1600",
       "text": "You can Special Summon this card (from your hand) by removing 2 Spire Counters from your field, then place 1 Spire Counter on each face-up card you control. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Skill\" from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; draw 1 card, then discard 1 card.",
       "clauses": 5,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979847,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979847.jpg",
       "addedAt": "2026-08-09 23:20:28",
-      "changedAt": "2026-08-24 17:10:42"
+      "changedAt": "2026-09-11 21:46:59"
     },
     {
       "id": 115,
@@ -15114,6 +15116,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979836.jpg",
           "addedAt": "2026-08-10 03:02:51",
           "changedAt": "2026-09-11 21:46:08"
+        },
+        {
+          "id": 109,
+          "name": "Spirebound Silent",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "1500",
+          "def": "1600",
+          "text": "You can Special Summon this card (from your hand) by removing 2 Spire Counters from your field, then place 1 Spire Counter on each face-up card you control. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Skill\" from your Deck to your hand. Once per turn, you can remove 2 Spire Counters from your field; draw 1 card, then discard 1 card.",
+          "clauses": 5,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979847,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979847.jpg",
+          "addedAt": "2026-08-09 23:20:28",
+          "changedAt": "2026-09-11 21:46:59"
         },
         {
           "id": 86,
