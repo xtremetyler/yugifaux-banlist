@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T01:00:28.163Z",
+  "updatedAt": "2026-09-11T01:00:58.061Z",
   "cards": [
     {
       "id": 384,
@@ -521,7 +521,7 @@
     {
       "id": 451,
       "name": "Anointed Alfred, Mummy King",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Zombie",
@@ -536,12 +536,12 @@
       "duelingbookId": 6038080,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038080.jpg",
       "addedAt": "2026-09-09 19:29:05",
-      "changedAt": "2026-09-09 19:29:05"
+      "changedAt": "2026-09-11 01:00:43"
     },
     {
       "id": 452,
       "name": "Anointed Crypt-Breaker",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Pendulum Effect Monster",
       "monsterType": "Zombie",
@@ -558,7 +558,7 @@
       "duelingbookId": 6038081,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038081.jpg",
       "addedAt": "2026-09-09 19:29:05",
-      "changedAt": "2026-09-09 19:29:05"
+      "changedAt": "2026-09-11 01:00:55"
     },
     {
       "id": 453,
@@ -10394,7 +10394,7 @@
         {
           "id": 451,
           "name": "Anointed Alfred, Mummy King",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Zombie",
@@ -10409,12 +10409,12 @@
           "duelingbookId": 6038080,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038080.jpg",
           "addedAt": "2026-09-09 19:29:05",
-          "changedAt": "2026-09-09 19:29:05"
+          "changedAt": "2026-09-11 01:00:43"
         },
         {
           "id": 452,
           "name": "Anointed Crypt-Breaker",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Pendulum Effect Monster",
           "monsterType": "Zombie",
@@ -10431,7 +10431,7 @@
           "duelingbookId": 6038081,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038081.jpg",
           "addedAt": "2026-09-09 19:29:05",
-          "changedAt": "2026-09-09 19:29:05"
+          "changedAt": "2026-09-11 01:00:55"
         },
         {
           "id": 453,
