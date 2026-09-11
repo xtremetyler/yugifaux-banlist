@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:03:45.491Z",
+  "updatedAt": "2026-09-11T21:03:53.249Z",
   "cards": [
     {
       "id": 384,
@@ -5453,11 +5453,13 @@
       "def": "700",
       "text": "Once per Duel (Quick Effect): You can send 1 \"Misadventurer\" card from your field or Extra Deck to the GY; Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can target 1 Level 3 monster in your GY; add it to your hand, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can target 1 card your opponent controls; send it to the GY. You can only use each effect of “Misadventurer’s Overconfident Ranger” once per turn.",
       "clauses": 4,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965654,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965654.jpg",
       "addedAt": "2026-08-10 03:15:20",
-      "changedAt": "2026-08-10 03:15:20"
+      "changedAt": "2026-09-11 21:03:52"
     },
     {
       "id": 147,
@@ -15254,6 +15256,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965649.jpg",
           "addedAt": "2026-08-10 03:14:49",
           "changedAt": "2026-09-11 21:03:44"
+        },
+        {
+          "id": 150,
+          "name": "Misadventurer's Overconfident Ranger",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "WIND",
+          "levelRankLink": "Level 3",
+          "atk": "1600",
+          "def": "700",
+          "text": "Once per Duel (Quick Effect): You can send 1 \"Misadventurer\" card from your field or Extra Deck to the GY; Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can target 1 Level 3 monster in your GY; add it to your hand, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can target 1 card your opponent controls; send it to the GY. You can only use each effect of “Misadventurer’s Overconfident Ranger” once per turn.",
+          "clauses": 4,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965654,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965654.jpg",
+          "addedAt": "2026-08-10 03:15:20",
+          "changedAt": "2026-09-11 21:03:52"
         },
         {
           "id": 147,
