@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:03:39.013Z",
+  "updatedAt": "2026-09-11T21:03:45.491Z",
   "cards": [
     {
       "id": 384,
@@ -5408,11 +5408,13 @@
       "def": "1700",
       "text": "Once per Duel, when a card(s) are added to your opponent's hand, except by drawing (Quick Effect): You can Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can add 1 Level 9 or higher monster from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If another “Misadventurer” monster you control would be destroyed by battle or card effect, you can send this face-up card to the GY instead. If this card is Tributed: You can make all “Misadventurer” monsters you control gain 700 ATK/DEF until the end of the next turn. You can only use each effect of “Misadventurer’s Headstrong Dwarf” once per turn.",
       "clauses": 5,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965649,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965649.jpg",
       "addedAt": "2026-08-10 03:14:49",
-      "changedAt": "2026-08-10 03:14:49"
+      "changedAt": "2026-09-11 21:03:44"
     },
     {
       "id": 157,
@@ -15228,10 +15230,31 @@
       "notes": "Historical Ephtear archetype; YouWillBeMissed Adventurers; purchased historical four-clause buffer.",
       "historySource": "historical",
       "cardListComplete": false,
-      "featuredCardId": 147,
-      "featuredCardName": "Misadventurer's Overworked Healer",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965644.jpg",
+      "featuredCardId": 149,
+      "featuredCardName": "Misadventurer's Headstrong Dwarf",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965649.jpg",
       "cards": [
+        {
+          "id": 149,
+          "name": "Misadventurer's Headstrong Dwarf",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast-Warrior",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 3",
+          "atk": "1200",
+          "def": "1700",
+          "text": "Once per Duel, when a card(s) are added to your opponent's hand, except by drawing (Quick Effect): You can Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can add 1 Level 9 or higher monster from your Deck to your hand, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If another “Misadventurer” monster you control would be destroyed by battle or card effect, you can send this face-up card to the GY instead. If this card is Tributed: You can make all “Misadventurer” monsters you control gain 700 ATK/DEF until the end of the next turn. You can only use each effect of “Misadventurer’s Headstrong Dwarf” once per turn.",
+          "clauses": 5,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965649,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965649.jpg",
+          "addedAt": "2026-08-10 03:14:49",
+          "changedAt": "2026-09-11 21:03:44"
+        },
         {
           "id": 147,
           "name": "Misadventurer's Overworked Healer",
