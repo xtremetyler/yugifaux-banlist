@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T00:59:58.108Z",
+  "updatedAt": "2026-09-11T01:00:28.163Z",
   "cards": [
     {
       "id": 384,
@@ -1630,7 +1630,7 @@
     {
       "id": 449,
       "name": "Core Remnant of the Hollow Era",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Thunder",
@@ -1645,7 +1645,7 @@
       "duelingbookId": 6038078,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038078.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 01:00:17"
     },
     {
       "id": 26,
@@ -3723,7 +3723,7 @@
     {
       "id": 447,
       "name": "Hollow Era Main Sequence Fusion",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -3737,7 +3737,7 @@
       "duelingbookId": 6038076,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038076.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 01:00:05"
     },
     {
       "id": 445,
@@ -3830,7 +3830,7 @@
     {
       "id": 446,
       "name": "Hollow Era White Dwarf Fusion",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -3844,7 +3844,7 @@
       "duelingbookId": 6038074,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038074.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 01:00:00"
     },
     {
       "id": 234,
@@ -5572,7 +5572,7 @@
     {
       "id": 448,
       "name": "Nebula Endgame of the Hollow Era",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Thunder",
@@ -5587,7 +5587,7 @@
       "duelingbookId": 6038077,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038077.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 01:00:13"
     },
     {
       "id": 471,
@@ -8069,7 +8069,7 @@
     {
       "id": 450,
       "name": "Terminal Nova of the Hollow Era",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Thunder",
@@ -8084,7 +8084,7 @@
       "duelingbookId": 6038079,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038079.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 01:00:22"
     },
     {
       "id": 231,
@@ -10639,7 +10639,7 @@
         {
           "id": 449,
           "name": "Core Remnant of the Hollow Era",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Thunder",
@@ -10654,12 +10654,12 @@
           "duelingbookId": 6038078,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038078.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 01:00:17"
         },
         {
           "id": 447,
           "name": "Hollow Era Main Sequence Fusion",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -10673,7 +10673,7 @@
           "duelingbookId": 6038076,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038076.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 01:00:05"
         },
         {
           "id": 445,
@@ -10766,7 +10766,7 @@
         {
           "id": 446,
           "name": "Hollow Era White Dwarf Fusion",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -10780,7 +10780,7 @@
           "duelingbookId": 6038074,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038074.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 01:00:00"
         },
         {
           "id": 444,
@@ -10805,7 +10805,7 @@
         {
           "id": 448,
           "name": "Nebula Endgame of the Hollow Era",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Thunder",
@@ -10820,12 +10820,12 @@
           "duelingbookId": 6038077,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038077.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 01:00:13"
         },
         {
           "id": 450,
           "name": "Terminal Nova of the Hollow Era",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Thunder",
@@ -10840,7 +10840,7 @@
           "duelingbookId": 6038079,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038079.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 01:00:22"
         },
         {
           "id": 442,
