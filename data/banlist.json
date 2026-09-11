@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:04:39.362Z",
+  "updatedAt": "2026-09-11T21:04:45.637Z",
   "cards": [
     {
       "id": 384,
@@ -5512,11 +5512,13 @@
       "def": "1200",
       "text": "1 Tuner + 1+ Non-Tuner\nIf this card is sent to the GY: You can Normal Summon 1 Level 3 \"Misadventurer\" Monster from your Deck or banishment. You can only use this effect of \"Misadventurer's Pet Rock\" once per turn.",
       "clauses": 2,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965668,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965668.jpg",
       "addedAt": "2026-08-10 03:18:42",
-      "changedAt": "2026-08-24 03:44:18"
+      "changedAt": "2026-09-11 21:04:45"
     },
     {
       "id": 148,
@@ -15459,6 +15461,30 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965644.jpg",
           "addedAt": "2026-08-10 03:13:47",
           "changedAt": "2026-09-11 21:03:31"
+        },
+        {
+          "id": 158,
+          "name": "Misadventurer's Pet Rock",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 3",
+          "atk": "0",
+          "def": "1200",
+          "text": "1 Tuner + 1+ Non-Tuner\nIf this card is sent to the GY: You can Normal Summon 1 Level 3 \"Misadventurer\" Monster from your Deck or banishment. You can only use this effect of \"Misadventurer's Pet Rock\" once per turn.",
+          "clauses": 2,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965668,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965668.jpg",
+          "addedAt": "2026-08-10 03:18:42",
+          "changedAt": "2026-09-11 21:04:45"
         },
         {
           "id": 148,
