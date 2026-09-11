@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:04:26.121Z",
+  "updatedAt": "2026-09-11T21:04:33.607Z",
   "cards": [
     {
       "id": 384,
@@ -5399,11 +5399,13 @@
       "def": "0",
       "text": "When your opponent activates a card or effect that targets a Normal Summoned Monster: You can send 1 Tuner Monster from your Extra Deck to the GY; negate the effect as it resolves, and if you do, you can return its target to the hand. Then, if you sent a \"Misadventurer\" card to activate this card's effect, double the ATK/DEF of each \"Misadventurer's Overworked Healer\" you control until the end of this turn. Once per Duel (Quick Effect): You can banish this card from your hand or GY; for the rest of this Duel apply 1 of the following effect.\n● The activated effects of your \"Misadventurer\" cards that can only be used once per Duel may instead be used twice per Duel, except \"Misadventurer's Final Straw\".\n● The activated effects of your \"Misadventurer\" cards that can only be used once per turn may instead be used twice per turn, except \"Misadventurer's Final Straw\".",
       "clauses": 4,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965688,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965688.jpg",
       "addedAt": "2026-08-10 03:17:49",
-      "changedAt": "2026-08-10 03:17:49"
+      "changedAt": "2026-09-11 21:04:33"
     },
     {
       "id": 149,
@@ -15346,6 +15348,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965653.jpg",
           "addedAt": "2026-08-10 03:15:45",
           "changedAt": "2026-09-11 21:03:58"
+        },
+        {
+          "id": 156,
+          "name": "Misadventurer's Final Straw",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Counter",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When your opponent activates a card or effect that targets a Normal Summoned Monster: You can send 1 Tuner Monster from your Extra Deck to the GY; negate the effect as it resolves, and if you do, you can return its target to the hand. Then, if you sent a \"Misadventurer\" card to activate this card's effect, double the ATK/DEF of each \"Misadventurer's Overworked Healer\" you control until the end of this turn. Once per Duel (Quick Effect): You can banish this card from your hand or GY; for the rest of this Duel apply 1 of the following effect.\n● The activated effects of your \"Misadventurer\" cards that can only be used once per Duel may instead be used twice per Duel, except \"Misadventurer's Final Straw\".\n● The activated effects of your \"Misadventurer\" cards that can only be used once per turn may instead be used twice per turn, except \"Misadventurer's Final Straw\".",
+          "clauses": 4,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965688,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965688.jpg",
+          "addedAt": "2026-08-10 03:17:49",
+          "changedAt": "2026-09-11 21:04:33"
         },
         {
           "id": 149,
