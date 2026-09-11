@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:03:53.249Z",
+  "updatedAt": "2026-09-11T21:03:59.474Z",
   "cards": [
     {
       "id": 384,
@@ -5371,11 +5371,13 @@
       "def": "900",
       "text": "Once per Duel, when a card is sent from the hand or Deck to your opponent's GY (Quick Effect): You can Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can send 1 “Misadventurer” card from your Deck to the GY, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Misadventurer’s Calamitous Wizard” once per turn.",
       "clauses": 4,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965653,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965653.jpg",
       "addedAt": "2026-08-10 03:15:45",
-      "changedAt": "2026-08-10 03:15:45"
+      "changedAt": "2026-09-11 21:03:58"
     },
     {
       "id": 156,
@@ -15232,10 +15234,31 @@
       "notes": "Historical Ephtear archetype; YouWillBeMissed Adventurers; purchased historical four-clause buffer.",
       "historySource": "historical",
       "cardListComplete": false,
-      "featuredCardId": 149,
-      "featuredCardName": "Misadventurer's Headstrong Dwarf",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965649.jpg",
+      "featuredCardId": 151,
+      "featuredCardName": "Misadventurer's Calamitous Wizard",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965653.jpg",
       "cards": [
+        {
+          "id": 151,
+          "name": "Misadventurer's Calamitous Wizard",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 3",
+          "atk": "1300",
+          "def": "900",
+          "text": "Once per Duel, when a card is sent from the hand or Deck to your opponent's GY (Quick Effect): You can Normal Summon this card, in addition to your normal Normal Summon/Set. If this card is Normal Summoned: You can send 1 “Misadventurer” card from your Deck to the GY, then immediately after this effect resolves, you can Normal Summon 1 “Misadventurer” monster. If this card is Tributed: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Misadventurer’s Calamitous Wizard” once per turn.",
+          "clauses": 4,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965653,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965653.jpg",
+          "addedAt": "2026-08-10 03:15:45",
+          "changedAt": "2026-09-11 21:03:58"
+        },
         {
           "id": 149,
           "name": "Misadventurer's Headstrong Dwarf",
