@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:04:45.637Z",
+  "updatedAt": "2026-09-11T21:04:52.442Z",
   "cards": [
     {
       "id": 384,
@@ -9860,11 +9860,13 @@
       "def": "2400",
       "text": "1+ Tuner + 1+ non-Tuner monsters.\nThis card's name also becomes \"Misadventurer's Overworked Healer\" while face-up on the field and in the GY. Once per duel, if this card is Synchro Summoned: For the rest of the Duel apply 1 of the following effects, but you can only apply each of the following effects of \"Yuwilbe Missedadventurers\" once per Duel.\n● You can conduct 1 additional Normal Summon/Set per turn by sending the top card of your Deck to the GY.\n● When you draw for your normal draw in your Draw Phase: You can reveal 1 of those \"Misadventurer\" cards to draw 1 additional card.",
       "clauses": 4,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965669,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965669.jpg",
       "addedAt": "2026-08-10 03:19:09",
-      "changedAt": "2026-08-24 21:01:08"
+      "changedAt": "2026-09-11 21:04:51"
     }
   ],
   "archetypes": [
@@ -15506,6 +15508,30 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975253.jpg",
           "addedAt": "2026-08-10 03:14:20",
           "changedAt": "2026-09-11 21:03:38"
+        },
+        {
+          "id": 159,
+          "name": "Yuwilbe Missedadventurers",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Dragon",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 12",
+          "atk": "3500",
+          "def": "2400",
+          "text": "1+ Tuner + 1+ non-Tuner monsters.\nThis card's name also becomes \"Misadventurer's Overworked Healer\" while face-up on the field and in the GY. Once per duel, if this card is Synchro Summoned: For the rest of the Duel apply 1 of the following effects, but you can only apply each of the following effects of \"Yuwilbe Missedadventurers\" once per Duel.\n● You can conduct 1 additional Normal Summon/Set per turn by sending the top card of your Deck to the GY.\n● When you draw for your normal draw in your Draw Phase: You can reveal 1 of those \"Misadventurer\" cards to draw 1 additional card.",
+          "clauses": 4,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965669,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965669.jpg",
+          "addedAt": "2026-08-10 03:19:09",
+          "changedAt": "2026-09-11 21:04:51"
         }
       ]
     },
