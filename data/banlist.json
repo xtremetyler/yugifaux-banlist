@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T01:02:28.093Z",
+  "updatedAt": "2026-09-11T01:02:58.172Z",
   "cards": [
     {
       "id": 384,
@@ -1075,7 +1075,7 @@
     {
       "id": 460,
       "name": "Book of Sun",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -1089,7 +1089,7 @@
       "duelingbookId": 6038091,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038091.jpg",
       "addedAt": "2026-09-09 19:29:05",
-      "changedAt": "2026-09-09 19:29:05"
+      "changedAt": "2026-09-11 01:02:29"
     },
     {
       "id": 443,
@@ -6665,7 +6665,7 @@
     {
       "id": 464,
       "name": "Ruins Area of the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -6679,7 +6679,7 @@
       "duelingbookId": 6038095,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038095.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-09 19:29:06"
+      "changedAt": "2026-09-11 01:02:55"
     },
     {
       "id": 222,
@@ -8663,7 +8663,7 @@
     {
       "id": 463,
       "name": "Troubling Effigy in the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -8677,7 +8677,7 @@
       "duelingbookId": 6038094,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038094.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-09 19:29:06"
+      "changedAt": "2026-09-11 01:02:50"
     },
     {
       "id": 121,
@@ -9440,7 +9440,7 @@
     {
       "id": 462,
       "name": "Warrens Area of the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -9454,7 +9454,7 @@
       "duelingbookId": 6038093,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038093.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-09 19:29:06"
+      "changedAt": "2026-09-11 01:02:47"
     },
     {
       "id": 249,
@@ -9512,7 +9512,7 @@
     {
       "id": 461,
       "name": "Weald Area of the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -9526,7 +9526,7 @@
       "duelingbookId": 6038092,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038092.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-09 19:29:06"
+      "changedAt": "2026-09-11 01:02:43"
     },
     {
       "id": 415,
@@ -10583,7 +10583,7 @@
         {
           "id": 460,
           "name": "Book of Sun",
-          "status": "voting",
+          "status": "banned",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -10597,7 +10597,7 @@
           "duelingbookId": 6038091,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038091.jpg",
           "addedAt": "2026-09-09 19:29:05",
-          "changedAt": "2026-09-09 19:29:05"
+          "changedAt": "2026-09-11 01:02:29"
         }
       ]
     },
