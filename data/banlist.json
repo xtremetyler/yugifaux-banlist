@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:47:00.153Z",
+  "updatedAt": "2026-09-11T21:47:06.207Z",
   "cards": [
     {
       "id": 384,
@@ -7676,11 +7676,13 @@
       "def": "2000",
       "text": "If you control \"Spirebound Merchant\" or \"Spirebound Power-Echo Form\": You can Special Summon this card (from your hand). You can only Special Summon \"Spirebound Defect\" this way once per turn. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Power\" card from your Deck to your hand. If a Spire Counter(s) is placed on a face-up card you control, except \"Spirebound Defect\": You can place 1 Spire Counter on this card.",
       "clauses": 5,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979845,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979845.jpg",
       "addedAt": "2026-08-09 23:21:00",
-      "changedAt": "2026-08-24 17:07:25"
+      "changedAt": "2026-09-11 21:47:05"
     },
     {
       "id": 134,
@@ -14970,10 +14972,31 @@
       "notes": "Based on the hit video game -  Slay The Spire!\nHistorical note: Fifth designed.",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 134,
-      "featuredCardName": "Spirebound Heart",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979821.jpg",
+      "featuredCardId": 110,
+      "featuredCardName": "Spirebound Defect",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979845.jpg",
       "cards": [
+        {
+          "id": 110,
+          "name": "Spirebound Defect",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 4",
+          "atk": "1200",
+          "def": "2000",
+          "text": "If you control \"Spirebound Merchant\" or \"Spirebound Power-Echo Form\": You can Special Summon this card (from your hand). You can only Special Summon \"Spirebound Defect\" this way once per turn. If this card is Normal or Special Summoned: You can add 1 \"Spirebound Power\" card from your Deck to your hand. If a Spire Counter(s) is placed on a face-up card you control, except \"Spirebound Defect\": You can place 1 Spire Counter on this card.",
+          "clauses": 5,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979845,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979845.jpg",
+          "addedAt": "2026-08-09 23:21:00",
+          "changedAt": "2026-09-11 21:47:05"
+        },
         {
           "id": 134,
           "name": "Spirebound Heart",
