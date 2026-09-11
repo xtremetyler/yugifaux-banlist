@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T01:03:28.061Z",
+  "updatedAt": "2026-09-11T01:03:58.158Z",
   "cards": [
     {
       "id": 384,
@@ -3167,7 +3167,7 @@
     {
       "id": 472,
       "name": "Hag from the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Fairy",
@@ -3182,7 +3182,7 @@
       "duelingbookId": 6038103,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038103.jpg",
       "addedAt": "2026-09-09 19:29:07",
-      "changedAt": "2026-09-10 20:30:40"
+      "changedAt": "2026-09-11 01:03:53"
     },
     {
       "id": 502,
@@ -5592,7 +5592,7 @@
     {
       "id": 471,
       "name": "Necromancer from the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Spellcaster",
@@ -5607,7 +5607,7 @@
       "duelingbookId": 6038102,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038102.jpg",
       "addedAt": "2026-09-09 19:29:07",
-      "changedAt": "2026-09-10 20:31:28"
+      "changedAt": "2026-09-11 01:03:47"
     },
     {
       "id": 504,
@@ -7263,7 +7263,7 @@
     {
       "id": 470,
       "name": "Siren from the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Sea Serpent",
@@ -7278,7 +7278,7 @@
       "duelingbookId": 6038101,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038101.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-10 20:30:13"
+      "changedAt": "2026-09-11 01:03:43"
     },
     {
       "id": 367,
@@ -8011,7 +8011,7 @@
     {
       "id": 469,
       "name": "Swine Prince from the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Beast",
@@ -8026,7 +8026,7 @@
       "duelingbookId": 6038100,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038100.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-10 20:31:52"
+      "changedAt": "2026-09-11 01:03:31"
     },
     {
       "id": 390,
