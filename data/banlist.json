@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:48:36.071Z",
+  "updatedAt": "2026-09-11T23:09:23.178Z",
   "cards": [
     {
       "id": 384,
@@ -3563,11 +3563,13 @@
       "def": "1000",
       "text": "You can Special Summon this card from your hand by sending 1 Xyz Monster from your Extra Deck to the GY, then add 1 “High Caliber” monster from your Deck to your hand, except “High Caliber Deadeye Dixon”, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Xyz Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: Activate 1 of the following effects.\n● You can target 1 face-up Monster your opponent controls; negate its effects until the end of this turn.\n● You can add 1 Spell/Trap that mentions an Xyz Monster from your GY to your hand.\n You can only use each effect of “High Caliber Deadeye Dixon” once per turn.",
       "clauses": 5,
+      "archetype": "High Caliber",
+      "archetypeId": 7,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955888,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955888.jpg",
       "addedAt": "2026-08-07 03:33:04",
-      "changedAt": "2026-08-07 03:33:04"
+      "changedAt": "2026-09-11 23:09:22"
     },
     {
       "id": 99,
@@ -16149,7 +16151,32 @@
       "notes": "Historical Ephtear archetype; brought into the format to knock Shaitand out.",
       "historySource": "historical",
       "cardListComplete": false,
-      "cards": []
+      "featuredCardId": 96,
+      "featuredCardName": "High Caliber Deadeye Dixon",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955888.jpg",
+      "cards": [
+        {
+          "id": 96,
+          "name": "High Caliber Deadeye Dixon",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Machine",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 4",
+          "atk": "1700",
+          "def": "1000",
+          "text": "You can Special Summon this card from your hand by sending 1 Xyz Monster from your Extra Deck to the GY, then add 1 “High Caliber” monster from your Deck to your hand, except “High Caliber Deadeye Dixon”, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Rank 4 Machine Xyz Monsters. If this card is detached from a “High Caliber” Xyz Monster to activate that monster’s effect: Activate 1 of the following effects.\n● You can target 1 face-up Monster your opponent controls; negate its effects until the end of this turn.\n● You can add 1 Spell/Trap that mentions an Xyz Monster from your GY to your hand.\n You can only use each effect of “High Caliber Deadeye Dixon” once per turn.",
+          "clauses": 5,
+          "archetype": "High Caliber",
+          "archetypeId": 7,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5955888,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955888.jpg",
+          "addedAt": "2026-08-07 03:33:04",
+          "changedAt": "2026-09-11 23:09:22"
+        }
+      ]
     },
     {
       "id": 4,
