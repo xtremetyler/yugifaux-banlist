@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:27:05.661Z",
+  "updatedAt": "2026-09-11T23:27:14.917Z",
   "cards": [
     {
       "id": 384,
@@ -3295,11 +3295,13 @@
       "def": "100",
       "text": "During your turn (Quick Effect): You can reveal this card from your hand; attach it and up to 1 Trap Card from your GY to a LIGHT Xyz Monster you control as Material, except a Fairy Monster. You can send this card from your hand to the GY; add 1 Level 1 Monster that does not share a Type or Attribute with this card, from your deck to your hand. Once per turn, you can add 1 \"of the Horde\" Monster from your Deck or GY to your hand, except a Fairy Monster. A LIGHT Monster equipped with this card gains each of the above activated effects of this card.",
       "clauses": 4,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 6004328,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004328.jpg",
       "addedAt": "2026-08-20 13:46:32",
-      "changedAt": "2026-08-20 13:46:32"
+      "changedAt": "2026-09-11 23:27:14"
     },
     {
       "id": 39,
@@ -13589,10 +13591,31 @@
       "notes": "",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 270,
-      "featuredCardName": "Split: Birth of the Horde",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004327.jpg",
+      "featuredCardId": 271,
+      "featuredCardName": "Heart of the Horde - Hedwig",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004328.jpg",
       "cards": [
+        {
+          "id": 271,
+          "name": "Heart of the Horde - Hedwig",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fairy",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 1",
+          "atk": "100",
+          "def": "100",
+          "text": "During your turn (Quick Effect): You can reveal this card from your hand; attach it and up to 1 Trap Card from your GY to a LIGHT Xyz Monster you control as Material, except a Fairy Monster. You can send this card from your hand to the GY; add 1 Level 1 Monster that does not share a Type or Attribute with this card, from your deck to your hand. Once per turn, you can add 1 \"of the Horde\" Monster from your Deck or GY to your hand, except a Fairy Monster. A LIGHT Monster equipped with this card gains each of the above activated effects of this card.",
+          "clauses": 4,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 6004328,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004328.jpg",
+          "addedAt": "2026-08-20 13:46:32",
+          "changedAt": "2026-09-11 23:27:14"
+        },
         {
           "id": 270,
           "name": "Split: Birth of the Horde",
