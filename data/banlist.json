@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:46:25.565Z",
+  "updatedAt": "2026-09-11T21:46:32.026Z",
   "cards": [
     {
       "id": 384,
@@ -7753,11 +7753,13 @@
       "def": "3000",
       "text": "3 Level 4 Monsters\nIf a Spire Counter(s) would be placed on a face-up card you control, place twice that many Spire Counters on it instead. When your opponent activates a card or effect (Quick Effect): You can remove 4 Spire Counters from your field; negate the activation, and if you do, destroy that card. Once per turn: You can detach 1 Material from this card; Special Summon 1 \"Spirebound\" Monster from your GY.",
       "clauses": 4,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979826,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979826.jpg",
       "addedAt": "2026-08-10 03:04:38",
-      "changedAt": "2026-08-24 17:09:05"
+      "changedAt": "2026-09-11 21:46:31"
     },
     {
       "id": 129,
@@ -14985,6 +14987,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979823.jpg",
           "addedAt": "2026-08-10 03:04:00",
           "changedAt": "2026-09-11 21:46:24"
+        },
+        {
+          "id": 133,
+          "name": "Spirebound Neow",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "XYZ Monster",
+          "monsterType": "Fairy",
+          "attribute": "LIGHT",
+          "levelRankLink": "Rank 4",
+          "atk": "0",
+          "def": "3000",
+          "text": "3 Level 4 Monsters\nIf a Spire Counter(s) would be placed on a face-up card you control, place twice that many Spire Counters on it instead. When your opponent activates a card or effect (Quick Effect): You can remove 4 Spire Counters from your field; negate the activation, and if you do, destroy that card. Once per turn: You can detach 1 Material from this card; Special Summon 1 \"Spirebound\" Monster from your GY.",
+          "clauses": 4,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979826,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979826.jpg",
+          "addedAt": "2026-08-10 03:04:38",
+          "changedAt": "2026-09-11 21:46:31"
         },
         {
           "id": 129,
