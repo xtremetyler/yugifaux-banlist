@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T01:01:58.161Z",
+  "updatedAt": "2026-09-11T01:02:28.093Z",
   "cards": [
     {
       "id": 384,
@@ -669,7 +669,7 @@
     {
       "id": 458,
       "name": "Anointed Timegazer",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Pendulum Effect Monster",
       "monsterType": "Zombie",
@@ -686,12 +686,12 @@
       "duelingbookId": 6038088,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038088.jpg",
       "addedAt": "2026-09-09 19:29:05",
-      "changedAt": "2026-09-09 19:29:05"
+      "changedAt": "2026-09-11 01:02:04"
     },
     {
       "id": 459,
       "name": "Anointment By The Ankh",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -705,7 +705,7 @@
       "duelingbookId": 6038090,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038090.jpg",
       "addedAt": "2026-09-09 19:29:05",
-      "changedAt": "2026-09-09 19:29:05"
+      "changedAt": "2026-09-11 01:02:21"
     },
     {
       "id": 33,
@@ -10542,7 +10542,7 @@
         {
           "id": 458,
           "name": "Anointed Timegazer",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Pendulum Effect Monster",
           "monsterType": "Zombie",
@@ -10559,12 +10559,12 @@
           "duelingbookId": 6038088,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038088.jpg",
           "addedAt": "2026-09-09 19:29:05",
-          "changedAt": "2026-09-09 19:29:05"
+          "changedAt": "2026-09-11 01:02:04"
         },
         {
           "id": 459,
           "name": "Anointment By The Ankh",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Continuous",
@@ -10578,7 +10578,7 @@
           "duelingbookId": 6038090,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038090.jpg",
           "addedAt": "2026-09-09 19:29:05",
-          "changedAt": "2026-09-09 19:29:05"
+          "changedAt": "2026-09-11 01:02:21"
         },
         {
           "id": 460,
