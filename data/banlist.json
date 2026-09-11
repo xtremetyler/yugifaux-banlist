@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T01:03:58.158Z",
+  "updatedAt": "2026-09-11T01:04:28.074Z",
   "cards": [
     {
       "id": 384,
@@ -9397,7 +9397,7 @@
     {
       "id": 473,
       "name": "Wandering Collector from the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Fiend",
@@ -9412,7 +9412,7 @@
       "duelingbookId": 6038104,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038104.jpg",
       "addedAt": "2026-09-09 19:29:07",
-      "changedAt": "2026-09-09 19:29:07"
+      "changedAt": "2026-09-11 01:03:59"
     },
     {
       "id": 126,
