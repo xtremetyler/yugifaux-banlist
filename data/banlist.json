@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:46:32.026Z",
+  "updatedAt": "2026-09-11T21:46:40.041Z",
   "cards": [
     {
       "id": 384,
@@ -7695,11 +7695,13 @@
       "def": "3000",
       "text": "1 DARK Fiend Monster + 1 \"Spirebound\" Monster\nYou can only Special Summon “Spirebound Heart” once per turn. Must first be Fusion Summoned, or Special Summoned from your Extra Deck to your opponent’s field by Tributing 2 monsters they control, while they control more monsters than you do. You cannot Special Summon other Monsters from the Extra Deck during the turn you Summon \"Spirebound Heart\" this way, except \"Spirebound\" Monsters. If this card is Special Summoned: Each player can activate 1 Field Spell from their Deck. During your Standby Phase: Take 100 damage for each counter on the field. Before resolving a card effect that would negate this card's effects: Give control of this card to your opponent. You can only control 1 \"Spirebound Heart.\"",
       "clauses": 5,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979821,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979821.jpg",
       "addedAt": "2026-08-10 03:05:28",
-      "changedAt": "2026-08-24 17:07:55"
+      "changedAt": "2026-09-11 21:46:39"
     },
     {
       "id": 108,
@@ -14964,10 +14966,31 @@
       "notes": "Based on the hit video game -  Slay The Spire!\nHistorical note: Fifth designed.",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 132,
-      "featuredCardName": "Spirebound Merchant",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979823.jpg",
+      "featuredCardId": 134,
+      "featuredCardName": "Spirebound Heart",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979821.jpg",
       "cards": [
+        {
+          "id": 134,
+          "name": "Spirebound Heart",
+          "status": "banned",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Fiend",
+          "attribute": "DARK",
+          "levelRankLink": "Level 10",
+          "atk": "3000",
+          "def": "3000",
+          "text": "1 DARK Fiend Monster + 1 \"Spirebound\" Monster\nYou can only Special Summon “Spirebound Heart” once per turn. Must first be Fusion Summoned, or Special Summoned from your Extra Deck to your opponent’s field by Tributing 2 monsters they control, while they control more monsters than you do. You cannot Special Summon other Monsters from the Extra Deck during the turn you Summon \"Spirebound Heart\" this way, except \"Spirebound\" Monsters. If this card is Special Summoned: Each player can activate 1 Field Spell from their Deck. During your Standby Phase: Take 100 damage for each counter on the field. Before resolving a card effect that would negate this card's effects: Give control of this card to your opponent. You can only control 1 \"Spirebound Heart.\"",
+          "clauses": 5,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979821,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979821.jpg",
+          "addedAt": "2026-08-10 03:05:28",
+          "changedAt": "2026-09-11 21:46:39"
+        },
         {
           "id": 132,
           "name": "Spirebound Merchant",
