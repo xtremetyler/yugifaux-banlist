@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T00:58:58.276Z",
+  "updatedAt": "2026-09-11T00:59:28.074Z",
   "cards": [
     {
       "id": 384,
@@ -8738,7 +8738,7 @@
     {
       "id": 442,
       "name": "Tykho from the Hollow Era",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Pyro",
@@ -8753,7 +8753,7 @@
       "duelingbookId": 6038070,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038070.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 00:59:18"
     },
     {
       "id": 251,
@@ -10845,7 +10845,7 @@
         {
           "id": 442,
           "name": "Tykho from the Hollow Era",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Pyro",
@@ -10860,7 +10860,7 @@
           "duelingbookId": 6038070,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038070.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 00:59:18"
         }
       ]
     },
