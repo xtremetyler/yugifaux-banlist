@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T01:02:58.172Z",
+  "updatedAt": "2026-09-11T01:03:28.061Z",
   "cards": [
     {
       "id": 384,
@@ -1665,7 +1665,7 @@
     {
       "id": 468,
       "name": "Cove Area of the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -1679,7 +1679,7 @@
       "duelingbookId": 6038099,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038099.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-09 19:29:06"
+      "changedAt": "2026-09-11 01:03:25"
     },
     {
       "id": 67,
@@ -2250,7 +2250,7 @@
     {
       "id": 467,
       "name": "Eerie Coral in the Dungeon Dark",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -2264,12 +2264,12 @@
       "duelingbookId": 6038098,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038098.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-09 19:29:06"
+      "changedAt": "2026-09-11 01:03:17"
     },
     {
       "id": 466,
       "name": "Eldritch Altar in the Dungeon Dark",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -2283,7 +2283,7 @@
       "duelingbookId": 6038097,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038097.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-09 19:29:06"
+      "changedAt": "2026-09-11 01:03:04"
     },
     {
       "id": 193,
@@ -5750,7 +5750,7 @@
     {
       "id": 465,
       "name": "Occult Scrawlings in the Dungeon Dark",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -5764,7 +5764,7 @@
       "duelingbookId": 6038096,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038096.jpg",
       "addedAt": "2026-09-09 19:29:06",
-      "changedAt": "2026-09-09 19:29:06"
+      "changedAt": "2026-09-11 01:03:00"
     },
     {
       "id": 117,
