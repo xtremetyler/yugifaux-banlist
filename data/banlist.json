@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:29:03.337Z",
+  "updatedAt": "2026-09-11T23:29:12.783Z",
   "cards": [
     {
       "id": 384,
@@ -2400,11 +2400,13 @@
       "def": "0",
       "text": "Target 1 face-up Monster; equip this card to that target, then Special Summon 1 \"of the Horde\" Monster from your hand or GY. Increase the Level/Rank of a Monster either equipped with this card or that has this card attached to it as Material by 4. A Monster may only be equipped with 1 \"Fearful Personas - Orwell, Samuel, Heinrich, & Mr. Pritchard\" at a time.",
       "clauses": 3,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999291,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999291.jpg",
       "addedAt": "2026-08-17 15:02:49",
-      "changedAt": "2026-08-17 15:02:49"
+      "changedAt": "2026-09-11 23:29:12"
     },
     {
       "id": 290,
@@ -13595,10 +13597,30 @@
       "notes": "",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 271,
-      "featuredCardName": "Heart of the Horde - Hedwig",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004328.jpg",
+      "featuredCardId": 243,
+      "featuredCardName": "Fearful Personas - Orwell, Samuel, Heinrich, & Mr. Pritchard",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999291.jpg",
       "cards": [
+        {
+          "id": 243,
+          "name": "Fearful Personas - Orwell, Samuel, Heinrich, & Mr. Pritchard",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 face-up Monster; equip this card to that target, then Special Summon 1 \"of the Horde\" Monster from your hand or GY. Increase the Level/Rank of a Monster either equipped with this card or that has this card attached to it as Material by 4. A Monster may only be equipped with 1 \"Fearful Personas - Orwell, Samuel, Heinrich, & Mr. Pritchard\" at a time.",
+          "clauses": 3,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5999291,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999291.jpg",
+          "addedAt": "2026-08-17 15:02:49",
+          "changedAt": "2026-09-11 23:29:12"
+        },
         {
           "id": 271,
           "name": "Heart of the Horde - Hedwig",
