@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T01:00:58.061Z",
+  "updatedAt": "2026-09-11T01:01:28.161Z",
   "cards": [
     {
       "id": 384,
@@ -563,7 +563,7 @@
     {
       "id": 453,
       "name": "Anointed Deacon",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Pendulum Effect Monster",
       "monsterType": "Zombie",
@@ -580,12 +580,12 @@
       "duelingbookId": 6038082,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038082.jpg",
       "addedAt": "2026-09-09 19:29:05",
-      "changedAt": "2026-09-09 19:29:05"
+      "changedAt": "2026-09-11 01:01:10"
     },
     {
       "id": 454,
       "name": "Anointed Kuriboh",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Pendulum Effect Monster",
       "monsterType": "Zombie",
@@ -602,7 +602,7 @@
       "duelingbookId": 6038083,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038083.jpg",
       "addedAt": "2026-09-09 19:29:05",
-      "changedAt": "2026-09-09 19:29:05"
+      "changedAt": "2026-09-11 01:01:17"
     },
     {
       "id": 455,
@@ -10436,7 +10436,7 @@
         {
           "id": 453,
           "name": "Anointed Deacon",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Pendulum Effect Monster",
           "monsterType": "Zombie",
@@ -10453,12 +10453,12 @@
           "duelingbookId": 6038082,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038082.jpg",
           "addedAt": "2026-09-09 19:29:05",
-          "changedAt": "2026-09-09 19:29:05"
+          "changedAt": "2026-09-11 01:01:10"
         },
         {
           "id": 454,
           "name": "Anointed Kuriboh",
-          "status": "voting",
+          "status": "banned",
           "source": "custom",
           "cardType": "Pendulum Effect Monster",
           "monsterType": "Zombie",
@@ -10475,7 +10475,7 @@
           "duelingbookId": 6038083,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038083.jpg",
           "addedAt": "2026-09-09 19:29:05",
-          "changedAt": "2026-09-09 19:29:05"
+          "changedAt": "2026-09-11 01:01:17"
         },
         {
           "id": 455,
