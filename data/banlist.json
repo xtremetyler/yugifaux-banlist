@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:29:22.628Z",
+  "updatedAt": "2026-09-11T23:29:33.968Z",
   "cards": [
     {
       "id": 384,
@@ -1851,11 +1851,13 @@
       "def": "100",
       "text": "During your turn (Quick Effect): You can reveal this card in your hand; attach it to a LIGHT Xyz Monster you control, except a Spellcaster Monster, to Special Summon up to 1 Monster currently attached to that Monster. Destroy the first Monster Card that activates its effect in your opponent's hand each turn as that effect resolves. A LIGHT Monster equipped with this card gains each of the above activated effects of this card.",
       "clauses": 3,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999300,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999300.jpg",
       "addedAt": "2026-08-17 15:08:50",
-      "changedAt": "2026-08-17 15:08:50"
+      "changedAt": "2026-09-11 23:29:33"
     },
     {
       "id": 4,
@@ -13599,10 +13601,31 @@
       "notes": "",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 243,
-      "featuredCardName": "Fearful Personas - Orwell, Samuel, Heinrich, & Mr. Pritchard",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999291.jpg",
+      "featuredCardId": 245,
+      "featuredCardName": "Damsel of the Horde - Jade",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999300.jpg",
       "cards": [
+        {
+          "id": 245,
+          "name": "Damsel of the Horde - Jade",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 1",
+          "atk": "100",
+          "def": "100",
+          "text": "During your turn (Quick Effect): You can reveal this card in your hand; attach it to a LIGHT Xyz Monster you control, except a Spellcaster Monster, to Special Summon up to 1 Monster currently attached to that Monster. Destroy the first Monster Card that activates its effect in your opponent's hand each turn as that effect resolves. A LIGHT Monster equipped with this card gains each of the above activated effects of this card.",
+          "clauses": 3,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5999300,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999300.jpg",
+          "addedAt": "2026-08-17 15:08:50",
+          "changedAt": "2026-09-11 23:29:33"
+        },
         {
           "id": 243,
           "name": "Fearful Personas - Orwell, Samuel, Heinrich, & Mr. Pritchard",
