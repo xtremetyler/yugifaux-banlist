@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T00:59:28.074Z",
+  "updatedAt": "2026-09-11T00:59:58.108Z",
   "cards": [
     {
       "id": 384,
@@ -3742,7 +3742,7 @@
     {
       "id": 445,
       "name": "Hollow Era Red Giant Fusion",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -3756,7 +3756,7 @@
       "duelingbookId": 6038073,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038073.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 00:59:54"
     },
     {
       "id": 439,
@@ -4549,7 +4549,7 @@
     {
       "id": 444,
       "name": "Leileo from the Hollow Era",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Pyro",
@@ -4564,7 +4564,7 @@
       "duelingbookId": 6038072,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038072.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 00:59:29"
     },
     {
       "id": 426,
@@ -10678,7 +10678,7 @@
         {
           "id": 445,
           "name": "Hollow Era Red Giant Fusion",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -10692,7 +10692,7 @@
           "duelingbookId": 6038073,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038073.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 00:59:54"
         },
         {
           "id": 439,
@@ -10785,7 +10785,7 @@
         {
           "id": 444,
           "name": "Leileo from the Hollow Era",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Pyro",
@@ -10800,7 +10800,7 @@
           "duelingbookId": 6038072,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038072.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 00:59:29"
         },
         {
           "id": 448,
