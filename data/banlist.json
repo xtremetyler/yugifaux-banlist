@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:47:35.443Z",
+  "updatedAt": "2026-09-11T21:47:42.965Z",
   "cards": [
     {
       "id": 384,
@@ -7886,11 +7886,13 @@
       "def": "0",
       "text": "Target 1 \"Spirebound\" card in your GY; add it to your hand, then if you control \"Spirebound Defect\", place 1 Spire Counter on a face-up card you control.",
       "clauses": 2,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979822,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979822.jpg",
       "addedAt": "2026-08-10 00:30:52",
-      "changedAt": "2026-08-24 17:11:43"
+      "changedAt": "2026-09-11 21:47:42"
     },
     {
       "id": 114,
@@ -15250,6 +15252,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979829.jpg",
           "addedAt": "2026-08-10 00:30:17",
           "changedAt": "2026-09-11 21:47:34"
+        },
+        {
+          "id": 116,
+          "name": "Spirebound Skill - Hologram",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 \"Spirebound\" card in your GY; add it to your hand, then if you control \"Spirebound Defect\", place 1 Spire Counter on a face-up card you control.",
+          "clauses": 2,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979822,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979822.jpg",
+          "addedAt": "2026-08-10 00:30:52",
+          "changedAt": "2026-09-11 21:47:42"
         },
         {
           "id": 114,
