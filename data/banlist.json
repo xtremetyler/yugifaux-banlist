@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:28:53.835Z",
+  "updatedAt": "2026-09-11T23:29:03.337Z",
   "cards": [
     {
       "id": 384,
@@ -8323,11 +8323,13 @@
       "def": "0",
       "text": "Target 1 face-up Monster; you can add up to 1 Level 1 Monster or a Spell/Trap that mentions a Level 1 Monster from your GY to your hand, then equip this card to that target. Increase the Level/Rank of a Monster either equipped with this card or that has this card attached to it as Material by 9. A Monster may only be equipped with 1 \"The Nine Personas Unseen\" at a time. If this card attached to an Xyz Monster as Material is detached or if the Monster it is attached to is sent to the GY: You can Set it to either player's field.",
       "clauses": 3,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5999257,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999257.jpg",
       "addedAt": "2026-08-17 14:37:22",
-      "changedAt": "2026-08-24 14:55:11"
+      "changedAt": "2026-09-11 23:29:02"
     },
     {
       "id": 226,
@@ -13658,6 +13660,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004327.jpg",
           "addedAt": "2026-08-20 13:44:15",
           "changedAt": "2026-09-11 23:27:05"
+        },
+        {
+          "id": 242,
+          "name": "The Nine Personas Unseen",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 face-up Monster; you can add up to 1 Level 1 Monster or a Spell/Trap that mentions a Level 1 Monster from your GY to your hand, then equip this card to that target. Increase the Level/Rank of a Monster either equipped with this card or that has this card attached to it as Material by 9. A Monster may only be equipped with 1 \"The Nine Personas Unseen\" at a time. If this card attached to an Xyz Monster as Material is detached or if the Monster it is attached to is sent to the GY: You can Set it to either player's field.",
+          "clauses": 3,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5999257,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999257.jpg",
+          "addedAt": "2026-08-17 14:37:22",
+          "changedAt": "2026-09-11 23:29:02"
         }
       ]
     },
