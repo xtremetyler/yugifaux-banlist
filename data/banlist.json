@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:29:47.784Z",
+  "updatedAt": "2026-09-11T23:29:56.823Z",
   "cards": [
     {
       "id": 384,
@@ -8808,11 +8808,13 @@
       "def": "0",
       "text": "Target 1 face-up Monster; move this card to your opponent's Spell & Trap Zone under their control, then equip this card to that target. Increase the Level/Rank of a Monster either equipped with this card or that has this card attached to it as Material by 2. A Monster may only be equipped with 1 \"Twin Personas Coalition - Ian & Mary Fields\" at a time.",
       "clauses": 3,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999442,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999442.jpg",
       "addedAt": "2026-08-17 16:50:43",
-      "changedAt": "2026-08-17 16:50:43"
+      "changedAt": "2026-09-11 23:29:56"
     },
     {
       "id": 8,
@@ -13769,6 +13771,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999257.jpg",
           "addedAt": "2026-08-17 14:37:22",
           "changedAt": "2026-09-11 23:29:02"
+        },
+        {
+          "id": 247,
+          "name": "Twin Personas Coalition - Ian & Mary Fields",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 face-up Monster; move this card to your opponent's Spell & Trap Zone under their control, then equip this card to that target. Increase the Level/Rank of a Monster either equipped with this card or that has this card attached to it as Material by 2. A Monster may only be equipped with 1 \"Twin Personas Coalition - Ian & Mary Fields\" at a time.",
+          "clauses": 3,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5999442,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999442.jpg",
+          "addedAt": "2026-08-17 16:50:43",
+          "changedAt": "2026-09-11 23:29:56"
         }
       ]
     },
