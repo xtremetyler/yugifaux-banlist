@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:03:59.474Z",
+  "updatedAt": "2026-09-11T21:04:06.003Z",
   "cards": [
     {
       "id": 384,
@@ -5334,11 +5334,13 @@
       "def": "0",
       "text": "Target 1 “Misadventurer” monster you control; Normal Summon 1 Level 3 “Misadventurer” monster with a different name from your hand or GY, then return the targeted monster to the hand. If you Tribute Summon a Level 9 or higher monster while this card is in your GY: You can banish this card; change all monsters your opponent controls to face-down Defense Position. You can only activate each effect of “Misadventurer Encounter – Just in Slime!” per turn, unless there is a \"Misadventurer's Final Straw\" in your banishment.",
       "clauses": 4,
+      "archetype": "Misadventurer",
+      "archetypeId": 9,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5965671,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965671.jpg",
       "addedAt": "2026-08-10 03:16:19",
-      "changedAt": "2026-08-10 03:16:19"
+      "changedAt": "2026-09-11 21:04:05"
     },
     {
       "id": 155,
@@ -15234,10 +15236,30 @@
       "notes": "Historical Ephtear archetype; YouWillBeMissed Adventurers; purchased historical four-clause buffer.",
       "historySource": "historical",
       "cardListComplete": false,
-      "featuredCardId": 151,
-      "featuredCardName": "Misadventurer's Calamitous Wizard",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965653.jpg",
+      "featuredCardId": 152,
+      "featuredCardName": "Misadventurer Encounter - Just in Slime!",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965671.jpg",
       "cards": [
+        {
+          "id": 152,
+          "name": "Misadventurer Encounter - Just in Slime!",
+          "status": "limeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 “Misadventurer” monster you control; Normal Summon 1 Level 3 “Misadventurer” monster with a different name from your hand or GY, then return the targeted monster to the hand. If you Tribute Summon a Level 9 or higher monster while this card is in your GY: You can banish this card; change all monsters your opponent controls to face-down Defense Position. You can only activate each effect of “Misadventurer Encounter – Just in Slime!” per turn, unless there is a \"Misadventurer's Final Straw\" in your banishment.",
+          "clauses": 4,
+          "archetype": "Misadventurer",
+          "archetypeId": 9,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5965671,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5965671.jpg",
+          "addedAt": "2026-08-10 03:16:19",
+          "changedAt": "2026-09-11 21:04:05"
+        },
         {
           "id": 151,
           "name": "Misadventurer's Calamitous Wizard",
