@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-10T20:31:57.214Z",
+  "updatedAt": "2026-09-11T00:58:58.276Z",
   "cards": [
     {
       "id": 384,
@@ -3761,7 +3761,7 @@
     {
       "id": 439,
       "name": "Hollow Era Stargazer Cann-Annie",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Aqua",
@@ -3779,12 +3779,12 @@
       "duelingbookId": 6038067,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038067.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 00:58:41"
     },
     {
       "id": 441,
       "name": "Hollow Era Stargazer Coper-Nick",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Aqua",
@@ -3802,12 +3802,12 @@
       "duelingbookId": 6038069,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038069.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 00:58:52"
     },
     {
       "id": 440,
       "name": "Hollow Era Stargazer Gali-Gali",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Aqua",
@@ -3825,7 +3825,7 @@
       "duelingbookId": 6038068,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038068.jpg",
       "addedAt": "2026-09-09 19:29:04",
-      "changedAt": "2026-09-09 19:29:04"
+      "changedAt": "2026-09-11 00:58:47"
     },
     {
       "id": 446,
@@ -10697,7 +10697,7 @@
         {
           "id": 439,
           "name": "Hollow Era Stargazer Cann-Annie",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Aqua",
@@ -10715,12 +10715,12 @@
           "duelingbookId": 6038067,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038067.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 00:58:41"
         },
         {
           "id": 441,
           "name": "Hollow Era Stargazer Coper-Nick",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Aqua",
@@ -10738,12 +10738,12 @@
           "duelingbookId": 6038069,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038069.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 00:58:52"
         },
         {
           "id": 440,
           "name": "Hollow Era Stargazer Gali-Gali",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Aqua",
@@ -10761,7 +10761,7 @@
           "duelingbookId": 6038068,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038068.jpg",
           "addedAt": "2026-09-09 19:29:04",
-          "changedAt": "2026-09-09 19:29:04"
+          "changedAt": "2026-09-11 00:58:47"
         },
         {
           "id": 446,
