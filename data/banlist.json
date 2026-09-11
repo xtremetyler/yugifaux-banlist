@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:05:57.553Z",
+  "updatedAt": "2026-09-11T21:46:00.542Z",
   "cards": [
     {
       "id": 384,
@@ -7769,11 +7769,13 @@
       "def": "0",
       "text": "When this card is activated: You can Special Summon 1 \"Spirebound Ironclad\" from your hand or GY. During each Standby Phase: Place 1 Spire Counter on this card. \"Spirebound\" Monsters you control gain 200 ATK for each Spire Counter on your field.",
       "clauses": 3,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979834,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979834.jpg",
       "addedAt": "2026-08-10 03:02:13",
-      "changedAt": "2026-08-24 17:09:28"
+      "changedAt": "2026-09-11 21:45:59"
     },
     {
       "id": 131,
@@ -14954,10 +14956,30 @@
       "notes": "Based on the hit video game -  Slay The Spire!\nHistorical note: Fifth designed.",
       "historySource": "bot",
       "cardListComplete": true,
-      "featuredCardId": 86,
-      "featuredCardName": "The Spire",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979842.jpg",
+      "featuredCardId": 129,
+      "featuredCardName": "Spirebound Power - Demon Form",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979834.jpg",
       "cards": [
+        {
+          "id": 129,
+          "name": "Spirebound Power - Demon Form",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can Special Summon 1 \"Spirebound Ironclad\" from your hand or GY. During each Standby Phase: Place 1 Spire Counter on this card. \"Spirebound\" Monsters you control gain 200 ATK for each Spire Counter on your field.",
+          "clauses": 3,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979834,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979834.jpg",
+          "addedAt": "2026-08-10 03:02:13",
+          "changedAt": "2026-09-11 21:45:59"
+        },
         {
           "id": 86,
           "name": "The Spire",
