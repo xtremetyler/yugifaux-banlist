@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:46:00.542Z",
+  "updatedAt": "2026-09-11T21:46:09.516Z",
   "cards": [
     {
       "id": 384,
@@ -7807,11 +7807,13 @@
       "def": "0",
       "text": "When this card is activated: Place 3 Spire Counter son it. Once per turn, you can remove 1 Spire Counter from your field to target 1 \"Spirebound Silent\" on the field or in your GY; apply 1 of its activated effects as this effect. If a \"Spirebound\" Monster you control would be destroyed by battle or card effect, you can remove 1 Spire Counter from this card instead. Destroy this card when it has no Spire Counters.",
       "clauses": 3,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979836,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979836.jpg",
       "addedAt": "2026-08-10 03:02:51",
-      "changedAt": "2026-08-24 17:10:22"
+      "changedAt": "2026-09-11 21:46:08"
     },
     {
       "id": 109,
@@ -14979,6 +14981,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979834.jpg",
           "addedAt": "2026-08-10 03:02:13",
           "changedAt": "2026-09-11 21:45:59"
+        },
+        {
+          "id": 130,
+          "name": "Spirebound Power - Wraith Form",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: Place 3 Spire Counter son it. Once per turn, you can remove 1 Spire Counter from your field to target 1 \"Spirebound Silent\" on the field or in your GY; apply 1 of its activated effects as this effect. If a \"Spirebound\" Monster you control would be destroyed by battle or card effect, you can remove 1 Spire Counter from this card instead. Destroy this card when it has no Spire Counters.",
+          "clauses": 3,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979836,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979836.jpg",
+          "addedAt": "2026-08-10 03:02:51",
+          "changedAt": "2026-09-11 21:46:08"
         },
         {
           "id": 86,
