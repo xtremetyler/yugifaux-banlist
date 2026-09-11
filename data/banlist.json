@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T21:46:09.516Z",
+  "updatedAt": "2026-09-11T21:46:18.785Z",
   "cards": [
     {
       "id": 384,
@@ -7789,11 +7789,13 @@
       "def": "0",
       "text": "During the Standby Phase: Place 1 Spire Counter on this card and up to 1 \"Spirebound Defect\" you control. Once per turn, when you activate a \"Spirebound\" Normal Spell (Quick Effect): You can remove 2 Spire Counters from your field; this effect becomes that card's activation effect.",
       "clauses": 3,
+      "archetype": "Spirebound",
+      "archetypeId": 1,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5979837,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979837.jpg",
       "addedAt": "2026-08-10 03:03:22",
-      "changedAt": "2026-08-24 17:10:06"
+      "changedAt": "2026-09-11 21:46:18"
     },
     {
       "id": 130,
@@ -14981,6 +14983,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979834.jpg",
           "addedAt": "2026-08-10 03:02:13",
           "changedAt": "2026-09-11 21:45:59"
+        },
+        {
+          "id": 131,
+          "name": "Spirebound Power - Echo Form",
+          "status": "unlimeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During the Standby Phase: Place 1 Spire Counter on this card and up to 1 \"Spirebound Defect\" you control. Once per turn, when you activate a \"Spirebound\" Normal Spell (Quick Effect): You can remove 2 Spire Counters from your field; this effect becomes that card's activation effect.",
+          "clauses": 3,
+          "archetype": "Spirebound",
+          "archetypeId": 1,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5979837,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5979837.jpg",
+          "addedAt": "2026-08-10 03:03:22",
+          "changedAt": "2026-09-11 21:46:18"
         },
         {
           "id": 130,
