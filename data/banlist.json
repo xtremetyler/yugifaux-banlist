@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:29:33.968Z",
+  "updatedAt": "2026-09-11T23:29:47.784Z",
   "cards": [
     {
       "id": 384,
@@ -6690,11 +6690,13 @@
       "def": "0",
       "text": "Target 1 face-up Monster; equip this card to that target, then you can negate the effects of a Monster in that target's column for as long as this card remains equipped. Increase the Level/Rank of a Monster either equipped with this card or that has this card attached to it as Material by 2. A Monster may only be equipped with 1 \"Revelatory Personas - Norma & Luke\" at a time.",
       "clauses": 3,
+      "archetype": "The Horde",
+      "archetypeId": 14,
       "contributor": "Left Parm of the Forbitten One",
       "duelingbookId": 5999303,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999303.jpg",
       "addedAt": "2026-08-17 15:10:44",
-      "changedAt": "2026-08-17 15:10:44"
+      "changedAt": "2026-09-11 23:29:47"
     },
     {
       "id": 388,
@@ -13707,6 +13709,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004329.jpg",
           "addedAt": "2026-08-20 13:51:19",
           "changedAt": "2026-09-11 23:27:25"
+        },
+        {
+          "id": 246,
+          "name": "Revelatory Personas - Norma & Luke",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 face-up Monster; equip this card to that target, then you can negate the effects of a Monster in that target's column for as long as this card remains equipped. Increase the Level/Rank of a Monster either equipped with this card or that has this card attached to it as Material by 2. A Monster may only be equipped with 1 \"Revelatory Personas - Norma & Luke\" at a time.",
+          "clauses": 3,
+          "archetype": "The Horde",
+          "archetypeId": 14,
+          "contributor": "Left Parm of the Forbitten One",
+          "duelingbookId": 5999303,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999303.jpg",
+          "addedAt": "2026-08-17 15:10:44",
+          "changedAt": "2026-09-11 23:29:47"
         },
         {
           "id": 270,
