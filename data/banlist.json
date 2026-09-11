@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:12:05.995Z",
+  "updatedAt": "2026-09-11T23:12:37.435Z",
   "cards": [
     {
       "id": 384,
@@ -16172,7 +16172,7 @@
       "finalAddedClauses": 0,
       "notes": "Historical Ephtear archetype; brought into the format to knock Shaitand out.",
       "historySource": "historical",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 96,
       "featuredCardName": "High Caliber Deadeye Dixon",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955888.jpg",
