@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-11T23:09:31.997Z",
+  "updatedAt": "2026-09-11T23:09:41.252Z",
   "cards": [
     {
       "id": 384,
@@ -3640,11 +3640,13 @@
       "def": "0",
       "text": "When this card is activated: You can add 1 “High Caliber” monster from your Deck to your hand. Once per turn, if a “High Caliber” Xyz Monster is Special Summoned to your field: You can attach 1 “High Caliber” monster from your Deck or GY to it as material, and if you do, you can add 1 card attached to it to the hand. You can only activate 1 “High Caliber Loaded Chamber” per turn.",
       "clauses": 5,
+      "archetype": "High Caliber",
+      "archetypeId": 7,
       "contributor": "Edward Swissorhands",
       "duelingbookId": 5955928,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955928.jpg",
       "addedAt": "2026-08-07 03:38:00",
-      "changedAt": "2026-08-07 03:38:00"
+      "changedAt": "2026-09-11 23:09:40"
     },
     {
       "id": 107,
@@ -16197,6 +16199,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955931.jpg",
           "addedAt": "2026-08-07 03:35:08",
           "changedAt": "2026-09-11 23:09:31"
+        },
+        {
+          "id": 98,
+          "name": "High Caliber Loaded Chamber",
+          "status": "semi-limeade",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can add 1 “High Caliber” monster from your Deck to your hand. Once per turn, if a “High Caliber” Xyz Monster is Special Summoned to your field: You can attach 1 “High Caliber” monster from your Deck or GY to it as material, and if you do, you can add 1 card attached to it to the hand. You can only activate 1 “High Caliber Loaded Chamber” per turn.",
+          "clauses": 5,
+          "archetype": "High Caliber",
+          "archetypeId": 7,
+          "contributor": "Edward Swissorhands",
+          "duelingbookId": 5955928,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5955928.jpg",
+          "addedAt": "2026-08-07 03:38:00",
+          "changedAt": "2026-09-11 23:09:40"
         }
       ]
     },
