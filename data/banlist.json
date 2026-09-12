@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-12T11:07:34.839Z",
+  "updatedAt": "2026-09-12T13:39:51.936Z",
   "cards": [
     {
       "id": 384,
@@ -6065,6 +6065,7 @@
       "text": "Destroy this card if your opponent activates a card or effect that targets a card(s) in the Graveyard. When this card is destroyed by this effect and sent to the Graveyard, your opponent shuffles all cards in their Graveyard into the Deck.",
       "contributor": "Left Parm of the Forbitten One",
       "passcode": "79718768",
+      "duelingbookId": 1430,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/79718768.jpg",
       "officialUrl": "https://ygoprodeck.com/card/out-of-the-blue-6682",
       "addedAt": "2026-08-24 16:44:21",
@@ -6082,6 +6083,7 @@
       "archetype": "Overlay",
       "contributor": "Edward Swissorhands",
       "passcode": "67378935",
+      "duelingbookId": 12823,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/67378935.jpg",
       "officialUrl": "https://ygoprodeck.com/card/overlay-network-12986",
       "addedAt": "2026-07-29 04:24:56",
@@ -6171,6 +6173,7 @@
       "archetype": "Penguin",
       "contributor": "Edward Swissorhands",
       "passcode": "93920745",
+      "duelingbookId": 3276,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/93920745.jpg",
       "officialUrl": "https://ygoprodeck.com/card/penguin-soldier-7816",
       "addedAt": "2026-07-29 05:06:05",
@@ -6235,6 +6238,7 @@
       "text": "2 Effect Monsters\r\nWhen a monster this card points to activates its effect (except during the Damage Step) (Quick Effect): You can target 1 Effect Monster your opponent controls; until the end of this turn, change its ATK to 0, also negate its effects. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there this turn: You can Special Summon this card. You can only use each effect of \"Pitknight Earlie\" once per turn.",
       "contributor": "The Original Rough Cheddar",
       "passcode": "47759571",
+      "duelingbookId": 13399,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/47759571.jpg",
       "officialUrl": "https://ygoprodeck.com/card/pitknight-earlie-13427",
       "addedAt": "2026-08-21 17:51:05",
