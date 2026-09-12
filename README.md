@@ -1,10 +1,10 @@
 # YugiFaux Dynamic Limeade List
 
-Static public website for the YugiFaux custom-card league.
+Static public website for the YugiFaux custom-card league, including the Dynamic Limeade List, Draft Night, league rules, the Archetype Archive, and the YugiFAUX DuelingBook Companion page.
 
 ## Preview locally
 
-Serve this directory with any static web server. The page loads card information from `data/banlist.json`; opening `index.html` directly will not work in every browser because browsers restrict local JSON requests.
+Serve this directory with any static web server. The Limeade List, Draft Night, and Archetype Archive load their public data from `data/banlist.json`; opening the pages directly will not work in every browser because browsers restrict local JSON requests.
 
 ## GitHub Pages
 

@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0b0d17" />
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="manifest" href="site.webmanifest" />
+    <meta name="description" content="Install the optional YugiFAUX DuelingBook Companion for league themes, animations, Tokens, macros, reminders, rarities, and guided match setup." />
+    <title>YugiFAUX DuelingBook Companion</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="draft-styles.css" />
+    <link rel="stylesheet" href="companion.css?v=1" />
+  </head>
+  <body class="companion-page">
+    <header class="companion-hero">
+      <div class="companion-hero__glow" aria-hidden="true"></div>
+      <div class="shell companion-hero__inner">
+        <nav class="site-nav" aria-label="YugiFaux pages">
+          <a href="index.html">Home</a>
+          <a href="banlist.html">Limeade List</a>
+          <a href="rules.html">League Rules</a>
+          <a href="draft.html">Draft Night</a>
+          <a href="archive.html">Archive</a>
+          <a href="companion.html" aria-current="page">Companion</a>
+        </nav>
+        <div class="companion-hero__grid">
+          <div class="companion-hero__copy">
+            <div class="companion-brandline"><img src="assets/yugifauxlogo-mark.png" alt="" /><span>Free · Optional · Player-controlled</span></div>
+            <h1>Make every YugiFAUX duel feel like an event.</h1>
+            <p>The YugiFAUX DuelingBook Companion adds league visuals, animated card moments, custom Tokens, macros, reminders, rarities, and guided Match setup—without changing DuelingBook’s authoritative game state.</p>
+            <div class="companion-actions">
+              <a class="companion-button companion-button--primary" href="https://github.com/xtremetyler/yugifaux-duelingbook-companion/raw/refs/heads/main/dist/yugifaux-companion.user.js">Install with Tampermonkey</a>
+              <a class="companion-button companion-button--secondary" href="https://github.com/xtremetyler/yugifaux-duelingbook-companion" target="_blank" rel="noopener noreferrer">View source on GitHub</a>
+            </div>
+            <p class="companion-reassurance">Players without the Companion can still participate normally. You can disable it at any time.</p>
+          </div>
+          <figure class="companion-hero__media">
+            <img src="assets/companion-duel-overlay.png" alt="A YugiFAUX duel using the Companion’s themed field overlay and duel tools" />
+            <figcaption><span>In-duel overlay</span><strong>Built around the league you already play</strong></figcaption>
+          </figure>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="shell companion-section" id="features">
+        <div class="companion-heading">
+          <p class="eyebrow">What it adds</p>
+          <h2>More presentation. Less friction.</h2>
+          <p>Every feature is optional and activated by the player. The Companion focuses on the moments and repeated tasks that make custom-card matches feel polished.</p>
+        </div>
+        <div class="companion-feature-grid">
+          <article><span>01</span><h3>Card animations</h3><p>Themed, pointer-transparent overlays play when configured cards are publicly declared or activated.</p></article>
+          <article><span>02</span><h3>Custom Tokens</h3><p>Choose a supported source card, review its Token recipe, then summon through DuelingBook’s native zone selector.</p></article>
+          <article><span>03</span><h3>Match launcher</h3><p>Prepare a YugiFAUX Custom Cards Match with a review step before the Companion presses Host.</p></article>
+          <article><span>04</span><h3>Chain and custom macros</h3><p>Send readable Chain declarations or run allowlisted, click-to-start shortcuts for your own cards and zones.</p></article>
+          <article><span>05</span><h3>Markers and reminders</h3><p>Place compact presentation-only reminders on face-up cards, with optional public announcements.</p></article>
+          <article><span>06</span><h3>Card rarities</h3><p>Assign local animated foil and name treatments in the Deck Constructor, including Pendulum-aware assets.</p></article>
+        </div>
+      </section>
+
+      <section class="companion-showcase" id="showcase">
+        <div class="shell">
+          <div class="companion-heading companion-heading--wide">
+            <p class="eyebrow">Inside the Companion</p>
+            <h2>Designed to stay out of the way—until the moment matters.</h2>
+          </div>
+          <div class="companion-gallery">
+            <a class="companion-shot companion-shot--wide" href="assets/companion-iris-animation.png" target="_blank">
+              <img src="assets/companion-iris-animation.png" alt="Iris the Radiant custom summon animation displayed over a duel" loading="lazy" />
+              <span><strong>Cinematic card moments</strong><small>Configured public declarations can trigger themed animations for installed players and spectators.</small></span>
+            </a>
+            <a class="companion-shot" href="assets/companion-token-summon.png" target="_blank">
+              <img src="assets/companion-token-summon.png" alt="Companion Token summon selection window during a duel" loading="lazy" />
+              <span><strong>Guided Token summons</strong><small>Review supported recipes before choosing native Monster Zones.</small></span>
+            </a>
+            <a class="companion-shot" href="assets/companion-rarity-editor.png" target="_blank">
+              <img src="assets/companion-rarity-editor.png" alt="Secret Rare treatment selected for a card in the Deck Constructor" loading="lazy" />
+              <span><strong>A deck that looks like yours</strong><small>Save animated rarity treatments locally by card name.</small></span>
+            </a>
+            <a class="companion-shot companion-shot--wide" href="assets/companion-login-theme.png" target="_blank">
+              <img src="assets/companion-login-theme.png" alt="DuelingBook start page with a YugiFAUX background and custom character" loading="lazy" />
+              <span><strong>League visual theme</strong><small>Use the YugiFAUX background and rotating start-page characters, or restore the original appearance.</small></span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="shell companion-section companion-tools" id="tools">
+        <div class="companion-tools__intro">
+          <p class="eyebrow">During a duel</p>
+          <h2>Useful controls stay one tab away.</h2>
+          <p>TOKENS, CHAIN, MACROS, and MARKERS live along the edge of the duel. They support player actions and communication; they never decide whether an action is legal.</p>
+        </div>
+        <div class="companion-tool-list">
+          <article><b>TOKENS</b><p>Pick the source card, review the exact presentation recipe, confirm, and choose an open Monster Zone.</p></article>
+          <article><b>CHAIN</b><p>Declare Chain Links 1–8 in public chat, with optional sound and a brief profile animation for installed players.</p></article>
+          <article><b>MACROS</b><p>Create click-to-run shortcuts from supported actions. Macro text is never executed as JavaScript.</p></article>
+          <article><b>MARKERS</b><p>Add private or publicly announced reminders, including End Phase expiration, to face-up cards.</p></article>
+        </div>
+      </section>
+
+      <section class="companion-boundaries">
+        <div class="shell companion-boundaries__grid">
+          <div>
+            <p class="eyebrow">Clear boundaries</p>
+            <h2>Local presentation stays local. Public actions stay readable.</h2>
+          </div>
+          <div class="companion-boundary-cards">
+            <article><h3>Local to your browser</h3><ul><li>Theme and visual preferences</li><li>Rarity assignments</li><li>Private reminders</li><li>Companion audio settings</li></ul></article>
+            <article><h3>Shared with installed players</h3><ul><li>Configured public animations</li><li>Publicly announced markers</li><li>Companion Token presentation</li><li>Chain sounds and profile flashes</li></ul></article>
+          </div>
+          <p class="companion-boundary-note">Custom Token names, artwork, Levels, Attributes, Types, and reminder text are presentation only. DuelingBook still treats them as generic Tokens internally.</p>
+        </div>
+      </section>
+
+      <section class="shell companion-section companion-safety" id="safety">
+        <div class="companion-heading">
+          <p class="eyebrow">Privacy and safety</p>
+          <h2>Your credentials and hidden information stay untouched.</h2>
+          <p>The Companion observes only the public parts of DuelingBook needed for its presentation features and stores preferences locally through Tampermonkey.</p>
+        </div>
+        <div class="companion-safety__grid">
+          <ul>
+            <li>Does not read cookies or collect login credentials</li>
+            <li>Does not intercept DuelingBook WebSocket traffic</li>
+            <li>Does not read private duel logs or opponent hidden cards</li>
+            <li>Does not upload decks, selections, chat logs, or Match data</li>
+          </ul>
+          <ul>
+            <li>Leaves DuelingBook’s authoritative game state intact</li>
+            <li>Runs macros only after the player clicks them</li>
+            <li>Uses an internal allowlist instead of arbitrary code execution</li>
+            <li>Includes reduced motion, audio controls, and emergency disable</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="companion-install" id="install">
+        <div class="shell companion-install__grid">
+          <div class="companion-install__copy">
+            <p class="eyebrow">Installation</p>
+            <h2>From browser to first duel in four steps.</h2>
+            <p>The Companion is a Tampermonkey userscript for Google Chrome and Microsoft Edge. It is not a standalone extension.</p>
+          </div>
+          <ol class="companion-steps">
+            <li><span>1</span><div><strong>Install Tampermonkey</strong><p>Add Tampermonkey from your browser’s extension store.</p></div></li>
+            <li><span>2</span><div><strong>Open the Companion installer</strong><p>Use the installation button below to open the userscript in Tampermonkey.</p></div></li>
+            <li><span>3</span><div><strong>Approve the userscript</strong><p>Review the script details, then choose Install.</p></div></li>
+            <li><span>4</span><div><strong>Visit DuelingBook</strong><p>Click the YugiFAUX logo to open the Companion menu and choose your settings.</p></div></li>
+          </ol>
+          <div class="companion-install__actions">
+            <a class="companion-button companion-button--primary" href="https://github.com/xtremetyler/yugifaux-duelingbook-companion/raw/refs/heads/main/dist/yugifaux-companion.user.js">Install or update the Companion</a>
+            <span>Chrome or Edge · Tampermonkey required</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="shell companion-section companion-faq" id="faq">
+        <div class="companion-heading"><p class="eyebrow">Before you install</p><h2>Questions players usually ask</h2></div>
+        <div class="companion-faq__list">
+          <details><summary>Do I need the Companion to play in YugiFAUX?</summary><p>No. It is optional, and players without it can participate normally. Companion-specific visuals are visible only where the relevant players or spectators have it installed.</p></details>
+          <details><summary>Does it enforce card effects or league rules?</summary><p>No. Markers and Token details are presentation and reminders only. Players remain responsible for legal play, and DuelingBook remains the authoritative game state.</p></details>
+          <details><summary>Can it see my opponent’s hidden cards?</summary><p>No. The Companion does not access opponent hidden zones, private duel logs, cookies, or login credentials.</p></details>
+          <details><summary>How do updates work?</summary><p>Tampermonkey checks the public userscript URL for updates. You can also revisit the installation link to update manually.</p></details>
+          <details><summary>What could stop a feature from working?</summary><p>Browser autoplay rules may require a click before audio can play. Because custom macros use DuelingBook’s current interface, they may need maintenance after DuelingBook updates.</p></details>
+          <details><summary>Where should I test it first?</summary><p>Start in a consenting, unrated Custom Cards room. Use the emergency-disable option if you need to immediately stop Companion behavior.</p></details>
+        </div>
+      </section>
+
+      <section class="shell companion-final">
+        <img src="assets/yugifauxlogo-home.png" alt="YugiFAUX Custom Card League" />
+        <div><p class="eyebrow">Ready for your next Match?</p><h2>Bring the league experience into DuelingBook.</h2><p>Install the Companion, choose the features you want, and leave the rest off.</p></div>
+        <a class="companion-button companion-button--primary" href="https://github.com/xtremetyler/yugifaux-duelingbook-companion/raw/refs/heads/main/dist/yugifaux-companion.user.js">Install with Tampermonkey</a>
+      </section>
+    </main>
+
+    <footer><div class="shell footer__content"><span>YugiFAUX DuelingBook Companion</span><span>Community-built for the YugiFAUX league. Not affiliated with or endorsed by Konami, DuelingBook, or Dueling Nexus.</span></div></footer>
+  </body>
+</html>

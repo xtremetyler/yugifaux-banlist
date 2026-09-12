@@ -1,4 +1,4 @@
-.site-nav { display:flex; gap:8px; margin-bottom:28px; }
+.site-nav { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:28px; }
 .site-nav a { padding:8px 12px; color:var(--muted); border:1px solid var(--line); border-radius:999px; background:rgba(9,11,17,.55); text-decoration:none; font-size:.75rem; font-weight:700; }
 .site-nav a:hover { color:var(--text); border-color:var(--gold-soft); }
 .site-nav a[aria-current="page"] { color:#0a0c11; border-color:var(--gold); background:var(--gold); }
@@ -59,4 +59,3 @@
 @media (max-width:950px) { .pack-stage { grid-template-columns:repeat(3,minmax(0,1fr)); }.draft-picks { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 @media (max-width:650px) { .site-nav { margin-bottom:20px; }.draft-controls { align-items:stretch; flex-direction:column; }.draft-actions { width:100%; }.draft-actions button { flex:1; }.pack-stage { grid-template-columns:repeat(2,minmax(0,1fr)); }.draft-card { min-height:300px; }.draft-card__image { height:195px; }.draft-picks { grid-template-columns:1fr; } }
 @media (max-width:420px) { .pack-stage { grid-template-columns:1fr; }.draft-card { min-height:390px; }.draft-card__image { height:285px; } }
-
