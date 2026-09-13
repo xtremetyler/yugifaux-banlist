@@ -1,4 +1,4 @@
-const STATUS={limeade:{label:"Limeade",copies:1},"semi-limeade":{label:"Semi-Limeade",copies:2},unlimeade:{label:"Un-Limeade",copies:3}};
+const STATUS={banned:{label:"Banned",copies:0},limeade:{label:"Limeade",copies:1},"semi-limeade":{label:"Semi-Limeade",copies:2},unlimeade:{label:"Un-Limeade",copies:3}};
 const RIP_KEY="yugifaux-draft-night-collection-v1";
 const DRAFT_KEY="yugifaux-pick-two-draft-v1";
 const DRAFT_PENDING_KEY="yugifaux-pick-two-pending-v1";
@@ -126,7 +126,7 @@ function applyMode(){
   elements.modes.forEach(button=>button.setAttribute("aria-pressed",String(button.dataset.draftMode===state.mode)));
   elements.stationKicker.textContent=draftMode?"Draft table":"Pack station";
   elements.stationTitle.textContent=draftMode?"Open five. Keep two.":"Five cards. One rip.";
-  elements.stationDescription.textContent=draftMode?"Reveal five different legal cards, select exactly two, and confirm them before opening the next round.":"Banned and voting-pending cards are excluded. Every card in a single pack is different.";
+  elements.stationDescription.textContent=draftMode?"Reveal five different cards, including banned cards, then select exactly two and confirm them before opening the next round.":"Banned cards are included; voting-pending cards are excluded. Every card in a single pack is different.";
   elements.collectionKicker.textContent=draftMode?"Your selections":"Your pulls";
   elements.collectionTitle.textContent=draftMode?"Kept-card pool":"Draft pool";
   elements.open.textContent=draftMode?"Open draft round":"Rip a pack";
@@ -198,7 +198,7 @@ function showCard(card){
 }
 
 async function loadDraftPool(){
-  try{const response=await fetch(`data/banlist.json?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(`HTTP ${response.status}`);const payload=await response.json();state.cards=(Array.isArray(payload.cards)?payload.cards:[]).filter(card=>STATUS[card.status]);if(state.cards.length<5)throw new Error("The legal draft pool contains fewer than five cards.");restoreCollections();state.ready=true;elements.poolStatus.textContent=`${state.cards.length} legal cards in the draft pool`;applyMode();}
+  try{const response=await fetch(`data/banlist.json?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(`HTTP ${response.status}`);const payload=await response.json();state.cards=(Array.isArray(payload.cards)?payload.cards:[]).filter(card=>STATUS[card.status]);if(state.cards.length<5)throw new Error("The available draft pool contains fewer than five cards.");restoreCollections();state.ready=true;elements.poolStatus.textContent=`${state.cards.length} cards available in the draft pool`;applyMode();}
   catch(error){console.error("Could not load Draft Night",error);elements.error.hidden=false;elements.poolStatus.textContent="Draft pool unavailable";elements.stage.hidden=true;}
 }
 
