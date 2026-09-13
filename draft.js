@@ -3,9 +3,10 @@ const RIP_KEY="yugifaux-draft-night-collection-v1";
 const DRAFT_KEY="yugifaux-pick-two-draft-v1";
 const DRAFT_PENDING_KEY="yugifaux-pick-two-pending-v1";
 const MODE_KEY="yugifaux-draft-night-mode-v1";
+const ZONE_LIMITS={main:60,side:15,extra:15};
 const state={cards:[],mode:"rips",ripPacks:[],draftRounds:[],pendingPack:null,selectedIds:new Set(),busy:false,ready:false};
 const elements={
-  modes:[...document.querySelectorAll("[data-draft-mode]")],open:document.querySelector("#open-pack"),confirm:document.querySelector("#confirm-picks"),reset:document.querySelector("#reset-draft"),stage:document.querySelector("#pack-stage"),picks:document.querySelector("#draft-picks"),poolStatus:document.querySelector("#draft-pool-status"),packCount:document.querySelector("#pack-count"),pullTotal:document.querySelector("#pull-total"),message:document.querySelector("#draft-message"),error:document.querySelector("#draft-error"),dialog:document.querySelector("#draft-card-dialog"),dialogContent:document.querySelector("#draft-dialog-content"),stationKicker:document.querySelector("#station-kicker"),stationTitle:document.querySelector("#pack-station-title"),stationDescription:document.querySelector("#pack-station-description"),collectionKicker:document.querySelector("#collection-kicker"),collectionTitle:document.querySelector("#collection-title"),
+  modes:[...document.querySelectorAll("[data-draft-mode]")],open:document.querySelector("#open-pack"),confirm:document.querySelector("#confirm-picks"),export:document.querySelector("#export-draft"),reset:document.querySelector("#reset-draft"),stage:document.querySelector("#pack-stage"),picks:document.querySelector("#draft-picks"),poolStatus:document.querySelector("#draft-pool-status"),packCount:document.querySelector("#pack-count"),pullTotal:document.querySelector("#pull-total"),message:document.querySelector("#draft-message"),error:document.querySelector("#draft-error"),dialog:document.querySelector("#draft-card-dialog"),dialogContent:document.querySelector("#draft-dialog-content"),stationKicker:document.querySelector("#station-kicker"),stationTitle:document.querySelector("#pack-station-title"),stationDescription:document.querySelector("#pack-station-description"),collectionKicker:document.querySelector("#collection-kicker"),collectionTitle:document.querySelector("#collection-title"),mainCount:document.querySelector("#main-count"),sideCount:document.querySelector("#side-count"),extraCount:document.querySelector("#extra-count"),mainProgress:document.querySelector("#main-progress"),sideProgress:document.querySelector("#side-progress"),extraProgress:document.querySelector("#extra-progress"),
 };
 
 const escapeHtml=(value="")=>String(value).replace(/[&<>'"]/g,character=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#039;",'"':"&quot;"})[character]);
@@ -14,18 +15,49 @@ function randomFraction(){const value=new Uint32Array(1);crypto.getRandomValues(
 function archetypeKey(card){return String(card.archetype||"").trim().toLocaleLowerCase();}
 function collectionCards(){return(state.mode==="draft"?state.draftRounds:state.ripPacks).flat();}
 
+function isExtraDeckCard(card){return/(fusion|synchro|xyz|link) monster/i.test(String(card.cardType||""));}
+function isExportable(card){
+  if(!Number.isSafeInteger(Number(card.duelingbookId))||Number(card.duelingbookId)<1)return false;
+  return card.source!=="official"||Boolean(String(card.passcode||"").replace(/\D/g,""));
+}
+function assignZones(cards){
+  const zones={main:[],side:[],extra:[]};
+  let extraCards=0;
+  cards.forEach(card=>{
+    if(!isExportable(card))return;
+    if(isExtraDeckCard(card)){
+      if(extraCards>=20)return;
+      if(zones.extra.length<ZONE_LIMITS.extra){zones.extra.push(card);extraCards+=1;}
+      else if(zones.side.length<ZONE_LIMITS.side){zones.side.push(card);extraCards+=1;}
+    }else if(zones.main.length<ZONE_LIMITS.main)zones.main.push(card);
+    else if(zones.side.length<ZONE_LIMITS.side)zones.side.push(card);
+  });
+  return zones;
+}
+function zoneSize(zones){return zones.main.length+zones.side.length+zones.extra.length;}
+function canAddCard(card,cards){return isExportable(card)&&zoneSize(assignZones([...cards,card]))===zoneSize(assignZones(cards))+1;}
+function deckComplete(zones=assignZones(collectionCards())){return zones.main.length===ZONE_LIMITS.main&&zones.side.length===ZONE_LIMITS.side&&zones.extra.length===ZONE_LIMITS.extra;}
+
 function draftPack(cards){
   const priorArchetypes=new Map();
-  collectionCards().forEach(card=>{const key=archetypeKey(card);if(key)priorArchetypes.set(key,(priorArchetypes.get(key)||0)+1);});
+  const collected=collectionCards();
+  collected.forEach(card=>{const key=archetypeKey(card);if(key)priorArchetypes.set(key,(priorArchetypes.get(key)||0)+1);});
   const available=[...cards];
   const pack=[];
+  const guaranteedKeeps=[...collected];
   while(pack.length<5&&available.length){
-    const weights=available.map(card=>1+Math.min(.35,(priorArchetypes.get(archetypeKey(card))||0)*.12));
+    const capacityBasis=state.mode==="rips"?guaranteedKeeps:collected;
+    const eligible=available.map((card,index)=>({card,index})).filter(({card})=>canAddCard(card,capacityBasis));
+    if(!eligible.length)break;
+    const weights=eligible.map(({card})=>1+Math.min(.35,(priorArchetypes.get(archetypeKey(card))||0)*.12));
     const totalWeight=weights.reduce((sum,weight)=>sum+weight,0);
     let roll=randomFraction()*totalWeight;
     let selectedIndex=weights.length-1;
     for(let index=0;index<weights.length;index+=1){roll-=weights[index];if(roll<0){selectedIndex=index;break;}}
-    pack.push(available.splice(selectedIndex,1)[0]);
+    const availableIndex=eligible[selectedIndex].index;
+    const selected=available.splice(availableIndex,1)[0];
+    pack.push(selected);
+    if(state.mode==="rips")guaranteedKeeps.push(selected);
   }
   return pack;
 }
@@ -86,15 +118,28 @@ function restoreCollections(){
   }catch{state.pendingPack=null;state.selectedIds.clear();}
 }
 
+function renderZone(key,label,cards){
+  const counts=new Map();
+  cards.forEach(card=>counts.set(String(card.id),{card,count:(counts.get(String(card.id))?.count||0)+1}));
+  const contents=counts.size?[...counts.values()].sort((a,b)=>a.card.name.localeCompare(b.card.name)).map(({card,count})=>`<button class="draft-pick" type="button" data-card-id="${escapeHtml(card.id)}" data-frame="${frameCategory(card)}">${cardImage(card,"draft-pick__art")}<span><strong>${escapeHtml(card.name)}</strong><small>${escapeHtml(card.cardType||"Unknown card type")}</small></span><b aria-label="${count} copies">×${count}</b></button>`).join(""):`<p class="draft-zone__empty">No cards assigned yet.</p>`;
+  return `<section class="draft-zone" data-deck-zone="${key}"><div class="draft-zone__heading"><h3>${label}</h3><span>${cards.length} / ${ZONE_LIMITS[key]}</span></div><div class="draft-zone__cards">${contents}</div></section>`;
+}
+function renderDeckProgress(zones){
+  for(const key of ["main","side","extra"]){
+    const count=zones[key].length;
+    elements[`${key}Count`].textContent=`${count} / ${ZONE_LIMITS[key]}`;
+    elements[`${key}Progress`].style.width=`${count/ZONE_LIMITS[key]*100}%`;
+    document.querySelector(`[data-zone-progress="${key}"]`)?.classList.toggle("is-complete",count===ZONE_LIMITS[key]);
+  }
+}
 function renderCollection(){
   const pulls=collectionCards();
+  const zones=assignZones(pulls);
   const rounds=state.mode==="draft"?state.draftRounds.length:state.ripPacks.length;
   elements.packCount.textContent=state.mode==="draft"?`${rounds} ${rounds===1?"round":"rounds"} completed`:`${rounds} ${rounds===1?"pack":"packs"} opened`;
-  elements.pullTotal.textContent=`${pulls.length} ${pulls.length===1?"card":"cards"}`;
-  if(!pulls.length){elements.picks.innerHTML=`<p class="draft-picks-empty">${state.mode==="draft"?"The two cards you keep each round will be collected here.":"Cards from every pack you open will be collected here."}</p>`;return;}
-  const counts=new Map();
-  pulls.forEach(card=>counts.set(String(card.id),{card,count:(counts.get(String(card.id))?.count||0)+1}));
-  elements.picks.innerHTML=[...counts.values()].sort((a,b)=>a.card.name.localeCompare(b.card.name)).map(({card,count})=>`<button class="draft-pick" type="button" data-card-id="${escapeHtml(card.id)}" data-frame="${frameCategory(card)}">${cardImage(card,"draft-pick__art")}<span><strong>${escapeHtml(card.name)}</strong><small>${escapeHtml(card.cardType||"Unknown card type")}</small></span><b aria-label="${count} copies">×${count}</b></button>`).join("");
+  elements.pullTotal.textContent=`${zoneSize(zones)} / 90 cards`;
+  elements.picks.innerHTML=renderZone("main","Main Deck",zones.main)+renderZone("side","Side Deck",zones.side)+renderZone("extra","Extra Deck",zones.extra);
+  renderDeckProgress(zones);
   bindCollectionCards();
 }
 
@@ -118,6 +163,7 @@ function updateButtons(){
   if(state.busy)elements.confirm.hidden=true;
   elements.open.disabled=!state.ready||state.busy||choosing;
   elements.confirm.disabled=state.busy||state.selectedIds.size!==2;
+  elements.export.disabled=!deckComplete();
   elements.modes.forEach(button=>{button.disabled=state.busy;});
 }
 
@@ -128,7 +174,7 @@ function applyMode(){
   elements.stationTitle.textContent=draftMode?"Open five. Keep two.":"Five cards. One rip.";
   elements.stationDescription.textContent=draftMode?"Reveal five different cards, including banned cards, then select exactly two and confirm them before opening the next round.":"Banned cards are included; voting-pending cards are excluded. Every card in a single pack is different.";
   elements.collectionKicker.textContent=draftMode?"Your selections":"Your pulls";
-  elements.collectionTitle.textContent=draftMode?"Kept-card pool":"Draft pool";
+  elements.collectionTitle.textContent=draftMode?"Kept draft deck":"Draft deck";
   elements.open.textContent=draftMode?"Open draft round":"Rip a pack";
   elements.reset.textContent=draftMode?"Reset picks":"Reset pulls";
   elements.message.textContent=draftMode?(state.pendingPack?`Choose exactly two cards to keep — ${state.selectedIds.size}/2 selected.`:"Pick Two Draft mode: each five-card round adds only your two confirmed choices."):"Pack Rips mode: all five revealed cards are added to your pool.";
@@ -147,15 +193,17 @@ function showRipAnimation(roundNumber){
 }
 function openPack(){
   if(!state.ready||state.busy||state.cards.length<5||(state.mode==="draft"&&state.pendingPack))return;
-  state.busy=true;
+  if(deckComplete()){elements.message.textContent="Your 60-card Main Deck, 15-card Side Deck, and 15-card Extra Deck are complete. Export the XML when ready.";updateButtons();return;}
   const openingMode=state.mode;
   const pack=draftPack(state.cards);
+  if(pack.length<5){elements.message.textContent="A complete five-card pack cannot be built from the remaining eligible card types. Your current draft is still saved.";updateButtons();return;}
+  state.busy=true;
   const roundNumber=openingMode==="draft"?state.draftRounds.length+1:state.ripPacks.length+1;
   if(openingMode==="rips"){state.ripPacks.push(pack);saveCollections();renderCollection();}else{state.pendingPack=pack;state.selectedIds.clear();saveCollections();}
   updateButtons();showRipAnimation(roundNumber);
   window.setTimeout(()=>{
     elements.stage.classList.remove("is-ripping");elements.stage.classList.toggle("is-choosing",openingMode==="draft");elements.stage.innerHTML=pack.map(packCard).join("");bindPackCards();void elements.stage.offsetWidth;requestAnimationFrame(()=>elements.stage.classList.add("is-open"));
-    elements.message.textContent=openingMode==="draft"?"Five cards revealed — select exactly two to keep. Use Details to read a card without selecting it.":`Pack ${roundNumber} opened — five cards added to your pool.`;
+    elements.message.textContent=openingMode==="draft"?"Five cards revealed — select exactly two to keep. Use Details to read a card without selecting it.":deckComplete()?"Draft complete — all 90 deck slots are filled. Your DuelingBook XML is ready to export.":`Pack ${roundNumber} opened — five cards added to your deck.`;
   },1050);
   window.setTimeout(()=>{state.busy=false;updateButtons();(openingMode==="draft"?elements.stage.querySelector("[data-pack-card-id]"):elements.open)?.focus();},1950);
 }
@@ -164,7 +212,11 @@ function toggleDraftPick(card){
   if(!card||!state.pendingPack||state.busy)return;
   const id=String(card.id);
   if(state.selectedIds.has(id))state.selectedIds.delete(id);
-  else if(state.selectedIds.size<2)state.selectedIds.add(id);
+  else if(state.selectedIds.size<2){
+    const alreadySelected=state.pendingPack.filter(item=>state.selectedIds.has(String(item.id)));
+    if(!canAddCard(card,[...collectionCards(),...alreadySelected])){elements.message.textContent="That card type no longer has an open Main, Side, or Extra Deck slot.";return;}
+    state.selectedIds.add(id);
+  }
   else{elements.message.textContent="You can keep exactly two cards. Deselect one before choosing another.";return;}
   saveCollections();
   updateDraftSelection();
@@ -180,7 +232,8 @@ function confirmDraftPicks(){
   const kept=state.pendingPack.filter(card=>state.selectedIds.has(String(card.id)));
   state.draftRounds.push(kept);state.pendingPack=null;state.selectedIds.clear();saveCollections();renderCollection();
   elements.stage.classList.remove("is-choosing");elements.stage.innerHTML=kept.map(packCard).join("");elements.stage.classList.add("is-open","is-confirmed");bindPackCards();
-  elements.message.textContent=`Round ${state.draftRounds.length} complete — ${kept.map(card=>card.name).join(" and ")} joined your pool.`;updateButtons();elements.open.focus();
+  const complete=deckComplete();
+  elements.message.textContent=complete?"Draft complete — all 90 deck slots are filled. Your DuelingBook XML is ready to export.":`Round ${state.draftRounds.length} complete — ${kept.map(card=>card.name).join(" and ")} joined your deck.`;updateButtons();elements.open.focus();
 }
 function resetDraft(){
   const hasProgress=state.mode==="draft"?state.draftRounds.length||state.pendingPack:state.ripPacks.length;
@@ -188,6 +241,25 @@ function resetDraft(){
   if(hasProgress&&!window.confirm(`Clear ${label} in this browser?`))return;
   if(state.mode==="draft"){state.draftRounds=[];state.pendingPack=null;state.selectedIds.clear();localStorage.removeItem(DRAFT_KEY);localStorage.removeItem(DRAFT_PENDING_KEY);}else{state.ripPacks=[];localStorage.removeItem(RIP_KEY);}
   emptyStage();elements.message.textContent=state.mode==="draft"?"Draft picks reset. Your next round is ready.":"Pack pulls reset. Your next pack is ready.";renderCollection();updateButtons();
+}
+
+function xmlEscape(value=""){return String(value).replace(/[&<>'"]/g,character=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"})[character]);}
+function localDateStamp(){const today=new Date();return`${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,"0")}-${String(today.getDate()).padStart(2,"0")}`;}
+function xmlCard(card){
+  const digits=String(card.passcode||"").replace(/\D/g,"");
+  const passcode=card.source==="official"&&digits?String(Number(digits)):"";
+  return `  <card id="${xmlEscape(Number(card.duelingbookId))}" passcode="${xmlEscape(passcode)}">${xmlEscape(card.name)}</card>`;
+}
+function exportDraftXml(){
+  const zones=assignZones(collectionCards());
+  if(!deckComplete(zones)){elements.message.textContent="Fill all 60 Main, 15 Side, and 15 Extra Deck slots before exporting.";return;}
+  const date=localDateStamp();
+  const deckName=`Draft Night ${date}`;
+  const section=(name,cards)=>` <${name}>\n${cards.map(xmlCard).join("\n")}\n </${name}>`;
+  const xml=["<?xml version=\"1.0\" encoding=\"utf-8\" ?>",`<deck name="${xmlEscape(deckName)}">`,section("main",zones.main),section("side",zones.side),section("extra",zones.extra),"</deck>",""].join("\n");
+  const url=URL.createObjectURL(new Blob([xml],{type:"application/xml;charset=utf-8"}));
+  const link=document.createElement("a");link.href=url;link.download=`${deckName}.xml`;document.body.append(link);link.click();link.remove();window.setTimeout(()=>URL.revokeObjectURL(url),1000);
+  elements.message.textContent=`Exported ${deckName}.xml with 60 Main, 15 Side, and 15 Extra Deck cards.`;
 }
 
 function detailRows(card){const rows=[["Card type",card.cardType],["Monster type",card.monsterType],["Spell/Trap type",card.spellTrapType],["Attribute",card.attribute],["Level / Rank / Link",card.levelRankLink],["ATK",card.atk],["DEF",card.def],["Pendulum Scale",card.pendulumScale],["Link Markers",card.linkMarkers?.join(", ")],["Effect clauses",card.clauses]].filter(([,value])=>value!==undefined&&value!==null&&value!=="");return rows.map(([label,value])=>`<div class="detail-item"><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>`).join("");}
@@ -198,12 +270,12 @@ function showCard(card){
 }
 
 async function loadDraftPool(){
-  try{const response=await fetch(`data/banlist.json?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(`HTTP ${response.status}`);const payload=await response.json();state.cards=(Array.isArray(payload.cards)?payload.cards:[]).filter(card=>STATUS[card.status]);if(state.cards.length<5)throw new Error("The available draft pool contains fewer than five cards.");restoreCollections();state.ready=true;elements.poolStatus.textContent=`${state.cards.length} cards available in the draft pool`;applyMode();}
+  try{const response=await fetch(`data/banlist.json?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(`HTTP ${response.status}`);const payload=await response.json();const eligible=(Array.isArray(payload.cards)?payload.cards:[]).filter(card=>STATUS[card.status]);state.cards=eligible.filter(isExportable);if(state.cards.length<5)throw new Error("The export-ready draft pool contains fewer than five cards.");restoreCollections();state.ready=true;const unavailable=eligible.length-state.cards.length;elements.poolStatus.textContent=`${state.cards.length} export-ready cards in the draft pool${unavailable?` · ${unavailable} awaiting IDs`:""}`;applyMode();}
   catch(error){console.error("Could not load Draft Night",error);elements.error.hidden=false;elements.poolStatus.textContent="Draft pool unavailable";elements.stage.hidden=true;}
 }
 
 elements.modes.forEach(button=>button.addEventListener("click",()=>selectMode(button.dataset.draftMode)));
-elements.open.addEventListener("click",openPack);elements.confirm.addEventListener("click",confirmDraftPicks);elements.reset.addEventListener("click",resetDraft);
+elements.open.addEventListener("click",openPack);elements.confirm.addEventListener("click",confirmDraftPicks);elements.export.addEventListener("click",exportDraftXml);elements.reset.addEventListener("click",resetDraft);
 elements.dialog.querySelector(".dialog-close").addEventListener("click",()=>elements.dialog.close());elements.dialog.addEventListener("click",event=>{if(event.target===elements.dialog)elements.dialog.close();});
 loadDraftPool();
 

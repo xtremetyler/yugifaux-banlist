@@ -15,12 +15,22 @@
 .draft-controls p:not(.draft-kicker) { max-width:650px; margin:0; color:var(--muted); line-height:1.55; }
 .draft-kicker { margin:0; color:var(--gold); font-size:.67rem; font-weight:800; letter-spacing:.12em; text-transform:uppercase; }
 .draft-actions { display:flex; align-items:center; gap:10px; flex:0 0 auto; }
-.pack-button,.confirm-picks,.draft-reset { padding:11px 17px; border-radius:9px; cursor:pointer; font-weight:800; }
+.pack-button,.confirm-picks,.export-draft,.draft-reset { padding:11px 17px; border-radius:9px; cursor:pointer; font-weight:800; }
 .pack-button,.confirm-picks { color:#121018; border:1px solid var(--gold); background:var(--gold); box-shadow:0 7px 24px rgba(226,184,74,.18); }
 .pack-button:hover,.confirm-picks:hover { filter:brightness(1.08); transform:translateY(-1px); }
 .pack-button:disabled,.confirm-picks:disabled { cursor:not-allowed; opacity:.5; transform:none; }
+.export-draft { color:#dfffee; border:1px solid #43d89b; background:rgba(35,133,96,.22); }
+.export-draft:hover:not(:disabled) { color:#0d1511; background:#43d89b; transform:translateY(-1px); }
+.export-draft:disabled { cursor:not-allowed; opacity:.38; }
 .draft-reset { color:var(--muted); border:1px solid var(--line); background:#0d111a; }
 .draft-reset:hover { color:var(--text); border-color:var(--gold-soft); }
+.deck-progress { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:10px; margin-top:12px; }
+.deck-progress>div { padding:12px 14px; border:1px solid var(--line); border-radius:11px; background:rgba(14,18,28,.88); }
+.deck-progress span { display:flex; justify-content:space-between; gap:12px; color:var(--muted); font-size:.71rem; }
+.deck-progress strong { color:var(--text); }.deck-progress b { color:var(--gold); }
+.deck-progress i { display:block; height:5px; margin-top:9px; overflow:hidden; border-radius:999px; background:#272d3b; }
+.deck-progress u { display:block; width:0; height:100%; border-radius:inherit; background:linear-gradient(90deg,#9a43ff,var(--gold)); transition:width .3s ease; }
+.deck-progress .is-complete { border-color:#43d89b; }.deck-progress .is-complete b { color:#43d89b; }.deck-progress .is-complete u { background:#43d89b; }
 .draft-message { min-height:22px; margin:18px 2px 10px; color:var(--gold); font-size:.82rem; }
 .pack-stage { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:12px; min-height:330px; perspective:1200px; }
 .pack-empty { grid-column:1/-1; display:grid; place-items:center; align-content:center; min-height:330px; border:1px dashed #39445b; border-radius:16px; background:rgba(17,21,32,.56); text-align:center; }
@@ -66,15 +76,20 @@
 .pack-stage.is-confirmed { grid-template-columns:repeat(2,minmax(0,260px)); justify-content:center; }
 .draft-collection { margin-top:42px; }.draft-section-heading { display:flex; justify-content:space-between; align-items:end; padding-bottom:12px; border-bottom:1px solid var(--line); }
 .draft-section-heading #pull-total { color:var(--muted); font-size:.8rem; }
-.draft-picks { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:10px; margin-top:14px; }
+.draft-picks { display:grid; gap:18px; margin-top:14px; }
 .draft-picks-empty { grid-column:1/-1; padding:28px; color:var(--muted); border:1px dashed var(--line); border-radius:12px; text-align:center; }
+.draft-zone { overflow:hidden; border:1px solid var(--line); border-radius:13px; background:rgba(13,17,26,.62); }
+.draft-zone__heading { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:12px 15px; border-bottom:1px solid var(--line); background:rgba(29,24,45,.75); }
+.draft-zone__heading h3 { margin:0; font-family:Cinzel,serif; font-size:.88rem; }.draft-zone__heading span { color:var(--gold); font-size:.7rem; font-weight:800; }
+.draft-zone__cards { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:10px; padding:11px; }
+.draft-zone__empty { grid-column:1/-1; margin:0; padding:17px; color:var(--muted); text-align:center; font-size:.72rem; }
 .draft-pick { display:grid; grid-template-columns:54px minmax(0,1fr) auto; align-items:center; gap:11px; min-width:0; padding:8px; color:var(--text); border:1px solid var(--line); border-left:5px solid var(--frame-color,var(--gold)); border-radius:10px; background:var(--surface); text-align:left; cursor:pointer; }
 .draft-pick:hover { border-color:var(--frame-color,var(--gold)); }.draft-pick__art { width:54px; height:72px; object-fit:contain; background:#080a0e; }
 .draft-pick span { min-width:0; }.draft-pick strong,.draft-pick small { display:block; }.draft-pick strong { overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:.75rem; }.draft-pick small { margin-top:5px; color:var(--muted); font-size:.63rem; }
 .draft-pick b { padding-right:6px; color:var(--gold); }
-@media (max-width:950px) { .pack-stage { grid-template-columns:repeat(3,minmax(0,1fr)); }.draft-picks { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width:950px) { .pack-stage { grid-template-columns:repeat(3,minmax(0,1fr)); }.draft-zone__cards { grid-template-columns:repeat(2,minmax(0,1fr)); } }
 @media (max-width:760px) { .draft-mode-picker { align-items:stretch; flex-direction:column; }.draft-mode-tabs { width:100%; } }
-@media (max-width:650px) { .site-nav { margin-bottom:20px; }.draft-controls { align-items:stretch; flex-direction:column; }.draft-actions { width:100%; flex-wrap:wrap; }.draft-actions button { flex:1; }.pack-stage { grid-template-columns:repeat(2,minmax(0,1fr)); }.draft-card-slot,.draft-card { min-height:300px; }.draft-card__image { height:195px; }.draft-picks { grid-template-columns:1fr; } }
+@media (max-width:650px) { .site-nav { margin-bottom:20px; }.draft-controls { align-items:stretch; flex-direction:column; }.draft-actions { width:100%; flex-wrap:wrap; }.draft-actions button { flex:1 1 42%; }.deck-progress { grid-template-columns:1fr; }.pack-stage { grid-template-columns:repeat(2,minmax(0,1fr)); }.draft-card-slot,.draft-card { min-height:300px; }.draft-card__image { height:195px; }.draft-zone__cards { grid-template-columns:1fr; } }
 @media (max-width:480px) { .draft-mode-tabs { grid-template-columns:1fr; } }
 @media (max-width:420px) { .pack-stage { grid-template-columns:1fr; }.draft-card { min-height:390px; }.draft-card__image { height:285px; } }
 

@@ -70,8 +70,15 @@
         <div class="draft-actions">
           <button id="open-pack" class="pack-button" type="button" disabled>Rip a pack</button>
           <button id="confirm-picks" class="confirm-picks" type="button" hidden disabled>Keep selected cards</button>
+          <button id="export-draft" class="export-draft" type="button" disabled>Export XML</button>
           <button id="reset-draft" class="draft-reset" type="button">Reset draft</button>
         </div>
+      </section>
+
+      <section class="deck-progress" aria-label="Draft deck progress">
+        <div data-zone-progress="main"><span><strong>Main Deck</strong><b id="main-count">0 / 60</b></span><i><u id="main-progress"></u></i></div>
+        <div data-zone-progress="side"><span><strong>Side Deck</strong><b id="side-count">0 / 15</b></span><i><u id="side-progress"></u></i></div>
+        <div data-zone-progress="extra"><span><strong>Extra Deck</strong><b id="extra-count">0 / 15</b></span><i><u id="extra-progress"></u></i></div>
       </section>
 
       <p id="draft-message" class="draft-message" role="status" aria-live="polite"></p>
@@ -87,7 +94,7 @@
         <div class="draft-section-heading">
           <div>
             <p id="collection-kicker" class="draft-kicker">Your pulls</p>
-            <h2 id="collection-title">Draft pool</h2>
+            <h2 id="collection-title">Draft deck</h2>
           </div>
           <span id="pull-total">0 cards</span>
         </div>
