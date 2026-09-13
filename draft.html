@@ -44,14 +44,32 @@
     </header>
 
     <main class="shell draft-main">
+      <section class="draft-mode-picker" aria-labelledby="draft-mode-title">
+        <div>
+          <p class="draft-kicker">Choose how you play</p>
+          <h2 id="draft-mode-title">Draft Night modes</h2>
+        </div>
+        <div class="draft-mode-tabs" role="group" aria-label="Draft Night mode">
+          <button type="button" data-draft-mode="rips" aria-pressed="true">
+            <strong>Pack Rips</strong>
+            <span>Open five and keep all five</span>
+          </button>
+          <button type="button" data-draft-mode="draft" aria-pressed="false">
+            <strong>Pick Two Draft</strong>
+            <span>Open five and choose two</span>
+          </button>
+        </div>
+      </section>
+
       <section class="draft-controls" aria-labelledby="pack-station-title">
         <div>
-          <p class="draft-kicker">Pack station</p>
+          <p id="station-kicker" class="draft-kicker">Pack station</p>
           <h2 id="pack-station-title">Five cards. One rip.</h2>
-          <p>Banned and voting-pending cards are excluded. Every card in a single pack is different.</p>
+          <p id="pack-station-description">Banned and voting-pending cards are excluded. Every card in a single pack is different.</p>
         </div>
         <div class="draft-actions">
           <button id="open-pack" class="pack-button" type="button" disabled>Rip a pack</button>
+          <button id="confirm-picks" class="confirm-picks" type="button" hidden disabled>Keep selected cards</button>
           <button id="reset-draft" class="draft-reset" type="button">Reset draft</button>
         </div>
       </section>
@@ -68,7 +86,7 @@
       <section class="draft-collection" aria-labelledby="collection-title">
         <div class="draft-section-heading">
           <div>
-            <p class="draft-kicker">Your pulls</p>
+            <p id="collection-kicker" class="draft-kicker">Your pulls</p>
             <h2 id="collection-title">Draft pool</h2>
           </div>
           <span id="pull-total">0 cards</span>
@@ -98,3 +116,4 @@
     <script src="draft.js" defer></script>
   </body>
 </html>
+
