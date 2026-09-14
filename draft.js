@@ -200,10 +200,9 @@ function restoreCollections(){
 }
 
 function renderZone(key,label,instances){
-  const counts=new Map();
-  instances.forEach(instance=>{const id=String(instance.card.id);const entry=counts.get(id)||{card:instance.card,instances:[]};entry.instances.push(instance);counts.set(id,entry);});
-  const contents=counts.size?[...counts.values()].sort((a,b)=>a.card.name.localeCompare(b.card.name)).map(({card,instances:copies})=>`<button class="draft-pick" type="button" draggable="true" data-instance-id="${escapeHtml(copies[0].key)}" data-card-id="${escapeHtml(card.id)}" data-card-zone="${key}" data-frame="${frameCategory(card)}" title="Drag one copy to another legal deck zone">${cardImage(card,"draft-pick__art")}<span><strong>${escapeHtml(card.name)}</strong><small>${escapeHtml(card.cardType||"Unknown card type")}</small></span><b aria-label="${copies.length} copies">×${copies.length}</b></button>`).join(""):`<p class="draft-zone__empty">Drop compatible cards here.</p>`;
-  return `<section class="draft-zone" data-deck-zone="${key}"><div class="draft-zone__heading"><h3>${label}</h3><span>${instances.length} / ${ZONE_LIMITS[key]}</span></div><div class="draft-zone__cards">${contents}</div></section>`;
+  const cards=instances.map(({card,key:instanceId})=>`<button class="draft-pick" type="button" draggable="true" data-instance-id="${escapeHtml(instanceId)}" data-card-id="${escapeHtml(card.id)}" data-card-zone="${key}" data-frame="${frameCategory(card)}" aria-label="${escapeHtml(card.name)} — drag to move or click for details" title="${escapeHtml(card.name)} · ${escapeHtml(card.cardType||"Unknown card type")}">${cardImage(card,"draft-pick__art")}<span class="draft-pick__name">${escapeHtml(card.name)}</span></button>`).join("");
+  const emptySlots=Array.from({length:Math.max(0,ZONE_LIMITS[key]-instances.length)},()=>'<span class="draft-slot" aria-hidden="true"></span>').join("");
+  return `<section class="draft-zone draft-zone--${key}" data-deck-zone="${key}"><div class="draft-zone__heading"><h3>${label}</h3><span>${instances.length}<small>/${ZONE_LIMITS[key]}</small></span></div><div class="draft-zone__cards">${cards}${emptySlots}</div></section>`;
 }
 function renderDeckProgress(zones){
   for(const key of ["main","side","extra"]){
