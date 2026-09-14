@@ -3,8 +3,9 @@ const RIP_KEY="yugifaux-draft-night-collection-v1";
 const DRAFT_KEY="yugifaux-pick-two-draft-v1";
 const DRAFT_PENDING_KEY="yugifaux-pick-two-pending-v1";
 const MODE_KEY="yugifaux-draft-night-mode-v1";
+const ZONE_KEYS={rips:"yugifaux-draft-zones-rips-v1",draft:"yugifaux-draft-zones-pick-two-v1"};
 const ZONE_LIMITS={main:60,side:15,extra:15};
-const state={cards:[],mode:"rips",ripPacks:[],draftRounds:[],pendingPack:null,selectedIds:new Set(),busy:false,ready:false};
+const state={cards:[],mode:"rips",ripPacks:[],draftRounds:[],pendingPack:null,selectedIds:new Set(),zoneAssignments:{rips:{},draft:{}},draggedInstanceId:null,busy:false,ready:false};
 const elements={
   modes:[...document.querySelectorAll("[data-draft-mode]")],open:document.querySelector("#open-pack"),confirm:document.querySelector("#confirm-picks"),export:document.querySelector("#export-draft"),reset:document.querySelector("#reset-draft"),stage:document.querySelector("#pack-stage"),picks:document.querySelector("#draft-picks"),poolStatus:document.querySelector("#draft-pool-status"),packCount:document.querySelector("#pack-count"),pullTotal:document.querySelector("#pull-total"),message:document.querySelector("#draft-message"),error:document.querySelector("#draft-error"),dialog:document.querySelector("#draft-card-dialog"),dialogContent:document.querySelector("#draft-dialog-content"),stationKicker:document.querySelector("#station-kicker"),stationTitle:document.querySelector("#pack-station-title"),stationDescription:document.querySelector("#pack-station-description"),collectionKicker:document.querySelector("#collection-kicker"),collectionTitle:document.querySelector("#collection-title"),mainCount:document.querySelector("#main-count"),sideCount:document.querySelector("#side-count"),extraCount:document.querySelector("#extra-count"),mainProgress:document.querySelector("#main-progress"),sideProgress:document.querySelector("#side-progress"),extraProgress:document.querySelector("#extra-progress"),
 };
@@ -14,6 +15,10 @@ const escapeHtml=(value="")=>String(value).replace(/[&<>'"]/g,character=>({"&":"
 function randomFraction(){const value=new Uint32Array(1);crypto.getRandomValues(value);return value[0]/0x100000000;}
 function archetypeKey(card){return String(card.archetype||"").trim().toLocaleLowerCase();}
 function collectionCards(){return(state.mode==="draft"?state.draftRounds:state.ripPacks).flat();}
+function collectionInstances(){
+  const groups=state.mode==="draft"?state.draftRounds:state.ripPacks;
+  return groups.flatMap((group,groupIndex)=>group.map((card,cardIndex)=>({key:`${state.mode}-${groupIndex}-${cardIndex}`,card})));
+}
 
 function isExtraDeckCard(card){return/(fusion|synchro|xyz|link) monster/i.test(String(card.cardType||""));}
 function isExportable(card){
@@ -36,7 +41,40 @@ function assignZones(cards){
 }
 function zoneSize(zones){return zones.main.length+zones.side.length+zones.extra.length;}
 function canAddCard(card,cards){return isExportable(card)&&zoneSize(assignZones([...cards,card]))===zoneSize(assignZones(cards))+1;}
-function deckComplete(zones=assignZones(collectionCards())){return zones.main.length===ZONE_LIMITS.main&&zones.side.length===ZONE_LIMITS.side&&zones.extra.length===ZONE_LIMITS.extra;}
+function allowedZones(card){return isExtraDeckCard(card)?["extra","side"]:["main","side"];}
+function nextZone(card,zones){
+  if(isExtraDeckCard(card)){
+    const extraTotal=zones.extra.length+zones.side.filter(item=>isExtraDeckCard(item.card||item)).length;
+    if(extraTotal>=20)return null;
+    if(zones.extra.length<ZONE_LIMITS.extra)return"extra";
+    if(zones.side.length<ZONE_LIMITS.side)return"side";
+    return null;
+  }
+  if(zones.main.length<ZONE_LIMITS.main)return"main";
+  if(zones.side.length<ZONE_LIMITS.side)return"side";
+  return null;
+}
+function activeZoneInstances(){
+  const zones={main:[],side:[],extra:[]};
+  const saved=state.zoneAssignments[state.mode];
+  collectionInstances().forEach(instance=>{
+    const preferred=saved[instance.key];
+    const zone=preferred&&allowedZones(instance.card).includes(preferred)&&zones[preferred].length<ZONE_LIMITS[preferred]?preferred:nextZone(instance.card,zones);
+    if(zone){zones[zone].push(instance);saved[instance.key]=zone;}
+  });
+  return zones;
+}
+function activeZones(){const instances=activeZoneInstances();return{main:instances.main.map(item=>item.card),side:instances.side.map(item=>item.card),extra:instances.extra.map(item=>item.card)};}
+function canCollectCard(card,additional=[]){
+  const zones=activeZoneInstances();
+  for(const extraCard of [...additional,card]){
+    const zone=nextZone(extraCard,zones);
+    if(!zone)return false;
+    zones[zone].push({key:"pending",card:extraCard});
+  }
+  return true;
+}
+function deckComplete(zones=activeZones()){return zones.main.length===ZONE_LIMITS.main&&zones.side.length===ZONE_LIMITS.side&&zones.extra.length===ZONE_LIMITS.extra;}
 
 function draftPack(cards){
   const priorArchetypes=new Map();
@@ -44,10 +82,8 @@ function draftPack(cards){
   collected.forEach(card=>{const key=archetypeKey(card);if(key)priorArchetypes.set(key,(priorArchetypes.get(key)||0)+1);});
   const available=[...cards];
   const pack=[];
-  const guaranteedKeeps=[...collected];
   while(pack.length<5&&available.length){
-    const capacityBasis=state.mode==="rips"?guaranteedKeeps:collected;
-    const eligible=available.map((card,index)=>({card,index})).filter(({card})=>canAddCard(card,capacityBasis));
+    const eligible=available.map((card,index)=>({card,index})).filter(({card})=>state.mode==="rips"?canCollectCard(card,pack):canCollectCard(card));
     if(!eligible.length)break;
     const weights=eligible.map(({card})=>1+Math.min(.35,(priorArchetypes.get(archetypeKey(card))||0)*.12));
     const totalWeight=weights.reduce((sum,weight)=>sum+weight,0);
@@ -57,7 +93,6 @@ function draftPack(cards){
     const availableIndex=eligible[selectedIndex].index;
     const selected=available.splice(availableIndex,1)[0];
     pack.push(selected);
-    if(state.mode==="rips")guaranteedKeeps.push(selected);
   }
   return pack;
 }
@@ -93,8 +128,51 @@ function bindPackCards(){
   installImageFallbacks(elements.stage);
 }
 function bindCollectionCards(){
-  elements.picks.querySelectorAll("[data-card-id]").forEach(button=>button.addEventListener("click",()=>showCard(cardById(button.dataset.cardId))));
+  elements.picks.querySelectorAll("[data-card-id]").forEach(button=>{
+    button.addEventListener("click",()=>showCard(cardById(button.dataset.cardId)));
+    button.addEventListener("dragstart",event=>{
+      state.draggedInstanceId=button.dataset.instanceId;
+      button.classList.add("is-dragging");
+      event.dataTransfer.effectAllowed="move";
+      event.dataTransfer.setData("text/plain",state.draggedInstanceId);
+    });
+    button.addEventListener("dragend",()=>{state.draggedInstanceId=null;button.classList.remove("is-dragging");clearDropTargets();});
+    button.addEventListener("dragover",event=>{event.preventDefault();event.stopPropagation();button.classList.add("is-drop-target");event.dataTransfer.dropEffect="move";});
+    button.addEventListener("dragleave",()=>button.classList.remove("is-drop-target"));
+    button.addEventListener("drop",event=>{event.preventDefault();event.stopPropagation();moveOrSwap(event.dataTransfer.getData("text/plain")||state.draggedInstanceId,button.dataset.cardZone,button.dataset.instanceId);});
+  });
+  elements.picks.querySelectorAll("[data-deck-zone]").forEach(zone=>{
+    zone.addEventListener("dragover",event=>{event.preventDefault();zone.classList.add("is-drop-target");event.dataTransfer.dropEffect="move";});
+    zone.addEventListener("dragleave",event=>{if(!zone.contains(event.relatedTarget))zone.classList.remove("is-drop-target");});
+    zone.addEventListener("drop",event=>{event.preventDefault();moveOrSwap(event.dataTransfer.getData("text/plain")||state.draggedInstanceId,zone.dataset.deckZone);});
+  });
   installImageFallbacks(elements.picks);
+}
+
+function clearDropTargets(){elements.picks.querySelectorAll(".is-drop-target").forEach(element=>element.classList.remove("is-drop-target"));}
+function locateInstance(instanceId,zones=activeZoneInstances()){
+  for(const zone of ["main","side","extra"]){const instance=zones[zone].find(item=>item.key===instanceId);if(instance)return{zone,instance};}
+  return null;
+}
+function moveOrSwap(instanceId,targetZone,targetInstanceId){
+  clearDropTargets();
+  const zones=activeZoneInstances();
+  const source=locateInstance(instanceId,zones);
+  if(!source||!ZONE_LIMITS[targetZone]||source.zone===targetZone)return;
+  if(!allowedZones(source.instance.card).includes(targetZone)){
+    elements.message.textContent=isExtraDeckCard(source.instance.card)?"Extra Deck monsters may move only between the Extra and Side Decks.":"Main Deck cards may move only between the Main and Side Decks.";
+    return;
+  }
+  const assignments=state.zoneAssignments[state.mode];
+  if(zones[targetZone].length<ZONE_LIMITS[targetZone])assignments[instanceId]=targetZone;
+  else{
+    const target=locateInstance(targetInstanceId,zones);
+    if(!target||target.zone!==targetZone){elements.message.textContent=`${targetZone[0].toUpperCase()+targetZone.slice(1)} Deck is full. Drop onto a compatible card to swap them.`;return;}
+    if(!allowedZones(target.instance.card).includes(source.zone)){elements.message.textContent="Those two cards cannot swap because one would enter an invalid deck zone.";return;}
+    assignments[instanceId]=targetZone;assignments[targetInstanceId]=source.zone;
+  }
+  saveCollections();renderCollection();updateButtons();
+  elements.message.textContent="Deck zones updated. Your custom layout is saved in this browser.";
 }
 
 function saveCollections(){
@@ -103,12 +181,15 @@ function saveCollections(){
   if(state.pendingPack)localStorage.setItem(DRAFT_PENDING_KEY,JSON.stringify({pack:state.pendingPack.map(card=>card.id),selected:[...state.selectedIds]}));
   else localStorage.removeItem(DRAFT_PENDING_KEY);
   localStorage.setItem(MODE_KEY,state.mode);
+  localStorage.setItem(ZONE_KEYS.rips,JSON.stringify(state.zoneAssignments.rips));
+  localStorage.setItem(ZONE_KEYS.draft,JSON.stringify(state.zoneAssignments.draft));
 }
 function restoreCardGroups(key){
   try{const saved=JSON.parse(localStorage.getItem(key)||"[]");if(!Array.isArray(saved))return[];return saved.map(group=>Array.isArray(group)?group.map(cardById).filter(Boolean):[]).filter(group=>group.length);}catch{return[];}
 }
 function restoreCollections(){
   state.ripPacks=restoreCardGroups(RIP_KEY);state.draftRounds=restoreCardGroups(DRAFT_KEY);state.mode=localStorage.getItem(MODE_KEY)==="draft"?"draft":"rips";
+  for(const mode of ["rips","draft"]){try{const saved=JSON.parse(localStorage.getItem(ZONE_KEYS[mode])||"{}");state.zoneAssignments[mode]=saved&&typeof saved==="object"&&!Array.isArray(saved)?saved:{};}catch{state.zoneAssignments[mode]={};}}
   try{
     const pending=JSON.parse(localStorage.getItem(DRAFT_PENDING_KEY)||"null");
     if(Array.isArray(pending?.pack)&&pending.pack.length===5){
@@ -118,11 +199,11 @@ function restoreCollections(){
   }catch{state.pendingPack=null;state.selectedIds.clear();}
 }
 
-function renderZone(key,label,cards){
+function renderZone(key,label,instances){
   const counts=new Map();
-  cards.forEach(card=>counts.set(String(card.id),{card,count:(counts.get(String(card.id))?.count||0)+1}));
-  const contents=counts.size?[...counts.values()].sort((a,b)=>a.card.name.localeCompare(b.card.name)).map(({card,count})=>`<button class="draft-pick" type="button" data-card-id="${escapeHtml(card.id)}" data-frame="${frameCategory(card)}">${cardImage(card,"draft-pick__art")}<span><strong>${escapeHtml(card.name)}</strong><small>${escapeHtml(card.cardType||"Unknown card type")}</small></span><b aria-label="${count} copies">×${count}</b></button>`).join(""):`<p class="draft-zone__empty">No cards assigned yet.</p>`;
-  return `<section class="draft-zone" data-deck-zone="${key}"><div class="draft-zone__heading"><h3>${label}</h3><span>${cards.length} / ${ZONE_LIMITS[key]}</span></div><div class="draft-zone__cards">${contents}</div></section>`;
+  instances.forEach(instance=>{const id=String(instance.card.id);const entry=counts.get(id)||{card:instance.card,instances:[]};entry.instances.push(instance);counts.set(id,entry);});
+  const contents=counts.size?[...counts.values()].sort((a,b)=>a.card.name.localeCompare(b.card.name)).map(({card,instances:copies})=>`<button class="draft-pick" type="button" draggable="true" data-instance-id="${escapeHtml(copies[0].key)}" data-card-id="${escapeHtml(card.id)}" data-card-zone="${key}" data-frame="${frameCategory(card)}" title="Drag one copy to another legal deck zone">${cardImage(card,"draft-pick__art")}<span><strong>${escapeHtml(card.name)}</strong><small>${escapeHtml(card.cardType||"Unknown card type")}</small></span><b aria-label="${copies.length} copies">×${copies.length}</b></button>`).join(""):`<p class="draft-zone__empty">Drop compatible cards here.</p>`;
+  return `<section class="draft-zone" data-deck-zone="${key}"><div class="draft-zone__heading"><h3>${label}</h3><span>${instances.length} / ${ZONE_LIMITS[key]}</span></div><div class="draft-zone__cards">${contents}</div></section>`;
 }
 function renderDeckProgress(zones){
   for(const key of ["main","side","extra"]){
@@ -134,7 +215,7 @@ function renderDeckProgress(zones){
 }
 function renderCollection(){
   const pulls=collectionCards();
-  const zones=assignZones(pulls);
+  const zones=activeZoneInstances();
   const rounds=state.mode==="draft"?state.draftRounds.length:state.ripPacks.length;
   elements.packCount.textContent=state.mode==="draft"?`${rounds} ${rounds===1?"round":"rounds"} completed`:`${rounds} ${rounds===1?"pack":"packs"} opened`;
   elements.pullTotal.textContent=`${zoneSize(zones)} / 90 cards`;
@@ -214,7 +295,7 @@ function toggleDraftPick(card){
   if(state.selectedIds.has(id))state.selectedIds.delete(id);
   else if(state.selectedIds.size<2){
     const alreadySelected=state.pendingPack.filter(item=>state.selectedIds.has(String(item.id)));
-    if(!canAddCard(card,[...collectionCards(),...alreadySelected])){elements.message.textContent="That card type no longer has an open Main, Side, or Extra Deck slot.";return;}
+    if(!canCollectCard(card,alreadySelected)){elements.message.textContent="That card type no longer has an open Main, Side, or Extra Deck slot.";return;}
     state.selectedIds.add(id);
   }
   else{elements.message.textContent="You can keep exactly two cards. Deselect one before choosing another.";return;}
@@ -239,7 +320,7 @@ function resetDraft(){
   const hasProgress=state.mode==="draft"?state.draftRounds.length||state.pendingPack:state.ripPacks.length;
   const label=state.mode==="draft"?"every kept card and the current unconfirmed round":"every pack opened";
   if(hasProgress&&!window.confirm(`Clear ${label} in this browser?`))return;
-  if(state.mode==="draft"){state.draftRounds=[];state.pendingPack=null;state.selectedIds.clear();localStorage.removeItem(DRAFT_KEY);localStorage.removeItem(DRAFT_PENDING_KEY);}else{state.ripPacks=[];localStorage.removeItem(RIP_KEY);}
+  if(state.mode==="draft"){state.draftRounds=[];state.pendingPack=null;state.selectedIds.clear();state.zoneAssignments.draft={};localStorage.removeItem(DRAFT_KEY);localStorage.removeItem(DRAFT_PENDING_KEY);localStorage.removeItem(ZONE_KEYS.draft);}else{state.ripPacks=[];state.zoneAssignments.rips={};localStorage.removeItem(RIP_KEY);localStorage.removeItem(ZONE_KEYS.rips);}
   emptyStage();elements.message.textContent=state.mode==="draft"?"Draft picks reset. Your next round is ready.":"Pack pulls reset. Your next pack is ready.";renderCollection();updateButtons();
 }
 
@@ -251,7 +332,7 @@ function xmlCard(card){
   return `  <card id="${xmlEscape(Number(card.duelingbookId))}" passcode="${xmlEscape(passcode)}">${xmlEscape(card.name)}</card>`;
 }
 function exportDraftXml(){
-  const zones=assignZones(collectionCards());
+  const zones=activeZones();
   if(!deckComplete(zones)){elements.message.textContent="Fill all 60 Main, 15 Side, and 15 Extra Deck slots before exporting.";return;}
   const date=localDateStamp();
   const deckName=`Draft Night ${date}`;

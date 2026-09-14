@@ -46,3 +46,8 @@ test("official XML cards use DuelingBook IDs and numeric passcodes",()=>{
   assert.equal(line,'  <card id="2518" passcode="102380">A &amp; B&#39;s Card</card>');
 });
 
+test("card types can only use their legal primary zone or the Side Deck",()=>{
+  const result=run(`({main:allowedZones({cardType:"Effect Monster"}),spell:allowedZones({cardType:"Spell Card"}),extra:allowedZones({cardType:"Xyz Monster"})})`);
+  assert.deepEqual(result,{main:["main","side"],spell:["main","side"],extra:["extra","side"]});
+});
+
