@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-14T13:39:28.105Z",
+  "updatedAt": "2026-09-14T19:39:20.954Z",
   "cards": [
     {
       "id": 384,
@@ -778,7 +778,7 @@
     {
       "id": 195,
       "name": "Ash Blossom & Lonely Spring",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
@@ -795,7 +795,7 @@
       "duelingbookId": 5991280,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991280.jpg",
       "addedAt": "2026-08-12 20:19:49",
-      "changedAt": "2026-08-12 20:19:49"
+      "changedAt": "2026-09-14 19:38:57"
     },
     {
       "id": 162,
@@ -8608,7 +8608,7 @@
     {
       "id": 338,
       "name": "The Sojourner in Summer",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -8625,12 +8625,12 @@
       "duelingbookId": 6017316,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017316.jpg",
       "addedAt": "2026-08-27 19:20:05",
-      "changedAt": "2026-08-27 19:20:05"
+      "changedAt": "2026-09-14 19:38:57"
     },
     {
       "id": 340,
       "name": "The Sojourner in Winter",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -8647,7 +8647,7 @@
       "duelingbookId": 6017320,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017320.jpg",
       "addedAt": "2026-08-27 19:21:24",
-      "changedAt": "2026-09-08 01:57:42"
+      "changedAt": "2026-09-14 19:38:57"
     },
     {
       "id": 86,
