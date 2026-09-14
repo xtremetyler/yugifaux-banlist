@@ -51,3 +51,13 @@ test("card types can only use their legal primary zone or the Side Deck",()=>{
   assert.deepEqual(result,{main:["main","side"],spell:["main","side"],extra:["extra","side"]});
 });
 
+test("saved card order is respected within a deck zone",()=>{
+  const result=run(`(()=>{
+    state.mode="rips";
+    state.ripPacks=[[1,2,3].map(id=>({id,name:"Card "+id,source:"custom",duelingbookId:id,cardType:"Effect Monster"}))];
+    state.zoneOrder.rips.main=["rips-0-2","rips-0-0","rips-0-1"];
+    return activeZoneInstances().main.map(item=>item.key);
+  })()`);
+  assert.deepEqual(result,["rips-0-2","rips-0-0","rips-0-1"]);
+});
+

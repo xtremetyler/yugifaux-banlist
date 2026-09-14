@@ -4,8 +4,10 @@ const DRAFT_KEY="yugifaux-pick-two-draft-v1";
 const DRAFT_PENDING_KEY="yugifaux-pick-two-pending-v1";
 const MODE_KEY="yugifaux-draft-night-mode-v1";
 const ZONE_KEYS={rips:"yugifaux-draft-zones-rips-v1",draft:"yugifaux-draft-zones-pick-two-v1"};
+const ORDER_KEYS={rips:"yugifaux-draft-order-rips-v1",draft:"yugifaux-draft-order-pick-two-v1"};
 const ZONE_LIMITS={main:60,side:15,extra:15};
-const state={cards:[],mode:"rips",ripPacks:[],draftRounds:[],pendingPack:null,selectedIds:new Set(),zoneAssignments:{rips:{},draft:{}},draggedInstanceId:null,busy:false,ready:false};
+const emptyZoneOrder=()=>({main:[],side:[],extra:[]});
+const state={cards:[],mode:"rips",ripPacks:[],draftRounds:[],pendingPack:null,selectedIds:new Set(),zoneAssignments:{rips:{},draft:{}},zoneOrder:{rips:emptyZoneOrder(),draft:emptyZoneOrder()},draggedInstanceId:null,busy:false,ready:false};
 const elements={
   modes:[...document.querySelectorAll("[data-draft-mode]")],open:document.querySelector("#open-pack"),confirm:document.querySelector("#confirm-picks"),export:document.querySelector("#export-draft"),reset:document.querySelector("#reset-draft"),stage:document.querySelector("#pack-stage"),picks:document.querySelector("#draft-picks"),poolStatus:document.querySelector("#draft-pool-status"),packCount:document.querySelector("#pack-count"),pullTotal:document.querySelector("#pull-total"),message:document.querySelector("#draft-message"),error:document.querySelector("#draft-error"),dialog:document.querySelector("#draft-card-dialog"),dialogContent:document.querySelector("#draft-dialog-content"),stationKicker:document.querySelector("#station-kicker"),stationTitle:document.querySelector("#pack-station-title"),stationDescription:document.querySelector("#pack-station-description"),collectionKicker:document.querySelector("#collection-kicker"),collectionTitle:document.querySelector("#collection-title"),mainCount:document.querySelector("#main-count"),sideCount:document.querySelector("#side-count"),extraCount:document.querySelector("#extra-count"),mainProgress:document.querySelector("#main-progress"),sideProgress:document.querySelector("#side-progress"),extraProgress:document.querySelector("#extra-progress"),
 };
@@ -62,6 +64,14 @@ function activeZoneInstances(){
     const zone=preferred&&allowedZones(instance.card).includes(preferred)&&zones[preferred].length<ZONE_LIMITS[preferred]?preferred:nextZone(instance.card,zones);
     if(zone){zones[zone].push(instance);saved[instance.key]=zone;}
   });
+  const ordered=state.zoneOrder[state.mode];
+  for(const zone of ["main","side","extra"]){
+    const keys=new Set(zones[zone].map(item=>item.key));
+    ordered[zone]=ordered[zone].filter(key=>keys.has(key));
+    zones[zone].forEach(item=>{if(!ordered[zone].includes(item.key))ordered[zone].push(item.key);});
+    const positions=new Map(ordered[zone].map((key,index)=>[key,index]));
+    zones[zone].sort((a,b)=>positions.get(a.key)-positions.get(b.key));
+  }
   return zones;
 }
 function activeZones(){const instances=activeZoneInstances();return{main:instances.main.map(item=>item.card),side:instances.side.map(item=>item.card),extra:instances.extra.map(item=>item.card)};}
@@ -158,18 +168,33 @@ function moveOrSwap(instanceId,targetZone,targetInstanceId){
   clearDropTargets();
   const zones=activeZoneInstances();
   const source=locateInstance(instanceId,zones);
-  if(!source||!ZONE_LIMITS[targetZone]||source.zone===targetZone)return;
+  if(!source||!ZONE_LIMITS[targetZone])return;
+  const orders=state.zoneOrder[state.mode];
+  if(source.zone===targetZone){
+    if(!targetInstanceId||targetInstanceId===instanceId)return;
+    const order=orders[source.zone];const sourceIndex=order.indexOf(instanceId);
+    if(sourceIndex<0)return;
+    order.splice(sourceIndex,1);const targetIndex=order.indexOf(targetInstanceId);order.splice(targetIndex<0?order.length:targetIndex,0,instanceId);
+    saveCollections();renderCollection();elements.message.textContent="Card order updated and saved in this browser.";return;
+  }
   if(!allowedZones(source.instance.card).includes(targetZone)){
     elements.message.textContent=isExtraDeckCard(source.instance.card)?"Extra Deck monsters may move only between the Extra and Side Decks.":"Main Deck cards may move only between the Main and Side Decks.";
     return;
   }
   const assignments=state.zoneAssignments[state.mode];
-  if(zones[targetZone].length<ZONE_LIMITS[targetZone])assignments[instanceId]=targetZone;
+  const sourceOrder=orders[source.zone];const targetOrder=orders[targetZone];
+  if(zones[targetZone].length<ZONE_LIMITS[targetZone]){
+    assignments[instanceId]=targetZone;
+    const sourceIndex=sourceOrder.indexOf(instanceId);if(sourceIndex>=0)sourceOrder.splice(sourceIndex,1);
+    const targetIndex=targetInstanceId?targetOrder.indexOf(targetInstanceId):-1;targetOrder.splice(targetIndex<0?targetOrder.length:targetIndex,0,instanceId);
+  }
   else{
     const target=locateInstance(targetInstanceId,zones);
     if(!target||target.zone!==targetZone){elements.message.textContent=`${targetZone[0].toUpperCase()+targetZone.slice(1)} Deck is full. Drop onto a compatible card to swap them.`;return;}
     if(!allowedZones(target.instance.card).includes(source.zone)){elements.message.textContent="Those two cards cannot swap because one would enter an invalid deck zone.";return;}
     assignments[instanceId]=targetZone;assignments[targetInstanceId]=source.zone;
+    const sourceIndex=sourceOrder.indexOf(instanceId);const targetIndex=targetOrder.indexOf(targetInstanceId);
+    if(sourceIndex>=0)sourceOrder[sourceIndex]=targetInstanceId;if(targetIndex>=0)targetOrder[targetIndex]=instanceId;
   }
   saveCollections();renderCollection();updateButtons();
   elements.message.textContent="Deck zones updated. Your custom layout is saved in this browser.";
@@ -183,6 +208,8 @@ function saveCollections(){
   localStorage.setItem(MODE_KEY,state.mode);
   localStorage.setItem(ZONE_KEYS.rips,JSON.stringify(state.zoneAssignments.rips));
   localStorage.setItem(ZONE_KEYS.draft,JSON.stringify(state.zoneAssignments.draft));
+  localStorage.setItem(ORDER_KEYS.rips,JSON.stringify(state.zoneOrder.rips));
+  localStorage.setItem(ORDER_KEYS.draft,JSON.stringify(state.zoneOrder.draft));
 }
 function restoreCardGroups(key){
   try{const saved=JSON.parse(localStorage.getItem(key)||"[]");if(!Array.isArray(saved))return[];return saved.map(group=>Array.isArray(group)?group.map(cardById).filter(Boolean):[]).filter(group=>group.length);}catch{return[];}
@@ -190,6 +217,7 @@ function restoreCardGroups(key){
 function restoreCollections(){
   state.ripPacks=restoreCardGroups(RIP_KEY);state.draftRounds=restoreCardGroups(DRAFT_KEY);state.mode=localStorage.getItem(MODE_KEY)==="draft"?"draft":"rips";
   for(const mode of ["rips","draft"]){try{const saved=JSON.parse(localStorage.getItem(ZONE_KEYS[mode])||"{}");state.zoneAssignments[mode]=saved&&typeof saved==="object"&&!Array.isArray(saved)?saved:{};}catch{state.zoneAssignments[mode]={};}}
+  for(const mode of ["rips","draft"]){try{const saved=JSON.parse(localStorage.getItem(ORDER_KEYS[mode])||"{}");state.zoneOrder[mode]={main:Array.isArray(saved.main)?saved.main:[],side:Array.isArray(saved.side)?saved.side:[],extra:Array.isArray(saved.extra)?saved.extra:[]};}catch{state.zoneOrder[mode]=emptyZoneOrder();}}
   try{
     const pending=JSON.parse(localStorage.getItem(DRAFT_PENDING_KEY)||"null");
     if(Array.isArray(pending?.pack)&&pending.pack.length===5){
@@ -243,7 +271,7 @@ function updateButtons(){
   if(state.busy)elements.confirm.hidden=true;
   elements.open.disabled=!state.ready||state.busy||choosing;
   elements.confirm.disabled=state.busy||state.selectedIds.size!==2;
-  elements.export.disabled=!deckComplete();
+  elements.export.disabled=!state.ready||zoneSize(activeZones())===0;
   elements.modes.forEach(button=>{button.disabled=state.busy;});
 }
 
@@ -319,7 +347,7 @@ function resetDraft(){
   const hasProgress=state.mode==="draft"?state.draftRounds.length||state.pendingPack:state.ripPacks.length;
   const label=state.mode==="draft"?"every kept card and the current unconfirmed round":"every pack opened";
   if(hasProgress&&!window.confirm(`Clear ${label} in this browser?`))return;
-  if(state.mode==="draft"){state.draftRounds=[];state.pendingPack=null;state.selectedIds.clear();state.zoneAssignments.draft={};localStorage.removeItem(DRAFT_KEY);localStorage.removeItem(DRAFT_PENDING_KEY);localStorage.removeItem(ZONE_KEYS.draft);}else{state.ripPacks=[];state.zoneAssignments.rips={};localStorage.removeItem(RIP_KEY);localStorage.removeItem(ZONE_KEYS.rips);}
+  if(state.mode==="draft"){state.draftRounds=[];state.pendingPack=null;state.selectedIds.clear();state.zoneAssignments.draft={};state.zoneOrder.draft=emptyZoneOrder();localStorage.removeItem(DRAFT_KEY);localStorage.removeItem(DRAFT_PENDING_KEY);localStorage.removeItem(ZONE_KEYS.draft);localStorage.removeItem(ORDER_KEYS.draft);}else{state.ripPacks=[];state.zoneAssignments.rips={};state.zoneOrder.rips=emptyZoneOrder();localStorage.removeItem(RIP_KEY);localStorage.removeItem(ZONE_KEYS.rips);localStorage.removeItem(ORDER_KEYS.rips);}
   emptyStage();elements.message.textContent=state.mode==="draft"?"Draft picks reset. Your next round is ready.":"Pack pulls reset. Your next pack is ready.";renderCollection();updateButtons();
 }
 
@@ -332,14 +360,14 @@ function xmlCard(card){
 }
 function exportDraftXml(){
   const zones=activeZones();
-  if(!deckComplete(zones)){elements.message.textContent="Fill all 60 Main, 15 Side, and 15 Extra Deck slots before exporting.";return;}
+  if(!zoneSize(zones)){elements.message.textContent="Add at least one card before exporting your deck.";return;}
   const date=localDateStamp();
   const deckName=`Draft Night ${date}`;
   const section=(name,cards)=>` <${name}>\n${cards.map(xmlCard).join("\n")}\n </${name}>`;
   const xml=["<?xml version=\"1.0\" encoding=\"utf-8\" ?>",`<deck name="${xmlEscape(deckName)}">`,section("main",zones.main),section("side",zones.side),section("extra",zones.extra),"</deck>",""].join("\n");
   const url=URL.createObjectURL(new Blob([xml],{type:"application/xml;charset=utf-8"}));
   const link=document.createElement("a");link.href=url;link.download=`${deckName}.xml`;document.body.append(link);link.click();link.remove();window.setTimeout(()=>URL.revokeObjectURL(url),1000);
-  elements.message.textContent=`Exported ${deckName}.xml with 60 Main, 15 Side, and 15 Extra Deck cards.`;
+  elements.message.textContent=`Exported ${deckName}.xml with ${zones.main.length} Main, ${zones.side.length} Side, and ${zones.extra.length} Extra Deck cards.`;
 }
 
 function detailRows(card){const rows=[["Card type",card.cardType],["Monster type",card.monsterType],["Spell/Trap type",card.spellTrapType],["Attribute",card.attribute],["Level / Rank / Link",card.levelRankLink],["ATK",card.atk],["DEF",card.def],["Pendulum Scale",card.pendulumScale],["Link Markers",card.linkMarkers?.join(", ")],["Effect clauses",card.clauses]].filter(([,value])=>value!==undefined&&value!==null&&value!=="");return rows.map(([label,value])=>`<div class="detail-item"><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>`).join("");}
