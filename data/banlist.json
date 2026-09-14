@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-09-14T12:46:27.939Z",
+  "updatedAt": "2026-09-14T13:39:28.105Z",
   "cards": [
     {
       "id": 384,
@@ -837,7 +837,7 @@
     {
       "id": 331,
       "name": "Bad Reaction to Simochi",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Continuous",
@@ -849,7 +849,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/40633297.jpg",
       "officialUrl": "https://ygoprodeck.com/card/bad-reaction-to-simochi-3454",
       "addedAt": "2026-08-25 03:46:23",
-      "changedAt": "2026-08-25 03:46:23"
+      "changedAt": "2026-09-14 13:39:05"
     },
     {
       "id": 128,
@@ -1207,7 +1207,7 @@
     {
       "id": 27,
       "name": "Called by the Grave",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Quick-Play",
@@ -1218,7 +1218,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24224830.jpg",
       "officialUrl": "https://ygoprodeck.com/card/called-by-the-grave-9244",
       "addedAt": "2026-07-29 04:48:33",
-      "changedAt": "2026-09-08 01:57:42"
+      "changedAt": "2026-09-14 13:39:05"
     },
     {
       "id": 119,
@@ -1594,7 +1594,7 @@
     {
       "id": 88,
       "name": "Casting Call",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -1609,7 +1609,7 @@
       "duelingbookId": 5939429,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939429.jpg",
       "addedAt": "2026-08-06 23:03:57",
-      "changedAt": "2026-09-09 14:21:05"
+      "changedAt": "2026-09-14 13:39:05"
     },
     {
       "id": 5,
@@ -17495,7 +17495,7 @@
         {
           "id": 88,
           "name": "Casting Call",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -17510,7 +17510,7 @@
           "duelingbookId": 5939429,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939429.jpg",
           "addedAt": "2026-08-06 23:03:57",
-          "changedAt": "2026-09-09 14:21:05"
+          "changedAt": "2026-09-14 13:39:05"
         },
         {
           "id": 67,
