@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T15:15:46.713Z",
+  "updatedAt": "2026-09-15T15:18:16.540Z",
   "cards": [
     {
       "id": 384,
@@ -18235,7 +18235,7 @@
       "submittedAt": "2026-09-10 18:38:22",
       "activatedAt": "2026-09-10 18:38:22",
       "declaredCardCount": 14,
-      "registeredCardCount": 0,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -18244,7 +18244,43 @@
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 286,
+      "featuredCardName": "La Jinn the Mystical Genie of Fels’teel",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038386.jpg",
+      "cards": [
+        {
+          "id": 286,
+          "name": "La Jinn the Mystical Genie of Fels’teel",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "1800",
+          "def": "1000",
+          "text": "When your opponent activates a monster effect while this card is in your hand or face-up on the field (Quick Effect): You can, immediately after this effect resolves, Special Summon 1 \"Fels'teel Lamp\" Xyz Monster from your Deck attaching this card to it as material (this is treated as an Xyz Summon). You can only activate this effect of \"La Jinn the Mystical Genie of Fels’teel\" once per turn. A “Fels’teel” Xyz Monster that has this card as material gains this effect.\n● You can detach 1 “La Jinn the Mystical Genie of Fels’teel” from this card; add 1 “Fels'teel” Spell/Trap from your Deck to your hand, and if you do, Special Summon the monster detached to activate this effect.",
+          "duelingbookId": 6038386,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038386.jpg",
+          "addedAt": "2026-09-15 15:17:46",
+          "changedAt": "2026-09-15 15:17:46"
+        },
+        {
+          "id": 287,
+          "name": "Zahira the Mystical Mirage of Fels’teel",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "1500",
+          "def": "1600",
+          "text": "When your opponent activates a Spell card/effect while this card is in your hand or face-up on the field (Quick Effect): You can, immediately after this effect resolves, Special Summon 1 \"Fels'teel Lamp\" Xyz Monster from your Deck attaching this card to it as material (this is treated as an Xyz Summon). You can only activate this effect of \"Zahira the Mystical Mirage of Fels’teel\" once per turn. A “Fels’teel” Xyz Monster that has this card as material gains this effect.\n● When your opponent activates a card or effect that targets a card(s) you control, except during the Damage Step (Quick Effect): You can detach 1 “Zahira the Mystical Mirage of Fels’teel” from this card, then target 1 appropriate card your opponent controls; change that activated effect’s target to that target, and if you do, Special Summon the monster detached to activate this effect.",
+          "duelingbookId": 6038407,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038407.jpg",
+          "addedAt": "2026-09-15 15:18:06",
+          "changedAt": "2026-09-15 15:18:06"
+        }
+      ]
     },
     {
       "id": 31,
