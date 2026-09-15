@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T15:18:46.461Z",
+  "updatedAt": "2026-09-15T15:19:46.455Z",
   "cards": [
     {
       "id": 384,
@@ -18235,7 +18235,7 @@
       "submittedAt": "2026-09-10 18:38:22",
       "activatedAt": "2026-09-10 18:38:22",
       "declaredCardCount": 14,
-      "registeredCardCount": 3,
+      "registeredCardCount": 5,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -18295,6 +18295,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038418.jpg",
           "addedAt": "2026-09-15 15:18:29",
           "changedAt": "2026-09-15 15:18:29"
+        },
+        {
+          "id": 289,
+          "name": "Aladin, Bearer of Fels’teel",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "DARK",
+          "levelRankLink": "Level 3",
+          "atk": "1500",
+          "def": "1200",
+          "text": "If this card is Normal or Special Summoned: You can Special Summon 1 “Ancient Fels’teel Lamp” from your hand or Deck, also you cannot Special Summon monsters for the rest of this turn, except Fiend and Spellcaster monsters. If you control a “Fels’teel” Xyz Monster: You can target 1 “Fels’teel” Xyz Monster you control; draw cards equal to the number of materials attached to it with different names, then place cards from your hand on the bottom of the Deck in any order, equal to the number you drew -1. You can only use this effect of “Aladin, Bearer of Fels’teel” once per turn. Once per turn (Quick Effect): You can target 1 \"Fels'teel\" Xyz monster you control; attach this card to it as material, and if you do, you can add 1 \" Ancient Fel'steel Lamp\" from your GY to your hand..",
+          "duelingbookId": 6038665,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038665.jpg",
+          "addedAt": "2026-09-15 15:19:23",
+          "changedAt": "2026-09-15 15:19:23"
+        },
+        {
+          "id": 290,
+          "name": "Ancient Fels'teel Lamp",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "900",
+          "def": "1400",
+          "text": "You can reveal this card and 1 \"the Mystical\" monster from your hand; Special Summon them. If this card is Normal Summoned or Special Summoned: You can add 1 “Fels'teel” Fiend monster from your Deck to your hand. You can only use each effect of “Ancient Fels'teel Lamp” once per turn.",
+          "duelingbookId": 6038907,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038907.jpg",
+          "addedAt": "2026-09-15 15:19:40",
+          "changedAt": "2026-09-15 15:19:40"
         }
       ]
     },
