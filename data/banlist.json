@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T15:21:46.471Z",
+  "updatedAt": "2026-09-15T15:22:16.513Z",
   "cards": [
     {
       "id": 384,
@@ -18235,7 +18235,7 @@
       "submittedAt": "2026-09-10 18:38:22",
       "activatedAt": "2026-09-10 18:38:22",
       "declaredCardCount": 14,
-      "registeredCardCount": 10,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -18402,6 +18402,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039500.jpg",
           "addedAt": "2026-09-15 15:21:27",
           "changedAt": "2026-09-15 15:21:27"
+        },
+        {
+          "id": 296,
+          "name": "Fels'teel Mirage Veil",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once per Duel, if you control \"Aladin, Bearer of Fels'teel\" or \"Ancient Fels'teel Lamp\": You can activate this card from your Deck. When your opponent activates a card or effect that targets a “Fels'teel” Xyz Monster you control: Special Summon 1 “Zahira, Mirage of Fels'teel” from your Deck or GY, and if you do, that targeted monster is unaffected by that effect, then attach the Summoned monster to it as material. You can only activate 1 “Fels'teel Mirage Veil” per turn.",
+          "duelingbookId": 6039498,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039498.jpg",
+          "addedAt": "2026-09-15 15:21:52",
+          "changedAt": "2026-09-15 15:21:52"
+        },
+        {
+          "id": 297,
+          "name": "Fels'teel – Careful What You Wish For",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Counter",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When your opponent activates a Monster effect while you control a “Fels'teel” Xyz Monster: Detach 1 material from an Xyz Monster you control; negate the activation, and if you do, attach that opponent’s card to 1 “Fels'teel” Xyz Monster you control as material. You can only activate 1 “Fels'teel – Careful What You Wish For” per turn.",
+          "duelingbookId": 6039503,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039503.jpg",
+          "addedAt": "2026-09-15 15:22:09",
+          "changedAt": "2026-09-15 15:22:09"
         }
       ]
     },
