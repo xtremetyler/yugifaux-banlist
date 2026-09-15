@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T15:23:16.466Z",
+  "updatedAt": "2026-09-15T15:24:16.520Z",
   "cards": [
     {
       "id": 384,
@@ -18235,7 +18235,7 @@
       "submittedAt": "2026-09-10 18:38:22",
       "activatedAt": "2026-09-10 18:38:22",
       "declaredCardCount": 14,
-      "registeredCardCount": 13,
+      "registeredCardCount": 14,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -18448,6 +18448,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038927.jpg",
           "addedAt": "2026-09-15 15:23:12",
           "changedAt": "2026-09-15 15:23:12"
+        },
+        {
+          "id": 299,
+          "name": "Grand Fels’teel Lamp of Wishes Unbound",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "DARK",
+          "levelRankLink": "Rank 4",
+          "atk": "1400",
+          "def": "2600",
+          "text": "3 Level 4 “Fels'teel” monsters\nIf this card is Xyz Summoned while you control \"Aladin, Bearer of Fels'teel\" : You can attach up to 3 “Fels'teel” Fiend monsters with different names from your hand, GY, and/or banishment to this card as material. Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 card your opponent controls; attach it to this card as material. Once per turn, if this Xyz Summoned card would leave the field because of an opponent’s card effect, you can detach 1 non-Fiend material from it instead.",
+          "duelingbookId": 6039518,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039518.jpg",
+          "addedAt": "2026-09-15 15:24:14",
+          "changedAt": "2026-09-15 15:24:14"
         }
       ]
     },
