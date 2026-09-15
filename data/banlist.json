@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T15:20:46.444Z",
+  "updatedAt": "2026-09-15T15:21:16.487Z",
   "cards": [
     {
       "id": 384,
@@ -18235,7 +18235,7 @@
       "submittedAt": "2026-09-10 18:38:22",
       "activatedAt": "2026-09-10 18:38:22",
       "declaredCardCount": 14,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -18372,6 +18372,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039491.jpg",
           "addedAt": "2026-09-15 15:20:44",
           "changedAt": "2026-09-15 15:20:44"
+        },
+        {
+          "id": 294,
+          "name": "Pact of the Fels'teel Lamp",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once per turn: You can target 1 “Fels'teel” monster in your GY; add it to your hand, then you can attach 1 “Fels'teel” Fiend monster from your hand to a “Fels'teel” Xyz Monster you control as material.",
+          "duelingbookId": 6039514,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039514.jpg",
+          "addedAt": "2026-09-15 15:21:10",
+          "changedAt": "2026-09-15 15:21:10"
         }
       ]
     },
