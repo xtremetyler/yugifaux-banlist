@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T15:20:16.446Z",
+  "updatedAt": "2026-09-15T15:20:46.444Z",
   "cards": [
     {
       "id": 384,
@@ -18235,7 +18235,7 @@
       "submittedAt": "2026-09-10 18:38:22",
       "activatedAt": "2026-09-10 18:38:22",
       "declaredCardCount": 14,
-      "registeredCardCount": 6,
+      "registeredCardCount": 8,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -18342,6 +18342,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038931.jpg",
           "addedAt": "2026-09-15 15:20:00",
           "changedAt": "2026-09-15 15:20:00"
+        },
+        {
+          "id": 292,
+          "name": "Rub the Fels'teel Lamp",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Special Summon 1 “Fels'teel Lamp” monster from your Deck or GY, then, if you Special Summoned an Xyz Monster with this effect, you can attach this card and the top card of your Deck to it as material. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Xyz Monsters.",
+          "duelingbookId": 6039495,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039495.jpg",
+          "addedAt": "2026-09-15 15:20:27",
+          "changedAt": "2026-09-15 15:20:27"
+        },
+        {
+          "id": 293,
+          "name": "Three Gifts of Fels'teel",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Reveal 3 “Fels'teel” monsters with different names from your Deck, your opponent randomly chooses 1 for you to add to your hand, then you Special Summon 1 of the remaining monsters and send the other to the GY. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except “Fels'teel” Xyz Monsters. You can only activate 1 “Three Gifts of Fels'teel” per turn.",
+          "duelingbookId": 6039491,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039491.jpg",
+          "addedAt": "2026-09-15 15:20:44",
+          "changedAt": "2026-09-15 15:20:44"
         }
       ]
     },
