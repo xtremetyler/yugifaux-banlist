@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T15:18:16.540Z",
+  "updatedAt": "2026-09-15T15:18:46.461Z",
   "cards": [
     {
       "id": 384,
@@ -18235,7 +18235,7 @@
       "submittedAt": "2026-09-10 18:38:22",
       "activatedAt": "2026-09-10 18:38:22",
       "declaredCardCount": 14,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -18279,6 +18279,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038407.jpg",
           "addedAt": "2026-09-15 15:18:06",
           "changedAt": "2026-09-15 15:18:06"
+        },
+        {
+          "id": 288,
+          "name": "Nadira the Mystical Temptress of Fels’teel",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "1700",
+          "def": "1200",
+          "text": "When your opponent activates a Trap card or effect while this card is in your hand or face-up on the field (Quick Effect): You can, immediately after this effect resolves, Special Summon 1 \"Fels'teel Lamp\" Xyz Monster from your Deck attaching this card to it as material (this is treated as an Xyz Summon). You can only activate this effect of \"Nadira the Mystical Temptress of Fels’teel\" once per turn. A “Fels’teel” Xyz Monster that has this card as material gains this effect.\n● If your opponent Special Summons a monster(s) (except during the Damage Step): You can detach 1 “Nadira the Mystical Temptress of Fels’teel” from this card, then target 1 of those monsters; attach it to this card as material, and if you do, Special Summon the monster detached to activate this effect.",
+          "duelingbookId": 6038418,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038418.jpg",
+          "addedAt": "2026-09-15 15:18:29",
+          "changedAt": "2026-09-15 15:18:29"
         }
       ]
     },
