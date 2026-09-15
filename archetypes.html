@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><meta name="theme-color" content="#0d1018" />
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" /><link rel="shortcut icon" href="favicon.ico" /><link rel="manifest" href="site.webmanifest" />
+    <meta name="description" content="Explore every active YugiFaux archetype, its creator, retirement progress, and complete registered card list." />
+    <title>Active Archetypes · YugiFaux</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css?v=2" /><link rel="stylesheet" href="draft-styles.css" /><link rel="stylesheet" href="archive.css?v=2" /><link rel="stylesheet" href="league.css?v=1" />
+  </head>
+  <body class="league-page active-page">
+    <header class="hero league-hero"><div class="hero__glow"></div><div class="shell hero__content">
+      <nav class="site-nav" aria-label="YugiFaux pages"><a href="index.html">Home</a><a href="dashboard.html">Dashboard</a><a href="archetypes.html" aria-current="page">Active Archetypes</a><a href="banlist.html">Limeade List</a><a href="rules.html">League Rules</a><a href="draft.html">Draft Night</a><a href="archive.html">Archive</a><a href="companion.html">Companion</a></nav>
+      <p class="eyebrow">The decks shaping the format</p><h1>Active Archetypes</h1><p class="hero__intro">Meet the current field, follow each archetype’s path toward retirement, and inspect every card registered with the league.</p>
+      <div class="hero__meta"><span id="active-updated">Loading active archetypes…</span><span class="hero__dot" aria-hidden="true"></span><span id="active-total">0 archetypes</span></div>
+    </div></header>
+    <main class="shell active-main">
+      <div class="active-tools"><label class="archive-search"><span>Search active archetypes</span><input id="active-search" type="search" placeholder="Archetype or creator…" autocomplete="off" /></label><a href="dashboard.html">View league dashboard →</a></div>
+      <div id="active-grid" class="active-grid"></div>
+      <section class="error-state" id="active-error" hidden><h2>Active archetypes could not be loaded</h2><p>Refresh in a moment or let a league administrator know.</p></section>
+    </main>
+    <dialog id="active-dialog" class="archive-dialog"><button class="dialog-close" type="button" aria-label="Close archetype details">×</button><div id="active-dialog-content"></div></dialog>
+    <footer><div class="shell footer__content"><span>YugiFaux Active Archetypes</span><span>Maintained automatically by The Fauxbidden One</span></div></footer>
+    <script src="archetypes.js?v=1" defer></script>
+  </body>
+</html>
+
