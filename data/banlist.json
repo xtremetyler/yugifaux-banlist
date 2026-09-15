@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T18:41:11.846Z",
+  "updatedAt": "2026-09-15T21:41:31.495Z",
   "cards": [
     {
       "id": 384,
@@ -18873,6 +18873,538 @@
         "opponentGames": 2,
         "reporterArchetype": "Hollow Era",
         "opponentArchetype": "Pandora"
+      }
+    ],
+    "matchHistory": [
+      {
+        "id": 55,
+        "confirmedAt": "2026-09-15 03:53:46",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Fels'teel",
+        "opponentArchetype": "Ancient Ritual"
+      },
+      {
+        "id": 54,
+        "confirmedAt": "2026-09-14 19:39:24",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Fels'teel"
+      },
+      {
+        "id": 53,
+        "confirmedAt": "2026-09-14 15:54:32",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Ancient Ritual"
+      },
+      {
+        "id": 52,
+        "confirmedAt": "2026-09-12 03:44:51",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Pandora"
+      },
+      {
+        "id": 51,
+        "confirmedAt": "2026-09-11 18:40:34",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Pandora"
+      },
+      {
+        "id": 50,
+        "confirmedAt": "2026-09-11 16:54:43",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Fels'teel"
+      },
+      {
+        "id": 49,
+        "confirmedAt": "2026-09-09 19:26:13",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "VeloCity",
+        "opponentArchetype": "Dungeon Dark"
+      },
+      {
+        "id": 48,
+        "confirmedAt": "2026-09-09 14:23:57",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Hollow Era",
+        "opponentArchetype": "Pandora"
+      },
+      {
+        "id": 47,
+        "confirmedAt": "2026-09-08 04:39:21",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Hollow Era",
+        "opponentArchetype": "VeloCity"
+      },
+      {
+        "id": 46,
+        "confirmedAt": "2026-09-08 04:11:18",
+        "reporter": "Edward Swissorhands",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "VeloCity",
+        "opponentArchetype": "Pandora"
+      },
+      {
+        "id": 45,
+        "confirmedAt": "2026-09-08 03:22:13",
+        "reporter": "Edward Swissorhands",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Quiz Panel",
+        "opponentArchetype": "Pandora"
+      },
+      {
+        "id": 44,
+        "confirmedAt": "2026-09-08 03:06:50",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "I \"Lack toes\" Joules",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Hollow Era",
+        "opponentArchetype": "Anointed"
+      },
+      {
+        "id": 43,
+        "confirmedAt": "2026-09-07 18:34:27",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Hollow Era",
+        "opponentArchetype": "Dungeon Dark"
+      },
+      {
+        "id": 42,
+        "confirmedAt": "2026-09-04 14:53:54",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Quiz Panel",
+        "opponentArchetype": "Purp-eL"
+      },
+      {
+        "id": 41,
+        "confirmedAt": "2026-09-03 02:31:15",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Purp-eL",
+        "opponentArchetype": "Dungeon Dark"
+      },
+      {
+        "id": 40,
+        "confirmedAt": "2026-09-03 01:48:51",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Purp-eL",
+        "opponentArchetype": "Dungeon Dark"
+      },
+      {
+        "id": 39,
+        "confirmedAt": "2026-09-01 04:07:02",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Hyrule",
+        "opponentArchetype": "Dungeon Dark"
+      },
+      {
+        "id": 38,
+        "confirmedAt": "2026-09-01 01:22:40",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Purp-eL",
+        "opponentArchetype": "Hyrule"
+      },
+      {
+        "id": 37,
+        "confirmedAt": "2026-08-31 18:39:47",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Purp-eL",
+        "opponentArchetype": "Hyrule"
+      },
+      {
+        "id": 36,
+        "confirmedAt": "2026-08-27 17:57:35",
+        "reporter": "Edward Swissorhands",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Quiz Panel",
+        "opponentArchetype": "Hyrule"
+      },
+      {
+        "id": 35,
+        "confirmedAt": "2026-08-25 20:18:51",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Purp-eL",
+        "opponentArchetype": "Quiz Panel"
+      },
+      {
+        "id": 34,
+        "confirmedAt": "2026-08-25 18:12:59",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Purp-eL",
+        "opponentArchetype": "Hyrule"
+      },
+      {
+        "id": 33,
+        "confirmedAt": "2026-08-25 03:44:01",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Purp-eL",
+        "opponentArchetype": "Quiz Panel"
+      },
+      {
+        "id": 32,
+        "confirmedAt": "2026-08-25 03:15:57",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "I \"Lack toes\" Joules",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Hyrule",
+        "opponentArchetype": "Anointed"
+      },
+      {
+        "id": 31,
+        "confirmedAt": "2026-08-24 19:03:22",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Alsabea",
+        "opponentArchetype": "Singularitech"
+      },
+      {
+        "id": 30,
+        "confirmedAt": "2026-08-24 16:29:01",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Alsabea",
+        "opponentArchetype": "Singularitech"
+      },
+      {
+        "id": 29,
+        "confirmedAt": "2026-08-24 15:33:38",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Alsabea",
+        "opponentArchetype": "Card Wars"
+      },
+      {
+        "id": 28,
+        "confirmedAt": "2026-08-21 18:49:34",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Singularitech",
+        "opponentArchetype": "Xigg, the Lost"
+      },
+      {
+        "id": 27,
+        "confirmedAt": "2026-08-20 19:48:30",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Xigg, the Lost",
+        "opponentArchetype": "Singularitech"
+      },
+      {
+        "id": 26,
+        "confirmedAt": "2026-08-20 17:50:23",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Xigg, the Lost",
+        "opponentArchetype": "Card Wars"
+      },
+      {
+        "id": 25,
+        "confirmedAt": "2026-08-19 14:43:57",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Xigg, the Lost",
+        "opponentArchetype": "Card Wars"
+      },
+      {
+        "id": 24,
+        "confirmedAt": "2026-08-19 03:39:25",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Grounded Airlines",
+        "opponentArchetype": "Xigg, the Lost"
+      },
+      {
+        "id": 22,
+        "confirmedAt": "2026-08-18 18:50:32",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Xigg, the Lost",
+        "opponentArchetype": "Card Wars"
+      },
+      {
+        "id": 21,
+        "confirmedAt": "2026-08-18 05:00:30",
+        "reporter": "Edward Swissorhands",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Grounded Airlines",
+        "opponentArchetype": "Card Wars"
+      },
+      {
+        "id": 20,
+        "confirmedAt": "2026-08-18 02:58:35",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Xigg, the Lost",
+        "opponentArchetype": "Grounded Airlines"
+      },
+      {
+        "id": 19,
+        "confirmedAt": "2026-08-14 20:02:29",
+        "reporter": "Edward Swissorhands",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Masked Rite",
+        "opponentArchetype": "The Horde"
+      },
+      {
+        "id": 18,
+        "confirmedAt": "2026-08-14 19:40:44",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Carcosa",
+        "opponentArchetype": "The Horde"
+      },
+      {
+        "id": 17,
+        "confirmedAt": "2026-08-13 18:50:33",
+        "reporter": "Edward Swissorhands",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Masked Rite",
+        "opponentArchetype": "The Horde"
+      },
+      {
+        "id": 16,
+        "confirmedAt": "2026-08-12 16:08:59",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Carcosa",
+        "opponentArchetype": "The Horde"
+      },
+      {
+        "id": 15,
+        "confirmedAt": "2026-08-11 17:58:41",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Carcosa",
+        "opponentArchetype": "Masked Rite"
+      },
+      {
+        "id": 14,
+        "confirmedAt": "2026-08-11 04:35:09",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Skybreaker",
+        "opponentArchetype": "Masked Rite"
+      },
+      {
+        "id": 13,
+        "confirmedAt": "2026-08-11 03:00:46",
+        "reporter": "Edward Swissorhands",
+        "opponent": "I \"Lack toes\" Joules",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Masked Rite",
+        "opponentArchetype": "Saki"
+      },
+      {
+        "id": 12,
+        "confirmedAt": "2026-08-11 01:50:23",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "I \"Lack toes\" Joules",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Skybreaker",
+        "opponentArchetype": "Saki"
+      },
+      {
+        "id": 11,
+        "confirmedAt": "2026-08-07 20:08:29",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Masked Rite",
+        "opponentArchetype": "Skybreaker"
+      },
+      {
+        "id": 10,
+        "confirmedAt": "2026-08-07 20:08:24",
+        "reporter": "Edward Swissorhands",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Masked Rite",
+        "opponentArchetype": "Dragon Warrior"
+      },
+      {
+        "id": 9,
+        "confirmedAt": "2026-08-05 20:24:31",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Dragon Warrior",
+        "opponentArchetype": "Skybreaker"
+      },
+      {
+        "id": 8,
+        "confirmedAt": "2026-08-05 17:10:01",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Dragon Warrior",
+        "opponentArchetype": "Skybreaker"
+      },
+      {
+        "id": 7,
+        "confirmedAt": "2026-08-04 17:15:24",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Spirebound",
+        "opponentArchetype": "Skybreaker"
+      },
+      {
+        "id": 6,
+        "confirmedAt": "2026-08-04 04:00:23",
+        "reporter": "Edward Swissorhands",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Spirebound",
+        "opponentArchetype": "Dragon Warrior"
+      },
+      {
+        "id": 4,
+        "confirmedAt": "2026-08-03 18:21:49",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Skybreaker",
+        "opponentArchetype": "Dragon Warrior"
+      },
+      {
+        "id": 3,
+        "confirmedAt": "2026-07-31 20:14:17",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Skybreaker",
+        "opponentArchetype": "Spirebound"
+      },
+      {
+        "id": 2,
+        "confirmedAt": "2026-07-31 18:30:48",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Spirebound",
+        "opponentArchetype": "Skybreaker"
+      },
+      {
+        "id": 1,
+        "confirmedAt": "2026-07-31 06:13:47",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Spirebound",
+        "opponentArchetype": "Skybreaker"
       }
     ]
   }
