@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-15T15:19:46.455Z",
+  "updatedAt": "2026-09-15T15:20:16.446Z",
   "cards": [
     {
       "id": 384,
@@ -18235,7 +18235,7 @@
       "submittedAt": "2026-09-10 18:38:22",
       "activatedAt": "2026-09-10 18:38:22",
       "declaredCardCount": 14,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -18327,6 +18327,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038907.jpg",
           "addedAt": "2026-09-15 15:19:40",
           "changedAt": "2026-09-15 15:19:40"
+        },
+        {
+          "id": 291,
+          "name": "Califara, City of Fels'teel",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can add 1 “Fels'teel” monster from your Deck to your hand. If a card is attached to a “Fels'teel” Xyz Monster you control as material: You can target 1 “Fels'teel” card in your GY; shuffle it into the Deck, then draw 1 card. You can only use this effect of “Califara, City of Fels'teel” once per turn.",
+          "duelingbookId": 6038931,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038931.jpg",
+          "addedAt": "2026-09-15 15:20:00",
+          "changedAt": "2026-09-15 15:20:00"
         }
       ]
     },
