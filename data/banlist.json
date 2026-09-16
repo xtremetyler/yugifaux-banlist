@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-16T18:20:38.873Z",
+  "updatedAt": "2026-09-16T18:25:08.939Z",
   "cards": [
     {
       "id": 384,
@@ -17798,8 +17798,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 17,
-      "totalClauses": 62,
+      "addedClauses": 18,
+      "totalClauses": 63,
       "retirementsSeen": 3,
       "retirementThreshold": 4,
       "retirementRequired": false,
@@ -17994,11 +17994,11 @@
           "levelRankLink": "Level 3",
           "atk": "1200",
           "def": "1000",
-          "text": "During the Main Phase, while this card is in your hand (Quick Effect): You can discard this card; excavate the top 4 cards of your Deck and equip up to 1 excavated \"Loot\" Equip Spell Card to a face-up monster on the field, then shuffle the rest into the Deck. Once Per Turn: You can place 1 \"Loot\" Equip Card you control on the bottom of your Deck; draw 1 card.",
+          "text": "Before resolving a card or effect that excavated this card: You can add 1 \"Pandoran\" Monster excavated by that effect to your hand. During the Main Phase, while this card is in your hand (Quick Effect): You can discard this card; excavate the top 4 cards of your Deck and equip up to 1 excavated \"Loot\" Equip Spell Card to a face-up monster on the field, then shuffle the rest into the Deck. Once Per Turn: You can place 1 \"Loot\" Equip Card you control on the bottom of your Deck; draw 1 card.",
           "duelingbookId": 6017694,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017694.jpg",
           "addedAt": "2026-09-11 15:51:04",
-          "changedAt": "2026-09-11 18:47:00"
+          "changedAt": "2026-09-16 18:24:51"
         },
         {
           "id": 283,
