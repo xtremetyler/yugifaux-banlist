@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-16T18:30:53.750Z",
+  "updatedAt": "2026-09-16T18:34:23.773Z",
   "cards": [
     {
       "id": 384,
@@ -4825,7 +4825,7 @@
     {
       "id": 177,
       "name": "Lyrilusc - Ensemblue Robin",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "XYZ Monster",
       "monsterType": "Winged Beast",
@@ -4841,7 +4841,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/72971064.jpg",
       "officialUrl": "https://ygoprodeck.com/card/lyrilusc-ensemblue-robin-12217",
       "addedAt": "2026-08-11 17:57:51",
-      "changedAt": "2026-08-11 17:57:51"
+      "changedAt": "2026-09-16 18:34:03"
     },
     {
       "id": 248,
@@ -8692,7 +8692,7 @@
     {
       "id": 232,
       "name": "The Stranger in a Pallid Mask",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Psychic",
@@ -8710,7 +8710,7 @@
       "duelingbookId": 5995212,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995212.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-24 17:16:19"
+      "changedAt": "2026-09-16 18:34:19"
     },
     {
       "id": 71,
@@ -8807,7 +8807,7 @@
     {
       "id": 233,
       "name": "Tormented Maiden Camilla",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Psychic",
@@ -8825,7 +8825,7 @@
       "duelingbookId": 5995213,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995213.jpg",
       "addedAt": "2026-08-15 01:23:13",
-      "changedAt": "2026-08-24 17:16:38"
+      "changedAt": "2026-09-16 18:34:03"
     },
     {
       "id": 29,
@@ -14391,7 +14391,7 @@
         {
           "id": 232,
           "name": "The Stranger in a Pallid Mask",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Psychic",
@@ -14409,12 +14409,12 @@
           "duelingbookId": 5995212,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995212.jpg",
           "addedAt": "2026-08-15 01:23:13",
-          "changedAt": "2026-08-24 17:16:19"
+          "changedAt": "2026-09-16 18:34:19"
         },
         {
           "id": 233,
           "name": "Tormented Maiden Camilla",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Psychic",
@@ -14432,7 +14432,7 @@
           "duelingbookId": 5995213,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995213.jpg",
           "addedAt": "2026-08-15 01:23:13",
-          "changedAt": "2026-08-24 17:16:38"
+          "changedAt": "2026-09-16 18:34:03"
         }
       ]
     },
@@ -18764,7 +18764,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 13,
+        "balance": 3,
         "lifetimePoints": 313,
         "matchWins": 24,
         "matchLosses": 17,
