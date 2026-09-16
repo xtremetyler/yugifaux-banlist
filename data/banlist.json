@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-16T09:41:07.846Z",
+  "updatedAt": "2026-09-16T16:52:08.726Z",
   "cards": [
     {
       "id": 384,
@@ -2845,6 +2845,27 @@
       "officialUrl": "https://ygoprodeck.com/card/ghost-ogre-snow-rabbit-5052",
       "addedAt": "2026-07-29 04:27:09",
       "changedAt": "2026-07-29 04:27:09"
+    },
+    {
+      "id": 510,
+      "name": "Gigantic Spright",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "XYZ Monster",
+      "monsterType": "Thunder",
+      "attribute": "DARK",
+      "levelRankLink": "Rank 2",
+      "atk": "1600",
+      "def": "1600",
+      "text": "2 Level 2 monsters\r\nFor this card's Xyz Summon, you can treat Link-2 monsters you control as Level 2 monsters for material. The original ATK of this card that has a Fusion, Synchro, Xyz, or Link Monster as material becomes doubled. During your Main Phase: You can activate this effect; detach 1 material from a monster you control, and if you do, Special Summon 1 Level 2 monster from your Deck, also neither player can Special Summon for the rest of this turn, except Level/Rank/Link 2 monsters. You can only use this effect of \"Gigantic Spright\" once per turn.",
+      "archetype": "Spright",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "54498517",
+      "duelingbookId": 13008,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/54498517.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/gigantic-spright-13165",
+      "addedAt": "2026-09-16 16:51:52",
+      "changedAt": "2026-09-16 16:51:52"
     },
     {
       "id": 244,
@@ -18746,7 +18767,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 33,
+        "balance": 26,
         "lifetimePoints": 142,
         "matchWins": 12,
         "matchLosses": 13,
