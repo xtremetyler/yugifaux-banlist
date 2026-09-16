@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-16T16:52:08.726Z",
+  "updatedAt": "2026-09-16T16:53:08.744Z",
   "cards": [
     {
       "id": 384,
@@ -8893,6 +8893,27 @@
       "officialUrl": "https://ygoprodeck.com/card/trap-trick-9620",
       "addedAt": "2026-07-29 04:53:07",
       "changedAt": "2026-07-29 04:53:07"
+    },
+    {
+      "id": 511,
+      "name": "Tri-Brigade Kerass",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Beast",
+      "attribute": "EARTH",
+      "levelRankLink": "Level 2",
+      "atk": "1200",
+      "def": "1500",
+      "text": "You can discard 1 other Beast, Beast-Warrior, or Winged Beast monster; Special Summon this card from your hand. You can banish any number of Beast, Beast-Warrior, and/or Winged Beast monsters in your GY; Special Summon 1 Beast, Beast-Warrior, or Winged Beast Link Monster from your Extra Deck, with Link Rating equal to the number banished, also you can only use Beast, Beast-Warrior, and Winged Beast monsters as Link Material for the rest of this turn. You can only use each effect of \"Tri-Brigade Kerass\" once per turn.",
+      "archetype": "Tri-Brigade",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "50810455",
+      "duelingbookId": 11051,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/50810455.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/tri-brigade-kerass-11316",
+      "addedAt": "2026-09-16 16:52:45",
+      "changedAt": "2026-09-16 16:52:45"
     },
     {
       "id": 348,
@@ -18767,7 +18788,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 26,
+        "balance": 19,
         "lifetimePoints": 142,
         "matchWins": 12,
         "matchLosses": 13,
