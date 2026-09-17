@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-17T14:41:00.625Z",
+  "updatedAt": "2026-09-17T15:04:30.718Z",
   "cards": [
     {
       "id": 384,
@@ -18760,28 +18760,28 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 54,
+    "confirmedMatchCount": 55,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 3,
-        "lifetimePoints": 313,
-        "matchWins": 24,
+        "balance": 7,
+        "lifetimePoints": 317,
+        "matchWins": 25,
         "matchLosses": 17,
-        "gamesWon": 97,
-        "gamesLost": 59,
+        "gamesWon": 99,
+        "gamesLost": 60,
         "gamesDrawn": 0,
         "archetypeId": 29,
         "archetypeName": "Reija The Fade"
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 10,
-        "lifetimePoints": 231,
+        "balance": 12,
+        "lifetimePoints": 233,
         "matchWins": 15,
-        "matchLosses": 15,
-        "gamesWon": 48,
-        "gamesLost": 70,
+        "matchLosses": 16,
+        "gamesWon": 49,
+        "gamesLost": 72,
         "gamesDrawn": 0,
         "archetypeId": 30,
         "archetypeName": "Fels'teel"
@@ -18836,6 +18836,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 57,
+        "confirmedAt": "2026-09-17 15:04:25",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Fels'teel"
+      },
       {
         "id": 56,
         "confirmedAt": "2026-09-16 18:13:44",
@@ -18905,19 +18915,19 @@
         "opponentGames": 2,
         "reporterArchetype": "Reija The Fade",
         "opponentArchetype": "Fels'teel"
-      },
-      {
-        "id": 49,
-        "confirmedAt": "2026-09-09 19:26:13",
-        "reporter": "Edward Swissorhands",
-        "opponent": "Brielieve In Cheesus",
-        "reporterGames": 2,
-        "opponentGames": 0,
-        "reporterArchetype": "VeloCity",
-        "opponentArchetype": "Dungeon Dark"
       }
     ],
     "matchHistory": [
+      {
+        "id": 57,
+        "confirmedAt": "2026-09-17 15:04:25",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Fels'teel"
+      },
       {
         "id": 56,
         "confirmedAt": "2026-09-16 18:13:44",
