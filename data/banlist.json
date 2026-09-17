@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-17T18:34:27.586Z",
+  "updatedAt": "2026-09-17T19:16:27.720Z",
   "cards": [
     {
       "id": 384,
@@ -1203,6 +1203,30 @@
       "officialUrl": "https://ygoprodeck.com/card/brotherhood-of-the-fire-fist-bear-559",
       "addedAt": "2026-07-31 16:50:13",
       "changedAt": "2026-07-31 16:50:13"
+    },
+    {
+      "id": 512,
+      "name": "Bujinki Ahashima",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Link Monster",
+      "monsterType": "Beast-Warrior",
+      "attribute": "LIGHT",
+      "levelRankLink": "Link 2",
+      "atk": "1500",
+      "linkMarkers": [
+        "Top",
+        "Bottom-Right"
+      ],
+      "text": "2 monsters with the same Level\r\nCannot be used as Link Material. You can only use each of the following effects of \"Bujinki Ahashima\" once per turn.\r\n● If this card is Link Summoned: You can Special Summon 2 monsters with the same Level, 1 from your hand and 1 from your GY, but negate their effects, and immediately after this effect resolves, Xyz Summon 1 Xyz Monster using those 2 monsters only.\r\n● If an Xyz Monster this card points to activates an effect by detaching material(s) (except during the Damage Step): You can target 1 Spell/Trap your opponent controls; destroy it.",
+      "archetype": "Bujin",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "71095768",
+      "duelingbookId": 10509,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/71095768.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/bujinki-ahashima-10741",
+      "addedAt": "2026-09-17 19:16:23",
+      "changedAt": "2026-09-17 19:16:23"
     },
     {
       "id": 27,
@@ -18788,7 +18812,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 20,
+        "balance": 13,
         "lifetimePoints": 143,
         "matchWins": 12,
         "matchLosses": 14,
