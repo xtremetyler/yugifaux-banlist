@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-18T16:59:39.977Z",
+  "updatedAt": "2026-09-18T17:30:10.239Z",
   "cards": [
     {
       "id": 384,
@@ -9992,6 +9992,23 @@
       "changedAt": "2026-09-10 00:18:16"
     },
     {
+      "id": 513,
+      "name": "Wing Requital",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "If all monsters you control are Winged Beast monsters and you control at least 2 monsters with different original names: Pay 600 LP; draw 2 cards. You can only activate 1 \"Wing Requital\" per turn.",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "08843569",
+      "duelingbookId": 12005,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/8843569.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/wing-requital-12346",
+      "addedAt": "2026-09-18 17:29:57",
+      "changedAt": "2026-09-18 17:29:57"
+    },
+    {
       "id": 365,
       "name": "Wollow, Founder of the Drudge Dragons",
       "status": "semi-limeade",
@@ -18812,7 +18829,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 13,
+        "balance": 6,
         "lifetimePoints": 143,
         "matchWins": 12,
         "matchLosses": 14,
