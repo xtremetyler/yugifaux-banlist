@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-18T22:36:07.260Z",
+  "updatedAt": "2026-09-18T22:36:37.018Z",
   "cards": [
     {
       "id": 384,
@@ -6363,8 +6363,8 @@
       "archetype": "Pandora",
       "archetypeId": 26,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6017840,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017840.jpg",
+      "duelingbookId": 6053722,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053722.jpg",
       "addedAt": "2026-09-18 22:32:42",
       "changedAt": "2026-09-18 22:32:42"
     },
@@ -10726,8 +10726,8 @@
           "archetype": "Pandora",
           "archetypeId": 26,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6017840,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017840.jpg",
+          "duelingbookId": 6053722,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053722.jpg",
           "addedAt": "2026-09-18 22:32:42",
           "changedAt": "2026-09-18 22:32:42"
         },
