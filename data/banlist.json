@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-18T19:32:40.109Z",
+  "updatedAt": "2026-09-18T19:42:10.428Z",
   "cards": [
     {
       "id": 384,
@@ -18322,8 +18322,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 10,
-      "totalClauses": 55,
+      "addedClauses": 12,
+      "totalClauses": 57,
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": false,
@@ -18465,11 +18465,11 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Once per turn: You can target 1 “Fels'teel” monster in your GY; add it to your hand, then you can attach 1 “Fels'teel” Fiend monster from your hand to a “Fels'teel” Xyz Monster you control as material.",
+          "text": "Once per turn: You can target 1 “Fels'teel” monster in your GY; add it to your hand, then you can attach 1 “Fels'teel” Fiend monster from your hand to a “Fels'teel” Xyz Monster you control as material, then you can also attach this card and the top card of your Deck to it as material.",
           "duelingbookId": 6039514,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039514.jpg",
           "addedAt": "2026-09-15 15:21:10",
-          "changedAt": "2026-09-17 18:15:13"
+          "changedAt": "2026-09-18 19:41:46"
         },
         {
           "id": 295,
