@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-18T21:22:46.693Z",
+  "updatedAt": "2026-09-18T22:22:16.768Z",
   "cards": [
     {
       "id": 384,
@@ -17834,8 +17834,8 @@
       "description": "",
       "submittedAt": "2026-09-01 19:53:21",
       "activatedAt": "2026-09-10 01:06:30",
-      "declaredCardCount": 14,
-      "registeredCardCount": 16,
+      "declaredCardCount": 15,
+      "registeredCardCount": 15,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -17848,14 +17848,6 @@
       "featuredCardName": "Pandoran Tyrant - Handsome Jack",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035520.jpg",
       "cards": [
-        {
-          "id": 207,
-          "name": "Pandoran Tyrant – Handsome Jack",
-          "source": "custom",
-          "text": "Level 5 | LIGHT | Warrior / Synchro / Effect\nATK 1900 / DEF 2000\n1 Tuner + 1+ non-Tuner “Pandoran” monsters\n\nIf this card is Synchro Summoned: You can place 1 each of “Loot – Common”, “Loot – Rare”, “Loot – Epic”, and “Loot – Legendary” from your Deck on top of your Deck in any order, then excavate the top 4 cards of your Deck, and if you do, equip any number of excavated Equip Spells to this card, also shuffle the rest into the Deck. If this Synchro Summoned card leaves the field because of an opponent’s card: You can Special Summon 1 “Pandoran” Xyz Monster from your Extra Deck.",
-          "addedAt": "2026-09-01 20:32:51",
-          "changedAt": "2026-09-01 20:32:51"
-        },
         {
           "id": 271,
           "name": "Pandoran Tyrant - Handsome Jack",
