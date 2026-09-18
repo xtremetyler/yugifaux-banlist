@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-18T19:53:12.474Z",
+  "updatedAt": "2026-09-18T20:52:42.134Z",
   "cards": [
     {
       "id": 384,
@@ -17843,7 +17843,7 @@
       "totalClauses": 63,
       "retirementsSeen": 3,
       "retirementThreshold": 4,
-      "retirementRequired": false,
+      "retirementRequired": true,
       "featuredCardId": 271,
       "featuredCardName": "Pandoran Tyrant - Handsome Jack",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035520.jpg",
@@ -18801,7 +18801,7 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 56,
+    "confirmedMatchCount": 57,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
@@ -18817,24 +18817,24 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 13,
-        "lifetimePoints": 234,
-        "matchWins": 15,
+        "balance": 19,
+        "lifetimePoints": 240,
+        "matchWins": 16,
         "matchLosses": 17,
-        "gamesWon": 49,
-        "gamesLost": 74,
+        "gamesWon": 51,
+        "gamesLost": 75,
         "gamesDrawn": 0,
         "archetypeId": 30,
         "archetypeName": "Fels'teel"
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 6,
-        "lifetimePoints": 143,
+        "balance": 8,
+        "lifetimePoints": 145,
         "matchWins": 12,
-        "matchLosses": 14,
-        "gamesWon": 31,
-        "gamesLost": 34,
+        "matchLosses": 15,
+        "gamesWon": 32,
+        "gamesLost": 36,
         "gamesDrawn": 0,
         "archetypeId": 26,
         "archetypeName": "Pandora"
@@ -18877,6 +18877,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 59,
+        "confirmedAt": "2026-09-18 20:52:25",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Pandora",
+        "opponentArchetype": "Fels'teel"
+      },
       {
         "id": 58,
         "confirmedAt": "2026-09-18 19:32:26",
@@ -18946,19 +18956,19 @@
         "opponentGames": 1,
         "reporterArchetype": "Reija The Fade",
         "opponentArchetype": "Pandora"
-      },
-      {
-        "id": 51,
-        "confirmedAt": "2026-09-11 18:40:34",
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "The Original Rough Cheddar",
-        "reporterGames": 2,
-        "opponentGames": 0,
-        "reporterArchetype": "Reija The Fade",
-        "opponentArchetype": "Pandora"
       }
     ],
     "matchHistory": [
+      {
+        "id": 59,
+        "confirmedAt": "2026-09-18 20:52:25",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Pandora",
+        "opponentArchetype": "Fels'teel"
+      },
       {
         "id": 58,
         "confirmedAt": "2026-09-18 19:32:26",
