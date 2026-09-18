@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-18T22:35:07.177Z",
+  "updatedAt": "2026-09-18T22:35:36.995Z",
   "cards": [
     {
       "id": 384,
@@ -1649,8 +1649,8 @@
       "archetype": "Pandora",
       "archetypeId": 26,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6020271,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020271.jpg",
+      "duelingbookId": 6053707,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053707.jpg",
       "addedAt": "2026-09-18 22:32:42",
       "changedAt": "2026-09-18 22:32:42"
     },
@@ -6402,8 +6402,8 @@
       "archetype": "Pandora",
       "archetypeId": 26,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6035520,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035520.jpg",
+      "duelingbookId": 6053706,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053706.jpg",
       "addedAt": "2026-09-18 22:32:42",
       "changedAt": "2026-09-18 22:32:42"
     },
@@ -6430,7 +6430,7 @@
       "levelRankLink": "Level 4",
       "atk": "1500",
       "def": "1500",
-      "text": "If this card is Normal or Special Summoned: Excavate the top 4 cards of your Deck and equip up to 1 excavated \"Loot\" Equip Spell Card to this card, and if you do, Set up to 1 Trap Card that mentions \"Pandoran\" from yrou Deck or GY, then shuffle the rest into the Deck. If this card becomes attached to or detached from a \"Pandoran\" Xyz Monster: Equip up to 1 \"Loot\" Equip Spell Card from your hand or GY to that monster.",
+      "text": "If this card is Normal or Special Summoned: Excavate the top 4 cards of your Deck and equip up to 1 excavated \"Loot\" Equip Spell Card to this card, and if you do, Set up to 1 Trap Card that mentions \"Pandoran\" from yrou Deck or GY, then shuffle the rest into the Deck, This effect and its activation cannot be negated. If this card becomes attached to or detached from a \"Pandoran\" Xyz Monster: Equip up to 1 \"Loot\" Equip Spell Card from your hand or GY to that monster.",
       "archetype": "Pandora",
       "archetypeId": 26,
       "contributor": "The Original Rough Cheddar",
@@ -6454,8 +6454,8 @@
       "archetype": "Pandora",
       "archetypeId": 26,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6017892,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017892.jpg",
+      "duelingbookId": 6053709,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053709.jpg",
       "addedAt": "2026-09-18 22:32:42",
       "changedAt": "2026-09-18 22:32:42"
     },
@@ -6494,8 +6494,8 @@
       "archetype": "Pandora",
       "archetypeId": 26,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6017897,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017897.jpg",
+      "duelingbookId": 6053708,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053708.jpg",
       "addedAt": "2026-09-18 22:32:42",
       "changedAt": "2026-09-18 22:32:42"
     },
@@ -10552,7 +10552,7 @@
       "cardListComplete": true,
       "featuredCardId": 515,
       "featuredCardName": "Catch-A-Ride!",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020271.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053707.jpg",
       "cards": [
         {
           "id": 515,
@@ -10568,8 +10568,8 @@
           "archetype": "Pandora",
           "archetypeId": 26,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6020271,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020271.jpg",
+          "duelingbookId": 6053707,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053707.jpg",
           "addedAt": "2026-09-18 22:32:42",
           "changedAt": "2026-09-18 22:32:42"
         },
@@ -10765,8 +10765,8 @@
           "archetype": "Pandora",
           "archetypeId": 26,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6035520,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035520.jpg",
+          "duelingbookId": 6053706,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053706.jpg",
           "addedAt": "2026-09-18 22:32:42",
           "changedAt": "2026-09-18 22:32:42"
         },
@@ -10793,7 +10793,7 @@
           "levelRankLink": "Level 4",
           "atk": "1500",
           "def": "1500",
-          "text": "If this card is Normal or Special Summoned: Excavate the top 4 cards of your Deck and equip up to 1 excavated \"Loot\" Equip Spell Card to this card, and if you do, Set up to 1 Trap Card that mentions \"Pandoran\" from yrou Deck or GY, then shuffle the rest into the Deck. If this card becomes attached to or detached from a \"Pandoran\" Xyz Monster: Equip up to 1 \"Loot\" Equip Spell Card from your hand or GY to that monster.",
+          "text": "If this card is Normal or Special Summoned: Excavate the top 4 cards of your Deck and equip up to 1 excavated \"Loot\" Equip Spell Card to this card, and if you do, Set up to 1 Trap Card that mentions \"Pandoran\" from yrou Deck or GY, then shuffle the rest into the Deck, This effect and its activation cannot be negated. If this card becomes attached to or detached from a \"Pandoran\" Xyz Monster: Equip up to 1 \"Loot\" Equip Spell Card from your hand or GY to that monster.",
           "archetype": "Pandora",
           "archetypeId": 26,
           "contributor": "The Original Rough Cheddar",
@@ -10817,8 +10817,8 @@
           "archetype": "Pandora",
           "archetypeId": 26,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6017892,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017892.jpg",
+          "duelingbookId": 6053709,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053709.jpg",
           "addedAt": "2026-09-18 22:32:42",
           "changedAt": "2026-09-18 22:32:42"
         },
@@ -10857,8 +10857,8 @@
           "archetype": "Pandora",
           "archetypeId": 26,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6017897,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017897.jpg",
+          "duelingbookId": 6053708,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053708.jpg",
           "addedAt": "2026-09-18 22:32:42",
           "changedAt": "2026-09-18 22:32:42"
         }
