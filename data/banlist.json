@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-18T18:30:40.963Z",
+  "updatedAt": "2026-09-18T19:32:40.109Z",
   "cards": [
     {
       "id": 384,
@@ -18801,7 +18801,7 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 55,
+    "confirmedMatchCount": 56,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
@@ -18817,12 +18817,12 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 12,
-        "lifetimePoints": 233,
+        "balance": 13,
+        "lifetimePoints": 234,
         "matchWins": 15,
-        "matchLosses": 16,
+        "matchLosses": 17,
         "gamesWon": 49,
-        "gamesLost": 72,
+        "gamesLost": 74,
         "gamesDrawn": 0,
         "archetypeId": 30,
         "archetypeName": "Fels'teel"
@@ -18853,11 +18853,11 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 39,
-        "lifetimePoints": 39,
-        "matchWins": 2,
+        "balance": 43,
+        "lifetimePoints": 43,
+        "matchWins": 3,
         "matchLosses": 5,
-        "gamesWon": 5,
+        "gamesWon": 7,
         "gamesLost": 11,
         "gamesDrawn": 0,
         "archetypeId": 31,
@@ -18877,6 +18877,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 58,
+        "confirmedAt": "2026-09-18 19:32:26",
+        "reporter": "Brielieve In Cheesus",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Ancient Ritual",
+        "opponentArchetype": "Fels'teel"
+      },
       {
         "id": 57,
         "confirmedAt": "2026-09-17 15:04:25",
@@ -18946,19 +18956,19 @@
         "opponentGames": 0,
         "reporterArchetype": "Reija The Fade",
         "opponentArchetype": "Pandora"
-      },
-      {
-        "id": 50,
-        "confirmedAt": "2026-09-11 16:54:43",
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "Edward Swissorhands",
-        "reporterGames": 1,
-        "opponentGames": 2,
-        "reporterArchetype": "Reija The Fade",
-        "opponentArchetype": "Fels'teel"
       }
     ],
     "matchHistory": [
+      {
+        "id": 58,
+        "confirmedAt": "2026-09-18 19:32:26",
+        "reporter": "Brielieve In Cheesus",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Ancient Ritual",
+        "opponentArchetype": "Fels'teel"
+      },
       {
         "id": 57,
         "confirmedAt": "2026-09-17 15:04:25",
