@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-18T20:52:42.134Z",
+  "updatedAt": "2026-09-18T20:54:12.370Z",
   "cards": [
     {
       "id": 384,
@@ -17839,8 +17839,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 18,
-      "totalClauses": 63,
+      "addedClauses": 22,
+      "totalClauses": 67,
       "retirementsSeen": 3,
       "retirementThreshold": 4,
       "retirementRequired": true,
@@ -17901,7 +17901,7 @@
           "duelingbookId": 6017897,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017897.jpg",
           "addedAt": "2026-09-11 15:46:54",
-          "changedAt": "2026-09-11 15:46:54"
+          "changedAt": "2026-09-18 20:53:44"
         },
         {
           "id": 274,
@@ -18829,8 +18829,8 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 8,
-        "lifetimePoints": 145,
+        "balance": 12,
+        "lifetimePoints": 149,
         "matchWins": 12,
         "matchLosses": 15,
         "gamesWon": 32,
