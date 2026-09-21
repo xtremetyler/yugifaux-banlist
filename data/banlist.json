@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-21T15:34:16.966Z",
+  "updatedAt": "2026-09-21T15:34:46.978Z",
   "cards": [
     {
       "id": 384,
@@ -4847,7 +4847,7 @@
     {
       "id": 523,
       "name": "Loot - Common",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -4861,7 +4861,7 @@
       "duelingbookId": 6053715,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053715.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:19"
     },
     {
       "id": 521,
@@ -4904,7 +4904,7 @@
     {
       "id": 522,
       "name": "Loot - Rare",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -4918,7 +4918,7 @@
       "duelingbookId": 6053714,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053714.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:17"
     },
     {
       "id": 2,
@@ -6308,7 +6308,7 @@
     {
       "id": 524,
       "name": "Pandoran Demolitionist",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Pyro",
@@ -6323,12 +6323,12 @@
       "duelingbookId": 6053716,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053716.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:23"
     },
     {
       "id": 525,
       "name": "Pandoran Gun Merchant",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
@@ -6343,12 +6343,12 @@
       "duelingbookId": 6053717,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053717.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:27"
     },
     {
       "id": 528,
       "name": "Pandoran Mascot",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
@@ -6366,7 +6366,7 @@
       "duelingbookId": 6053722,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053722.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:37"
     },
     {
       "id": 519,
@@ -6422,7 +6422,7 @@
     {
       "id": 527,
       "name": "Pandoran Vault Hunter - Commando",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -6437,7 +6437,7 @@
       "duelingbookId": 6053720,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053720.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:34"
     },
     {
       "id": 517,
@@ -6462,7 +6462,7 @@
     {
       "id": 526,
       "name": "Pandoran Vault Hunter - Siren",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -6477,7 +6477,7 @@
       "duelingbookId": 6053718,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053718.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:31"
     },
     {
       "id": 516,
@@ -10595,7 +10595,7 @@
         {
           "id": 523,
           "name": "Loot - Common",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -10609,7 +10609,7 @@
           "duelingbookId": 6053715,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053715.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:19"
         },
         {
           "id": 521,
@@ -10652,7 +10652,7 @@
         {
           "id": 522,
           "name": "Loot - Rare",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -10666,12 +10666,12 @@
           "duelingbookId": 6053714,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053714.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:17"
         },
         {
           "id": 524,
           "name": "Pandoran Demolitionist",
-          "status": "voting",
+          "status": "banned",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Pyro",
@@ -10686,12 +10686,12 @@
           "duelingbookId": 6053716,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053716.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:23"
         },
         {
           "id": 525,
           "name": "Pandoran Gun Merchant",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Machine",
@@ -10706,12 +10706,12 @@
           "duelingbookId": 6053717,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053717.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:27"
         },
         {
           "id": 528,
           "name": "Pandoran Mascot",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Machine",
@@ -10729,7 +10729,7 @@
           "duelingbookId": 6053722,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053722.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:37"
         },
         {
           "id": 519,
@@ -10785,7 +10785,7 @@
         {
           "id": 527,
           "name": "Pandoran Vault Hunter - Commando",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -10800,7 +10800,7 @@
           "duelingbookId": 6053720,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053720.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:34"
         },
         {
           "id": 517,
@@ -10825,7 +10825,7 @@
         {
           "id": 526,
           "name": "Pandoran Vault Hunter - Siren",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Spellcaster",
@@ -10840,7 +10840,7 @@
           "duelingbookId": 6053718,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053718.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:31"
         },
         {
           "id": 516,
