@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-21T15:33:46.984Z",
+  "updatedAt": "2026-09-21T15:34:16.966Z",
   "cards": [
     {
       "id": 384,
@@ -2531,7 +2531,7 @@
     {
       "id": 518,
       "name": "Fight for Your Life",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Counter",
@@ -2545,7 +2545,7 @@
       "duelingbookId": 6053710,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053710.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:06"
     },
     {
       "id": 290,
@@ -4866,7 +4866,7 @@
     {
       "id": 521,
       "name": "Loot - Epic",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -4880,12 +4880,12 @@
       "duelingbookId": 6053713,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053713.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:14"
     },
     {
       "id": 520,
       "name": "Loot - Legendary",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -4899,7 +4899,7 @@
       "duelingbookId": 6053712,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053712.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:11"
     },
     {
       "id": 522,
@@ -6371,7 +6371,7 @@
     {
       "id": 519,
       "name": "Pandoran Sanctuary - Moxxi's",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -6385,7 +6385,7 @@
       "duelingbookId": 6053711,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053711.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:08"
     },
     {
       "id": 514,
@@ -6442,7 +6442,7 @@
     {
       "id": 517,
       "name": "Pandoran Vault Hunter - Legendary Commando",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Warrior",
@@ -6457,7 +6457,7 @@
       "duelingbookId": 6053709,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053709.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:34:00"
     },
     {
       "id": 526,
@@ -6482,7 +6482,7 @@
     {
       "id": 516,
       "name": "Pandoran Vault Hunter - The Firehawk",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Spellcaster",
@@ -6497,7 +6497,7 @@
       "duelingbookId": 6053708,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053708.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:33:55"
     },
     {
       "id": 52,
@@ -10576,7 +10576,7 @@
         {
           "id": 518,
           "name": "Fight for Your Life",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Counter",
@@ -10590,7 +10590,7 @@
           "duelingbookId": 6053710,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053710.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:06"
         },
         {
           "id": 523,
@@ -10614,7 +10614,7 @@
         {
           "id": 521,
           "name": "Loot - Epic",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -10628,12 +10628,12 @@
           "duelingbookId": 6053713,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053713.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:14"
         },
         {
           "id": 520,
           "name": "Loot - Legendary",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -10647,7 +10647,7 @@
           "duelingbookId": 6053712,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053712.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:11"
         },
         {
           "id": 522,
@@ -10734,7 +10734,7 @@
         {
           "id": 519,
           "name": "Pandoran Sanctuary - Moxxi's",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -10748,7 +10748,7 @@
           "duelingbookId": 6053711,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053711.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:08"
         },
         {
           "id": 514,
@@ -10805,7 +10805,7 @@
         {
           "id": 517,
           "name": "Pandoran Vault Hunter - Legendary Commando",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Warrior",
@@ -10820,7 +10820,7 @@
           "duelingbookId": 6053709,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053709.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:34:00"
         },
         {
           "id": 526,
@@ -10845,7 +10845,7 @@
         {
           "id": 516,
           "name": "Pandoran Vault Hunter - The Firehawk",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Spellcaster",
@@ -10860,7 +10860,7 @@
           "duelingbookId": 6053708,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053708.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:33:55"
         }
       ]
     },
