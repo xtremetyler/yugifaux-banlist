@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-21T14:33:17.374Z",
+  "updatedAt": "2026-09-21T15:33:46.984Z",
   "cards": [
     {
       "id": 384,
@@ -1638,7 +1638,7 @@
     {
       "id": 515,
       "name": "Catch-A-Ride!",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -1652,7 +1652,7 @@
       "duelingbookId": 6053707,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053707.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:33:42"
     },
     {
       "id": 5,
@@ -6390,7 +6390,7 @@
     {
       "id": 514,
       "name": "Pandoran Tyrant - Handsome Jack",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Warrior",
@@ -6405,7 +6405,7 @@
       "duelingbookId": 6053706,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053706.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-18 22:32:42"
+      "changedAt": "2026-09-21 15:33:26"
     },
     {
       "id": 499,
@@ -10557,7 +10557,7 @@
         {
           "id": 515,
           "name": "Catch-A-Ride!",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -10571,7 +10571,7 @@
           "duelingbookId": 6053707,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053707.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:33:42"
         },
         {
           "id": 518,
@@ -10753,7 +10753,7 @@
         {
           "id": 514,
           "name": "Pandoran Tyrant - Handsome Jack",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Synchro Monster",
           "monsterType": "Warrior",
@@ -10768,7 +10768,7 @@
           "duelingbookId": 6053706,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053706.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-18 22:32:42"
+          "changedAt": "2026-09-21 15:33:26"
         },
         {
           "id": 499,
