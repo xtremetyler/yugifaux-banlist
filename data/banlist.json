@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T02:50:34.404Z",
+  "updatedAt": "2026-09-22T02:51:04.454Z",
   "cards": [
     {
       "id": 384,
@@ -19814,18 +19814,6 @@
         "gamesDrawn": 0,
         "archetypeId": 31,
         "archetypeName": "Ancient Ritual"
-      },
-      {
-        "name": "Raz",
-        "balance": 15,
-        "lifetimePoints": 15,
-        "matchWins": 0,
-        "matchLosses": 0,
-        "gamesWon": 0,
-        "gamesLost": 0,
-        "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
       }
     ],
     "recentMatches": [
