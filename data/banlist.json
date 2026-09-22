@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T02:36:06.124Z",
+  "updatedAt": "2026-09-22T02:49:36.054Z",
   "cards": [
     {
       "id": 384,
@@ -19730,6 +19730,26 @@
           "changedAt": "2026-09-22 01:15:46"
         }
       ]
+    },
+    {
+      "id": 33,
+      "name": "Wild Hunt",
+      "creator": "Edward Swissorhands",
+      "status": "active",
+      "description": "The Wild Hunt is an elite guild of monster hunters who don’t wait for dangerous prey to appear—they bring the monsters with them.\nLed by Lyra, Guildmaster of the Wild Hunt, the guild specializes in hunting massive Level 7 or higher monsters. Its Level 4 hunters—Vesper, Rowan, Kael, and Skadi—deploy when powerful prey appears, recruit additional hunters, and become stronger when battling enormous foes.\nTheir contracts target terrifying Level 10 Spirit Monsters such as Oaragoon, Bashiten, Donkestra, and Skorvath. These creatures are summoned directly to the opponent’s field, where they become dangerous obstacles that restrict the opponent in different ways. Defeating one earns the Wild Hunt a bounty, generating additional cards and resources.\nContract of the Wild Hunt chooses the next quarry and pairs it with the hunter best suited to kill it, while The Guild Hall keeps contracts flowing and rewards successful hunts.\nMechanically, Wild Hunt turns the opponent’s field into a hunting ground: give them a giant monster, deploy your hunters, kill your own quarry, collect the bounty, and begin the next hunt. The bigger the monster, the better the prize.",
+      "submittedAt": "2026-09-22 02:49:24",
+      "activatedAt": "2026-09-22 02:49:24",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 2,
+      "extraCount": 1,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 4,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -19756,8 +19776,8 @@
         "gamesWon": 52,
         "gamesLost": 77,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 33,
+        "archetypeName": "Wild Hunt"
       },
       {
         "name": "The Original Rough Cheddar",
