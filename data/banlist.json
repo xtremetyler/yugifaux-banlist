@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:02:05.211Z",
+  "updatedAt": "2026-09-22T03:07:35.389Z",
   "cards": [
     {
       "id": 384,
@@ -19740,7 +19740,7 @@
       "submittedAt": "2026-09-22 02:49:24",
       "activatedAt": "2026-09-22 02:49:24",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -19768,6 +19768,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5885506.jpg",
           "addedAt": "2026-09-22 03:01:24",
           "changedAt": "2026-09-22 03:01:24"
+        },
+        {
+          "id": 316,
+          "name": "Rowan, Berserker of the Wild Hunt",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "WIND",
+          "levelRankLink": "Level 4",
+          "atk": "1900",
+          "def": "1200",
+          "text": "If your opponent controls a Level 7 or higher monster: You can Special Summon this card from your hand. You can only Special Summon \"Rowan, Berserker of the Wild Hunt\" once per turn this way. If this card is Normal or Special Summoned by its own effect: You can add 1 Level 10 WIND Beast, Winged Beast, Reptile, or Insect monster from your Deck to your hand. During damage calculation, if this card battles a Level 7 or higher monster: This card gains ATK equal to that monster’s Level × 200, during that damage calculation only.",
+          "duelingbookId": 5884874,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5884874.jpg",
+          "addedAt": "2026-09-22 03:07:21",
+          "changedAt": "2026-09-22 03:07:21"
         }
       ]
     }
