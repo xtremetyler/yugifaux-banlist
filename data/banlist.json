@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:12:05.658Z",
+  "updatedAt": "2026-09-22T01:12:35.646Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19271,6 +19271,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046189.jpg",
           "addedAt": "2026-09-22 01:11:43",
           "changedAt": "2026-09-22 01:11:43"
+        },
+        {
+          "id": 306,
+          "name": "Berd in the Hand",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Discard 1 Winged Beast monster; Special Summon 2 Level 2 Winged Beast monsters with different names from your Deck and/or GY in face-up Defense Position. You can only activate 1 \"Berd in the Hand\" per turn.",
+          "duelingbookId": 6046191,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046191.jpg",
+          "addedAt": "2026-09-22 01:12:17",
+          "changedAt": "2026-09-22 01:12:17"
         }
       ]
     }
