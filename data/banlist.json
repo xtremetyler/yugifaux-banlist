@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:12:35.646Z",
+  "updatedAt": "2026-09-22T01:13:05.694Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19286,6 +19286,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046191.jpg",
           "addedAt": "2026-09-22 01:12:17",
           "changedAt": "2026-09-22 01:12:17"
+        },
+        {
+          "id": 307,
+          "name": "Ducks in a Row",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Choose hand, GY, Banishment, or face-up Extra Deck; Special Summon and/or place up to 4 Level 2 Winged Beast Monster Cards from the chosen zone in empty zones on either field in the same column as this card.",
+          "duelingbookId": 6046209,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046209.jpg",
+          "addedAt": "2026-09-22 01:12:54",
+          "changedAt": "2026-09-22 01:12:54"
         }
       ]
     }
