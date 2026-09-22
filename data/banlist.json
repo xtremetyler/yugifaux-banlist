@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:13:05.694Z",
+  "updatedAt": "2026-09-22T01:13:35.660Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19301,6 +19301,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046209.jpg",
           "addedAt": "2026-09-22 01:12:54",
           "changedAt": "2026-09-22 01:12:54"
+        },
+        {
+          "id": 308,
+          "name": "A Little Berdie Told Me",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Counter",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When your opponent activates a card or effect: You can Tribute 1 Level 2 Winged Monster you control; negate the activation, and if you do, if you Tributed a \"Berd\" monster to activate this effect, destroy that card.",
+          "duelingbookId": 6046212,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046212.jpg",
+          "addedAt": "2026-09-22 01:13:23",
+          "changedAt": "2026-09-22 01:13:23"
         }
       ]
     }
