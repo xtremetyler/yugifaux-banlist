@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:17:05.686Z",
+  "updatedAt": "2026-09-22T02:22:35.960Z",
   "cards": [
     {
       "id": 384,
@@ -19411,15 +19411,15 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 57,
+    "confirmedMatchCount": 58,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 18,
-        "lifetimePoints": 328,
-        "matchWins": 25,
+        "balance": 22,
+        "lifetimePoints": 332,
+        "matchWins": 26,
         "matchLosses": 17,
-        "gamesWon": 99,
+        "gamesWon": 101,
         "gamesLost": 60,
         "gamesDrawn": 0,
         "archetypeId": 29,
@@ -19439,12 +19439,12 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 17,
-        "lifetimePoints": 154,
+        "balance": 18,
+        "lifetimePoints": 155,
         "matchWins": 12,
-        "matchLosses": 15,
+        "matchLosses": 16,
         "gamesWon": 32,
-        "gamesLost": 36,
+        "gamesLost": 38,
         "gamesDrawn": 0,
         "archetypeId": 32,
         "archetypeName": "Berdz"
@@ -19487,6 +19487,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 60,
+        "confirmedAt": "2026-09-22 02:22:06",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Berdz"
+      },
       {
         "id": 59,
         "confirmedAt": "2026-09-18 20:52:25",
@@ -19556,19 +19566,19 @@
         "opponentGames": 0,
         "reporterArchetype": "Reija The Fade",
         "opponentArchetype": "Ancient Ritual"
-      },
-      {
-        "id": 52,
-        "confirmedAt": "2026-09-12 03:44:51",
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "The Original Rough Cheddar",
-        "reporterGames": 2,
-        "opponentGames": 1,
-        "reporterArchetype": "Reija The Fade",
-        "opponentArchetype": "Pandora"
       }
     ],
     "matchHistory": [
+      {
+        "id": 60,
+        "confirmedAt": "2026-09-22 02:22:06",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Berdz"
+      },
       {
         "id": 59,
         "confirmedAt": "2026-09-18 20:52:25",
