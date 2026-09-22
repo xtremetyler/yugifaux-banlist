@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:11:35.646Z",
+  "updatedAt": "2026-09-22T01:12:05.658Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19253,6 +19253,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046186.jpg",
           "addedAt": "2026-09-22 01:11:13",
           "changedAt": "2026-09-22 01:11:13"
+        },
+        {
+          "id": 305,
+          "name": "Berd 0205 - Zpero",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "WIND",
+          "levelRankLink": "Level 2",
+          "atk": "200",
+          "def": "500",
+          "pendulumScale": "1",
+          "pendulumEffect": "During your Main Phase: You can Special Summon as many Level 2 Winged Beast monsters with different names from your Extra Deck as possible, and if you do, place this card in your Extra Deck face-up (Min. 1). You can only activate this effect of \"Berd 0205 - Zpero\" once per turn.",
+          "text": "Small in size, but possesses the ego of a legendary dragon. It will aggressively fight a pigeon five times its size for a single french fry.",
+          "duelingbookId": 6046189,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046189.jpg",
+          "addedAt": "2026-09-22 01:11:43",
+          "changedAt": "2026-09-22 01:11:43"
         }
       ]
     }
