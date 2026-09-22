@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:11:05.273Z",
+  "updatedAt": "2026-09-22T03:15:38.761Z",
   "cards": [
     {
       "id": 384,
@@ -10360,6 +10360,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948437.jpg",
       "addedAt": "2026-08-10 01:39:24",
       "changedAt": "2026-09-09 15:45:15"
+    },
+    {
+      "id": 543,
+      "name": "Warclock of Infinite Time",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Fusion Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 2",
+      "atk": "500",
+      "def": "400",
+      "text": "(\"Time Wizard\" + 1 Continuous Trap Card)\nMust first be Fusion Summoned with the above materials. This card's name is treated as \"Time Wizard\" while on the field or in the GY. (Quick Effect): Toss a coin, then apply the appropriate effect based on the result:\n• Heads: Banish all cards your opponent controls and in their GY face-down, then inflict 100 damage to your opponent for each card banished this way.\n• Tails: Banish all cards you control and in your GY face-down, then take 100 damage for each card banished this way.\nYou can only use this effect of \"Warlock of Infinite Time\" once per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6059799,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059799.jpg",
+      "addedAt": "2026-09-22 03:15:37",
+      "changedAt": "2026-09-22 03:15:37"
     },
     {
       "id": 462,
