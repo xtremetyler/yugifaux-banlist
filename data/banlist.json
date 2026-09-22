@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:09:05.235Z",
+  "updatedAt": "2026-09-22T03:09:35.259Z",
   "cards": [
     {
       "id": 384,
@@ -19740,7 +19740,7 @@
       "submittedAt": "2026-09-22 02:49:24",
       "activatedAt": "2026-09-22 02:49:24",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -19854,6 +19854,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5883853.jpg",
           "addedAt": "2026-09-22 03:08:57",
           "changedAt": "2026-09-22 03:08:57"
+        },
+        {
+          "id": 321,
+          "name": "Bashiten, Infernal Trickster of the Canopy",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Winged Beast",
+          "abilities": [
+            "Spirit"
+          ],
+          "attribute": "FIRE",
+          "levelRankLink": "Level 10",
+          "atk": "2900",
+          "def": "2600",
+          "text": "You can reveal this card in your hand; Special Summon it to your opponent’s field in Attack Position, but while face-up, it cannot be Tributed or used as material for a Fusion, Synchro, Xyz, or Link Summon. The first Spell/Trap effect activated by this card’s controller each turn is negated. If this card is destroyed by battle with a “Wild Hunt” monster and sent to the GY: You can destroy 1 card on the field. During the End Phase of this card’s controller, if this card did not battle this turn: Return it to the owner’s hand.",
+          "duelingbookId": 5884326,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5884326.jpg",
+          "addedAt": "2026-09-22 03:09:18",
+          "changedAt": "2026-09-22 03:09:18"
         }
       ]
     }
