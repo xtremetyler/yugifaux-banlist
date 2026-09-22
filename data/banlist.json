@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T02:35:35.979Z",
+  "updatedAt": "2026-09-22T02:36:06.124Z",
   "cards": [
     {
       "id": 384,
@@ -542,8 +542,8 @@
       "archetype": "Fels'teel",
       "archetypeId": 30,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6038927,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038927.jpg",
+      "duelingbookId": 6059739,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059739.jpg",
       "addedAt": "2026-09-22 02:33:45",
       "changedAt": "2026-09-22 02:33:45"
     },
@@ -3152,8 +3152,8 @@
       "archetype": "Fels'teel",
       "archetypeId": 30,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6039518,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039518.jpg",
+      "duelingbookId": 6059740,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059740.jpg",
       "addedAt": "2026-09-22 02:33:45",
       "changedAt": "2026-09-22 02:33:45"
     },
@@ -10882,8 +10882,8 @@
           "archetype": "Fels'teel",
           "archetypeId": 30,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6038927,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038927.jpg",
+          "duelingbookId": 6059739,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059739.jpg",
           "addedAt": "2026-09-22 02:33:45",
           "changedAt": "2026-09-22 02:33:45"
         },
@@ -10978,8 +10978,8 @@
           "archetype": "Fels'teel",
           "archetypeId": 30,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6039518,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039518.jpg",
+          "duelingbookId": 6059740,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059740.jpg",
           "addedAt": "2026-09-22 02:33:45",
           "changedAt": "2026-09-22 02:33:45"
         },
