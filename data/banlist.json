@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:15:35.677Z",
+  "updatedAt": "2026-09-22T01:16:05.678Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19379,6 +19379,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046301.jpg",
           "addedAt": "2026-09-22 01:15:22",
           "changedAt": "2026-09-22 01:15:22"
+        },
+        {
+          "id": 313,
+          "name": "Berd 1400 - Swaloh",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "WIND",
+          "levelRankLink": "Link 2",
+          "atk": "1400",
+          "linkMarkers": [
+            "Bottom-Right",
+            "Bottom-Left"
+          ],
+          "text": "2 Winged Beast Monsters\nThis card is also treated as a Level 2 monster while on the field or in the GY or Banishment. Each Monster in a zone this card points to is also treated as a Winged Beast. Once, while you control this Link Summoned card: You can target 2 Winged Beast monsters (1 each in your GY and Banishment); place them in your Extra Deck face-up. While this card is in your GY (Quick Effect): You can banish this card; Special Summon 1 Level 2 Winged Beast monster from your face-up Extra Deck. You can only activate each effect of \"Berd 1400 - Swaloh\" once per turn.",
+          "duelingbookId": 6053123,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053123.jpg",
+          "addedAt": "2026-09-22 01:15:46",
+          "changedAt": "2026-09-22 01:15:46"
         }
       ]
     }
