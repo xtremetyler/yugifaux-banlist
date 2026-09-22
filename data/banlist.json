@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:10:05.641Z",
+  "updatedAt": "2026-09-22T01:10:35.657Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19199,6 +19199,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046180.jpg",
           "addedAt": "2026-09-22 01:09:46",
           "changedAt": "2026-09-22 01:09:46"
+        },
+        {
+          "id": 302,
+          "name": "Berd 0801 - Krau",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "DARK",
+          "levelRankLink": "Level 2",
+          "atk": "800",
+          "def": "100",
+          "pendulumScale": "3",
+          "pendulumEffect": "During your Main Phase: You can Tribute 1 Winged Beast Monster Card from your hand or field; Special Summon this card, unless your opponent banishes 1 card from their GY. You can only activate this effect of \"Berd 0801 - Krau\" once per turn.",
+          "text": "During your Main Phase: You can reveal this card in your hand; banish all Winged Beast monsters from your GY (min. 1), and if you do, discard this card. If this card leaves your GY: You can place it in your Extra Deck face-up. You can only activate each effect of \"Berd 0801 - Krau\" once per turn.",
+          "duelingbookId": 6046182,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046182.jpg",
+          "addedAt": "2026-09-22 01:10:16",
+          "changedAt": "2026-09-22 01:10:16"
         }
       ]
     }
