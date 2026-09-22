@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T17:11:43.802Z",
+  "updatedAt": "2026-09-22T18:31:43.220Z",
   "cards": [
     {
       "id": 384,
@@ -4940,7 +4940,7 @@
     {
       "id": 529,
       "name": "La Jinn the Mystical Genie of Fels’teel",
-      "status": "limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -4955,7 +4955,7 @@
       "duelingbookId": 6059727,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059727.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 16:45:44"
+      "changedAt": "2026-09-22 18:31:14"
     },
     {
       "id": 32,
@@ -11041,7 +11041,7 @@
         {
           "id": 529,
           "name": "La Jinn the Mystical Genie of Fels’teel",
-          "status": "limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Fiend",
@@ -11056,7 +11056,7 @@
           "duelingbookId": 6059727,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059727.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 16:45:44"
+          "changedAt": "2026-09-22 18:31:14"
         },
         {
           "id": 531,
