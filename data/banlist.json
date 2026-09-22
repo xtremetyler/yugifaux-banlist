@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:15:05.675Z",
+  "updatedAt": "2026-09-22T01:15:35.677Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19364,6 +19364,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046293.jpg",
           "addedAt": "2026-09-22 01:14:59",
           "changedAt": "2026-09-22 01:14:59"
+        },
+        {
+          "id": 312,
+          "name": "Berd Zanctuary",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once per turn, during your Main Phase: You can declare the name of 1 Level 2 Winged Beast monster; Special Summon a monster with that original name from your hand, Deck, or GY. If a \"Berd\" card or a card that mentions a Level 2 Winged Beast monster is revealed from your hand: You can activate this effect; draw 1 card. You can only use this effect of \"Berd Zanctuary\" thrice per Duel.",
+          "duelingbookId": 6046301,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046301.jpg",
+          "addedAt": "2026-09-22 01:15:22",
+          "changedAt": "2026-09-22 01:15:22"
         }
       ]
     }
