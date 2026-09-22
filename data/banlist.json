@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-21T21:25:04.981Z",
+  "updatedAt": "2026-09-22T01:02:05.664Z",
   "cards": [
     {
       "id": 384,
@@ -19159,6 +19159,26 @@
           "changedAt": "2026-09-19 14:27:45"
         }
       ]
+    },
+    {
+      "id": 32,
+      "name": "Berdz",
+      "creator": "The Original Rough Cheddar",
+      "status": "active",
+      "description": "",
+      "submittedAt": "2026-09-22 01:01:38",
+      "activatedAt": "2026-09-22 01:01:38",
+      "declaredCardCount": 13,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 4,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 4,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -19197,8 +19217,8 @@
         "gamesWon": 32,
         "gamesLost": 36,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 32,
+        "archetypeName": "Berdz"
       },
       {
         "name": "I \"Lack toes\" Joules",
