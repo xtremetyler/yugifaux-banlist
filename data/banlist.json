@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T02:34:05.988Z",
+  "updatedAt": "2026-09-22T02:34:35.998Z",
   "cards": [
     {
       "id": 384,
@@ -6473,7 +6473,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Once per turn: You can target 1 “Fels'teel” monster in your GY; add it to your hand, then you can attach 1 “Fels'teel” Fiend monster from your hand to a “Fels'teel” Xyz Monster you control as material, then you can also attach this card and the top card of your Deck to it as material.",
+      "text": "Once per turn: You can target 1 “Fels'teel” monster in your GY; add it to your hand, then you can attach 1 “Fels'teel” Fiend monster from your hand to a “Fels'teel” Xyz Monster you control as material, then you can also attach this card and the top card of your Deck to it as material. If this card is sent to the GY to activate an Xyz Monster’s effect: You can banish 1 “Fels’teel” card from your GY; add 1 “Fels’teel” Spell/Trap from your Deck to your hand.",
       "archetype": "Fels'teel",
       "archetypeId": 30,
       "contributor": "Edward Swissorhands",
@@ -9276,7 +9276,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Reveal 3 “Fels'teel” monsters with different names from your Deck, your opponent randomly chooses 1 for you to add to your hand, then you Special Summon 1 of the remaining monsters and send the other to the GY. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except “Fels'teel” Xyz Monsters. You can only activate 1 “Three Gifts of Fels'teel” per turn.",
+      "text": "Reveal 3 “Fels'teel” monsters with different names from your Deck, your opponent randomly chooses 1 for you to add to your hand, then you Special Summon 1 of the remaining monsters and send the other to the GY. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except “Fels'teel” Xyz Monsters. During your Main Phase, if this card is in your GY: You can pay 500 LP, then target 1 “Fels’teel” Xyz Monster you control; attach this card to it as material. You can only activate each effect of “Three Gifts of Fels'teel” per turn.",
       "archetype": "Fels'teel",
       "archetypeId": 30,
       "contributor": "Edward Swissorhands",
@@ -11033,7 +11033,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Once per turn: You can target 1 “Fels'teel” monster in your GY; add it to your hand, then you can attach 1 “Fels'teel” Fiend monster from your hand to a “Fels'teel” Xyz Monster you control as material, then you can also attach this card and the top card of your Deck to it as material.",
+          "text": "Once per turn: You can target 1 “Fels'teel” monster in your GY; add it to your hand, then you can attach 1 “Fels'teel” Fiend monster from your hand to a “Fels'teel” Xyz Monster you control as material, then you can also attach this card and the top card of your Deck to it as material. If this card is sent to the GY to activate an Xyz Monster’s effect: You can banish 1 “Fels’teel” card from your GY; add 1 “Fels’teel” Spell/Trap from your Deck to your hand.",
           "archetype": "Fels'teel",
           "archetypeId": 30,
           "contributor": "Edward Swissorhands",
@@ -11071,7 +11071,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Reveal 3 “Fels'teel” monsters with different names from your Deck, your opponent randomly chooses 1 for you to add to your hand, then you Special Summon 1 of the remaining monsters and send the other to the GY. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except “Fels'teel” Xyz Monsters. You can only activate 1 “Three Gifts of Fels'teel” per turn.",
+          "text": "Reveal 3 “Fels'teel” monsters with different names from your Deck, your opponent randomly chooses 1 for you to add to your hand, then you Special Summon 1 of the remaining monsters and send the other to the GY. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except “Fels'teel” Xyz Monsters. During your Main Phase, if this card is in your GY: You can pay 500 LP, then target 1 “Fels’teel” Xyz Monster you control; attach this card to it as material. You can only activate each effect of “Three Gifts of Fels'teel” per turn.",
           "archetype": "Fels'teel",
           "archetypeId": 30,
           "contributor": "Edward Swissorhands",
