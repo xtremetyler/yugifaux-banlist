@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:13:35.660Z",
+  "updatedAt": "2026-09-22T01:14:05.648Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19316,6 +19316,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046212.jpg",
           "addedAt": "2026-09-22 01:13:23",
           "changedAt": "2026-09-22 01:13:23"
+        },
+        {
+          "id": 309,
+          "name": "Berd 1812 - Vulcher",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "DARK",
+          "levelRankLink": "Rank 2",
+          "atk": "1800",
+          "def": "1200",
+          "text": "2 Level/Rank 2 Winged Beast Monsters\nWhen your opponent Special Summons a monster(s) (Quick Effect): You can pay 1000 LP, then detach 1 material from this card; negate the effects of that Special Summoned monster(s) until the end of this turn.",
+          "duelingbookId": 6046217,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046217.jpg",
+          "addedAt": "2026-09-22 01:13:52",
+          "changedAt": "2026-09-22 01:13:52"
         }
       ]
     }
