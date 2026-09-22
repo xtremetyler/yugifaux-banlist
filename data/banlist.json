@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:10:35.245Z",
+  "updatedAt": "2026-09-22T03:11:05.273Z",
   "cards": [
     {
       "id": 384,
@@ -19740,7 +19740,7 @@
       "submittedAt": "2026-09-22 02:49:24",
       "activatedAt": "2026-09-22 02:49:24",
       "declaredCardCount": 12,
-      "registeredCardCount": 10,
+      "registeredCardCount": 12,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -19922,6 +19922,37 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5884904.jpg",
           "addedAt": "2026-09-22 03:10:26",
           "changedAt": "2026-09-22 03:10:26"
+        },
+        {
+          "id": 325,
+          "name": "Pitfall of the Wild Hunt",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once per turn, when your opponent activates a monster effect in this cards column while they control a level 7 or higher monter: Negate the activation, and if you do, destroy that card.",
+          "duelingbookId": 5888076,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5888076.jpg",
+          "addedAt": "2026-09-22 03:10:42",
+          "changedAt": "2026-09-22 03:10:42"
+        },
+        {
+          "id": 326,
+          "name": "Lyra, Guildmaster of the Wild Hunt",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "attribute": "DARK",
+          "levelRankLink": "Level 6",
+          "atk": "2600",
+          "def": "2200",
+          "text": "1 Warrior monster + 1 Level 10 or higher monster\nMust first be either Fusion Summoned, or Special Summoned from your Extra Deck by banishing the above cards from your field and/or GY. Once per turn, you can Set 1 “Wild Hunt” Spell/Trap directly from your Deck or GY, and if it is a Trap, it can be activated this turn. This card gains 300 ATK for each Level 7 or higher monster in either GY and Banishment. When your opponent activates a monster effect (Quick Effect): You can shuffle 1 Level 10 Beast, Winged Beast, Reptile, or Insect monster from your GY or Banishment into the Deck; negate the activation, and if you do, destroy that card. You can only use each effect of \"Lyra, Guildmaster of the Wild Hunt\" once per turn.",
+          "duelingbookId": 5887090,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5887090.jpg",
+          "addedAt": "2026-09-22 03:10:59",
+          "changedAt": "2026-09-22 03:10:59"
         }
       ]
     }
