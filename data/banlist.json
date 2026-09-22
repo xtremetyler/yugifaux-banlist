@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T02:34:35.998Z",
+  "updatedAt": "2026-09-22T02:35:06.014Z",
   "cards": [
     {
       "id": 384,
@@ -317,8 +317,8 @@
       "archetype": "Fels'teel",
       "archetypeId": 30,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6038665,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038665.jpg",
+      "duelingbookId": 6059730,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059730.jpg",
       "addedAt": "2026-09-22 02:33:45",
       "changedAt": "2026-09-22 02:33:45"
     },
@@ -4934,8 +4934,8 @@
       "archetype": "Fels'teel",
       "archetypeId": 30,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6038386,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038386.jpg",
+      "duelingbookId": 6059727,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059727.jpg",
       "addedAt": "2026-09-22 02:33:45",
       "changedAt": "2026-09-22 02:33:45"
     },
@@ -6125,8 +6125,8 @@
       "archetype": "Fels'teel",
       "archetypeId": 30,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6038418,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038418.jpg",
+      "duelingbookId": 6059729,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059729.jpg",
       "addedAt": "2026-09-22 02:33:45",
       "changedAt": "2026-09-22 02:33:45"
     },
@@ -10805,8 +10805,8 @@
       "archetype": "Fels'teel",
       "archetypeId": 30,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6038407,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038407.jpg",
+      "duelingbookId": 6059728,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059728.jpg",
       "addedAt": "2026-09-22 02:33:45",
       "changedAt": "2026-09-22 02:33:45"
     }
@@ -10825,7 +10825,7 @@
       "cardListComplete": false,
       "featuredCardId": 532,
       "featuredCardName": "Aladin, Bearer of Fels’teel",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038665.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059730.jpg",
       "cards": [
         {
           "id": 532,
@@ -10842,8 +10842,8 @@
           "archetype": "Fels'teel",
           "archetypeId": 30,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6038665,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038665.jpg",
+          "duelingbookId": 6059730,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059730.jpg",
           "addedAt": "2026-09-22 02:33:45",
           "changedAt": "2026-09-22 02:33:45"
         },
@@ -10998,8 +10998,8 @@
           "archetype": "Fels'teel",
           "archetypeId": 30,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6038386,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038386.jpg",
+          "duelingbookId": 6059727,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059727.jpg",
           "addedAt": "2026-09-22 02:33:45",
           "changedAt": "2026-09-22 02:33:45"
         },
@@ -11018,8 +11018,8 @@
           "archetype": "Fels'teel",
           "archetypeId": 30,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6038418,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038418.jpg",
+          "duelingbookId": 6059729,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059729.jpg",
           "addedAt": "2026-09-22 02:33:45",
           "changedAt": "2026-09-22 02:33:45"
         },
@@ -11095,8 +11095,8 @@
           "archetype": "Fels'teel",
           "archetypeId": 30,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6038407,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038407.jpg",
+          "duelingbookId": 6059728,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059728.jpg",
           "addedAt": "2026-09-22 02:33:45",
           "changedAt": "2026-09-22 02:33:45"
         }
