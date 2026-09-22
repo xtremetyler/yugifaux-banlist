@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:10:35.657Z",
+  "updatedAt": "2026-09-22T01:11:05.642Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19217,6 +19217,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046182.jpg",
           "addedAt": "2026-09-22 01:10:16",
           "changedAt": "2026-09-22 01:10:16"
+        },
+        {
+          "id": 303,
+          "name": "Berd 0410 - Dhuk",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "WATER",
+          "levelRankLink": "Level 2",
+          "atk": "400",
+          "def": "1000",
+          "pendulumScale": "1",
+          "pendulumEffect": "During your Main Phase: You can banish 1 Winged Beast Monster Card from your hand or field; Special Summon this card, unless your opponent makes you draw 1 card. You can only activate this effect of \"Berd 0410 - Dhuk\" once per turn.",
+          "text": "During your Main Phase: You can reveal this card in your hand; send all Winged Beast monsters from your Banishment to your GY as possible (min. 1), and if you do, banish this card. If this face-up card leaves your Banishment: You can Special Summon it. You can only activate each effect of \"Berd 0410 - Dhuk\" once per turn.",
+          "duelingbookId": 6046183,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046183.jpg",
+          "addedAt": "2026-09-22 01:10:46",
+          "changedAt": "2026-09-22 01:10:46"
         }
       ]
     }
