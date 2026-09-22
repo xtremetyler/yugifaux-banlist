@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:16:17.270Z",
+  "updatedAt": "2026-09-22T03:16:49.169Z",
   "cards": [
     {
       "id": 384,
@@ -1771,6 +1771,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035631.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 14:34:14"
+    },
+    {
+      "id": 545,
+      "name": "Clockwork Crucible",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Field",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "When this card is activated: You can add 1 \"Time Wizard\" or 1 \"Temporal Roulette\" from your Deck to your hand. After an effect involving a coin toss resolves:\n• If heads: Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters or Continuous Traps you control as material.\n• If tails: each player loses 500 LP\nNeither player can activate cards or effects in response to a coin toss resolution.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6059803,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059803.jpg",
+      "addedAt": "2026-09-22 03:16:47",
+      "changedAt": "2026-09-22 03:16:47"
     },
     {
       "id": 332,
