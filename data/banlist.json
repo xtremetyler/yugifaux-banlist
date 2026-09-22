@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T02:57:38.347Z",
+  "updatedAt": "2026-09-22T03:01:38.356Z",
   "cards": [
     {
       "id": 384,
@@ -19740,7 +19740,7 @@
       "submittedAt": "2026-09-22 02:49:24",
       "activatedAt": "2026-09-22 02:49:24",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -19749,7 +19749,27 @@
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 315,
+      "featuredCardName": "Vesper, Exterminator of the Wild Hunt",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/5800000/5885506.jpg",
+      "cards": [
+        {
+          "id": 315,
+          "name": "Vesper, Exterminator of the Wild Hunt",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "1700",
+          "def": "1000",
+          "text": "If your opponent controls a Level 7 or higher monster: You can Special Summon this card from your hand. You can only Special Summon \"Vesper, Exterminator of the Wild Hunt\" once per turn this way. If this card is Normal or Special Summoned by its own effect: You can add 1 Level 10 DARK Beast, Winged Beast, Reptile, or Insect monster from your Deck to your hand. During damage calculation, if this card battles a Level 7 or higher monster: This card gains ATK equal to that monster’s Level × 200, during that damage calculation only.",
+          "duelingbookId": 5885506,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5885506.jpg",
+          "addedAt": "2026-09-22 03:01:24",
+          "changedAt": "2026-09-22 03:01:24"
+        }
+      ]
     }
   ],
   "dashboard": {
