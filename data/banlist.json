@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:14:35.658Z",
+  "updatedAt": "2026-09-22T01:15:05.675Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19348,6 +19348,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046225.jpg",
           "addedAt": "2026-09-22 01:14:25",
           "changedAt": "2026-09-22 01:14:25"
+        },
+        {
+          "id": 311,
+          "name": "Berd 1713 - Hock",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "WIND",
+          "levelRankLink": "Rank 2",
+          "atk": "1700",
+          "def": "1300",
+          "text": "2 Level/zrank 2 Winged Beast Monsters\nIf this card is Special Summoned; You can return 1 Level 2 Winged Beast monster you control to your hand; Special Summon up to 2 Winged Beast monsters currently attached to this card as material. Once per turn (Quick Effect): You can attach 1 face-up Level 2 Winged Beast monster you control to this card as material. (Quick Effect): You can detach 1 material from this card to target 1 card your opponent controls; return it to the hand. You can only activate this effect of \"Berd 1713 - Hock\" once per turn.",
+          "duelingbookId": 6046293,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046293.jpg",
+          "addedAt": "2026-09-22 01:14:59",
+          "changedAt": "2026-09-22 01:14:59"
         }
       ]
     }
