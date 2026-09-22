@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T02:26:05.979Z",
+  "updatedAt": "2026-09-22T02:27:35.966Z",
   "cards": [
     {
       "id": 384,
@@ -18460,8 +18460,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 16,
-      "totalClauses": 61,
+      "addedClauses": 20,
+      "totalClauses": 65,
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": true,
@@ -18573,11 +18573,11 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Special Summon 1 “Fels'teel Lamp” monster from your Deck or GY, then, if you Special Summoned an Xyz Monster with this effect, you can attach this card and the top card of your Deck to it as material. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Xyz Monsters.",
+          "text": "Special Summon 1 “Fels'teel Lamp” monster from your Deck or GY, then, if you Special Summoned an Xyz Monster with this effect, you can attach this card and the top card of your Deck to it as material. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except Xyz Monsters. During your Main Phase, if this card is in your GY: You can pay 500 LP, then target 1 “Fels’teel” Xyz Monster you control; attach this card to it as material.",
           "duelingbookId": 6039495,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6039495.jpg",
           "addedAt": "2026-09-15 15:20:27",
-          "changedAt": "2026-09-18 19:43:25"
+          "changedAt": "2026-09-22 02:27:29"
         },
         {
           "id": 293,
@@ -19427,8 +19427,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 33,
-        "lifetimePoints": 254,
+        "balance": 37,
+        "lifetimePoints": 258,
         "matchWins": 16,
         "matchLosses": 18,
         "gamesWon": 52,
