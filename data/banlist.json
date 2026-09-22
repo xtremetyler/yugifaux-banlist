@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:10:05.270Z",
+  "updatedAt": "2026-09-22T03:10:35.245Z",
   "cards": [
     {
       "id": 384,
@@ -19740,7 +19740,7 @@
       "submittedAt": "2026-09-22 02:49:24",
       "activatedAt": "2026-09-22 02:49:24",
       "declaredCardCount": 12,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -19907,6 +19907,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5883705.jpg",
           "addedAt": "2026-09-22 03:10:02",
           "changedAt": "2026-09-22 03:10:02"
+        },
+        {
+          "id": 324,
+          "name": "Contract of the Wild Hunt",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Reveal 3 Level 10 monsters with different names from your Deck; your opponent chooses 1 for you to add to your hand, and you shuffle the rest into the Deck, then add 1 Level 4 “Wild Hunt” monster with the same Attribute as the chosen monster from your Deck to your hand.",
+          "duelingbookId": 5884904,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5884904.jpg",
+          "addedAt": "2026-09-22 03:10:26",
+          "changedAt": "2026-09-22 03:10:26"
         }
       ]
     }
