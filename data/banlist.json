@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:07:35.389Z",
+  "updatedAt": "2026-09-22T03:08:05.241Z",
   "cards": [
     {
       "id": 384,
@@ -19740,7 +19740,7 @@
       "submittedAt": "2026-09-22 02:49:24",
       "activatedAt": "2026-09-22 02:49:24",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -19784,6 +19784,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5884874.jpg",
           "addedAt": "2026-09-22 03:07:21",
           "changedAt": "2026-09-22 03:07:21"
+        },
+        {
+          "id": 317,
+          "name": "Kael, Embershot of the Wild Hunt",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 4",
+          "atk": "1800",
+          "def": "1300",
+          "text": "If your opponent controls a Level 7 or higher monster: You can Special Summon this card from your hand. You can only Special Summon \"Kael, Embershot of the Wild Hunt\" once per turn this way. If this card is Normal or Special Summoned by its own effect: You can add 1 Level 10 FIRE Beast, Winged Beast, Reptile, or Insect monster from your Deck to your hand. During damage calculation, if this card battles a Level 7 or higher monster: This card gains ATK equal to that monster’s Level × 200, during that damage calculation only.",
+          "duelingbookId": 5884846,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5884846.jpg",
+          "addedAt": "2026-09-22 03:07:40",
+          "changedAt": "2026-09-22 03:07:40"
         }
       ]
     }
