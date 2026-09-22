@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:11:05.642Z",
+  "updatedAt": "2026-09-22T01:11:35.646Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19235,6 +19235,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046183.jpg",
           "addedAt": "2026-09-22 01:10:46",
           "changedAt": "2026-09-22 01:10:46"
+        },
+        {
+          "id": 304,
+          "name": "Berd 0706 - Auwel",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "DARK",
+          "levelRankLink": "Level 2",
+          "atk": "700",
+          "def": "600",
+          "pendulumScale": "3",
+          "pendulumEffect": "During your Main Phase: You can Special Summon 1 Level 2 Winged Beast Monster Card from your Spell & Trap Zone or face-up Extra Deck, unless your opponent banishes 1 random card from their Extra Deck. You can only activate this effect of \"Berd 0706 - Auwel\" once per turn.",
+          "text": "During your Main Phase: You can reveal this card in your hand; place up to 2 Level 2 Winged Beast Pendulum monsters with different names from your Deck in your Extra Deck face-up, and if you do, place this card face-up in 1 of your empty Pendulum Zones. You can only activate this effect of \"Berd 0706 - Auwel\" once per turn.",
+          "duelingbookId": 6046186,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046186.jpg",
+          "addedAt": "2026-09-22 01:11:13",
+          "changedAt": "2026-09-22 01:11:13"
         }
       ]
     }
