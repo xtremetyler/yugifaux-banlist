@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:15:38.761Z",
+  "updatedAt": "2026-09-22T03:16:17.270Z",
   "cards": [
     {
       "id": 384,
@@ -8929,6 +8929,24 @@
       "officialUrl": "https://ygoprodeck.com/card/t-g-hyper-librarian-7597",
       "addedAt": "2026-07-29 04:35:09",
       "changedAt": "2026-09-10 15:22:46"
+    },
+    {
+      "id": 544,
+      "name": "Temporal Roulette",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Trap Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Special summon 1 \"Time Wizard\" from your Deck or GY. Once per turn (Quick Effect): You can target 1 \"Time Wizard\" on your field; toss a coin.\n• Heads: Destroy 1 card your opponent controls\n• Tails: Destroy 1 card card you control.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6059801,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059801.jpg",
+      "addedAt": "2026-09-22 03:16:15",
+      "changedAt": "2026-09-22 03:16:15"
     },
     {
       "id": 450,
