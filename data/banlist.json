@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T15:27:13.282Z",
+  "updatedAt": "2026-09-22T16:45:42.789Z",
   "cards": [
     {
       "id": 384,
@@ -305,7 +305,7 @@
     {
       "id": 532,
       "name": "Aladin, Bearer of Fels’teel",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -320,7 +320,7 @@
       "duelingbookId": 6059730,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059730.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:40"
     },
     {
       "id": 302,
@@ -510,7 +510,7 @@
     {
       "id": 533,
       "name": "Ancient Fels'teel Lamp",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -525,12 +525,12 @@
       "duelingbookId": 6059731,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059731.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:38"
     },
     {
       "id": 541,
       "name": "Ancient Fels'teel Lamp of Three Wishes",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Spellcaster",
@@ -545,7 +545,7 @@
       "duelingbookId": 6059739,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059739.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:23"
     },
     {
       "id": 64,
@@ -1291,7 +1291,7 @@
     {
       "id": 534,
       "name": "Califara, City of Fels'teel",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -1305,7 +1305,7 @@
       "duelingbookId": 6059732,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059732.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:36"
     },
     {
       "id": 27,
@@ -2628,7 +2628,7 @@
     {
       "id": 539,
       "name": "Fels'teel Mirage Veil",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -2642,12 +2642,12 @@
       "duelingbookId": 6059737,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059737.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:26"
     },
     {
       "id": 538,
       "name": "Fels'teel – At Your Beck and Call",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -2661,12 +2661,12 @@
       "duelingbookId": 6059736,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059736.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:29"
     },
     {
       "id": 540,
       "name": "Fels'teel – Careful What You Wish For",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Counter",
@@ -2680,7 +2680,7 @@
       "duelingbookId": 6059738,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059738.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:25"
     },
     {
       "id": 518,
@@ -3158,7 +3158,7 @@
     {
       "id": 542,
       "name": "Grand Fels’teel Lamp of Wishes Unbound",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Spellcaster",
@@ -3173,7 +3173,7 @@
       "duelingbookId": 6059740,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059740.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:21"
     },
     {
       "id": 65,
@@ -6131,7 +6131,7 @@
     {
       "id": 531,
       "name": "Nadira the Mystical Temptress of Fels’teel",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -6146,7 +6146,7 @@
       "duelingbookId": 6059729,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059729.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:41"
     },
     {
       "id": 448,
@@ -6484,7 +6484,7 @@
     {
       "id": 537,
       "name": "Pact of the Fels'teel Lamp",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -6498,7 +6498,7 @@
       "duelingbookId": 6059735,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059735.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:31"
     },
     {
       "id": 278,
@@ -7474,7 +7474,7 @@
     {
       "id": 535,
       "name": "Rub the Fels'teel Lamp",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -7488,7 +7488,7 @@
       "duelingbookId": 6059733,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059733.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:34"
     },
     {
       "id": 464,
@@ -9305,7 +9305,7 @@
     {
       "id": 536,
       "name": "Three Gifts of Fels'teel",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -9319,7 +9319,7 @@
       "duelingbookId": 6059734,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059734.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:33"
     },
     {
       "id": 71,
@@ -10885,7 +10885,7 @@
         {
           "id": 532,
           "name": "Aladin, Bearer of Fels’teel",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Spellcaster",
@@ -10900,12 +10900,12 @@
           "duelingbookId": 6059730,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059730.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:40"
         },
         {
           "id": 533,
           "name": "Ancient Fels'teel Lamp",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Spellcaster",
@@ -10920,12 +10920,12 @@
           "duelingbookId": 6059731,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059731.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:38"
         },
         {
           "id": 541,
           "name": "Ancient Fels'teel Lamp of Three Wishes",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Spellcaster",
@@ -10940,12 +10940,12 @@
           "duelingbookId": 6059739,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059739.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:23"
         },
         {
           "id": 534,
           "name": "Califara, City of Fels'teel",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -10959,12 +10959,12 @@
           "duelingbookId": 6059732,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059732.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:36"
         },
         {
           "id": 539,
           "name": "Fels'teel Mirage Veil",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -10978,12 +10978,12 @@
           "duelingbookId": 6059737,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059737.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:26"
         },
         {
           "id": 538,
           "name": "Fels'teel – At Your Beck and Call",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -10997,12 +10997,12 @@
           "duelingbookId": 6059736,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059736.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:29"
         },
         {
           "id": 540,
           "name": "Fels'teel – Careful What You Wish For",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Counter",
@@ -11016,12 +11016,12 @@
           "duelingbookId": 6059738,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059738.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:25"
         },
         {
           "id": 542,
           "name": "Grand Fels’teel Lamp of Wishes Unbound",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Spellcaster",
@@ -11036,7 +11036,7 @@
           "duelingbookId": 6059740,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059740.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:21"
         },
         {
           "id": 529,
@@ -11061,7 +11061,7 @@
         {
           "id": 531,
           "name": "Nadira the Mystical Temptress of Fels’teel",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Fiend",
@@ -11076,12 +11076,12 @@
           "duelingbookId": 6059729,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059729.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:41"
         },
         {
           "id": 537,
           "name": "Pact of the Fels'teel Lamp",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Continuous",
@@ -11095,12 +11095,12 @@
           "duelingbookId": 6059735,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059735.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:31"
         },
         {
           "id": 535,
           "name": "Rub the Fels'teel Lamp",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -11114,12 +11114,12 @@
           "duelingbookId": 6059733,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059733.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:34"
         },
         {
           "id": 536,
           "name": "Three Gifts of Fels'teel",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -11133,7 +11133,7 @@
           "duelingbookId": 6059734,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059734.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:33"
         },
         {
           "id": 530,
