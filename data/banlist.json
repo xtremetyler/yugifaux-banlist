@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T16:45:42.789Z",
+  "updatedAt": "2026-09-22T16:46:12.375Z",
   "cards": [
     {
       "id": 384,
@@ -4940,7 +4940,7 @@
     {
       "id": 529,
       "name": "La Jinn the Mystical Genie of Fels’teel",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -4955,7 +4955,7 @@
       "duelingbookId": 6059727,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059727.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:44"
     },
     {
       "id": 32,
@@ -10848,7 +10848,7 @@
     {
       "id": 530,
       "name": "Zahira the Mystical Mirage of Fels’teel",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -10863,7 +10863,7 @@
       "duelingbookId": 6059728,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059728.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 02:33:45"
+      "changedAt": "2026-09-22 16:45:43"
     }
   ],
   "archetypes": [
@@ -11041,7 +11041,7 @@
         {
           "id": 529,
           "name": "La Jinn the Mystical Genie of Fels’teel",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Fiend",
@@ -11056,7 +11056,7 @@
           "duelingbookId": 6059727,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059727.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:44"
         },
         {
           "id": 531,
@@ -11138,7 +11138,7 @@
         {
           "id": 530,
           "name": "Zahira the Mystical Mirage of Fels’teel",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Fiend",
@@ -11153,7 +11153,7 @@
           "duelingbookId": 6059728,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059728.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 02:33:45"
+          "changedAt": "2026-09-22 16:45:43"
         }
       ]
     },
