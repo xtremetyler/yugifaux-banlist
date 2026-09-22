@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:14:05.648Z",
+  "updatedAt": "2026-09-22T01:14:35.658Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19332,6 +19332,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046217.jpg",
           "addedAt": "2026-09-22 01:13:52",
           "changedAt": "2026-09-22 01:13:52"
+        },
+        {
+          "id": 310,
+          "name": "Berd Warcher - Wally Byrdz",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Thunder",
+          "attribute": "EARTH",
+          "levelRankLink": "Rank 2",
+          "atk": "2000",
+          "def": "2000",
+          "text": "3+ Level 2 Winged Beast monsters with different names\nIf you control a face-up Winged Beast monster both in your Extra Monster Zone and in your Main Monster Zone: You can pay 1000 LP; Special Summon this card (from your Extra Deck). You can only Special Summon \"Berd Watcher - Wally Byrdz\" this way once per turn. You can return 1 Level/Rank 2 Winged Beast Monster Card from your field, face-up Extra Deck, GY, or Banishment to your hand; activate 1 of the following effects, based on the zone from which it was returned (but you can only activate each of these effects of \"Berd Watcher - Wally Byrdz\" once per turn).\n● Main Monster Zone: Return 1 face-up monster your opponent controls to the hand.\n● Extra Monster Zone: Special Summon up to 2 Level/Rank 2 Winged Beast monsters with different names from your GY and/or Banishment.\n● Spell & Trap Zone: Set 1 Spell/Trap from your Deck or GY that mentions a Level 2 Winged Beast monster.\n● Face-up Extra Deck: Your opponent sends 1 random face-down card from their Extra Deck to the GY.\n● GY: Send 1 random card from your opponent's hand to the GY, and if you do, they draw 1 card during the End Phase.\n● Banishment: Banish 1 random face-up card your opponent controls.",
+          "duelingbookId": 6046225,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046225.jpg",
+          "addedAt": "2026-09-22 01:14:25",
+          "changedAt": "2026-09-22 01:14:25"
         }
       ]
     }
