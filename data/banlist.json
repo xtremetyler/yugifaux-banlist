@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T03:09:35.259Z",
+  "updatedAt": "2026-09-22T03:10:05.270Z",
   "cards": [
     {
       "id": 384,
@@ -19740,7 +19740,7 @@
       "submittedAt": "2026-09-22 02:49:24",
       "activatedAt": "2026-09-22 02:49:24",
       "declaredCardCount": 12,
-      "registeredCardCount": 7,
+      "registeredCardCount": 9,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -19873,6 +19873,40 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5884326.jpg",
           "addedAt": "2026-09-22 03:09:18",
           "changedAt": "2026-09-22 03:09:18"
+        },
+        {
+          "id": 322,
+          "name": "Skorvath, Tyrant of the Frozen Peaks",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast",
+          "abilities": [
+            "Spirit"
+          ],
+          "attribute": "WATER",
+          "levelRankLink": "Level 10",
+          "atk": "3000",
+          "def": "2500",
+          "text": "You can reveal this card in your hand; Special Summon it to your opponent’s field in Attack Position, but while face-up, it cannot be Tributed or used as material for a Fusion, Synchro, Xyz, or Link Summon. While this Special Summoned card is face-up on the field, its controller can only declare attacks with this card. If this card is destroyed by battle with a “Wild Hunt” monster and sent to the GY: You can Special Summon 1 “Wild Hunt” monster from your GY. During the End Phase of this card’s controller, if this card did not battle this turn: Return it to the owner’s hand.",
+          "duelingbookId": 5883726,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5883726.jpg",
+          "addedAt": "2026-09-22 03:09:42",
+          "changedAt": "2026-09-22 03:09:42"
+        },
+        {
+          "id": 323,
+          "name": "The Guild Hall of The Wild Hunt",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once per turn: You can add 1 Level 4 “Wild Hunt” monster or 1 “Contract of the Wild Hunt” from your Deck to your hand. If a “Wild Hunt” monster destroys a Level 7 or higher monster by battle: Draw 1 card.",
+          "duelingbookId": 5883705,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5883705.jpg",
+          "addedAt": "2026-09-22 03:10:02",
+          "changedAt": "2026-09-22 03:10:02"
         }
       ]
     }
