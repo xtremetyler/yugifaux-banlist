@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-22T01:02:05.664Z",
+  "updatedAt": "2026-09-22T01:10:05.641Z",
   "cards": [
     {
       "id": 384,
@@ -19169,7 +19169,7 @@
       "submittedAt": "2026-09-22 01:01:38",
       "activatedAt": "2026-09-22 01:01:38",
       "declaredCardCount": 13,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -19178,7 +19178,29 @@
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 301,
+      "featuredCardName": "Berd 0505 - Pyjjin",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046180.jpg",
+      "cards": [
+        {
+          "id": 301,
+          "name": "Berd 0505 - Pyjjin",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "500",
+          "def": "500",
+          "pendulumScale": "1",
+          "pendulumEffect": "During your Main Phase: You can return 1 Winged Beast Monster Card from your field, GY, or Banishment to your hand, except \"Berd 0505 - Pyjjin\"; place this card in your Extra Deck face-up. You can only activate this effect of \"Berd 0505 - Pyjjin\" once per turn.",
+          "text": "If you control no monsters, or if you only control Winged Beast monsters: You can Special Summon this card (from your hand). If this card is Special Summoned: You can Special Summon up to 1 \"Berd 0505 - Pyjjin\" from your hand or Deck. You can only activate each effect of \"Berd 0505 - Pyjjin\" once per turn.",
+          "duelingbookId": 6046180,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046180.jpg",
+          "addedAt": "2026-09-22 01:09:46",
+          "changedAt": "2026-09-22 01:09:46"
+        }
+      ]
     }
   ],
   "dashboard": {
