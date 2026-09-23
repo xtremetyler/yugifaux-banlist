@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-23T20:52:31.838Z",
+  "updatedAt": "2026-09-23T21:59:32.140Z",
   "cards": [
     {
       "id": 384,
@@ -7669,6 +7669,28 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999303.jpg",
       "addedAt": "2026-08-17 15:10:44",
       "changedAt": "2026-09-11 23:29:47"
+    },
+    {
+      "id": 559,
+      "name": "Rigden Shor, Undecided Nostalgic",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "abilities": [
+        "Tuner"
+      ],
+      "attribute": "DARK",
+      "levelRankLink": "Level 1",
+      "atk": "500",
+      "def": "500",
+      "text": "You may treat this card as \"Dark Magician\", and/or \"Blue-Eyes White Dragon\", and/or a LIGHT Dragon Normal Monster.\nDuring your Main Phase, when this card is in your hand; Discard it: Special Summon 1 DARK Spellcaster or LIGHT Dragon from your Deck or GY except \"Rigden Shor, Undecided Nostalgic\".\nWhile this card is in your GY, and an effect an opponent controls targets a LIGHT Dragon monster or DARK Spellcaster monster you control(Quick Effect); shuffle this card into your Deck; negate that effect.",
+      "clauses": 4,
+      "contributor": "Brielieve In Cheesus",
+      "duelingbookId": 6062854,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062854.jpg",
+      "addedAt": "2026-09-23 21:59:12",
+      "changedAt": "2026-09-23 21:59:12"
     },
     {
       "id": 388,
@@ -20366,7 +20388,7 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 28,
+        "balance": 19,
         "lifetimePoints": 47,
         "matchWins": 4,
         "matchLosses": 5,
