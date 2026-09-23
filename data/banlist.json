@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-23T12:19:10.478Z",
+  "updatedAt": "2026-09-23T14:31:10.781Z",
   "cards": [
     {
       "id": 384,
@@ -2385,7 +2385,7 @@
     {
       "id": 296,
       "name": "Ecumundias' Edict of the Goat",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -2399,7 +2399,7 @@
       "duelingbookId": 6012052,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012052.jpg",
       "addedAt": "2026-08-24 19:34:44",
-      "changedAt": "2026-08-24 19:34:44"
+      "changedAt": "2026-09-23 14:31:06"
     },
     {
       "id": 295,
@@ -4514,7 +4514,7 @@
     {
       "id": 146,
       "name": "Inkarnate Inscription",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -4529,7 +4529,7 @@
       "duelingbookId": 5961276,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961276.jpg",
       "addedAt": "2026-08-10 03:12:40",
-      "changedAt": "2026-09-09 16:14:49"
+      "changedAt": "2026-09-23 14:31:06"
     },
     {
       "id": 138,
@@ -4940,7 +4940,7 @@
     {
       "id": 529,
       "name": "La Jinn the Mystical Genie of Fels’teel",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -4955,7 +4955,7 @@
       "duelingbookId": 6059727,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059727.jpg",
       "addedAt": "2026-09-22 02:33:45",
-      "changedAt": "2026-09-22 18:31:14"
+      "changedAt": "2026-09-23 14:31:09"
     },
     {
       "id": 32,
@@ -11041,7 +11041,7 @@
         {
           "id": 529,
           "name": "La Jinn the Mystical Genie of Fels’teel",
-          "status": "unlimeade",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Fiend",
@@ -11056,7 +11056,7 @@
           "duelingbookId": 6059727,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059727.jpg",
           "addedAt": "2026-09-22 02:33:45",
-          "changedAt": "2026-09-22 18:31:14"
+          "changedAt": "2026-09-23 14:31:09"
         },
         {
           "id": 531,
@@ -14496,7 +14496,7 @@
         {
           "id": 296,
           "name": "Ecumundias' Edict of the Goat",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -14510,7 +14510,7 @@
           "duelingbookId": 6012052,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012052.jpg",
           "addedAt": "2026-08-24 19:34:44",
-          "changedAt": "2026-08-24 19:34:44"
+          "changedAt": "2026-09-23 14:31:06"
         },
         {
           "id": 295,
@@ -17824,7 +17824,7 @@
         {
           "id": 146,
           "name": "Inkarnate Inscription",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -17839,7 +17839,7 @@
           "duelingbookId": 5961276,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5961276.jpg",
           "addedAt": "2026-08-10 03:12:40",
-          "changedAt": "2026-09-09 16:14:49"
+          "changedAt": "2026-09-23 14:31:06"
         },
         {
           "id": 138,
@@ -20029,7 +20029,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 42,
+        "balance": 32,
         "lifetimePoints": 263,
         "matchWins": 16,
         "matchLosses": 18,
