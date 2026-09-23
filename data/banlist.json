@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-23T17:47:02.161Z",
+  "updatedAt": "2026-09-23T18:46:31.443Z",
   "cards": [
     {
       "id": 384,
@@ -20013,28 +20013,28 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 60,
+    "confirmedMatchCount": 61,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 22,
-        "lifetimePoints": 332,
-        "matchWins": 26,
+        "balance": 26,
+        "lifetimePoints": 336,
+        "matchWins": 27,
         "matchLosses": 17,
-        "gamesWon": 101,
-        "gamesLost": 60,
+        "gamesWon": 103,
+        "gamesLost": 61,
         "gamesDrawn": 0,
         "archetypeId": 29,
         "archetypeName": "Reija The Fade"
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 33,
-        "lifetimePoints": 264,
+        "balance": 35,
+        "lifetimePoints": 266,
         "matchWins": 16,
-        "matchLosses": 19,
-        "gamesWon": 52,
-        "gamesLost": 79,
+        "matchLosses": 20,
+        "gamesWon": 53,
+        "gamesLost": 81,
         "gamesDrawn": 0,
         "archetypeId": 33,
         "archetypeName": "Wild Hunt"
@@ -20077,6 +20077,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 63,
+        "confirmedAt": "2026-09-23 18:46:28",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Wild Hunt"
+      },
       {
         "id": 62,
         "confirmedAt": "2026-09-23 16:45:54",
@@ -20146,19 +20156,19 @@
         "opponentGames": 0,
         "reporterArchetype": "Reija The Fade",
         "opponentArchetype": "Pandora"
-      },
-      {
-        "id": 55,
-        "confirmedAt": "2026-09-15 03:53:46",
-        "reporter": "Edward Swissorhands",
-        "opponent": "Brielieve In Cheesus",
-        "reporterGames": 2,
-        "opponentGames": 0,
-        "reporterArchetype": "Fels'teel",
-        "opponentArchetype": "Ancient Ritual"
       }
     ],
     "matchHistory": [
+      {
+        "id": 63,
+        "confirmedAt": "2026-09-23 18:46:28",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Reija The Fade",
+        "opponentArchetype": "Wild Hunt"
+      },
       {
         "id": 62,
         "confirmedAt": "2026-09-23 16:45:54",
