@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-23T20:52:01.961Z",
+  "updatedAt": "2026-09-23T20:52:31.838Z",
   "cards": [
     {
       "id": 384,
@@ -1113,6 +1113,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038459.jpg",
       "addedAt": "2026-09-10 00:18:16",
       "changedAt": "2026-09-10 00:18:16"
+    },
+    {
+      "id": 558,
+      "name": "Blue-Eyes White Dragon",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Normal Monster",
+      "monsterType": "Dragon",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 8",
+      "atk": "3000",
+      "def": "2500",
+      "text": "This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.",
+      "archetype": "Blue-Eyes",
+      "contributor": "Brielieve In Cheesus",
+      "passcode": "89631139",
+      "duelingbookId": 513,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/89631139.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/blue-eyes-white-dragon-7485",
+      "addedAt": "2026-09-23 20:52:23",
+      "changedAt": "2026-09-23 20:52:23"
     },
     {
       "id": 334,
