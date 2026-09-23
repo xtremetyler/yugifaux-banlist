@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-23T18:50:31.426Z",
+  "updatedAt": "2026-09-23T19:00:01.501Z",
   "cards": [
     {
       "id": 384,
@@ -19799,8 +19799,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 6,
-      "totalClauses": 51,
+      "addedClauses": 7,
+      "totalClauses": 52,
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": false,
@@ -19942,11 +19942,11 @@
           "levelRankLink": "Level 10",
           "atk": "3000",
           "def": "2500",
-          "text": "You can reveal this card in your hand; Special Summon it to your opponent’s field in Attack Position, but while face-up, it cannot be Tributed or used as material for a Fusion, Synchro, Xyz, or Link Summon. While this Special Summoned card is face-up on the field, its controller can only declare attacks with this card. If this card is destroyed by battle with a “Wild Hunt” monster and sent to the GY: You can Special Summon 1 “Wild Hunt” monster from your GY. During the End Phase of this card’s controller, if this card did not battle this turn: Return it to the owner’s hand.",
+          "text": "You can reveal this card in your hand; Special Summon it to your opponent’s field in Attack Position, but while face-up, it cannot be Tributed or used as material for a Fusion, Synchro, Xyz, or Link Summon. While this Special Summoned card is face-up on the field, its controller can only declare attacks with \"Skorvath, Tyrant of the Frozen Peaks\". If this card is destroyed by battle with a “Wild Hunt” monster and sent to the GY: You can Special Summon 1 “Wild Hunt” monster from your GY. During the End Phase of this card’s controller, if this card did not battle this turn: Return it to the owner’s hand.",
           "duelingbookId": 5883726,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5883726.jpg",
           "addedAt": "2026-09-22 03:09:42",
-          "changedAt": "2026-09-22 03:09:42"
+          "changedAt": "2026-09-23 19:00:00"
         },
         {
           "id": 323,
