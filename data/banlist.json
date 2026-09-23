@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-23T19:03:01.578Z",
+  "updatedAt": "2026-09-23T19:09:31.493Z",
   "cards": [
     {
       "id": 384,
@@ -19078,8 +19078,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 10,
-      "totalClauses": 55,
+      "addedClauses": 11,
+      "totalClauses": 56,
       "retirementsSeen": 2,
       "retirementThreshold": 4,
       "retirementRequired": false,
@@ -19113,11 +19113,11 @@
           "levelRankLink": "Level 6",
           "atk": "2300",
           "def": "2100",
-          "text": "During your Main Phase: You can pay 600 LP, then reveal this card and 1 Ritual Monster from your hand that share exactly 1 of the same Type, Attribute, Level, ATK, or DEF; Ritual Summon the Ritual Monster revealed to activate this effect by Tributing 2 Monsters from your Deck the difference in whose Levels exactly equals its Level, then, if you Summoned a \"Reija, Fade\" Monster this way, you can Special Summon this card. You can only use this effect of \"Reija The Fade\" twice per turn. When your opponent activates a card or effect that targets a Ritual Monster(s) you control (Quick Effect): You can return this card to your hand; negate that effect.",
+          "text": "During your Main Phase: You can banish this card from your hand face-down; add 2 \"The Fade\" cards from your Deck to your hand, then, if you did not add a \"Reija\" card this way, banish your enitre hand or GY during the End Phase. You must choose a zone with 2 or more cards in it to banish this way, if able. During your Main Phase: You can pay 600 LP, then reveal this card and 1 Ritual Monster from your hand that share exactly 1 of the same Type, Attribute, Level, ATK, or DEF; Ritual Summon the Ritual Monster revealed to activate this effect by Tributing 2 Monsters from your Deck the difference in whose Levels exactly equals its Level, then, if you Summoned a \"Reija, Fade\" Monster this way, you can Special Summon this card. When your opponent activates a card or effect that targets a Ritual Monster(s) you control (Quick Effect): You can return this card to your hand; negate that effect. You can only activate 2 \"Reija The Fade\" effects per turn.",
           "duelingbookId": 6033219,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6033219.jpg",
           "addedAt": "2026-09-10 01:31:57",
-          "changedAt": "2026-09-14 20:13:12"
+          "changedAt": "2026-09-23 19:09:27"
         },
         {
           "id": 247,
