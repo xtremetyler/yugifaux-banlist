@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T02:05:43.961Z",
+  "updatedAt": "2026-09-24T02:55:13.645Z",
   "cards": [
     {
       "id": 384,
@@ -1117,7 +1117,7 @@
     {
       "id": 558,
       "name": "Blue-Eyes White Dragon",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Normal Monster",
       "monsterType": "Dragon",
@@ -1133,7 +1133,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/89631139.jpg",
       "officialUrl": "https://ygoprodeck.com/card/blue-eyes-white-dragon-7485",
       "addedAt": "2026-09-23 20:52:23",
-      "changedAt": "2026-09-23 20:52:23"
+      "changedAt": "2026-09-24 02:54:48"
     },
     {
       "id": 334,
