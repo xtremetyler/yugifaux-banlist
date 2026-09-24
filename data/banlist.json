@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:25:14.167Z",
+  "updatedAt": "2026-09-24T01:34:43.845Z",
   "cards": [
     {
       "id": 384,
@@ -20333,6 +20333,26 @@
           "changedAt": "2026-09-22 03:10:59"
         }
       ]
+    },
+    {
+      "id": 34,
+      "name": "Beyond Life",
+      "creator": "Left Parm of the Forbitten One",
+      "status": "active",
+      "description": "Guys and ghouls, welcome to the eternal Maze Beyond Life! That's right: whatever afterlife you thought you had laid out before is not where you are. Step on down, ignore the bones, and get to walkin; maybe what you seek lies at the heart of the great structure--but I doubt it. Maybe you'll make it out the other side to some glorious byeond--unlikely. Instead, stay awhile, go mad with us, enjoy the bronze that pins our souls to this impossibly hallowed place and the quartz constructions that divest us all from the greater fabric of time through magic-science-hand-wavey nonsense all at once. Oh, and don't forget to offer Tribute...It's not optional.",
+      "submittedAt": "2026-09-24 01:34:35",
+      "activatedAt": "2026-09-24 01:34:35",
+      "declaredCardCount": 15,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 2,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 4,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -20347,8 +20367,8 @@
         "gamesWon": 103,
         "gamesLost": 61,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 34,
+        "archetypeName": "Beyond Life"
       },
       {
         "name": "Edward Swissorhands",
