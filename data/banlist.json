@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:37:43.708Z",
+  "updatedAt": "2026-09-24T01:38:13.716Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 4,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20418,6 +20418,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022636.jpg",
           "addedAt": "2026-09-24 01:37:26",
           "changedAt": "2026-09-24 01:37:26"
+        },
+        {
+          "id": 331,
+          "name": "Corroded Conqueror Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 5",
+          "atk": "2200",
+          "def": "200",
+          "text": "While you are Tribute Summoning a LIGHT Monster, you can use this card in your hand as 1 Tribute. If this card is Tribute Summoned: You can, immediately after this effect resolves, Tribute Summon 1 LIGHT Monster from your hand or GY, except a Warrior Monster, using Monsters from either field as Tribute, including this Monster.",
+          "duelingbookId": 6022638,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022638.jpg",
+          "addedAt": "2026-09-24 01:37:48",
+          "changedAt": "2026-09-24 01:37:48"
+        },
+        {
+          "id": 332,
+          "name": "Withered Wand Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 6",
+          "atk": "2500",
+          "def": "200",
+          "text": "If you control a Tribute Summoned Monster: You can Special Summon this card (from your hand or GY), but if you Special Summoned this card from your GY this way, banish it when it leaves the field, unless you control \"The Maze Beyond Life\". You can only Special Summon \"Withered Wand Beyond Life\" this way once per turn. If this card is Tributed to Summon a Monster: Draw 2 cards. You can only use this effect of “Withered Wand Beyond Life” once per turn.",
+          "duelingbookId": 6022639,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022639.jpg",
+          "addedAt": "2026-09-24 01:38:07",
+          "changedAt": "2026-09-24 01:38:07"
         }
       ]
     }
