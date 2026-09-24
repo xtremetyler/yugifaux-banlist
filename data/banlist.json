@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:42:43.710Z",
+  "updatedAt": "2026-09-24T01:52:13.691Z",
   "cards": [
     {
       "id": 384,
@@ -10153,6 +10153,31 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995196.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-08-24 20:58:36"
+    },
+    {
+      "id": 560,
+      "name": "Vampire Fascinator",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Link Monster",
+      "monsterType": "Zombie",
+      "attribute": "DARK",
+      "levelRankLink": "Link 3",
+      "atk": "2400",
+      "linkMarkers": [
+        "Top",
+        "Bottom-Left",
+        "Bottom-Right"
+      ],
+      "text": "2+ monsters, including a Zombie monster\r\nIf this card is Link Summoned: You can target 1 monster in your opponent's GY; Special Summon it to your field in Defense Position, also you cannot Special Summon monsters for the rest of this turn, except Zombie monsters. You can Tribute 1 \"Vampire\" monster, then target 1 monster your opponent controls; take control of it until the End Phase. You can only use each effect of \"Vampire Fascinator\" once per turn.",
+      "archetype": "Vampire",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "72860663",
+      "duelingbookId": 12424,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/72860663.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/vampire-fascinator-12680",
+      "addedAt": "2026-09-24 01:52:05",
+      "changedAt": "2026-09-24 01:52:05"
     },
     {
       "id": 42,
@@ -20605,7 +20630,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 31,
+        "balance": 24,
         "lifetimePoints": 341,
         "matchWins": 27,
         "matchLosses": 17,
