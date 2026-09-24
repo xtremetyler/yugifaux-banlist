@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T05:08:18.835Z",
+  "updatedAt": "2026-09-24T05:20:18.755Z",
   "cards": [
     {
       "id": 384,
@@ -2127,6 +2127,25 @@
       "officialUrl": "https://ygoprodeck.com/card/dark-hole-4525",
       "addedAt": "2026-08-13 19:39:21",
       "changedAt": "2026-08-31 19:18:35"
+    },
+    {
+      "id": 561,
+      "name": "Dark Magician, Master of Dark Magic",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Level 7",
+      "atk": "2500",
+      "def": "2100",
+      "text": "This card is always treated as “Dark Magician”. If this card is in your hand or GY, you can reveal 1 LIGHT or DARK monster in your hand, except this card; Special Summon this card. Once per turn, you can send 1 LIGHT or DARK monster from your Deck to the GY to add 1 card that mentions \"Dark Magician\" from your Deck to your hand, except \"Dark Magician, Master of Dark Magic\". You can only use each effect of “Dark Magician, Master of Dark Magic” once per turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6063426,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6063426.jpg",
+      "addedAt": "2026-09-24 05:20:16",
+      "changedAt": "2026-09-24 05:20:16"
     },
     {
       "id": 369,
@@ -20642,7 +20661,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 36,
+        "balance": 27,
         "lifetimePoints": 267,
         "matchWins": 16,
         "matchLosses": 21,
