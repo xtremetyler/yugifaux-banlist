@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T05:20:18.755Z",
+  "updatedAt": "2026-09-24T05:21:48.736Z",
   "cards": [
     {
       "id": 384,
@@ -1134,6 +1134,25 @@
       "officialUrl": "https://ygoprodeck.com/card/blue-eyes-white-dragon-7485",
       "addedAt": "2026-09-23 20:52:23",
       "changedAt": "2026-09-24 02:54:48"
+    },
+    {
+      "id": 562,
+      "name": "Blue-Eyes White Dragon, Engine of Destruction",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Dragon",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 8",
+      "atk": "3000",
+      "def": "2500",
+      "text": "This card is always treated as “Blue-Eyes White Dragon”. If a LIGHT or DARK monster is sent to your GY, except during the Damage Step: You can Special Summon this card from your hand or GY. You can reveal 1 LIGHT or DARK monster in your hand; Add 1 card that mentions \"Blue-Eyes White Dragon\" from your Deck to your hand. You can only use each effect of “Blue-Eyes White Dragon, Engine of Destruction” once per turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6063430,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6063430.jpg",
+      "addedAt": "2026-09-24 05:21:33",
+      "changedAt": "2026-09-24 05:21:33"
     },
     {
       "id": 334,
@@ -20661,7 +20680,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 27,
+        "balance": 18,
         "lifetimePoints": 267,
         "matchWins": 16,
         "matchLosses": 21,
