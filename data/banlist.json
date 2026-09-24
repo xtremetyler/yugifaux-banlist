@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:38:13.716Z",
+  "updatedAt": "2026-09-24T01:38:43.733Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20450,6 +20450,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022639.jpg",
           "addedAt": "2026-09-24 01:38:07",
           "changedAt": "2026-09-24 01:38:07"
+        },
+        {
+          "id": 333,
+          "name": "Insolent Imp Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 6",
+          "atk": "2300",
+          "def": "200",
+          "text": "(Quick Effect): You can Tribute this card from your hand or field; activate 1 \"The Maze Beyond Life\" from your GY or Banishment. If this card is Tribute Summoned: You can Set 1 Trap Card that mentions \"The Maze Beyond Life\" from your Deck or GY.",
+          "duelingbookId": 6022643,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022643.jpg",
+          "addedAt": "2026-09-24 01:38:33",
+          "changedAt": "2026-09-24 01:38:33"
         }
       ]
     }
