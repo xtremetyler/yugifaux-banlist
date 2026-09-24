@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T05:21:48.736Z",
+  "updatedAt": "2026-09-24T05:23:18.798Z",
   "cards": [
     {
       "id": 384,
@@ -2224,6 +2224,25 @@
       "officialUrl": "https://ygoprodeck.com/card/darkuriboh-15005",
       "addedAt": "2026-07-29 04:47:12",
       "changedAt": "2026-07-29 04:47:12"
+    },
+    {
+      "id": 563,
+      "name": "Dead Meme-Donald Trump!",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Warrior",
+      "attribute": "EARTH",
+      "levelRankLink": "Level 12",
+      "atk": "2500",
+      "def": "3000",
+      "text": "When this card is summoned target 1 \"Dead Meme\" monster in your banish or your graveyard and shuffle it back into the deck. Once per turn you can pay 2000 LP, all \"Dead Meme\" Monsters on the field cannot be destroyed by card effects. You can only activate each effect of \"Dead Meme-Donald Trump!\" once per turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6063431,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6063431.jpg",
+      "addedAt": "2026-09-24 05:22:56",
+      "changedAt": "2026-09-24 05:22:56"
     },
     {
       "id": 368,
@@ -20680,7 +20699,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 18,
+        "balance": 9,
         "lifetimePoints": 267,
         "matchWins": 16,
         "matchLosses": 21,
