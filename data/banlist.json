@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:40:13.701Z",
+  "updatedAt": "2026-09-24T01:40:43.712Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 9,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20498,6 +20498,42 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022651.jpg",
           "addedAt": "2026-09-24 01:39:52",
           "changedAt": "2026-09-24 01:39:52"
+        },
+        {
+          "id": 336,
+          "name": "Quartz Caller Beyond Life",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Thunder",
+          "attribute": "LIGHT",
+          "levelRankLink": "Link 1",
+          "atk": "1700",
+          "linkMarkers": [
+            "Bottom-Right"
+          ],
+          "text": "1 Tribute Summoned LIGHT Monster\nTreat all Materials used for this card's Link Summon as if they were Tributed for a Tribute Summon while doing so. While you control a face-up Field Spell, this card can be treated as up to 3 Tributes for the Tribute Summon of a LIGHT Monster, and if you do, you can change up to 3 Attack Position Monsters your opponent controls to face-down Defense Position, but you must Tribute Summon that Monster in a zone this card pointed to.",
+          "duelingbookId": 6022668,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022668.jpg",
+          "addedAt": "2026-09-24 01:40:14",
+          "changedAt": "2026-09-24 01:40:14"
+        },
+        {
+          "id": 337,
+          "name": "Bronzed Scholar Beyond Life",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "LIGHT",
+          "levelRankLink": "Link 1",
+          "atk": "1400",
+          "linkMarkers": [
+            "Bottom-Left"
+          ],
+          "text": "1 LIGHT Monster Summoned from the GY\nWhile you control a face-up Field Spell, this card can be treated as up to 3 Tributes for the Tribute Summon of a LIGHT Monster, and if you do, you can Tribute up to 3 Level 5 or higher LIGHT Monsters from your hand and/or field to draw that many cards, but you must Tribute Summon that Monster in a zone this card pointed to.",
+          "duelingbookId": 6022670,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022670.jpg",
+          "addedAt": "2026-09-24 01:40:38",
+          "changedAt": "2026-09-24 01:40:38"
         }
       ]
     }
