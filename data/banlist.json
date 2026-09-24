@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:37:13.685Z",
+  "updatedAt": "2026-09-24T01:37:43.708Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20402,6 +20402,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020366.jpg",
           "addedAt": "2026-09-24 01:37:03",
           "changedAt": "2026-09-24 01:37:03"
+        },
+        {
+          "id": 330,
+          "name": "Skeletal Saurus Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Dinosaur",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 5",
+          "atk": "1900",
+          "def": "200",
+          "text": "If this card is Tribute Summoned: You can send 1 LIGHT Monster from your Deck to the GY, except a Level 5 or Dinosaur Monster; draw 1 card. During the End Phase, if this card is in the GY because it was Tributed this turn: Your opponent Tributes 1 Field Spell or Monster they control. You can only use this effect of \"Skeletal Saurus Beyond Life\" once per turn.",
+          "duelingbookId": 6022636,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022636.jpg",
+          "addedAt": "2026-09-24 01:37:26",
+          "changedAt": "2026-09-24 01:37:26"
         }
       ]
     }
