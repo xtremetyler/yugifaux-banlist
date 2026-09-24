@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:36:43.676Z",
+  "updatedAt": "2026-09-24T01:37:13.685Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20386,6 +20386,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020363.jpg",
           "addedAt": "2026-09-24 01:36:41",
           "changedAt": "2026-09-24 01:36:41"
+        },
+        {
+          "id": 329,
+          "name": "Umbral Undying Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Zombie",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 2",
+          "atk": "600",
+          "def": "200",
+          "text": "If you control “The Maze Beyond Life”: You can Special Summon this card (from your hand or GY), but if you Special Summoned this card from your GY this way, banish it when it leaves the field. You can only Special Summon \"Umbral Undying Beyond Life\" this way once per turn. This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Monster.",
+          "duelingbookId": 6020366,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020366.jpg",
+          "addedAt": "2026-09-24 01:37:03",
+          "changedAt": "2026-09-24 01:37:03"
         }
       ]
     }
