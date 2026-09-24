@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:41:13.713Z",
+  "updatedAt": "2026-09-24T01:41:43.694Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20550,6 +20550,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022654.jpg",
           "addedAt": "2026-09-24 01:41:01",
           "changedAt": "2026-09-24 01:41:01"
+        },
+        {
+          "id": 339,
+          "name": "Quartz-Coat Queen Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Zombie",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 10",
+          "atk": "3300",
+          "def": "200",
+          "text": "This card requires 3 Tributes to be Tribute Summoned/Set. If this card is Tribute Summoned: You can send 1 \"Beyond Life\" Monster from your Deck to the GY; add all cards used as Tribute for its Summon from your GY and/or Banishment to your hand. Tribute Summoned Monsters you control cannot be destroyed by battle or card effect during the turn they were Summoned. During your Main Phase 1, while this card is in the GY and you control “The Maze Beyond Life”: You can Set 1 Trap Card from your GY or Banishment that mentions the name of a Field Spell. You can only use this effect of \"Quartz-Coat Queen Beyond Life\" once per turn.",
+          "duelingbookId": 6022666,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022666.jpg",
+          "addedAt": "2026-09-24 01:41:26",
+          "changedAt": "2026-09-24 01:41:26"
         }
       ]
     }
