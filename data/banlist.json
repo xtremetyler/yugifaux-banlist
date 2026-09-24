@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:34:43.845Z",
+  "updatedAt": "2026-09-24T01:36:43.676Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 0,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20352,7 +20352,42 @@
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 327,
+      "featuredCardName": "The Maze Beyond Life",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020360.jpg",
+      "cards": [
+        {
+          "id": 327,
+          "name": "The Maze Beyond Life",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During the Main Phase 1 of each turn: You can conduct up to 1 additional Tribute Summon from your hand or GY as a Quick Effect, in addition to your normal Normal Summon/Set, but you can only Tribute Summon a LIGHT Monster this way and that Summon requires 1 additional Tribute (a player can only gain this effect of \"The Maze Beyond Life\" once per turn). While this card is face-up on the field, apply each of the following effects to only the turn player.\n● The first Monster you would Special Summon this turn is Special Summoned in face-down Defense Position instead, except a Zombie or Link Monster.\n● Face-up cards you control are unaffected by the activated Quick Effects of Monsters your opponent controls.",
+          "duelingbookId": 6020360,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020360.jpg",
+          "addedAt": "2026-09-24 01:36:17",
+          "changedAt": "2026-09-24 01:36:17"
+        },
+        {
+          "id": 328,
+          "name": "Aimless Ambler Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Zombie",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 1",
+          "atk": "100",
+          "def": "200",
+          "text": "You can discard this card; take 1 “The Maze Beyond Life” or a Monster that mentions it from your Deck and either add it to your hand or send it to the GY. You can only activate this effect of \"Aimless Ambler Beyond Life\" once per turn. You can treat this card on your field or in your GY as 2 Tributes for the Tribute Summon of a LIGHT Monster by banishing it.",
+          "duelingbookId": 6020363,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020363.jpg",
+          "addedAt": "2026-09-24 01:36:41",
+          "changedAt": "2026-09-24 01:36:41"
+        }
+      ]
     }
   ],
   "dashboard": {
