@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:40:43.712Z",
+  "updatedAt": "2026-09-24T01:41:13.713Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20534,6 +20534,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022670.jpg",
           "addedAt": "2026-09-24 01:40:38",
           "changedAt": "2026-09-24 01:40:38"
+        },
+        {
+          "id": 338,
+          "name": "Bronze-Bound Baron Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Zombie",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 9",
+          "atk": "3000",
+          "def": "200",
+          "text": "This card requires 3 Tributes to be Tribute Summoned/Set. If this card is Tribute Summoned: You can send 1 \"Beyond Life\" card from your Deck to the GY; make your opponent Tribute 1 card each from their Main Monster Zone and their Spell & Trap Zone. While you control “The Maze Beyond Life”, apply the activated effects of LIGHT Monsters on your field that activate when they are Tribute Summoned an additional time.",
+          "duelingbookId": 6022654,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022654.jpg",
+          "addedAt": "2026-09-24 01:41:01",
+          "changedAt": "2026-09-24 01:41:01"
         }
       ]
     }
