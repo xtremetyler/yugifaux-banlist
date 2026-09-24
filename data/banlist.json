@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:41:43.694Z",
+  "updatedAt": "2026-09-24T01:42:43.710Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 13,
+      "registeredCardCount": 15,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20566,6 +20566,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022666.jpg",
           "addedAt": "2026-09-24 01:41:26",
           "changedAt": "2026-09-24 01:41:26"
+        },
+        {
+          "id": 340,
+          "name": "Polished Bronze Walls Beyond Life",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "This card cannot be placed or activated without first being Set, and you can only activate this Set card by sending 1 Level 5 or higher LIGHT Monster from your Deck to the GY. While you are Tribute Summoning a LIGHT Monster, you can use this face-up card as 1 Tribute. When your opponent activates a Spell Card or effect that targets a face-up card(s) you control, while this card is in your GY and you control \"Bronze-Bound Baron Beyond Life\": You can negate it, and if you do, banish both that card and this card.",
+          "duelingbookId": 6022685,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022685.jpg",
+          "addedAt": "2026-09-24 01:42:17",
+          "changedAt": "2026-09-24 01:42:17"
+        },
+        {
+          "id": 341,
+          "name": "Illusory Quartz Halls Beyond Life",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "This card cannot be placed or activated without first being Set, and you can only activate this Set card by sending 1 Level 5 or higher LIGHT Monster from your Deck to the GY. When your opponent activates a Spell Card or effect that targets another face-up card(s) you control: You can negate it, and if you do, destroy both that card and this card. During your Main Phase 1, while this card is in the GY and you control \"Quartz-Coat Queen Beyond Life\": You can Set this card.",
+          "duelingbookId": 6022684,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022684.jpg",
+          "addedAt": "2026-09-24 01:42:42",
+          "changedAt": "2026-09-24 01:42:42"
         }
       ]
     }
