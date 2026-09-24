@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-24T01:39:13.675Z",
+  "updatedAt": "2026-09-24T01:40:13.701Z",
   "cards": [
     {
       "id": 384,
@@ -20343,7 +20343,7 @@
       "submittedAt": "2026-09-24 01:34:35",
       "activatedAt": "2026-09-24 01:34:35",
       "declaredCardCount": 15,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -20482,6 +20482,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022649.jpg",
           "addedAt": "2026-09-24 01:38:56",
           "changedAt": "2026-09-24 01:38:56"
+        },
+        {
+          "id": 335,
+          "name": "Forgotten Force Beyond Life",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Thunder",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 8",
+          "atk": "2900",
+          "def": "200",
+          "text": "While you control this face-up Tribute Summoned card, this card gains each of the following effects.\n● During the Standby Phase: You can Special Summon 1 \"Lost Soul Beyond Life Token\" (Zombie/LIGHT/Level 2/200/200) to either field.\n● Once per turn (Quick Effect): You can activate 1 Field Spell from your hand or GY.",
+          "duelingbookId": 6022651,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022651.jpg",
+          "addedAt": "2026-09-24 01:39:52",
+          "changedAt": "2026-09-24 01:39:52"
         }
       ]
     }
