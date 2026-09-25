@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T12:06:15.006Z",
+  "updatedAt": "2026-09-25T13:45:44.963Z",
   "cards": [
     {
       "id": 384,
@@ -3140,7 +3140,7 @@
     {
       "id": 549,
       "name": "Gathered Avatar of The Fade",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Spellcaster",
@@ -3157,7 +3157,7 @@
       "duelingbookId": 6062582,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062582.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:45:34"
     },
     {
       "id": 125,
@@ -6567,7 +6567,7 @@
     {
       "id": 548,
       "name": "Omni-Reija, Realized Ideal of The Fade",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -6582,7 +6582,7 @@
       "duelingbookId": 6062581,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062581.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:45:27"
     },
     {
       "id": 117,
@@ -7207,7 +7207,7 @@
     {
       "id": 546,
       "name": "Predecessor of Reija",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -7222,7 +7222,7 @@
       "duelingbookId": 6062579,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062579.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:45:17"
     },
     {
       "id": 327,
@@ -7672,7 +7672,7 @@
     {
       "id": 547,
       "name": "Reija The Fade",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -7687,7 +7687,7 @@
       "duelingbookId": 6062580,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062580.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:45:23"
     },
     {
       "id": 82,
@@ -9134,7 +9134,7 @@
     {
       "id": 550,
       "name": "Subtle Art of The Fade",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Ritual",
@@ -9148,7 +9148,7 @@
       "duelingbookId": 6062583,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062583.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:45:40"
     },
     {
       "id": 227,
@@ -11347,7 +11347,7 @@
         {
           "id": 549,
           "name": "Gathered Avatar of The Fade",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Link Monster",
           "monsterType": "Spellcaster",
@@ -11364,7 +11364,7 @@
           "duelingbookId": 6062582,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062582.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:45:34"
         },
         {
           "id": 552,
@@ -11388,7 +11388,7 @@
         {
           "id": 548,
           "name": "Omni-Reija, Realized Ideal of The Fade",
-          "status": "voting",
+          "status": "banned",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Spellcaster",
@@ -11403,7 +11403,7 @@
           "duelingbookId": 6062581,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062581.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:45:27"
         },
         {
           "id": 554,
@@ -11428,7 +11428,7 @@
         {
           "id": 546,
           "name": "Predecessor of Reija",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Spellcaster",
@@ -11443,12 +11443,12 @@
           "duelingbookId": 6062579,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062579.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:45:17"
         },
         {
           "id": 547,
           "name": "Reija The Fade",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Spellcaster",
@@ -11463,12 +11463,12 @@
           "duelingbookId": 6062580,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062580.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:45:23"
         },
         {
           "id": 550,
           "name": "Subtle Art of The Fade",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Ritual",
@@ -11482,7 +11482,7 @@
           "duelingbookId": 6062583,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062583.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:45:40"
         },
         {
           "id": 555,
