@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T18:11:35.999Z",
+  "updatedAt": "2026-09-25T19:27:06.102Z",
   "cards": [
     {
       "id": 384,
@@ -11229,6 +11229,28 @@
       "changedAt": "2026-09-18 17:29:57"
     },
     {
+      "id": 578,
+      "name": "Winged Drake Eel",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Sea Serpent",
+      "abilities": [
+        "Tuner"
+      ],
+      "attribute": "WIND",
+      "levelRankLink": "Level 1",
+      "atk": "300",
+      "def": "250",
+      "text": "This card's Summon cannot be negated. Neither player can activate the effects of other cards in this card's same column. During your Standby Phase, while this card is in your GY: You can discard 1 card; add this card and up to 1 Normal Monster from your GY to your hand. You can only use this effect of \"Little Winged Eel\" once per turn.",
+      "clauses": 4,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6066386,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066386.jpg",
+      "addedAt": "2026-09-25 19:26:36",
+      "changedAt": "2026-09-25 19:26:36"
+    },
+    {
       "id": 365,
       "name": "Wollow, Founder of the Drudge Dragons",
       "status": "semi-limeade",
@@ -20956,7 +20978,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 38,
+        "balance": 29,
         "lifetimePoints": 355,
         "matchWins": 27,
         "matchLosses": 18,
