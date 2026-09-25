@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T16:02:45.404Z",
+  "updatedAt": "2026-09-25T16:03:15.399Z",
   "cards": [
     {
       "id": 384,
@@ -6798,6 +6798,23 @@
       "officialUrl": "https://ygoprodeck.com/card/overlay-network-12986",
       "addedAt": "2026-07-29 04:24:56",
       "changedAt": "2026-08-24 14:30:20"
+    },
+    {
+      "id": 574,
+      "name": "Owner's Seal",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Return control of all monsters on the field to their original owners.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "09720537",
+      "duelingbookId": 3246,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/9720537.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/owner-s-seal-820",
+      "addedAt": "2026-09-25 16:03:08",
+      "changedAt": "2026-09-25 16:03:08"
     },
     {
       "id": 223,
