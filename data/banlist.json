@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T15:59:45.370Z",
+  "updatedAt": "2026-09-25T16:00:45.368Z",
   "cards": [
     {
       "id": 384,
@@ -11382,6 +11382,23 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059728.jpg",
       "addedAt": "2026-09-22 02:33:45",
       "changedAt": "2026-09-22 16:45:43"
+    },
+    {
+      "id": 572,
+      "name": "Zombie World",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Field",
+      "spellTrapType": "Field",
+      "text": "All monsters on the field and in the GYs become Zombie monsters. Neither player can Tribute Summon monsters, except Zombie monsters.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "04064256",
+      "duelingbookId": 4909,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/4064256.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/zombie-world-364",
+      "addedAt": "2026-09-25 16:00:19",
+      "changedAt": "2026-09-25 16:00:19"
     }
   ],
   "archetypes": [
