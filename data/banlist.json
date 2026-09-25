@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T13:47:14.888Z",
+  "updatedAt": "2026-09-25T14:22:14.968Z",
   "cards": [
     {
       "id": 384,
@@ -7672,7 +7672,7 @@
     {
       "id": 547,
       "name": "Reija The Fade",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -7687,7 +7687,7 @@
       "duelingbookId": 6062580,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062580.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-25 13:45:23"
+      "changedAt": "2026-09-25 14:21:47"
     },
     {
       "id": 82,
@@ -11448,7 +11448,7 @@
         {
           "id": 547,
           "name": "Reija The Fade",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Spellcaster",
@@ -11463,7 +11463,7 @@
           "duelingbookId": 6062580,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062580.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-25 13:45:23"
+          "changedAt": "2026-09-25 14:21:47"
         },
         {
           "id": 550,
