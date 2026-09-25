@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T17:17:45.632Z",
+  "updatedAt": "2026-09-25T17:24:15.676Z",
   "cards": [
     {
       "id": 384,
@@ -20956,8 +20956,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 33,
-        "lifetimePoints": 350,
+        "balance": 36,
+        "lifetimePoints": 353,
         "matchWins": 27,
         "matchLosses": 17,
         "gamesWon": 103,
@@ -20968,8 +20968,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 0,
-        "lifetimePoints": 267,
+        "balance": 3,
+        "lifetimePoints": 270,
         "matchWins": 16,
         "matchLosses": 21,
         "gamesWon": 53,
@@ -21004,8 +21004,8 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 23,
-        "lifetimePoints": 51,
+        "balance": 26,
+        "lifetimePoints": 54,
         "matchWins": 5,
         "matchLosses": 5,
         "gamesWon": 11,
