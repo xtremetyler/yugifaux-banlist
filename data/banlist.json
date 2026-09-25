@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T20:55:34.107Z",
+  "updatedAt": "2026-09-25T21:06:03.963Z",
   "cards": [
     {
       "id": 384,
@@ -21402,6 +21402,18 @@
         "gamesDrawn": 0,
         "archetypeId": 31,
         "archetypeName": "Ancient Ritual"
+      },
+      {
+        "name": "forgoudaboutit",
+        "balance": 0,
+        "lifetimePoints": 0,
+        "matchWins": 0,
+        "matchLosses": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "gamesDrawn": 0,
+        "archetypeId": null,
+        "archetypeName": null
       }
     ],
     "recentMatches": [
