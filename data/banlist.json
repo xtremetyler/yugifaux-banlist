@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T15:55:15.357Z",
+  "updatedAt": "2026-09-25T15:55:45.368Z",
   "cards": [
     {
       "id": 384,
@@ -4490,6 +4490,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939425.jpg",
       "addedAt": "2026-08-07 02:53:44",
       "changedAt": "2026-09-09 14:21:10"
+    },
+    {
+      "id": 566,
+      "name": "Illusion of Chaos",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Ritual Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Level 7",
+      "atk": "2100",
+      "def": "2500",
+      "text": "You can Ritual Summon this card with \"Chaos Form\". You can reveal this card in your hand; add 1 \"Dark Magician\", or 1 non-Ritual Monster that mentions it, from your Deck to your hand, then place 1 card from your hand on top of the Deck. When your opponent activates a monster effect (Quick Effect): You can return this card to the hand, and if you do, Special Summon 1 \"Dark Magician\" from your GY, and if you do that, negate that activated effect. You can only use each effect of \"Illusion of Chaos\" once per turn.",
+      "archetype": "Chaos",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "12266229",
+      "duelingbookId": 12410,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/12266229.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/illusion-of-chaos-12560",
+      "addedAt": "2026-09-25 15:55:32",
+      "changedAt": "2026-09-25 15:55:32"
     },
     {
       "id": 228,
