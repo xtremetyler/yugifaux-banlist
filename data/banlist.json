@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T20:26:05.876Z",
+  "updatedAt": "2026-09-25T20:55:34.107Z",
   "cards": [
     {
       "id": 384,
@@ -11858,7 +11858,7 @@
       "finalAddedClauses": 16,
       "notes": "The Wild Hunt is an elite guild of monster hunters who don’t wait for dangerous prey to appear—they bring the monsters with them.\nLed by Lyra, Guildmaster of the Wild Hunt, the guild specializes in hunting massive Level 7 or higher monsters. Its Level 4 hunters—Vesper, Rowan, Kael, and Skadi—deploy when powerful prey appears, recruit additional hunters, and become stronger when battling enormous foes.\nTheir contracts target terrifying Level 10 Spirit Monsters such as Oaragoon, Bashiten, Donkestra, and Skorvath. These creatures are summoned directly to the opponent’s field, where they become dangerous obstacles that restrict the opponent in different ways. Defeating one earns the Wild Hunt a bounty, generating additional cards and resources.\nContract of the Wild Hunt chooses the next quarry and pairs it with the hunter best suited to kill it, while The Guild Hall keeps contracts flowing and rewards successful hunts.\nMechanically, Wild Hunt turns the opponent’s field into a hunting ground: give them a giant monster, deploy your hunters, kill your own quarry, collect the bounty, and begin the next hunt. The bigger the monster, the better the prize.",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 589,
       "featuredCardName": "Bashiten, Infernal Trickster of the Canopy",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066469.jpg",
