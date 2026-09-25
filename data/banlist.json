@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T17:24:45.674Z",
+  "updatedAt": "2026-09-25T17:52:45.908Z",
   "cards": [
     {
       "id": 384,
@@ -20952,16 +20952,16 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 62,
+    "confirmedMatchCount": 63,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 36,
-        "lifetimePoints": 353,
+        "balance": 38,
+        "lifetimePoints": 355,
         "matchWins": 27,
-        "matchLosses": 17,
-        "gamesWon": 103,
-        "gamesLost": 61,
+        "matchLosses": 18,
+        "gamesWon": 104,
+        "gamesLost": 63,
         "gamesDrawn": 0,
         "archetypeId": 34,
         "archetypeName": "Beyond Life"
@@ -20980,12 +20980,12 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 25,
-        "lifetimePoints": 162,
-        "matchWins": 13,
+        "balance": 29,
+        "lifetimePoints": 166,
+        "matchWins": 14,
         "matchLosses": 16,
-        "gamesWon": 34,
-        "gamesLost": 38,
+        "gamesWon": 36,
+        "gamesLost": 39,
         "gamesDrawn": 0,
         "archetypeId": 32,
         "archetypeName": "Berdz"
@@ -21016,6 +21016,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 65,
+        "confirmedAt": "2026-09-25 17:52:23",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Berdz",
+        "opponentArchetype": "Beyond Life"
+      },
       {
         "id": 64,
         "confirmedAt": "2026-09-24 05:08:03",
@@ -21085,19 +21095,19 @@
         "opponentGames": 0,
         "reporterArchetype": "Ancient Ritual",
         "opponentArchetype": "Fels'teel"
-      },
-      {
-        "id": 57,
-        "confirmedAt": "2026-09-17 15:04:25",
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "Edward Swissorhands",
-        "reporterGames": 2,
-        "opponentGames": 1,
-        "reporterArchetype": "Reija The Fade",
-        "opponentArchetype": "Fels'teel"
       }
     ],
     "matchHistory": [
+      {
+        "id": 65,
+        "confirmedAt": "2026-09-25 17:52:23",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Berdz",
+        "opponentArchetype": "Beyond Life"
+      },
       {
         "id": 64,
         "confirmedAt": "2026-09-24 05:08:03",
