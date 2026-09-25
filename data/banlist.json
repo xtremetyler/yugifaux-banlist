@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T15:58:15.367Z",
+  "updatedAt": "2026-09-25T15:59:45.370Z",
   "cards": [
     {
       "id": 384,
@@ -2357,6 +2357,26 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991645.jpg",
       "addedAt": "2026-08-13 00:45:36",
       "changedAt": "2026-08-13 00:45:36"
+    },
+    {
+      "id": 571,
+      "name": "Doomking Balerdroch",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Zombie",
+      "attribute": "DARK",
+      "levelRankLink": "Level 8",
+      "atk": "2800",
+      "def": "2000",
+      "text": "During the Standby Phase, if a face-up card is in a Field Zone and this card is in your GY: You can Special Summon this card in Defense Position. You can only use this effect of \"Doomking Balerdroch\" once per turn. Once per Chain, when a Zombie monster, except \"Doomking Balerdroch\", activates its effect (except during the Damage Step) (Quick Effect): You can apply 1 of these effects (but you cannot apply that same effect of \"Doomking Balerdroch\" again this turn).\r\n● Negate that effect. ● Banish 1 monster from the field or GY.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "39185163",
+      "duelingbookId": 9623,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/39185163.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/doomking-balerdroch-9695",
+      "addedAt": "2026-09-25 15:59:41",
+      "changedAt": "2026-09-25 15:59:41"
     },
     {
       "id": 191,
