@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T17:24:15.676Z",
+  "updatedAt": "2026-09-25T17:24:45.674Z",
   "cards": [
     {
       "id": 384,
@@ -20980,8 +20980,8 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 22,
-        "lifetimePoints": 159,
+        "balance": 25,
+        "lifetimePoints": 162,
         "matchWins": 13,
         "matchLosses": 16,
         "gamesWon": 34,
@@ -20992,8 +20992,8 @@
       },
       {
         "name": "I \"Lack toes\" Joules",
-        "balance": 18,
-        "lifetimePoints": 72,
+        "balance": 21,
+        "lifetimePoints": 75,
         "matchWins": 1,
         "matchLosses": 3,
         "gamesWon": 3,
