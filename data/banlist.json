@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T16:03:15.399Z",
+  "updatedAt": "2026-09-25T16:04:15.409Z",
   "cards": [
     {
       "id": 384,
@@ -7170,6 +7170,27 @@
       "changedAt": "2026-09-09 14:21:56"
     },
     {
+      "id": 575,
+      "name": "Phantom of Chaos",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Fiend",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "0",
+      "def": "0",
+      "text": "Your opponent takes no battle damage from attacks involving this card. Once per turn: You can target 1 Effect Monster in your GY; banish that target, and if you do, until the End Phase, this card's name and original ATK become that monster's name and original ATK, and replace this effect with that monster's original effects. You must control this face-up card to activate and to resolve this effect.",
+      "archetype": "Chaos",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "30312361",
+      "duelingbookId": 3301,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/30312361.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/phantom-of-chaos-2567",
+      "addedAt": "2026-09-25 16:03:46",
+      "changedAt": "2026-09-25 16:03:46"
+    },
+    {
       "id": 273,
       "name": "Pitknight Earlie",
       "status": "semi-limeade",
@@ -9521,6 +9542,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5987175.jpg",
       "addedAt": "2026-08-11 21:18:42",
       "changedAt": "2026-08-24 17:14:05"
+    },
+    {
+      "id": 576,
+      "name": "The Fabled Cerburrel",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Tuner Monster",
+      "monsterType": "Beast",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 2",
+      "atk": "1000",
+      "def": "400",
+      "text": "If this card is discarded to the GY: Special Summon it.",
+      "archetype": "Fabled",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "82888408",
+      "duelingbookId": 4277,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/82888408.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/the-fabled-cerburrel-6961",
+      "addedAt": "2026-09-25 16:04:05",
+      "changedAt": "2026-09-25 16:04:05"
     },
     {
       "id": 181,
