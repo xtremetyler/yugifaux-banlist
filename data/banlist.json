@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T13:45:44.963Z",
+  "updatedAt": "2026-09-25T13:46:14.910Z",
   "cards": [
     {
       "id": 384,
@@ -975,7 +975,7 @@
     {
       "id": 551,
       "name": "Beacon of The Fade",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -989,7 +989,7 @@
       "duelingbookId": 6062584,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062584.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:46:02"
     },
     {
       "id": 40,
@@ -5201,7 +5201,7 @@
     {
       "id": 552,
       "name": "Localized Aftereffects of The Fade",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -5215,7 +5215,7 @@
       "duelingbookId": 6062585,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062585.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:46:08"
     },
     {
       "id": 282,
@@ -11268,7 +11268,7 @@
         {
           "id": 551,
           "name": "Beacon of The Fade",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -11282,7 +11282,7 @@
           "duelingbookId": 6062584,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062584.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:46:02"
         },
         {
           "id": 556,
@@ -11369,7 +11369,7 @@
         {
           "id": 552,
           "name": "Localized Aftereffects of The Fade",
-          "status": "voting",
+          "status": "banned",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -11383,7 +11383,7 @@
           "duelingbookId": 6062585,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062585.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:46:08"
         },
         {
           "id": 548,
