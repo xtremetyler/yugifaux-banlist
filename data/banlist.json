@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T16:00:45.368Z",
+  "updatedAt": "2026-09-25T16:02:45.404Z",
   "cards": [
     {
       "id": 384,
@@ -7748,6 +7748,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038457.jpg",
       "addedAt": "2026-09-10 00:18:16",
       "changedAt": "2026-09-10 00:18:16"
+    },
+    {
+      "id": 573,
+      "name": "Red-Eyes Zombie Necro Dragon",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Synchro Monster",
+      "monsterType": "Zombie",
+      "attribute": "DARK",
+      "levelRankLink": "Level 7",
+      "atk": "2400",
+      "def": "2000",
+      "text": "1 Tuner + 1+ non-Tuner monsters\r\nGains 100 ATK/DEF for each Zombie monster on the field and in the GYs. When another Zombie monster is destroyed by battle: You can Special Summon 1 Zombie monster from either GY to your field. You can only use this effect of \"Red-Eyes Zombie Necro Dragon\" once per turn.",
+      "archetype": "Red-Eyes",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "28240337",
+      "duelingbookId": 9629,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/28240337.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/red-eyes-zombie-necro-dragon-9742",
+      "addedAt": "2026-09-25 16:02:26",
+      "changedAt": "2026-09-25 16:02:26"
     },
     {
       "id": 84,
