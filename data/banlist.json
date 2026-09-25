@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T14:22:14.968Z",
+  "updatedAt": "2026-09-25T15:55:15.357Z",
   "cards": [
     {
       "id": 384,
@@ -5432,6 +5432,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6063434.jpg",
       "addedAt": "2026-09-24 05:22:56",
       "changedAt": "2026-09-24 05:22:56"
+    },
+    {
+      "id": 565,
+      "name": "Magicians' Souls",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Level 1",
+      "atk": "0",
+      "def": "0",
+      "text": "You can send up to 2 Spells/Traps from your hand and/or field to the GY; draw that many cards. If this card is in your hand: You can send 1 Level 6 or higher Spellcaster monster from your Deck to the GY, then activate 1 of these effects;\r\n● Special Summon this card.\r\n● Send this card to the GY, then, you can Special Summon 1 \"Dark Magician\" or 1 \"Dark Magician Girl\" from your GY.\r\nYou can only use each effect of \"Magicians' Souls\" once per turn.",
+      "archetype": "Dark Magician",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "97631303",
+      "duelingbookId": 10472,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/97631303.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/magicians-souls-10601",
+      "addedAt": "2026-09-25 15:54:59",
+      "changedAt": "2026-09-25 15:54:59"
     },
     {
       "id": 387,
