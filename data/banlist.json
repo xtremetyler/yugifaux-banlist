@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T15:57:45.356Z",
+  "updatedAt": "2026-09-25T15:58:15.367Z",
   "cards": [
     {
       "id": 384,
@@ -1945,6 +1945,23 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038099.jpg",
       "addedAt": "2026-09-09 19:29:06",
       "changedAt": "2026-09-11 01:03:25"
+    },
+    {
+      "id": 570,
+      "name": "Crackdown",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Trap Card",
+      "monsterType": "Continuous",
+      "spellTrapType": "Continuous",
+      "text": "Activate by targeting 1 face-up monster your opponent controls; take control of that monster. While you control that monster, it cannot attack or activate effects. When that monster leaves the field, destroy this card.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "36975314",
+      "duelingbookId": 9906,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/36975314.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/crackdown-10015",
+      "addedAt": "2026-09-25 15:58:04",
+      "changedAt": "2026-09-25 15:58:04"
     },
     {
       "id": 67,
