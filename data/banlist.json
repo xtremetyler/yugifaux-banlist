@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T15:56:45.365Z",
+  "updatedAt": "2026-09-25T15:57:15.388Z",
   "cards": [
     {
       "id": 384,
@@ -1282,6 +1282,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995197.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-08-23 23:25:49"
+    },
+    {
+      "id": 568,
+      "name": "Brionac, Dragon of the Ice Barrier",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Synchro Monster",
+      "monsterType": "Sea Serpent",
+      "attribute": "WATER",
+      "levelRankLink": "Level 6",
+      "atk": "2300",
+      "def": "1400",
+      "text": "1 Tuner + 1+ non-Tuner monsters\nYou can discard any number of cards to the GY, then target the same number of cards your opponent controls; return those cards to the hand. You can only use this effect of \"Brionac, Dragon of the Ice Barrier\" once per turn.",
+      "archetype": "Ice Barrier",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "50321796",
+      "duelingbookId": 559,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/50321796.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/brionac-dragon-of-the-ice-barrier-4289",
+      "addedAt": "2026-09-25 15:56:50",
+      "changedAt": "2026-09-25 15:56:50"
     },
     {
       "id": 168,
