@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T15:57:15.388Z",
+  "updatedAt": "2026-09-25T15:57:45.356Z",
   "cards": [
     {
       "id": 384,
@@ -10995,6 +10995,23 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035629.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 14:34:08"
+    },
+    {
+      "id": 569,
+      "name": "Where Arf Thou?",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "If you control a face-up Level 1 monster: Add 1 Level 1 monster from your Deck to your hand. During the End Phase of this turn, take 2000 damage if you did not Normal Summon the added monster, or a card with the same name, after activating this card.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "51405049",
+      "duelingbookId": 5505,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/51405049.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/where-arf-thou-4375",
+      "addedAt": "2026-09-25 15:57:15",
+      "changedAt": "2026-09-25 15:57:15"
     },
     {
       "id": 118,
