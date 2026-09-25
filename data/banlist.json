@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T19:57:06.117Z",
+  "updatedAt": "2026-09-25T19:57:36.123Z",
   "cards": [
     {
       "id": 384,
@@ -7986,6 +7986,23 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062854.jpg",
       "addedAt": "2026-09-23 21:59:12",
       "changedAt": "2026-09-23 21:59:12"
+    },
+    {
+      "id": 582,
+      "name": "Roar of the Blue-Eyed Dragons",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Special Summon in Defense Position, 1 \"Blue-Eyes\" monster from your Deck, GY, or banishment (but if you control no \"Blue-Eyes White Dragon\", you can only Special Summon \"Blue-Eyes White Dragon\" with this effect), also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dragon monsters. You can banish this card from your GY; Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, including a \"Blue-Eyes\" monster. You can only use 1 \"Roar of the Blue-Eyed Dragons\" effect per turn, and only once that turn.",
+      "contributor": "Edward Swissorhands",
+      "passcode": "17725109",
+      "duelingbookId": 15896,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/17725109.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/roar-of-the-blue-eyed-dragons-14648",
+      "addedAt": "2026-09-25 19:57:25",
+      "changedAt": "2026-09-25 19:57:25"
     },
     {
       "id": 388,
@@ -20049,8 +20066,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 12,
-      "totalClauses": 57,
+      "addedClauses": 13,
+      "totalClauses": 58,
       "retirementsSeen": 1,
       "retirementThreshold": 4,
       "retirementRequired": true,
@@ -20072,7 +20089,7 @@
           "duelingbookId": 5885506,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5885506.jpg",
           "addedAt": "2026-09-22 03:01:24",
-          "changedAt": "2026-09-22 03:01:24"
+          "changedAt": "2026-09-25 19:57:08"
         },
         {
           "id": 316,
