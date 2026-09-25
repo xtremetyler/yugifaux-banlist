@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T05:58:11.514Z",
+  "updatedAt": "2026-09-25T06:01:41.570Z",
   "cards": [
     {
       "id": 384,
@@ -20223,8 +20223,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 10,
-      "totalClauses": 55,
+      "addedClauses": 12,
+      "totalClauses": 57,
       "retirementsSeen": 1,
       "retirementThreshold": 4,
       "retirementRequired": false,
@@ -20381,11 +20381,11 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Once per turn: You can add 1 Level 4 “Wild Hunt” monster or 1 “Contract of the Wild Hunt” from your Deck to your hand. If a “Wild Hunt” monster destroys a Level 7 or higher monster by battle: Draw 1 card.",
+          "text": "Once per turn: You can add 1 Level 4 “Wild Hunt” monster or 1 “Contract of the Wild Hunt” from your Deck to your hand. If a “Wild Hunt” monster destroys a Level 7 or higher monster by battle: Draw 1 card. Once Per Turn (Quick Effect): You can return 1 level 7 or higher monster from your GY to your hand, and if you do, immediately after this effect resolves, special summon it onto your opponents side of the field.",
           "duelingbookId": 5883705,
           "imageUrl": "https://images.duelingbook.com/custom-pics/5800000/5883705.jpg",
           "addedAt": "2026-09-22 03:10:02",
-          "changedAt": "2026-09-23 16:51:30"
+          "changedAt": "2026-09-25 06:01:17"
         },
         {
           "id": 324,
