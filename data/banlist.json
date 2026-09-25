@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T19:27:06.102Z",
+  "updatedAt": "2026-09-25T19:31:36.107Z",
   "cards": [
     {
       "id": 384,
@@ -2517,6 +2517,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948435.jpg",
       "addedAt": "2026-08-10 01:40:05",
       "changedAt": "2026-09-09 15:45:24"
+    },
+    {
+      "id": 579,
+      "name": "Dusty Guidebook to Unlikely Scenarios",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "During your Main Phase: You can activate 1 of the following effects, but you can only activate each of these effects of \"Dusty Guidebook to Unlikely Scenarios\" once per turn.\n● Add 1 Normal or Gemini Monster from your Deck to your hand.\n● Add 1 Flip or Toon Monster from your Deck to your hand.\n● Add 1 Spirit or Union Monster from your Deck to your hand.\n● Add 1 Monster from your Deck to your hand with an effect that mentions Setting or placing itself in the Spell & Trap Zone.",
+      "clauses": 4,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6066395,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066395.jpg",
+      "addedAt": "2026-09-25 19:31:22",
+      "changedAt": "2026-09-25 19:31:22"
     },
     {
       "id": 556,
@@ -20978,7 +20996,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 29,
+        "balance": 20,
         "lifetimePoints": 355,
         "matchWins": 27,
         "matchLosses": 18,
