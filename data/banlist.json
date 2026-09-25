@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T13:46:44.894Z",
+  "updatedAt": "2026-09-25T13:47:14.888Z",
   "cards": [
     {
       "id": 384,
@@ -2463,7 +2463,7 @@
     {
       "id": 556,
       "name": "Dyo-Reija, Fade to Molten Wastes",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Spellcaster",
@@ -2478,7 +2478,7 @@
       "duelingbookId": 6062589,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062589.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:46:59"
     },
     {
       "id": 294,
@@ -2633,7 +2633,7 @@
     {
       "id": 557,
       "name": "Enas-Reija, Fade to Cavernous Depths",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Spellcaster",
@@ -2648,7 +2648,7 @@
       "duelingbookId": 6062590,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062590.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:47:09"
     },
     {
       "id": 43,
@@ -6993,7 +6993,7 @@
     {
       "id": 554,
       "name": "Pente-Reija, Fade to Eternal Storm",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Spellcaster",
@@ -7008,7 +7008,7 @@
       "duelingbookId": 6062587,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062587.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:46:45"
     },
     {
       "id": 69,
@@ -9865,7 +9865,7 @@
     {
       "id": 555,
       "name": "Tria-Reija, Fade to Shrouded Lands",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Spellcaster",
@@ -9880,7 +9880,7 @@
       "duelingbookId": 6062588,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062588.jpg",
       "addedAt": "2026-09-23 19:14:30",
-      "changedAt": "2026-09-23 19:14:30"
+      "changedAt": "2026-09-25 13:46:55"
     },
     {
       "id": 348,
@@ -11287,7 +11287,7 @@
         {
           "id": 556,
           "name": "Dyo-Reija, Fade to Molten Wastes",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Ritual Monster",
           "monsterType": "Spellcaster",
@@ -11302,12 +11302,12 @@
           "duelingbookId": 6062589,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062589.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:46:59"
         },
         {
           "id": 557,
           "name": "Enas-Reija, Fade to Cavernous Depths",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Ritual Monster",
           "monsterType": "Spellcaster",
@@ -11322,7 +11322,7 @@
           "duelingbookId": 6062590,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062590.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:47:09"
         },
         {
           "id": 553,
@@ -11408,7 +11408,7 @@
         {
           "id": 554,
           "name": "Pente-Reija, Fade to Eternal Storm",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Ritual Monster",
           "monsterType": "Spellcaster",
@@ -11423,7 +11423,7 @@
           "duelingbookId": 6062587,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062587.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:46:45"
         },
         {
           "id": 546,
@@ -11487,7 +11487,7 @@
         {
           "id": 555,
           "name": "Tria-Reija, Fade to Shrouded Lands",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Ritual Monster",
           "monsterType": "Spellcaster",
@@ -11502,7 +11502,7 @@
           "duelingbookId": 6062588,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062588.jpg",
           "addedAt": "2026-09-23 19:14:30",
-          "changedAt": "2026-09-23 19:14:30"
+          "changedAt": "2026-09-25 13:46:55"
         }
       ]
     },
