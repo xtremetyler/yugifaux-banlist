@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T19:52:36.117Z",
+  "updatedAt": "2026-09-25T19:56:36.140Z",
   "cards": [
     {
       "id": 384,
@@ -2281,6 +2281,27 @@
       "officialUrl": "https://ygoprodeck.com/card/darkuriboh-15005",
       "addedAt": "2026-07-29 04:47:12",
       "changedAt": "2026-07-29 04:47:12"
+    },
+    {
+      "id": 580,
+      "name": "Dictator of D.",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "1200",
+      "def": "1100",
+      "text": "While you control a \"Blue-Eyes\" monster, you choose the attack targets for your opponent's attacks. You can only use each of the following effects of \"Dictator of D.\" once per turn. You can send 1 \"Blue-Eyes White Dragon\" from your hand or Deck to the GY; Special Summon this card from your hand. You can discard 1 \"Blue-Eyes White Dragon\", or 1 card that mentions it, then target 1 \"Blue-Eyes\" monster in your GY; Special Summon it.",
+      "archetype": "Blue-Eyes",
+      "contributor": "Edward Swissorhands",
+      "passcode": "66961194",
+      "duelingbookId": 12381,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/66961194.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/dictator-of-d-12786",
+      "addedAt": "2026-09-25 19:56:33",
+      "changedAt": "2026-09-25 19:56:33"
     },
     {
       "id": 368,
