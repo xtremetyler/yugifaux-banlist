@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T16:04:15.409Z",
+  "updatedAt": "2026-09-25T17:16:37.650Z",
   "cards": [
     {
       "id": 384,
@@ -9563,6 +9563,24 @@
       "officialUrl": "https://ygoprodeck.com/card/the-fabled-cerburrel-6961",
       "addedAt": "2026-09-25 16:04:05",
       "changedAt": "2026-09-25 16:04:05"
+    },
+    {
+      "id": 577,
+      "name": "The Hungering Void",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Field",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "This card's name becomes \"Dark Hole\" while on the field or in the hand, Deck, GY, or Banishment. Once per turn, during your Main Phase, while each player controls a monster: You can activate this effect; each player chooses 1 monster their opponent controls, then, destroy those cards and for each monster destroyed this way, you can banish it. If you would draw for your normal draw during your Draw Phase, while this card is in your GY or Banishment, you can activate this card instead.",
+      "clauses": 4,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6066170,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066170.jpg",
+      "addedAt": "2026-09-25 17:16:35",
+      "changedAt": "2026-09-25 17:16:35"
     },
     {
       "id": 181,
