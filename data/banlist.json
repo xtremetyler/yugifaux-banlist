@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-25T15:55:45.368Z",
+  "updatedAt": "2026-09-25T15:56:45.365Z",
   "cards": [
     {
       "id": 384,
@@ -8133,6 +8133,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024542.jpg",
       "addedAt": "2026-09-01 04:29:36",
       "changedAt": "2026-09-01 14:05:46"
+    },
+    {
+      "id": 567,
+      "name": "Secrets of Dark Magic",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Quick-Play",
+      "spellTrapType": "Quick-Play",
+      "text": "Activate 1 of the following effects;\r\n● Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, including \"Dark Magician\" or \"Dark Magician Girl\".\r\n● Ritual Summon 1 Ritual Monster from your hand, by Tributing monsters from your hand or field, including \"Dark Magician\" or \"Dark Magician Girl\", whose total Levels equal or exceed the Level of the Ritual Monster.",
+      "archetype": "Dark Magician",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "59514116",
+      "duelingbookId": 10474,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/59514116.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/secrets-of-dark-magic-10649",
+      "addedAt": "2026-09-25 15:56:18",
+      "changedAt": "2026-09-25 15:56:18"
     },
     {
       "id": 196,
