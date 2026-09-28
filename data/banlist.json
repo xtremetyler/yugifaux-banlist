@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:59:20.179Z",
+  "updatedAt": "2026-09-28T19:59:50.209Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22149,6 +22149,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068709.jpg",
           "addedAt": "2026-09-28 19:59:14",
           "changedAt": "2026-09-28 19:59:14"
+        },
+        {
+          "id": 367,
+          "name": "Th'Underhiel Hall of Flame",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once, while you control this face-up card: You can return 1 Rock Monster you control with an original Level of 7 or higher to your hand; You can conduct 2 additional Normal Summons during this turn in addition to your Normal Summon/Set (you can only gain this effect once per turn). While you control this face-up card, the leftmost and rightmost Monster Zones and Spell & Trap Zones on the field are treated as being in adjacent columns. While you are the only player that controls a Normal Summoned Monster, apply each of the following effects.\n● You can use the activated effects of Monsters you control with an original Level of 11 as Quick Effects. \n● You can activate \"Th'Underhiel\" Equip Spells from your hand as a Quick Effect and their effects on the field during either player's turn.",
+          "duelingbookId": 6068711,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068711.jpg",
+          "addedAt": "2026-09-28 19:59:33",
+          "changedAt": "2026-09-28 19:59:33"
         }
       ]
     }
