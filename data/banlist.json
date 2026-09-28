@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:43:11.761Z",
+  "updatedAt": "2026-09-28T15:43:41.735Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21499,6 +21499,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067032.jpg",
           "addedAt": "2026-09-28 15:42:53",
           "changedAt": "2026-09-28 15:42:53"
+        },
+        {
+          "id": 351,
+          "name": "Grabbit! Strong Grip",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 face-up Monster Card in your Spell & Trap Zone that you do not own; until the end of your next turn, it cannot be destroyed, banished, or returned to the hand or Deck by your opponent’s card effects. If a card you control but do not own leaves the field, while this card is in your GY: You can banish this card; add 1 \"Grabbit\" monster from your GY to your hand. You can only activate each effect of “Grabbit! Strong Grip” once per turn.",
+          "duelingbookId": 6067034,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067034.jpg",
+          "addedAt": "2026-09-28 15:43:32",
+          "changedAt": "2026-09-28 15:43:32"
         }
       ]
     }
