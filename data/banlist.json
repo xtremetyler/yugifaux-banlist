@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:58:50.167Z",
+  "updatedAt": "2026-09-28T19:59:20.179Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 8,
+      "registeredCardCount": 10,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22119,6 +22119,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068705.jpg",
           "addedAt": "2026-09-28 19:58:38",
           "changedAt": "2026-09-28 19:58:38"
+        },
+        {
+          "id": 365,
+          "name": "Th'Underhiel Almighty Axe",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Equip only to a Monster with an original Level of 7 or higher. The equipped Monster gains 400 ATK/DEF. You can banish this card and its equipped Monster, then return them to the field with this equipped to the same Monster. You can only use this effect of \"Th'Underhiel Almighty Axe\" once per turn. If this card on the field is destroyed or its equipped Monster is returned to the hand: You can destroy 1 card in its adjacent column.",
+          "duelingbookId": 6068706,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068706.jpg",
+          "addedAt": "2026-09-28 19:58:57",
+          "changedAt": "2026-09-28 19:58:57"
+        },
+        {
+          "id": 366,
+          "name": "Th'Underhiel Apocalyptic Amp",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once per turn, during your Main Phase: You can Special Summon 1 Monster from your hand with an original Level of 7 or higher in a Main Monster Zone adjacent to a Normal Summoned Monster you control with the same original Level but a different name. During the End Phase, if this card is in your GY because it was sent from the field to the GY this turn: You can attach 1 \"Th'Underhiel\" card from your hand or GY to a face-up Rank 7 or higher Xyz Monster you control as Material.",
+          "duelingbookId": 6068709,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068709.jpg",
+          "addedAt": "2026-09-28 19:59:14",
+          "changedAt": "2026-09-28 19:59:14"
         }
       ]
     }
