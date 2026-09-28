@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:48:11.726Z",
+  "updatedAt": "2026-09-28T16:12:41.807Z",
   "cards": [
     {
       "id": 384,
@@ -21598,27 +21598,27 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 64,
+    "confirmedMatchCount": 65,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 20,
-        "lifetimePoints": 355,
+        "balance": 21,
+        "lifetimePoints": 356,
         "matchWins": 27,
-        "matchLosses": 18,
+        "matchLosses": 19,
         "gamesWon": 104,
-        "gamesLost": 63,
+        "gamesLost": 65,
         "gamesDrawn": 0,
         "archetypeId": 34,
         "archetypeName": "Beyond Life"
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 9,
-        "lifetimePoints": 276,
-        "matchWins": 16,
+        "balance": 13,
+        "lifetimePoints": 280,
+        "matchWins": 17,
         "matchLosses": 22,
-        "gamesWon": 53,
+        "gamesWon": 55,
         "gamesLost": 85,
         "gamesDrawn": 0,
         "archetypeId": 35,
@@ -21674,6 +21674,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 67,
+        "confirmedAt": "2026-09-28 16:12:35",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Beyond Life",
+        "opponentArchetype": "Grabbit"
+      },
       {
         "id": 66,
         "confirmedAt": "2026-09-25 19:52:30",
@@ -21743,19 +21753,19 @@
         "opponentGames": 0,
         "reporterArchetype": "Reija The Fade",
         "opponentArchetype": "Berdz"
-      },
-      {
-        "id": 59,
-        "confirmedAt": "2026-09-18 20:52:25",
-        "reporter": "The Original Rough Cheddar",
-        "opponent": "Edward Swissorhands",
-        "reporterGames": 1,
-        "opponentGames": 2,
-        "reporterArchetype": "Pandora",
-        "opponentArchetype": "Fels'teel"
       }
     ],
     "matchHistory": [
+      {
+        "id": 67,
+        "confirmedAt": "2026-09-28 16:12:35",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Beyond Life",
+        "opponentArchetype": "Grabbit"
+      },
       {
         "id": 66,
         "confirmedAt": "2026-09-25 19:52:30",
