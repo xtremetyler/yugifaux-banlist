@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T20:38:41.482Z",
+  "updatedAt": "2026-09-28T20:40:11.466Z",
   "cards": [
     {
       "id": 384,
@@ -3482,7 +3482,7 @@
     {
       "id": 28,
       "name": "Forbidden Droplet",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Quick-Play",
@@ -3495,7 +3495,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24299458.jpg",
       "officialUrl": "https://ygoprodeck.com/card/forbidden-droplet-11026",
       "addedAt": "2026-07-29 04:49:14",
-      "changedAt": "2026-07-29 04:49:14"
+      "changedAt": "2026-09-28 20:39:54"
     },
     {
       "id": 603,
@@ -5873,7 +5873,7 @@
     {
       "id": 523,
       "name": "Loot - Common",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -5887,7 +5887,7 @@
       "duelingbookId": 6053715,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053715.jpg",
       "addedAt": "2026-09-18 22:32:42",
-      "changedAt": "2026-09-21 15:34:19"
+      "changedAt": "2026-09-28 20:39:55"
     },
     {
       "id": 521,
@@ -8586,7 +8586,7 @@
     {
       "id": 559,
       "name": "Rigden Shor, Undecided Nostalgic",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -8603,7 +8603,7 @@
       "duelingbookId": 6062854,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6062854.jpg",
       "addedAt": "2026-09-23 21:59:12",
-      "changedAt": "2026-09-23 21:59:12"
+      "changedAt": "2026-09-28 20:39:54"
     },
     {
       "id": 582,
@@ -13890,7 +13890,7 @@
         {
           "id": 523,
           "name": "Loot - Common",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -13904,7 +13904,7 @@
           "duelingbookId": 6053715,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053715.jpg",
           "addedAt": "2026-09-18 22:32:42",
-          "changedAt": "2026-09-21 15:34:19"
+          "changedAt": "2026-09-28 20:39:55"
         },
         {
           "id": 521,
@@ -22607,7 +22607,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 43,
+        "balance": 33,
         "lifetimePoints": 180,
         "matchWins": 16,
         "matchLosses": 16,
