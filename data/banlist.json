@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:40:12.089Z",
+  "updatedAt": "2026-09-28T15:40:42.088Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21469,6 +21469,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067030.jpg",
           "addedAt": "2026-09-28 15:39:43",
           "changedAt": "2026-09-28 15:39:43"
+        },
+        {
+          "id": 349,
+          "name": "Grabbit! Machine Shake",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target up to 2 face-up monsters your opponent controls; move those targets to other unoccupied Main Monster Zones on their field, then negate the effects of any monster moved by this effect until the end of this turn. You can only activate 1 “Grabbit! Machine Shake” per turn.",
+          "duelingbookId": 6067031,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067031.jpg",
+          "addedAt": "2026-09-28 15:40:23",
+          "changedAt": "2026-09-28 15:40:23"
         }
       ]
     }
