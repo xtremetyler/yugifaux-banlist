@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:36:11.790Z",
+  "updatedAt": "2026-09-28T15:36:41.690Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21392,6 +21392,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067014.jpg",
           "addedAt": "2026-09-28 15:36:07",
           "changedAt": "2026-09-28 15:36:07"
+        },
+        {
+          "id": 344,
+          "name": "Grabbit Power Claw",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Machine",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 5",
+          "atk": "2200",
+          "def": "1400",
+          "text": "You can Special Summon this card (from your hand) by sending 1 face-up in your Spell/Trap zone you control to the GY. During your Main Phase: You can place 1 face-up monster your opponent controls in this card’s column face-up in your Spell & Trap Zone as a Continuous Spell. You can only use this effect of “Grabbit Power Claw” once per turn.",
+          "duelingbookId": 6067017,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067017.jpg",
+          "addedAt": "2026-09-28 15:36:33",
+          "changedAt": "2026-09-28 15:36:33"
         }
       ]
     }
