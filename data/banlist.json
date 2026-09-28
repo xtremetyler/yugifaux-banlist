@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:45:41.715Z",
+  "updatedAt": "2026-09-28T15:46:11.805Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21544,6 +21544,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067037.jpg",
           "addedAt": "2026-09-28 15:45:18",
           "changedAt": "2026-09-28 15:45:18"
+        },
+        {
+          "id": 354,
+          "name": "Grabbit! Almost Had It!",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can add 1 \"Grabbit\" Spell from your Deck to your hand, except a Continuous Spell. If a face-up Monster Card in your Spell & Trap Zone that you do not own leaves the field because of an opponent’s card effect: Special Summon 1 “Grabbit” monster from your hand or GY. You can only activate this effect of “Grabbit! Almost Had It!” once per turn.",
+          "duelingbookId": 6067038,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067038.jpg",
+          "addedAt": "2026-09-28 15:46:06",
+          "changedAt": "2026-09-28 15:46:06"
         }
       ]
     }
