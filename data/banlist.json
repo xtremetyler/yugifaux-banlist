@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T16:33:41.818Z",
+  "updatedAt": "2026-09-28T16:34:11.826Z",
   "cards": [
     {
       "id": 384,
@@ -5206,7 +5206,7 @@
     {
       "id": 585,
       "name": "Kael, Embershot of the Wild Hunt",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -5221,7 +5221,7 @@
       "duelingbookId": 6066464,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066464.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:33:50"
     },
     {
       "id": 503,
@@ -8176,7 +8176,7 @@
     {
       "id": 584,
       "name": "Rowan, Berserker of the Wild Hunt",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -8191,7 +8191,7 @@
       "duelingbookId": 6066463,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066463.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:33:51"
     },
     {
       "id": 535,
@@ -8855,7 +8855,7 @@
     {
       "id": 586,
       "name": "Skadi, Frostwarden of the Wild Hunt",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -8870,7 +8870,7 @@
       "duelingbookId": 6066465,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066465.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:33:45"
     },
     {
       "id": 590,
@@ -11186,7 +11186,7 @@
     {
       "id": 583,
       "name": "Vesper, Exterminator of the Wild Hunt",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -11201,7 +11201,7 @@
       "duelingbookId": 6066462,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066462.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:33:53"
     },
     {
       "id": 380,
@@ -11931,7 +11931,7 @@
         {
           "id": 585,
           "name": "Kael, Embershot of the Wild Hunt",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -11946,7 +11946,7 @@
           "duelingbookId": 6066464,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066464.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:33:50"
         },
         {
           "id": 594,
@@ -12013,7 +12013,7 @@
         {
           "id": 584,
           "name": "Rowan, Berserker of the Wild Hunt",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -12028,12 +12028,12 @@
           "duelingbookId": 6066463,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066463.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:33:51"
         },
         {
           "id": 586,
           "name": "Skadi, Frostwarden of the Wild Hunt",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -12048,7 +12048,7 @@
           "duelingbookId": 6066465,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066465.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:33:45"
         },
         {
           "id": 590,
@@ -12095,7 +12095,7 @@
         {
           "id": 583,
           "name": "Vesper, Exterminator of the Wild Hunt",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -12110,7 +12110,7 @@
           "duelingbookId": 6066462,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066462.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:33:53"
         }
       ]
     },
