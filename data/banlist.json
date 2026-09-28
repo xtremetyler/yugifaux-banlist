@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:37:11.753Z",
+  "updatedAt": "2026-09-28T15:38:11.686Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21424,6 +21424,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067019.jpg",
           "addedAt": "2026-09-28 15:37:02",
           "changedAt": "2026-09-28 15:37:02"
+        },
+        {
+          "id": 346,
+          "name": "Grabbit Arcade!",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can add 1 “Grabbit” monster from your Deck to your hand. Once per turn, during your Main Phase: You can move 1 “Grabbit” monster you control to another of your unoccupied Main Monster Zones. Once per turn, during your Standby Phase: You can target 1 face-up Monster Card in your Spell & Trap Zone that you do not own and was placed there by the effect of a “Grabbit” card; Special Summon it to your field. You can only activate 1 “Grabbit Arcade!” per turn.",
+          "duelingbookId": 6067024,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067024.jpg",
+          "addedAt": "2026-09-28 15:37:42",
+          "changedAt": "2026-09-28 15:37:42"
         }
       ]
     }
