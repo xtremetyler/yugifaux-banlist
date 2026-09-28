@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T20:31:11.453Z",
+  "updatedAt": "2026-09-28T20:32:41.476Z",
   "cards": [
     {
       "id": 384,
@@ -22273,7 +22273,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 16,
+      "registeredCardCount": 17,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22558,6 +22558,22 @@
           "text": "Rank 6 / WIND / Rock / Xyz / Effect\nATK 2300 / DEF 2700\n2 Level 6 “Th’Underhiel” monsters\n\nIf this card is Xyz Summoned: You can add 1 “Th’Underhiel” Equip Spell from your Deck to your hand.\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 “Th’Underhiel” monster you control; until the end of this turn, its original Level becomes 11, also if it is used as material for the Xyz Summon of a “Th’Underhiel” monster this turn, it can be treated as 2 materials. You can only use each effect of “Mænagr of Th’Underhiel” once per turn.",
           "addedAt": "2026-09-28 20:27:24",
           "changedAt": "2026-09-28 20:27:24"
+        },
+        {
+          "id": 374,
+          "name": "Mænagrgr of Th’Underhiel",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Rock",
+          "attribute": "WIND",
+          "levelRankLink": "Rank 6",
+          "atk": "2300",
+          "def": "2700",
+          "text": "2 Level 6 Rock Monsters\nIf this card is Xyz Summoned: You can add 1 \"Th'Underhiel\" Equip Spell from your Deck to your hand. Once per turn (Quick Effect): You can detach 1 Material from this card, then target 1 face-up Monster you control; until the end of this turn, that target's Level and original Level become 11, also you can treat it as 2 Materials for the Xyz Summon of a \"Th'Underhiel\" Monster this turn. You can only use each effect of \"Mænagrgr of Th’Underhiel\" once per turn.",
+          "duelingbookId": 6071345,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071345.jpg",
+          "addedAt": "2026-09-28 20:32:23",
+          "changedAt": "2026-09-28 20:32:23"
         }
       ]
     }
