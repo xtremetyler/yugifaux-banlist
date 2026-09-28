@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:57:50.167Z",
+  "updatedAt": "2026-09-28T19:58:20.238Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 5,
+      "registeredCardCount": 7,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22066,6 +22066,44 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068688.jpg",
           "addedAt": "2026-09-28 19:57:34",
           "changedAt": "2026-09-28 19:57:34"
+        },
+        {
+          "id": 362,
+          "name": "Th'Underhiel Rhodii",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 11",
+          "atk": "2300",
+          "def": "2800",
+          "text": "You can Normal Summon this card without Tributing, but its ATK becomes 1900 and it is treated as a Level 6 Monster, unless it would be used for the Xyz Summon of a Rank 11 Xyz Monster. You can return this card you control to your hand; Special Summon 1 Tuner Monster (from your hand) with an original Level of 7 or higher, except \"Th'Underhiel Rhodii\", then you can Set 1 \"Th'Underhiel\" Spell Card from your Deck in this card's same or adjacent column. You can only use this effect of \"Th'Underhiel Rhodii\" once per turn.",
+          "duelingbookId": 6068690,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068690.jpg",
+          "addedAt": "2026-09-28 19:57:49",
+          "changedAt": "2026-09-28 19:57:49"
+        },
+        {
+          "id": 363,
+          "name": "Th'Underhiel Chrebull",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 11",
+          "atk": "2500",
+          "def": "2000",
+          "text": "You can Normal Summon this card without Tributing, but its ATK becomes 1900 and it is treated as a Level 6 Monster, unless it would be used for the Xyz Summon of a Rank 11 Xyz Monster. You can return this card to your hand to reveal 1 Level 7 or higher WIND Monster from your Deck; immediately after this effect resolves, Normal Summon that revealed Monster, and if you do, you can Special Summon 1 “Th’Underhiel” Monster from your hand or GY with a different name than the revealed Monster to a Main Monster Zone in the revealed Monster's adjacent column. You can only use this effect of “Th'Underhiel Chrebull” once per turn.",
+          "duelingbookId": 6068701,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068701.jpg",
+          "addedAt": "2026-09-28 19:58:05",
+          "changedAt": "2026-09-28 19:58:05"
         }
       ]
     }
