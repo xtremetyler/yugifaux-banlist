@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:36:20.118Z",
+  "updatedAt": "2026-09-28T19:36:50.233Z",
   "cards": [
     {
       "id": 384,
@@ -313,7 +313,7 @@
       "levelRankLink": "Level 1",
       "atk": "100",
       "def": "200",
-      "text": "You can discard this card; take 1 “The Maze Beyond Life” or a Monster that mentions it from your Deck and either add it to your hand or send it to the GY. You can only activate this effect of \"Aimless Ambler Beyond Life\" once per turn. You can treat this card on your field or in your GY as 2 Tributes for the Tribute Summon of a LIGHT Monster by banishing it.",
+      "text": "You can discard this card; take 1 “The Maze Beyond Life” or a Monster that mentions it from your Deck and either add it to your hand or send it to the GY. You can only activate this effect of \"Aimless Ambler Beyond Life\" once per turn. You can treat this card on your field or in your GY as 2 Tributes for the Tribute Summon of a LIGHT Monster by banishing it. If this card is in your GY: You can place 1 card from your Banishment on the bottom of the Deck; Special Summon this card, but banish it when it leaves the field.",
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
@@ -8386,7 +8386,7 @@
       "levelRankLink": "Level 7",
       "atk": "2800",
       "def": "200",
-      "text": "You can reveal this card in your hand; send 1 Level 9 or lower Zombie Monster from your Deck to the GY. You can only activate this effect of \"Rotted Rukh Beyond Life\" once per turn. (Quick Effect): You can Tribute this Tribute Summoned card you control; Special Summon up to 1 Level 9 or lower LIGHT Monster from your GY. If you Summoned a \"Beyond Life\" Monster this way, this is treated as a Tribute Summon.",
+      "text": "You can reveal this card in your hand; send 1 Level 9 or lower Zombie Monster from your Deck to the GY. You can only activate this effect of \"Rotted Rukh Beyond Life\" once per turn. (Quick Effect): You can Tribute this Tribute Summoned card you control; Special Summon up to 1 Level 9 or lower LIGHT Monster from your GY. If you Summoned a \"Beyond Life\" Monster this way, this is treated as a Tribute Summon. If any player controls a Field Spell (Quick Effect): You can return this card to your hand; Set 1 \"Beyond Life\" Spell/Trap from your Deck, and if you do, you can activate it this turn.",
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
@@ -12175,7 +12175,7 @@
           "levelRankLink": "Level 1",
           "atk": "100",
           "def": "200",
-          "text": "You can discard this card; take 1 “The Maze Beyond Life” or a Monster that mentions it from your Deck and either add it to your hand or send it to the GY. You can only activate this effect of \"Aimless Ambler Beyond Life\" once per turn. You can treat this card on your field or in your GY as 2 Tributes for the Tribute Summon of a LIGHT Monster by banishing it.",
+          "text": "You can discard this card; take 1 “The Maze Beyond Life” or a Monster that mentions it from your Deck and either add it to your hand or send it to the GY. You can only activate this effect of \"Aimless Ambler Beyond Life\" once per turn. You can treat this card on your field or in your GY as 2 Tributes for the Tribute Summon of a LIGHT Monster by banishing it. If this card is in your GY: You can place 1 card from your Banishment on the bottom of the Deck; Special Summon this card, but banish it when it leaves the field.",
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
@@ -12377,7 +12377,7 @@
           "levelRankLink": "Level 7",
           "atk": "2800",
           "def": "200",
-          "text": "You can reveal this card in your hand; send 1 Level 9 or lower Zombie Monster from your Deck to the GY. You can only activate this effect of \"Rotted Rukh Beyond Life\" once per turn. (Quick Effect): You can Tribute this Tribute Summoned card you control; Special Summon up to 1 Level 9 or lower LIGHT Monster from your GY. If you Summoned a \"Beyond Life\" Monster this way, this is treated as a Tribute Summon.",
+          "text": "You can reveal this card in your hand; send 1 Level 9 or lower Zombie Monster from your Deck to the GY. You can only activate this effect of \"Rotted Rukh Beyond Life\" once per turn. (Quick Effect): You can Tribute this Tribute Summoned card you control; Special Summon up to 1 Level 9 or lower LIGHT Monster from your GY. If you Summoned a \"Beyond Life\" Monster this way, this is treated as a Tribute Summon. If any player controls a Field Spell (Quick Effect): You can return this card to your hand; Set 1 \"Beyond Life\" Spell/Trap from your Deck, and if you do, you can activate it this turn.",
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
