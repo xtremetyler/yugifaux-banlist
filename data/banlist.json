@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:36:41.690Z",
+  "updatedAt": "2026-09-28T15:37:11.753Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21408,6 +21408,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067017.jpg",
           "addedAt": "2026-09-28 15:36:33",
           "changedAt": "2026-09-28 15:36:33"
+        },
+        {
+          "id": 345,
+          "name": "Grabbit Triple Claw",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Machine",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 7",
+          "atk": "2500",
+          "def": "2000",
+          "text": "You can Special Summon this card (from your hand) by banishing 2 “Grabbit” Spells from your GY. During your Main Phase: You can target 1 face-up monster your opponent controls in this card’s column or either adjacent column; place it face-up in your Spell & Trap Zone as a Continuous Spell. If a Monster Card you do not own is Special Summoned from your Spell & Trap Zone to your field: You can target 1 other face-up Monster Card in your Spell & Trap Zone that you do not own; Special Summon it. You can only use each effect of “Grabbit Triple Claw” once per turn.",
+          "duelingbookId": 6067019,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067019.jpg",
+          "addedAt": "2026-09-28 15:37:02",
+          "changedAt": "2026-09-28 15:37:02"
         }
       ]
     }
