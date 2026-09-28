@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T16:19:11.815Z",
+  "updatedAt": "2026-09-28T16:32:41.865Z",
   "cards": [
     {
       "id": 384,
@@ -5579,7 +5579,7 @@
     {
       "id": 594,
       "name": "Lyra, Guildmaster of the Wild Hunt",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -5594,7 +5594,7 @@
       "duelingbookId": 6066474,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066474.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:32:36"
     },
     {
       "id": 177,
@@ -11951,7 +11951,7 @@
         {
           "id": 594,
           "name": "Lyra, Guildmaster of the Wild Hunt",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -11966,7 +11966,7 @@
           "duelingbookId": 6066474,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066474.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:32:36"
         },
         {
           "id": 587,
