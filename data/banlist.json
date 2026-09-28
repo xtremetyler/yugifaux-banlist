@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T16:32:41.865Z",
+  "updatedAt": "2026-09-28T16:33:11.856Z",
   "cards": [
     {
       "id": 384,
@@ -1937,7 +1937,7 @@
     {
       "id": 592,
       "name": "Contract of the Wild Hunt",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -1951,7 +1951,7 @@
       "duelingbookId": 6066472,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066472.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:32:58"
     },
     {
       "id": 449,
@@ -7381,7 +7381,7 @@
     {
       "id": 593,
       "name": "Pitfall of the Wild Hunt",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
@@ -7395,7 +7395,7 @@
       "duelingbookId": 6066473,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066473.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:32:49"
     },
     {
       "id": 273,
@@ -11889,7 +11889,7 @@
         {
           "id": 592,
           "name": "Contract of the Wild Hunt",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -11903,7 +11903,7 @@
           "duelingbookId": 6066472,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066472.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:32:58"
         },
         {
           "id": 588,
@@ -11994,7 +11994,7 @@
         {
           "id": 593,
           "name": "Pitfall of the Wild Hunt",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Continuous",
@@ -12008,7 +12008,7 @@
           "duelingbookId": 6066473,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066473.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:32:49"
         },
         {
           "id": 584,
