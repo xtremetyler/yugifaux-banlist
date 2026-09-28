@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T20:24:11.502Z",
+  "updatedAt": "2026-09-28T20:27:41.398Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 15,
+      "registeredCardCount": 16,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22236,6 +22236,14 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071326.jpg",
           "addedAt": "2026-09-28 20:20:23",
           "changedAt": "2026-09-28 20:23:45"
+        },
+        {
+          "id": 373,
+          "name": "Mænagr of Th’Underhiel",
+          "source": "custom",
+          "text": "Rank 6 / WIND / Rock / Xyz / Effect\nATK 2300 / DEF 2700\n2 Level 6 “Th’Underhiel” monsters\n\nIf this card is Xyz Summoned: You can add 1 “Th’Underhiel” Equip Spell from your Deck to your hand.\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 “Th’Underhiel” monster you control; until the end of this turn, its original Level becomes 11, also if it is used as material for the Xyz Summon of a “Th’Underhiel” monster this turn, it can be treated as 2 materials. You can only use each effect of “Mænagr of Th’Underhiel” once per turn.",
+          "addedAt": "2026-09-28 20:27:24",
+          "changedAt": "2026-09-28 20:27:24"
         }
       ]
     }
@@ -22257,8 +22265,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 18,
-        "lifetimePoints": 285,
+        "balance": 19,
+        "lifetimePoints": 286,
         "matchWins": 18,
         "matchLosses": 23,
         "gamesWon": 57,
