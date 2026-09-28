@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:38:50.185Z",
+  "updatedAt": "2026-09-28T19:53:20.153Z",
   "cards": [
     {
       "id": 384,
@@ -21949,6 +21949,26 @@
           "changedAt": "2026-09-28 19:38:49"
         }
       ]
+    },
+    {
+      "id": 36,
+      "name": "Th'Underhiel",
+      "creator": "Left Parm of the Forbitten One",
+      "status": "active",
+      "description": "Glam Rock Giants, Musical Magic, and Androgynous Frontpersons, HEELS, Tuner Monsters too big to Synchro, and Rock 'n' Roll, baby.",
+      "submittedAt": "2026-09-28 19:53:16",
+      "activatedAt": "2026-09-28 19:53:16",
+      "declaredCardCount": 14,
+      "registeredCardCount": 0,
+      "mainTypes": 2,
+      "extraCount": 3,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 4,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -21963,8 +21983,8 @@
         "gamesWon": 108,
         "gamesLost": 69,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 36,
+        "archetypeName": "Th'Underhiel"
       },
       {
         "name": "Edward Swissorhands",
