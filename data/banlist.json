@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T17:26:23.590Z",
+  "updatedAt": "2026-09-28T18:08:53.059Z",
   "cards": [
     {
       "id": 384,
@@ -2445,7 +2445,7 @@
     {
       "id": 588,
       "name": "Donkestra, Craghide Ambusher",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Reptile",
@@ -2463,7 +2463,7 @@
       "duelingbookId": 6066468,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066468.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 18:08:41"
     },
     {
       "id": 571,
@@ -11908,7 +11908,7 @@
         {
           "id": 588,
           "name": "Donkestra, Craghide Ambusher",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Reptile",
@@ -11926,7 +11926,7 @@
           "duelingbookId": 6066468,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066468.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 18:08:41"
         },
         {
           "id": 585,
