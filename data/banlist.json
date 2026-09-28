@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:56:50.187Z",
+  "updatedAt": "2026-09-28T19:57:20.174Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 2,
+      "registeredCardCount": 4,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22009,6 +22009,44 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068682.jpg",
           "addedAt": "2026-09-28 19:56:35",
           "changedAt": "2026-09-28 19:56:35"
+        },
+        {
+          "id": 359,
+          "name": "Th'Underhiel Bryjj",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 11",
+          "atk": "2800",
+          "def": "2000",
+          "text": "You can Normal Summon this card without Tributing, but its ATK becomes 1900 and it is treated as a Level 6 Monster, unless it would be used for the Xyz Summon of a Rank 11 Xyz Monster. If another Monster with an original Level of 7 or higher is Normal or Special Summoned to your field in this card's adjacent column: You can immediately after this effect resolves, Xyz Summon 1 Rank 6 or higher Xyz Monster from your Extra Deck. Once per turn, during your Main Phase: You can destroy 1 Spell/Trap in this card's same or adjacent column, and if you do, return this card you control to your hand. You can only use each effect of \"Th'Underhiel Bryjj\" once per Chain.",
+          "duelingbookId": 6068684,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068684.jpg",
+          "addedAt": "2026-09-28 19:56:56",
+          "changedAt": "2026-09-28 19:56:56"
+        },
+        {
+          "id": 360,
+          "name": "Th'Underhiel Styxx",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 11",
+          "atk": "2400",
+          "def": "2400",
+          "text": "You can Normal Summon this card without Tributing, but its ATK becomes 1900 and it is treated as a Level 6 Monster, unless it would be used for the Xyz Summon of a Rank 11 Xyz Monster. Once per Chain (Quick Effect): You can target 1 face-up Effect Monster your opponent controls in this card's same or adjacent column; negate its activated effects until the start of the next Phase. You can only activate this effect while you control a Normal Summoned Monster and your opponent controls no Normal Summoned Monsters.",
+          "duelingbookId": 6068685,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068685.jpg",
+          "addedAt": "2026-09-28 19:57:15",
+          "changedAt": "2026-09-28 19:57:15"
         }
       ]
     }
