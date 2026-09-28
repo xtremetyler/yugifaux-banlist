@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T16:33:11.856Z",
+  "updatedAt": "2026-09-28T16:33:41.818Z",
   "cards": [
     {
       "id": 384,
@@ -956,7 +956,7 @@
     {
       "id": 589,
       "name": "Bashiten, Infernal Trickster of the Canopy",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
@@ -974,7 +974,7 @@
       "duelingbookId": 6066469,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066469.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:33:34"
     },
     {
       "id": 501,
@@ -6813,7 +6813,7 @@
     {
       "id": 587,
       "name": "Oaragoon, Blood Hive Devourer",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Insect",
@@ -6831,7 +6831,7 @@
       "duelingbookId": 6066467,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066467.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:33:39"
     },
     {
       "id": 465,
@@ -8875,7 +8875,7 @@
     {
       "id": 590,
       "name": "Skorvath, Tyrant of the Frozen Peaks",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast",
@@ -8893,7 +8893,7 @@
       "duelingbookId": 6066470,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066470.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:33:28"
     },
     {
       "id": 367,
@@ -9854,7 +9854,7 @@
     {
       "id": 591,
       "name": "The Guild Hall of The Wild Hunt",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -9868,7 +9868,7 @@
       "duelingbookId": 6066471,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066471.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-25 20:06:11"
+      "changedAt": "2026-09-28 16:33:17"
     },
     {
       "id": 577,
@@ -11866,7 +11866,7 @@
         {
           "id": 589,
           "name": "Bashiten, Infernal Trickster of the Canopy",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Winged Beast",
@@ -11884,7 +11884,7 @@
           "duelingbookId": 6066469,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066469.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:33:34"
         },
         {
           "id": 592,
@@ -11971,7 +11971,7 @@
         {
           "id": 587,
           "name": "Oaragoon, Blood Hive Devourer",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Insect",
@@ -11989,7 +11989,7 @@
           "duelingbookId": 6066467,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066467.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:33:39"
         },
         {
           "id": 593,
@@ -12053,7 +12053,7 @@
         {
           "id": 590,
           "name": "Skorvath, Tyrant of the Frozen Peaks",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Beast",
@@ -12071,12 +12071,12 @@
           "duelingbookId": 6066470,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066470.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:33:28"
         },
         {
           "id": 591,
           "name": "The Guild Hall of The Wild Hunt",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -12090,7 +12090,7 @@
           "duelingbookId": 6066471,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066471.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-25 20:06:11"
+          "changedAt": "2026-09-28 16:33:17"
         },
         {
           "id": 583,
