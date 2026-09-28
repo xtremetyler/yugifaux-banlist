@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T20:04:20.173Z",
+  "updatedAt": "2026-09-28T20:06:05.994Z",
   "cards": [
     {
       "id": 384,
@@ -12159,7 +12159,7 @@
       "finalAddedClauses": 16,
       "notes": "Guys and ghouls, welcome to the eternal Maze Beyond Life! That's right: whatever afterlife you thought you had laid out before is not where you are. Step on down, ignore the bones, and get to walkin; maybe what you seek lies at the heart of the great structure--but I doubt it. Maybe you'll make it out the other side to some glorious byeond--unlikely. Instead, stay awhile, go mad with us, enjoy the bronze that pins our souls to this impossibly hallowed place and the quartz constructions that divest us all from the greater fabric of time through magic-science-hand-wavey nonsense all at once. Oh, and don't forget to offer Tribute...It's not optional.",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 596,
       "featuredCardName": "Aimless Ambler Beyond Life",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071264.jpg",
