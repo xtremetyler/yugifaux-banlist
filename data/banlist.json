@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:43:41.735Z",
+  "updatedAt": "2026-09-28T15:45:11.724Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21514,6 +21514,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067034.jpg",
           "addedAt": "2026-09-28 15:43:32",
           "changedAt": "2026-09-28 15:43:32"
+        },
+        {
+          "id": 352,
+          "name": "Grabbit! Prize Exchange",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Tribute 1 monster you control that you do not own; draw 2 cards. You can only activate 1 “Grabbit! Prize Exchange” per turn.",
+          "duelingbookId": 6067036,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067036.jpg",
+          "addedAt": "2026-09-28 15:44:51",
+          "changedAt": "2026-09-28 15:44:51"
         }
       ]
     }
