@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:57:20.174Z",
+  "updatedAt": "2026-09-28T19:57:50.167Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22047,6 +22047,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068685.jpg",
           "addedAt": "2026-09-28 19:57:15",
           "changedAt": "2026-09-28 19:57:15"
+        },
+        {
+          "id": 361,
+          "name": "Th'Underhiel Lierykk",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 11",
+          "atk": "2600",
+          "def": "1800",
+          "text": "You can Normal Summon this card without Tributing, but its ATK becomes 1900 and it is treated as a Level 6 Monster, unless it would be used for the Xyz Summon of a Rank 11 Xyz Monster. If a Monster you control with an original Level of 7 or higher is returned to your hand, except \"Th'Underhiel Lierykk\": You can activate 1 of the following effects, based on the zone this card was in.\n● Hand: Special Summon it.\n● Field: Return 1 \"Th'Underhiel\" Spell from your field or GY to your hand.",
+          "duelingbookId": 6068688,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068688.jpg",
+          "addedAt": "2026-09-28 19:57:34",
+          "changedAt": "2026-09-28 19:57:34"
         }
       ]
     }
