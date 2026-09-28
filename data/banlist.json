@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T20:30:11.416Z",
+  "updatedAt": "2026-09-28T20:30:41.435Z",
   "cards": [
     {
       "id": 384,
@@ -54,8 +54,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046212,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046212.jpg",
+      "duelingbookId": 6071351,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071351.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -1090,8 +1090,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046189,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046189.jpg",
+      "duelingbookId": 6071348,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071348.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -1156,8 +1156,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046186,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046186.jpg",
+      "duelingbookId": 6071347,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071347.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -1221,8 +1221,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046293,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046293.jpg",
+      "duelingbookId": 6071354,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071354.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -1241,8 +1241,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046217,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046217.jpg",
+      "duelingbookId": 6071352,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071352.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -1260,8 +1260,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046191,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046191.jpg",
+      "duelingbookId": 6071349,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071349.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -1280,8 +1280,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046225,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046225.jpg",
+      "duelingbookId": 6071353,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071353.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -1299,8 +1299,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046301,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046301.jpg",
+      "duelingbookId": 6071355,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071355.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -2948,8 +2948,8 @@
       "archetype": "Berdz",
       "archetypeId": 32,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6046209,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046209.jpg",
+      "duelingbookId": 6071350,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071350.jpg",
       "addedAt": "2026-09-28 20:28:59",
       "changedAt": "2026-09-28 20:28:59"
     },
@@ -12431,7 +12431,7 @@
       "cardListComplete": false,
       "featuredCardId": 617,
       "featuredCardName": "A Little Berdie Told Me",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046212.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071351.jpg",
       "cards": [
         {
           "id": 617,
@@ -12447,8 +12447,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046212,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046212.jpg",
+          "duelingbookId": 6071351,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071351.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         },
@@ -12469,8 +12469,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046189,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046189.jpg",
+          "duelingbookId": 6071348,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071348.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         },
@@ -12535,8 +12535,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046186,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046186.jpg",
+          "duelingbookId": 6071347,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071347.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         },
@@ -12600,8 +12600,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046293,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046293.jpg",
+          "duelingbookId": 6071354,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071354.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         },
@@ -12620,8 +12620,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046217,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046217.jpg",
+          "duelingbookId": 6071352,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071352.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         },
@@ -12639,8 +12639,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046191,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046191.jpg",
+          "duelingbookId": 6071349,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071349.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         },
@@ -12659,8 +12659,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046225,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046225.jpg",
+          "duelingbookId": 6071353,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071353.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         },
@@ -12678,8 +12678,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046301,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046301.jpg",
+          "duelingbookId": 6071355,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071355.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         },
@@ -12697,8 +12697,8 @@
           "archetype": "Berdz",
           "archetypeId": 32,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6046209,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046209.jpg",
+          "duelingbookId": 6071350,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071350.jpg",
           "addedAt": "2026-09-28 20:28:59",
           "changedAt": "2026-09-28 20:28:59"
         }
