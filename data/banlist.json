@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T20:00:20.174Z",
+  "updatedAt": "2026-09-28T20:00:50.213Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 12,
+      "registeredCardCount": 14,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22183,6 +22183,44 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068700.jpg",
           "addedAt": "2026-09-28 20:00:08",
           "changedAt": "2026-09-28 20:00:08"
+        },
+        {
+          "id": 369,
+          "name": "Gaudfothrr of Th'Underhiel",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Rank 11",
+          "atk": "2900",
+          "def": "3000",
+          "text": "2 Level 11 Monsters with different names\nOnce per turn, during your Main Phase: You can detach 1 material from this card to choose 1 of this card's adjacent columns; destroy any number of cards in the chosen column. Once per turn (Quick Effect): You can make each face-up \"Th'Underhiel\" Monster you control unaffected by your opponent's Spell Cards and effects until the end of this turn, and if you do, detach 1 Rock Monster from this card. A Rock Monster must be attached to this card as Material to activate this effect. You can only use each effect of \"Gaudfothrr of Th'Underhiel\" once per Chain.",
+          "duelingbookId": 6068696,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068696.jpg",
+          "addedAt": "2026-09-28 20:00:26",
+          "changedAt": "2026-09-28 20:00:26"
+        },
+        {
+          "id": 370,
+          "name": "Qalosiss of Th'Underhiel",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Rank 11",
+          "atk": "2900",
+          "def": "3100",
+          "text": "2 Level 11 Monsters with different names\nOnce per turn, during your Main Phase: You can detach 1 material from this card; you can conduct 1 additional Normal Summon during this turn in addition to your Normal Summon/Set. Once per turn (Quick Effect): You can make each face-up \"Th'Underhiel\" Monster you control unaffected by your opponent's Monster effects until the end of this turn, except Normal Summoned Monsters they control, and if you do, detach 1 WIND Monster from this card. A WIND Monster must be attached to this card as Material to activate this effect. You can only use each effect of \"Qalossis of Th'Underhiel\" once per Chain.",
+          "duelingbookId": 6068695,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068695.jpg",
+          "addedAt": "2026-09-28 20:00:43",
+          "changedAt": "2026-09-28 20:00:43"
         }
       ]
     }
