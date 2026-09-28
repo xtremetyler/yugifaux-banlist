@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:38:21.186Z",
+  "updatedAt": "2026-09-28T19:38:50.185Z",
   "cards": [
     {
       "id": 384,
@@ -4811,8 +4811,8 @@
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6022684,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022684.jpg",
+      "duelingbookId": 6071280,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071280.jpg",
       "addedAt": "2026-09-28 19:36:18",
       "changedAt": "2026-09-28 19:36:18"
     },
@@ -12280,8 +12280,8 @@
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6022684,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022684.jpg",
+          "duelingbookId": 6071280,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071280.jpg",
           "addedAt": "2026-09-28 19:36:18",
           "changedAt": "2026-09-28 19:36:18"
         },
@@ -21706,8 +21706,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 4,
-      "totalClauses": 49,
+      "addedClauses": 6,
+      "totalClauses": 51,
       "retirementsSeen": 1,
       "retirementThreshold": 4,
       "retirementRequired": false,
@@ -21946,7 +21946,7 @@
           "duelingbookId": 6067053,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067053.jpg",
           "addedAt": "2026-09-28 15:48:04",
-          "changedAt": "2026-09-28 15:48:04"
+          "changedAt": "2026-09-28 19:38:49"
         }
       ]
     }
