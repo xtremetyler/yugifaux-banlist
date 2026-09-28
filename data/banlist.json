@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:56:20.182Z",
+  "updatedAt": "2026-09-28T19:56:50.187Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -21990,6 +21990,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068679.jpg",
           "addedAt": "2026-09-28 19:56:15",
           "changedAt": "2026-09-28 19:56:15"
+        },
+        {
+          "id": 358,
+          "name": "Th'Underhiel Kordd",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 11",
+          "atk": "2700",
+          "def": "2400",
+          "text": "You can Normal Summon this card without Tributing, but its ATK becomes 1900 and it is treated as a Level 6 Monster, unless it would be used for the Xyz Summon of a Rank 11 Xyz Monster. If this card is Normal or Special Summoned: You can conduct 1 additional Normal Summon during this turn in addition to your Normal Summon/Set. You can target 1 card in this card's same or adjacent column to return this card you control to your hand; destroy that target. You can only use each effect of “Th'Underhiel Kordd” once per turn.",
+          "duelingbookId": 6068682,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068682.jpg",
+          "addedAt": "2026-09-28 19:56:35",
+          "changedAt": "2026-09-28 19:56:35"
         }
       ]
     }
