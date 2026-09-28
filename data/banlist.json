@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T18:16:23.051Z",
+  "updatedAt": "2026-09-28T18:18:53.095Z",
   "cards": [
     {
       "id": 384,
@@ -21087,8 +21087,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 10,
-      "totalClauses": 55,
+      "addedClauses": 12,
+      "totalClauses": 57,
       "retirementsSeen": 1,
       "retirementThreshold": 4,
       "retirementRequired": false,
@@ -21331,11 +21331,11 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "This card cannot be placed or activated without first being Set, and you can only activate this Set card by sending 1 Level 5 or higher LIGHT Monster from your Deck to the GY. When your opponent activates a Spell Card or effect that targets another face-up card(s) you control: You can negate it, and if you do, destroy both that card and this card. During your Main Phase 1, while this card is in the GY and you control \"Quartz-Coat Queen Beyond Life\": You can Set this card.",
+          "text": "This card cannot be placed or activated without first being Set, and you can only activate this Set card by sending 1 Level 5 or higher LIGHT Monster from your Deck to the GY. If you Tribute Summoned a Monster this turn, you can activate this card the same turn it was Set. When your opponent activates a Spell Card or effect that targets another face-up card(s) you control: You can negate it, and if you do, destroy both that card and this card. During your Main Phase 1, while this card is in the GY and you control \"Quartz-Coat Queen Beyond Life\": You can Set this card.",
           "duelingbookId": 6022684,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022684.jpg",
           "addedAt": "2026-09-24 01:42:42",
-          "changedAt": "2026-09-24 01:42:42"
+          "changedAt": "2026-09-28 18:18:24"
         }
       ]
     },
