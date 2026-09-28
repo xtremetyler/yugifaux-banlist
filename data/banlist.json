@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:53:20.153Z",
+  "updatedAt": "2026-09-28T19:56:20.182Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -21968,7 +21968,30 @@
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 357,
+      "featuredCardName": "Th'Underhiel Sygryff",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068679.jpg",
+      "cards": [
+        {
+          "id": 357,
+          "name": "Th'Underhiel Sygryff",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 11",
+          "atk": "2700",
+          "def": "2200",
+          "text": "You can Normal Summon this card without Tributing, but its ATK becomes 1900 and it is treated as a Level 6 Monster, unless it would be used for the Xyz Summon of a Rank 11 Xyz Monster. If this card is Normal or Special Summoned: You can Set 1 \"Th'Underhiel\" Spell from your Deck or GY. During the Main Phase (Quick Effect): You can return this card you control and 1 card you own in this card's adjacent column to the hand; Special Summon 1 \"Th'Underhiel\" Xyz Monster from your Extra Deck, attaching up to 1 card each from your hand and GY to it as Material. You can only activate each effect of \"Th'Underhiel Sygryff\" once per Chain.",
+          "duelingbookId": 6068679,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068679.jpg",
+          "addedAt": "2026-09-28 19:56:15",
+          "changedAt": "2026-09-28 19:56:15"
+        }
+      ]
     }
   ],
   "dashboard": {
