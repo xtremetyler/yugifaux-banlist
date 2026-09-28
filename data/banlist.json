@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:38:11.686Z",
+  "updatedAt": "2026-09-28T15:38:41.788Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21439,6 +21439,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067024.jpg",
           "addedAt": "2026-09-28 15:37:42",
           "changedAt": "2026-09-28 15:37:42"
+        },
+        {
+          "id": 347,
+          "name": "Grabbit! Insert Coin",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Add 1 “Grabbit” monster from your Deck to your hand, then, if you control “Grabbit Arcade!”, you can Special Summon 1 “Grabbit” monster from your hand. You can only activate 1 “Grabbit! Insert Coin” per turn.",
+          "duelingbookId": 6067028,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067028.jpg",
+          "addedAt": "2026-09-28 15:38:32",
+          "changedAt": "2026-09-28 15:38:32"
         }
       ]
     }
