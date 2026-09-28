@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:37:20.151Z",
+  "updatedAt": "2026-09-28T19:37:50.143Z",
   "cards": [
     {
       "id": 384,
@@ -317,8 +317,8 @@
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6020363,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020363.jpg",
+      "duelingbookId": 6071264,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071264.jpg",
       "addedAt": "2026-09-28 19:36:18",
       "changedAt": "2026-09-28 19:36:18"
     },
@@ -2050,8 +2050,8 @@
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6022638,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022638.jpg",
+      "duelingbookId": 6071267,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071267.jpg",
       "addedAt": "2026-09-28 19:36:18",
       "changedAt": "2026-09-28 19:36:18"
     },
@@ -7590,7 +7590,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "This card cannot be placed or activated without first being Set, and you can only activate this Set card by sending 1 Level 5 or higher LIGHT Monster from your Deck to the GY. While you are Tribute Summoning a LIGHT Monster, you can use this face-up card as 1 Tribute. When your opponent activates a Spell Card or effect that targets a face-up card(s) you control, while this card is in your GY and you control \"Bronze-Bound Baron Beyond Life\": You can negate it, and if you do, banish both that card and this card.",
+      "text": "This card cannot be placed or activated without first being Set, and you can only activate this Set card by sending 1 Level 5 or higher LIGHT Monster from your Deck to the GY. If you Tribute Summoned a Monster this turn, you can activate this card the same turn it was Set. While you are Tribute Summoning a LIGHT Monster, you can use this face-up card as 1 Tribute, and if you do, you can send 1 \"Bronze-Bound Baron Beyond Life\" from your Deck to your GY. When your opponent activates a Spell Card or effect that targets a face-up card(s) you control, while this card is in your GY and you control \"Bronze-Bound Baron Beyond Life\": You can negate it, and if you do, banish both that card and this card.",
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
@@ -9109,8 +9109,8 @@
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6022636,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022636.jpg",
+      "duelingbookId": 6071266,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071266.jpg",
       "addedAt": "2026-09-28 19:36:18",
       "changedAt": "2026-09-28 19:36:18"
     },
@@ -10243,8 +10243,8 @@
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6020360,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020360.jpg",
+      "duelingbookId": 6071263,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071263.jpg",
       "addedAt": "2026-09-28 19:36:18",
       "changedAt": "2026-09-28 19:36:18"
     },
@@ -10946,8 +10946,8 @@
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6020366,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020366.jpg",
+      "duelingbookId": 6071265,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071265.jpg",
       "addedAt": "2026-09-28 19:36:18",
       "changedAt": "2026-09-28 19:36:18"
     },
@@ -12162,7 +12162,7 @@
       "cardListComplete": false,
       "featuredCardId": 596,
       "featuredCardName": "Aimless Ambler Beyond Life",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020363.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071264.jpg",
       "cards": [
         {
           "id": 596,
@@ -12179,8 +12179,8 @@
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6020363,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020363.jpg",
+          "duelingbookId": 6071264,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071264.jpg",
           "addedAt": "2026-09-28 19:36:18",
           "changedAt": "2026-09-28 19:36:18"
         },
@@ -12241,8 +12241,8 @@
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6022638,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022638.jpg",
+          "duelingbookId": 6071267,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071267.jpg",
           "addedAt": "2026-09-28 19:36:18",
           "changedAt": "2026-09-28 19:36:18"
         },
@@ -12315,7 +12315,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "This card cannot be placed or activated without first being Set, and you can only activate this Set card by sending 1 Level 5 or higher LIGHT Monster from your Deck to the GY. While you are Tribute Summoning a LIGHT Monster, you can use this face-up card as 1 Tribute. When your opponent activates a Spell Card or effect that targets a face-up card(s) you control, while this card is in your GY and you control \"Bronze-Bound Baron Beyond Life\": You can negate it, and if you do, banish both that card and this card.",
+          "text": "This card cannot be placed or activated without first being Set, and you can only activate this Set card by sending 1 Level 5 or higher LIGHT Monster from your Deck to the GY. If you Tribute Summoned a Monster this turn, you can activate this card the same turn it was Set. While you are Tribute Summoning a LIGHT Monster, you can use this face-up card as 1 Tribute, and if you do, you can send 1 \"Bronze-Bound Baron Beyond Life\" from your Deck to your GY. When your opponent activates a Spell Card or effect that targets a face-up card(s) you control, while this card is in your GY and you control \"Bronze-Bound Baron Beyond Life\": You can negate it, and if you do, banish both that card and this card.",
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
@@ -12401,8 +12401,8 @@
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6022636,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6022636.jpg",
+          "duelingbookId": 6071266,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071266.jpg",
           "addedAt": "2026-09-28 19:36:18",
           "changedAt": "2026-09-28 19:36:18"
         },
@@ -12420,8 +12420,8 @@
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6020360,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020360.jpg",
+          "duelingbookId": 6071263,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071263.jpg",
           "addedAt": "2026-09-28 19:36:18",
           "changedAt": "2026-09-28 19:36:18"
         },
@@ -12440,8 +12440,8 @@
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6020366,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6020366.jpg",
+          "duelingbookId": 6071265,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071265.jpg",
           "addedAt": "2026-09-28 19:36:18",
           "changedAt": "2026-09-28 19:36:18"
         },
