@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T15:38:41.788Z",
+  "updatedAt": "2026-09-28T15:40:12.089Z",
   "cards": [
     {
       "id": 384,
@@ -21348,7 +21348,7 @@
       "submittedAt": "2026-09-28 15:31:47",
       "activatedAt": "2026-09-28 15:31:47",
       "declaredCardCount": 15,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -21454,6 +21454,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067028.jpg",
           "addedAt": "2026-09-28 15:38:32",
           "changedAt": "2026-09-28 15:38:32"
+        },
+        {
+          "id": 348,
+          "name": "Grabbit! Joystick",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 “Grabbit” monster you control; move it to another of your unoccupied Main Monster Zones, then, if your opponent controls a face-up monster in its column, negate that monster’s effects until the end of this turn. You can only activate 1 “Grabbit! Joystick” per turn.",
+          "duelingbookId": 6067030,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067030.jpg",
+          "addedAt": "2026-09-28 15:39:43",
+          "changedAt": "2026-09-28 15:39:43"
         }
       ]
     }
