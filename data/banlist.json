@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T20:06:05.994Z",
+  "updatedAt": "2026-09-28T20:20:35.968Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 14,
+      "registeredCardCount": 15,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22221,6 +22221,14 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068695.jpg",
           "addedAt": "2026-09-28 20:00:43",
           "changedAt": "2026-09-28 20:00:43"
+        },
+        {
+          "id": 371,
+          "name": "Th'Underhiel Explosive Set",
+          "source": "custom",
+          "text": "Equip only to a face-down Monster or a Monster with an original Level of 7 or higher. The equipped Monster gains 1000 DEF and is changed to Defense Position. The equipped Monster gains each of the following effects.\n● This card can attack directly while in face-up Defense Position (apply its DEF for damage calculation). \n● After this card attacks: Flip it to face-down Defense Position.\n● FLIP: You can destroy 1 face-up card equipped to this card; banish 1 random card your opponent controls, and if you do, draw 1 card.",
+          "addedAt": "2026-09-28 20:20:23",
+          "changedAt": "2026-09-28 20:20:23"
         }
       ]
     }
@@ -22254,8 +22262,8 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 37,
-        "lifetimePoints": 174,
+        "balance": 38,
+        "lifetimePoints": 175,
         "matchWins": 16,
         "matchLosses": 16,
         "gamesWon": 40,
