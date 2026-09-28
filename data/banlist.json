@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:59:50.209Z",
+  "updatedAt": "2026-09-28T20:00:20.174Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22164,6 +22164,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068711.jpg",
           "addedAt": "2026-09-28 19:59:33",
           "changedAt": "2026-09-28 19:59:33"
+        },
+        {
+          "id": 368,
+          "name": "Fienaumm of Th'Underhiel",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Rock",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Rank 11",
+          "atk": "2900",
+          "def": "2900",
+          "text": "2 Level 11 Monsters with different names\nOnce per turn, during your Main Phase: You can detach 1 material from this card; attach up to 2 Spells with different names from either GY and/or this card's adjacent column(s) to it as Material. Once per turn (Quick Effect): You can make each face-up \"Th'Underhiel\" Monster you control unaffected by the effects of Trap Cards and effects until the end of this turn, and if you do, detach 1 Tuner Monster from this card. A Tuner Monster must be attached to this card as Material to activate this effect. You can only use each effect of \"Fienaumm of Th'Underhiel\" once per Chain.",
+          "duelingbookId": 6068700,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068700.jpg",
+          "addedAt": "2026-09-28 20:00:08",
+          "changedAt": "2026-09-28 20:00:08"
         }
       ]
     }
