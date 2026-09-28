@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:58:20.238Z",
+  "updatedAt": "2026-09-28T19:58:50.167Z",
   "cards": [
     {
       "id": 384,
@@ -21959,7 +21959,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22104,6 +22104,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068701.jpg",
           "addedAt": "2026-09-28 19:58:05",
           "changedAt": "2026-09-28 19:58:05"
+        },
+        {
+          "id": 364,
+          "name": "Th'Underhiel Opening Number",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Reveal 2 Level 7 or higher WIND Monsters from your Deck with the same Type and/or Level but different names; immediately after this effect resolves, Normal Summon 1 of the revealed Monsters, and if you do, add 1 other of the revealed Monsters to your hand. If this card on the field is destroyed: Add it to your hand. For the rest of this turn after either of this card's effects resolves, you cannot activate \"Th'Underhiel Opening Number\" and you cannot Special Summon Monsters from the Extra Deck, except Rock Monsters.",
+          "duelingbookId": 6068705,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068705.jpg",
+          "addedAt": "2026-09-28 19:58:38",
+          "changedAt": "2026-09-28 19:58:38"
         }
       ]
     }
