@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-28T19:36:50.233Z",
+  "updatedAt": "2026-09-28T19:37:20.151Z",
   "cards": [
     {
       "id": 384,
@@ -3239,7 +3239,7 @@
       "levelRankLink": "Level 8",
       "atk": "2900",
       "def": "200",
-      "text": "While you control this face-up Tribute Summoned card, this card gains each of the following effects.\n● During the Standby Phase: You can Special Summon 1 \"Lost Soul Beyond Life Token\" (Zombie/LIGHT/Level 2/200/200) to either field.\n● Once per turn (Quick Effect): You can activate 1 Field Spell from your hand or GY.",
+      "text": "This Tribute Summoned card can attack your opponent directly. Once per turn, while you control this Tribute Summoned card (Quick Effect): You can activate 1 Field Spell from your hand or GY. If this card in your GY would be banished by a card effect, you can Tribute Summon it instead by Tributing Monsters from your hand and/or field. While you control this face-up Tribute Summoned card, it gains each of the following effects.\n● During the Standby Phase: You can Special Summon 1 \"Lost Soul Beyond Life Token\" (Zombie/LIGHT/Level 2/200/200) to either field.\n● During the End Phase: You can Tribute Summon 1 Level 9 or higher LIGHT Zombie Monster from your hand or GY, using this card as the entire Tribute.",
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
@@ -7884,7 +7884,7 @@
       "levelRankLink": "Level 10",
       "atk": "3300",
       "def": "200",
-      "text": "This card requires 3 Tributes to be Tribute Summoned/Set. If this card is Tribute Summoned: You can send 1 \"Beyond Life\" Monster from your Deck to the GY; add all cards used as Tribute for its Summon from your GY and/or Banishment to your hand. Tribute Summoned Monsters you control cannot be destroyed by battle or card effect during the turn they were Summoned. During your Main Phase 1, while this card is in the GY and you control “The Maze Beyond Life”: You can Set 1 Trap Card from your GY or Banishment that mentions the name of a Field Spell. You can only use this effect of \"Quartz-Coat Queen Beyond Life\" once per turn.",
+      "text": "This card requires 3 Tributes to be Tribute Summoned/Set. If this card is Tribute Summoned: You can send 1 \"Beyond Life\" Monster from your Deck to the GY; add all cards used as Tribute for its Summon from your GY and/or Banishment to your hand. Tribute Summoned Monsters you control cannot be destroyed by battle or card effect during the turn they were Summoned. During each End Phase: Change this face-up card's battle position, and if you do, inflict damage to your opponent equal to half of this card's ATK, rounded up. During your Main Phase 1, while this card is in the GY and you control “The Maze Beyond Life”: You can Set 1 Trap Card from your GY or Banishment that mentions the name of a Field Spell. You can only use this effect of \"Quartz-Coat Queen Beyond Life\" once per turn.",
       "archetype": "Beyond Life",
       "archetypeId": 34,
       "contributor": "Left Parm of the Forbitten One",
@@ -12257,7 +12257,7 @@
           "levelRankLink": "Level 8",
           "atk": "2900",
           "def": "200",
-          "text": "While you control this face-up Tribute Summoned card, this card gains each of the following effects.\n● During the Standby Phase: You can Special Summon 1 \"Lost Soul Beyond Life Token\" (Zombie/LIGHT/Level 2/200/200) to either field.\n● Once per turn (Quick Effect): You can activate 1 Field Spell from your hand or GY.",
+          "text": "This Tribute Summoned card can attack your opponent directly. Once per turn, while you control this Tribute Summoned card (Quick Effect): You can activate 1 Field Spell from your hand or GY. If this card in your GY would be banished by a card effect, you can Tribute Summon it instead by Tributing Monsters from your hand and/or field. While you control this face-up Tribute Summoned card, it gains each of the following effects.\n● During the Standby Phase: You can Special Summon 1 \"Lost Soul Beyond Life Token\" (Zombie/LIGHT/Level 2/200/200) to either field.\n● During the End Phase: You can Tribute Summon 1 Level 9 or higher LIGHT Zombie Monster from your hand or GY, using this card as the entire Tribute.",
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
@@ -12357,7 +12357,7 @@
           "levelRankLink": "Level 10",
           "atk": "3300",
           "def": "200",
-          "text": "This card requires 3 Tributes to be Tribute Summoned/Set. If this card is Tribute Summoned: You can send 1 \"Beyond Life\" Monster from your Deck to the GY; add all cards used as Tribute for its Summon from your GY and/or Banishment to your hand. Tribute Summoned Monsters you control cannot be destroyed by battle or card effect during the turn they were Summoned. During your Main Phase 1, while this card is in the GY and you control “The Maze Beyond Life”: You can Set 1 Trap Card from your GY or Banishment that mentions the name of a Field Spell. You can only use this effect of \"Quartz-Coat Queen Beyond Life\" once per turn.",
+          "text": "This card requires 3 Tributes to be Tribute Summoned/Set. If this card is Tribute Summoned: You can send 1 \"Beyond Life\" Monster from your Deck to the GY; add all cards used as Tribute for its Summon from your GY and/or Banishment to your hand. Tribute Summoned Monsters you control cannot be destroyed by battle or card effect during the turn they were Summoned. During each End Phase: Change this face-up card's battle position, and if you do, inflict damage to your opponent equal to half of this card's ATK, rounded up. During your Main Phase 1, while this card is in the GY and you control “The Maze Beyond Life”: You can Set 1 Trap Card from your GY or Banishment that mentions the name of a Field Spell. You can only use this effect of \"Quartz-Coat Queen Beyond Life\" once per turn.",
           "archetype": "Beyond Life",
           "archetypeId": 34,
           "contributor": "Left Parm of the Forbitten One",
