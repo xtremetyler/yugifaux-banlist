@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:59:52.492Z",
+  "updatedAt": "2026-09-29T16:59:58.281Z",
   "cards": [
     {
       "id": 384,
@@ -12423,7 +12423,7 @@
       "name": "Berdz",
       "creator": "The Original Rough Cheddar",
       "creatorId": "239180417876361217",
-      "destination": "duelhalla",
+      "destination": "ephtear",
       "retiredAt": "2026-09-28 20:28:59",
       "finalAddedClauses": 8,
       "notes": "",
