@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:23:09.916Z",
+  "updatedAt": "2026-09-29T16:23:39.926Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22622,6 +22622,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070970.jpg",
           "addedAt": "2026-09-29 16:22:45",
           "changedAt": "2026-09-29 16:22:45"
+        },
+        {
+          "id": 377,
+          "name": "Afterthought - The Lost",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Psychic",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 3",
+          "atk": "0",
+          "def": "1400",
+          "text": "If you control \"A World Without\": You can banish 1 card from your hand or GY, except \"Afterthought - The Lost\"; Special Summon this card (from your GY). While this card is in your Banishment (Quick Effect): Send this card to your GY; excavate the top card of your Deck and activate up to 1 Spell Card excavated this way, then send the rest to the GY. You can only activate this effect of \"Afterthought - The Lost\" once per turn.",
+          "duelingbookId": 6070995,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070995.jpg",
+          "addedAt": "2026-09-29 16:23:11",
+          "changedAt": "2026-09-29 16:23:11"
         }
       ]
     }
