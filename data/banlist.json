@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:23:39.926Z",
+  "updatedAt": "2026-09-29T16:24:39.950Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22641,6 +22641,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070995.jpg",
           "addedAt": "2026-09-29 16:23:11",
           "changedAt": "2026-09-29 16:23:11"
+        },
+        {
+          "id": 378,
+          "name": "A World Without",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once per Duel, during your Main Phase, while this card is in your GY: You can activate it. You cannot Summon/Set monsters from your hand, activate Spell Cards from your hand, or Set Spell Cards from your hand. Cards leaving your field, except by being banished, are banished instead. While you control this face-up card, you can activate \"Afterthought\" Spell Cards from your GY as if they were Set by banishing 1 other card from your hand, field, or GY.",
+          "duelingbookId": 6070947,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070947.jpg",
+          "addedAt": "2026-09-29 16:24:25",
+          "changedAt": "2026-09-29 16:24:25"
         }
       ]
     }
