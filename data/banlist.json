@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:37:10.667Z",
+  "updatedAt": "2026-09-29T16:38:09.932Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22776,6 +22776,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071046.jpg",
           "addedAt": "2026-09-29 16:37:03",
           "changedAt": "2026-09-29 16:37:03"
+        },
+        {
+          "id": 387,
+          "name": "Afterthought - The Regret",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Psychic",
+          "attribute": "DARK",
+          "levelRankLink": "Link 1",
+          "atk": "1000",
+          "linkMarkers": [
+            "Bottom"
+          ],
+          "text": "1 \"Afterthought\" Monster Card\nDuring your Main Phase: You can excavate the top 2 cards of your Deck, and if you do, add 1 excavated \"Afterthought\" card, then send the rest to the GY. During the turn, except during damage calculation (Quick Effect): You can send the top card of your Deck to the GY. You can only activate each effect of \"Afterthought - The Regret\" once per turn.",
+          "duelingbookId": 6071054,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071054.jpg",
+          "addedAt": "2026-09-29 16:38:05",
+          "changedAt": "2026-09-29 16:38:05"
         }
       ]
     }
