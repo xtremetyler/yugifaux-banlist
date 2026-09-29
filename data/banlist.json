@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:33:39.998Z",
+  "updatedAt": "2026-09-29T16:35:39.924Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22731,6 +22731,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071035.jpg",
           "addedAt": "2026-09-29 16:33:14",
           "changedAt": "2026-09-29 16:33:14"
+        },
+        {
+          "id": 384,
+          "name": "Afterthought - At All Costs",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Until the end of this turn, \"Afterthought\" cards you control cannot be destroyed or banished by your opponent's card effects. If this card is banished: Draw 1 card, and if you do, discard 1 card. You can only activate 1 \"Afterthought - At All Costs\" per turn.",
+          "duelingbookId": 6071045,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071045.jpg",
+          "addedAt": "2026-09-29 16:35:19",
+          "changedAt": "2026-09-29 16:35:19"
         }
       ]
     }
