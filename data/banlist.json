@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:24:39.950Z",
+  "updatedAt": "2026-09-29T16:28:39.926Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22656,6 +22656,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070947.jpg",
           "addedAt": "2026-09-29 16:24:25",
           "changedAt": "2026-09-29 16:24:25"
+        },
+        {
+          "id": 379,
+          "name": "Afterthought - First Steps",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Excavate the top 3 cards of your Deck, and if you do, add 1 excavated \"Afterthought\" Spell Card or 1 excavated \"A World Without\" to your hand, then place the rest on the bottom of your Deck. If no cards were added to your hand by this effect, banish the rest instead. If this card was activated from the GY, excavate the top 5 cards of your Deck instead.",
+          "duelingbookId": 6071016,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071016.jpg",
+          "addedAt": "2026-09-29 16:28:28",
+          "changedAt": "2026-09-29 16:28:28"
         }
       ]
     }
