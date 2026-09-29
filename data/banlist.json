@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:36:09.917Z",
+  "updatedAt": "2026-09-29T16:37:10.667Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22761,6 +22761,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072506.jpg",
           "addedAt": "2026-09-29 16:35:52",
           "changedAt": "2026-09-29 16:35:52"
+        },
+        {
+          "id": 386,
+          "name": "Afterthought — On Second Thought",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When your opponent activates the effect of a monster or Spell Card: You can place 3 cards from your Banishment on the bottom of your Deck to target 1 face-up card they control; negate that target's effects until the end of this Phase.",
+          "duelingbookId": 6071046,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071046.jpg",
+          "addedAt": "2026-09-29 16:37:03",
+          "changedAt": "2026-09-29 16:37:03"
         }
       ]
     }
