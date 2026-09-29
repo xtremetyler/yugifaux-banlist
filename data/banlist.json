@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T18:15:41.014Z",
+  "updatedAt": "2026-09-29T18:16:10.994Z",
   "cards": [
     {
       "id": 384,
@@ -2288,7 +2288,7 @@
     {
       "id": 599,
       "name": "Corroded Conqueror Beyond Life",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -2303,7 +2303,7 @@
       "duelingbookId": 6071267,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071267.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:15:40"
     },
     {
       "id": 26,
@@ -3500,7 +3500,7 @@
     {
       "id": 603,
       "name": "Forgotten Force Beyond Life",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Thunder",
@@ -3515,7 +3515,7 @@
       "duelingbookId": 6071272,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071272.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:16:05"
     },
     {
       "id": 277,
@@ -5455,7 +5455,7 @@
     {
       "id": 601,
       "name": "Insolent Imp Beyond Life",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -5470,7 +5470,7 @@
       "duelingbookId": 6071270,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071270.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:15:56"
     },
     {
       "id": 46,
@@ -8664,7 +8664,7 @@
     {
       "id": 602,
       "name": "Rotted Rukh Beyond Life",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Winged Beast",
@@ -8679,7 +8679,7 @@
       "duelingbookId": 6071271,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071271.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:15:59"
     },
     {
       "id": 584,
@@ -12146,7 +12146,7 @@
     {
       "id": 600,
       "name": "Withered Wand Beyond Life",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -12161,7 +12161,7 @@
       "duelingbookId": 6071268,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071268.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:15:47"
     },
     {
       "id": 365,
@@ -12801,7 +12801,7 @@
         {
           "id": 599,
           "name": "Corroded Conqueror Beyond Life",
-          "status": "voting",
+          "status": "banned",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -12816,12 +12816,12 @@
           "duelingbookId": 6071267,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071267.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:15:40"
         },
         {
           "id": 603,
           "name": "Forgotten Force Beyond Life",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Thunder",
@@ -12836,7 +12836,7 @@
           "duelingbookId": 6071272,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071272.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:16:05"
         },
         {
           "id": 609,
@@ -12860,7 +12860,7 @@
         {
           "id": 601,
           "name": "Insolent Imp Beyond Life",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Fiend",
@@ -12875,7 +12875,7 @@
           "duelingbookId": 6071270,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071270.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:15:56"
         },
         {
           "id": 608,
@@ -12941,7 +12941,7 @@
         {
           "id": 602,
           "name": "Rotted Rukh Beyond Life",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Winged Beast",
@@ -12956,7 +12956,7 @@
           "duelingbookId": 6071271,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071271.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:15:59"
         },
         {
           "id": 598,
@@ -13020,7 +13020,7 @@
         {
           "id": 600,
           "name": "Withered Wand Beyond Life",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Spellcaster",
@@ -13035,7 +13035,7 @@
           "duelingbookId": 6071268,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071268.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:15:47"
         }
       ]
     },
