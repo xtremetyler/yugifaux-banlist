@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T18:14:41.084Z",
+  "updatedAt": "2026-09-29T18:15:41.014Z",
   "cards": [
     {
       "id": 384,
@@ -324,7 +324,7 @@
     {
       "id": 596,
       "name": "Aimless Ambler Beyond Life",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
@@ -339,7 +339,7 @@
       "duelingbookId": 6071264,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071264.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:15:21"
     },
     {
       "id": 532,
@@ -9383,7 +9383,7 @@
     {
       "id": 598,
       "name": "Skeletal Saurus Beyond Life",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Dinosaur",
@@ -9398,7 +9398,7 @@
       "duelingbookId": 6071266,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071266.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:15:34"
     },
     {
       "id": 590,
@@ -10518,7 +10518,7 @@
     {
       "id": 595,
       "name": "The Maze Beyond Life",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -10532,7 +10532,7 @@
       "duelingbookId": 6071263,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071263.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:15:16"
     },
     {
       "id": 242,
@@ -11220,7 +11220,7 @@
     {
       "id": 597,
       "name": "Umbral Undying Beyond Life",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
@@ -11235,7 +11235,7 @@
       "duelingbookId": 6071265,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071265.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:15:31"
     },
     {
       "id": 62,
@@ -12739,7 +12739,7 @@
         {
           "id": 596,
           "name": "Aimless Ambler Beyond Life",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Zombie",
@@ -12754,7 +12754,7 @@
           "duelingbookId": 6071264,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071264.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:15:21"
         },
         {
           "id": 606,
@@ -12961,7 +12961,7 @@
         {
           "id": 598,
           "name": "Skeletal Saurus Beyond Life",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Dinosaur",
@@ -12976,12 +12976,12 @@
           "duelingbookId": 6071266,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071266.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:15:34"
         },
         {
           "id": 595,
           "name": "The Maze Beyond Life",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -12995,12 +12995,12 @@
           "duelingbookId": 6071263,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071263.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:15:16"
         },
         {
           "id": 597,
           "name": "Umbral Undying Beyond Life",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Zombie",
@@ -13015,7 +13015,7 @@
           "duelingbookId": 6071265,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071265.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:15:31"
         },
         {
           "id": 600,
