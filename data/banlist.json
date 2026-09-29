@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T18:17:41.092Z",
+  "updatedAt": "2026-09-29T18:25:41.025Z",
   "cards": [
     {
       "id": 384,
@@ -9383,7 +9383,7 @@
     {
       "id": 598,
       "name": "Skeletal Saurus Beyond Life",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Dinosaur",
@@ -9398,7 +9398,7 @@
       "duelingbookId": 6071266,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071266.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-29 18:15:34"
+      "changedAt": "2026-09-29 18:25:34"
     },
     {
       "id": 590,
@@ -12961,7 +12961,7 @@
         {
           "id": 598,
           "name": "Skeletal Saurus Beyond Life",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Dinosaur",
@@ -12976,7 +12976,7 @@
           "duelingbookId": 6071266,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071266.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-29 18:15:34"
+          "changedAt": "2026-09-29 18:25:34"
         },
         {
           "id": 595,
