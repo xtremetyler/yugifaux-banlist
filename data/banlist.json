@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:35:39.924Z",
+  "updatedAt": "2026-09-29T16:36:09.917Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22746,6 +22746,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071045.jpg",
           "addedAt": "2026-09-29 16:35:19",
           "changedAt": "2026-09-29 16:35:19"
+        },
+        {
+          "id": 385,
+          "name": "Afterthought - Dreams of Dancing in the Rain",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Equip only to an \"Afterthought\" monster you control. When this card is activated: Send 1 \"Afterthought\" card or 1 \"A World Without\" from your Deck to the GY. When the equipped monster declares an attack: You can Set any number of Spells/Traps from your GY, and if you do, those Set cards can be activated this turn. Your opponent cannot target the equipped monster with Spell/Trap Cards or effects in response to the activation of \"Afterthought\" cards or effects in your GY.",
+          "duelingbookId": 6072506,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072506.jpg",
+          "addedAt": "2026-09-29 16:35:52",
+          "changedAt": "2026-09-29 16:35:52"
         }
       ]
     }
