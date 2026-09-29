@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:38:09.932Z",
+  "updatedAt": "2026-09-29T16:38:39.904Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 13,
+      "registeredCardCount": 14,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22794,6 +22794,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071054.jpg",
           "addedAt": "2026-09-29 16:38:05",
           "changedAt": "2026-09-29 16:38:05"
+        },
+        {
+          "id": 388,
+          "name": "Afterthought - The Treasure",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Psychic",
+          "attribute": "LIGHT",
+          "levelRankLink": "Link 2",
+          "atk": "1500",
+          "linkMarkers": [
+            "Right",
+            "Left"
+          ],
+          "text": "2 Effect Monsters, inlcuding 1 \"Afterthought\" Monster\nIf this card is link-summoned: Equip 1 \"Afterthought\" Spell card to this card from your GY or Banishment. This card gains 300 ATK for each card equipped to it. While you control \"A World Without\", you can treat cards equipped to this card as material for the Link Summon of an \"Afterthought\" Link Monster. During your Main Phase: Excavate the top card of each player's Deck, and if you do, equip as many excavated Spell Cards to this card as possible as Equip Spells, then banish the rest. You can only activate each effect of \"Afterthought - The Treasure\" once per turn.",
+          "duelingbookId": 6071059,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071059.jpg",
+          "addedAt": "2026-09-29 16:38:37",
+          "changedAt": "2026-09-29 16:38:37"
         }
       ]
     }
