@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:30:39.906Z",
+  "updatedAt": "2026-09-29T16:31:39.878Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22701,6 +22701,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071024.jpg",
           "addedAt": "2026-09-29 16:30:29",
           "changedAt": "2026-09-29 16:30:29"
+        },
+        {
+          "id": 382,
+          "name": "Afterthought - Deja Vu",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Send 1 card from your Banishment to the GY; shuffle up to 2 cards from your Banishment into your Deck. If this card is banished: You can send 1 \"Afterthought\" monster from your hand or Deck to the GY, and if you do, banish the top card of each player's Deck. You can only activate 1 \"Afterthought - Deja Vu\" per turn.",
+          "duelingbookId": 6071039,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071039.jpg",
+          "addedAt": "2026-09-29 16:31:07",
+          "changedAt": "2026-09-29 16:31:07"
         }
       ]
     }
