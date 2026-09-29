@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T18:11:41.203Z",
+  "updatedAt": "2026-09-29T18:14:41.084Z",
   "cards": [
     {
       "id": 384,
@@ -1229,7 +1229,7 @@
     {
       "id": 618,
       "name": "Berd 1812 - Vulcher",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Winged Beast",
@@ -1244,7 +1244,7 @@
       "duelingbookId": 6071352,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071352.jpg",
       "addedAt": "2026-09-28 20:28:59",
-      "changedAt": "2026-09-28 20:28:59"
+      "changedAt": "2026-09-29 18:14:26"
     },
     {
       "id": 615,
@@ -12625,7 +12625,7 @@
         {
           "id": 618,
           "name": "Berd 1812 - Vulcher",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Winged Beast",
@@ -12640,7 +12640,7 @@
           "duelingbookId": 6071352,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071352.jpg",
           "addedAt": "2026-09-28 20:28:59",
-          "changedAt": "2026-09-28 20:28:59"
+          "changedAt": "2026-09-29 18:14:26"
         },
         {
           "id": 615,
