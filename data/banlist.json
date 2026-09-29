@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T18:16:10.994Z",
+  "updatedAt": "2026-09-29T18:16:41.026Z",
   "cards": [
     {
       "id": 384,
@@ -1640,7 +1640,7 @@
     {
       "id": 606,
       "name": "Bronze-Bound Baron Beyond Life",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
@@ -1655,12 +1655,12 @@
       "duelingbookId": 6071277,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071277.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:16:17"
     },
     {
       "id": 605,
       "name": "Bronzed Scholar Beyond Life",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Spellcaster",
@@ -1677,7 +1677,7 @@
       "duelingbookId": 6071276,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071276.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:16:14"
     },
     {
       "id": 70,
@@ -5069,7 +5069,7 @@
     {
       "id": 609,
       "name": "Illusory Quartz Halls Beyond Life",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
@@ -5083,7 +5083,7 @@
       "duelingbookId": 6071280,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071280.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:16:33"
     },
     {
       "id": 228,
@@ -7869,7 +7869,7 @@
     {
       "id": 608,
       "name": "Polished Bronze Walls Beyond Life",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
@@ -7883,7 +7883,7 @@
       "duelingbookId": 6071279,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071279.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:16:28"
     },
     {
       "id": 59,
@@ -8140,7 +8140,7 @@
     {
       "id": 604,
       "name": "Quartz Caller Beyond Life",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Thunder",
@@ -8157,7 +8157,7 @@
       "duelingbookId": 6071273,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071273.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:16:12"
     },
     {
       "id": 607,
@@ -12759,7 +12759,7 @@
         {
           "id": 606,
           "name": "Bronze-Bound Baron Beyond Life",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Zombie",
@@ -12774,12 +12774,12 @@
           "duelingbookId": 6071277,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071277.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:16:17"
         },
         {
           "id": 605,
           "name": "Bronzed Scholar Beyond Life",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Link Monster",
           "monsterType": "Spellcaster",
@@ -12796,7 +12796,7 @@
           "duelingbookId": 6071276,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071276.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:16:14"
         },
         {
           "id": 599,
@@ -12841,7 +12841,7 @@
         {
           "id": 609,
           "name": "Illusory Quartz Halls Beyond Life",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Continuous",
@@ -12855,7 +12855,7 @@
           "duelingbookId": 6071280,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071280.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:16:33"
         },
         {
           "id": 601,
@@ -12880,7 +12880,7 @@
         {
           "id": 608,
           "name": "Polished Bronze Walls Beyond Life",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Continuous",
@@ -12894,12 +12894,12 @@
           "duelingbookId": 6071279,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071279.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:16:28"
         },
         {
           "id": 604,
           "name": "Quartz Caller Beyond Life",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Link Monster",
           "monsterType": "Thunder",
@@ -12916,7 +12916,7 @@
           "duelingbookId": 6071273,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071273.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:16:12"
         },
         {
           "id": 607,
