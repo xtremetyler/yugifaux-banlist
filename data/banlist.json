@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:31:39.878Z",
+  "updatedAt": "2026-09-29T16:33:39.998Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22716,6 +22716,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071039.jpg",
           "addedAt": "2026-09-29 16:31:07",
           "changedAt": "2026-09-29 16:31:07"
+        },
+        {
+          "id": 383,
+          "name": "Afterthought - Brain Fog",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Send the top 2 cards of your Deck to the GY. During your Main Phase, while this card is in your Banishment: You can place this card on the bottom of your Deck; place 1 \"Afterthought\" monster from your GY on the top of your Deck. You can only activate each effect of \"Afterthought - Brain Fog\" once per turn.",
+          "duelingbookId": 6071035,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071035.jpg",
+          "addedAt": "2026-09-29 16:33:14",
+          "changedAt": "2026-09-29 16:33:14"
         }
       ]
     }
