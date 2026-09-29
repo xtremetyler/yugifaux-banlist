@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T07:59:44.392Z",
+  "updatedAt": "2026-09-29T14:38:46.141Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22595,7 +22595,16 @@
       "retirementsSeen": 0,
       "retirementThreshold": 4,
       "retirementRequired": false,
-      "cards": []
+      "cards": [
+        {
+          "id": 375,
+          "name": "Big Dreams of Dancing in the Rain",
+          "source": "custom",
+          "text": "Equip only to an \"Afterthought\" monster you control. When this card is activated: Send 1 \"Afterthought\" card or 1 \"A World Without\" from your Deck to the GY. When the equipped monster declares an attack: You can Set any number of Spells/Traps from your GY, and if you do, those Set cards can be activated this turn. While a Spell/Trap Card, or a Spell/Trap effect, is activated in your GY or by an \"Afterthought\" card you control, the equipped monster cannot be targeted by your opponent's Spell/Trap effects.",
+          "addedAt": "2026-09-29 14:38:26",
+          "changedAt": "2026-09-29 14:38:26"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -22639,8 +22648,8 @@
       },
       {
         "name": "I \"Lack toes\" Joules",
-        "balance": 21,
-        "lifetimePoints": 75,
+        "balance": 22,
+        "lifetimePoints": 76,
         "matchWins": 1,
         "matchLosses": 3,
         "gamesWon": 3,
