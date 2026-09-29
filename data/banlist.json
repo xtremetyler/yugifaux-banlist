@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:28:39.926Z",
+  "updatedAt": "2026-09-29T16:29:39.937Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22671,6 +22671,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071016.jpg",
           "addedAt": "2026-09-29 16:28:28",
           "changedAt": "2026-09-29 16:28:28"
+        },
+        {
+          "id": 380,
+          "name": "Afterthought - Into the Unknown",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Excavate the top 2 cards of your Deck, and if you do, you can activate 1 excavated \"Afterthought\" Spell Card or Special Summon 1 excavated \"Afterthought\" monster, then banish the rest. If this card is banished: Send the top card of each player's Deck to the GY, then, if a Spell Card was sent to the GY this way, draw 1 card. You can only activate 1 \"Afterthought - Into the Unknown\" per turn.",
+          "duelingbookId": 6071020,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071020.jpg",
+          "addedAt": "2026-09-29 16:29:35",
+          "changedAt": "2026-09-29 16:29:35"
         }
       ]
     }
