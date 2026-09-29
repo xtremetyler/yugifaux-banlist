@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T15:51:00.995Z",
+  "updatedAt": "2026-09-29T16:09:39.902Z",
   "cards": [
     {
       "id": 384,
@@ -21757,8 +21757,8 @@
       "baseClauses": 45,
       "addedClauses": 10,
       "totalClauses": 55,
-      "retirementsSeen": 4,
-      "retirementThreshold": 4,
+      "retirementsSeen": 1,
+      "retirementThreshold": 3,
       "retirementRequired": true,
       "featuredCardId": 257,
       "featuredCardName": "Ancient Ritual Founder's Summoning",
@@ -22023,7 +22023,7 @@
       "addedClauses": 10,
       "totalClauses": 55,
       "retirementsSeen": 1,
-      "retirementThreshold": 4,
+      "retirementThreshold": 3,
       "retirementRequired": false,
       "featuredCardId": 342,
       "featuredCardName": "Grabbit Precision Claw",
@@ -22280,7 +22280,7 @@
       "addedClauses": 2,
       "totalClauses": 47,
       "retirementsSeen": 0,
-      "retirementThreshold": 4,
+      "retirementThreshold": 3,
       "retirementRequired": false,
       "featuredCardId": 357,
       "featuredCardName": "Th'Underhiel Sygryff",
@@ -22593,7 +22593,7 @@
       "addedClauses": 0,
       "totalClauses": 45,
       "retirementsSeen": 0,
-      "retirementThreshold": 4,
+      "retirementThreshold": 3,
       "retirementRequired": false,
       "cards": [
         {
