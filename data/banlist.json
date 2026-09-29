@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T18:16:41.026Z",
+  "updatedAt": "2026-09-29T18:17:41.092Z",
   "cards": [
     {
       "id": 384,
@@ -8162,7 +8162,7 @@
     {
       "id": 607,
       "name": "Quartz-Coat Queen Beyond Life",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
@@ -8177,7 +8177,7 @@
       "duelingbookId": 6071278,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071278.jpg",
       "addedAt": "2026-09-28 19:36:18",
-      "changedAt": "2026-09-28 19:36:18"
+      "changedAt": "2026-09-29 18:17:21"
     },
     {
       "id": 419,
@@ -12921,7 +12921,7 @@
         {
           "id": 607,
           "name": "Quartz-Coat Queen Beyond Life",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Zombie",
@@ -12936,7 +12936,7 @@
           "duelingbookId": 6071278,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071278.jpg",
           "addedAt": "2026-09-28 19:36:18",
-          "changedAt": "2026-09-28 19:36:18"
+          "changedAt": "2026-09-29 18:17:21"
         },
         {
           "id": 602,
