@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:10:09.872Z",
+  "updatedAt": "2026-09-29T16:23:09.916Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22595,6 +22595,9 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
+      "featuredCardId": 376,
+      "featuredCardName": "Afterthought - The Forgotten",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070970.jpg",
       "cards": [
         {
           "id": 375,
@@ -22603,6 +22606,22 @@
           "text": "Equip only to an \"Afterthought\" monster you control. When this card is activated: Send 1 \"Afterthought\" card or 1 \"A World Without\" from your Deck to the GY. When the equipped monster declares an attack: You can Set any number of Spells/Traps from your GY, and if you do, those Set cards can be activated this turn. While a Spell/Trap Card, or a Spell/Trap effect, is activated in your GY or by an \"Afterthought\" card you control, the equipped monster cannot be targeted by your opponent's Spell/Trap effects.",
           "addedAt": "2026-09-29 14:38:26",
           "changedAt": "2026-09-29 14:38:26"
+        },
+        {
+          "id": 376,
+          "name": "Afterthought - The Forgotten",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Psychic",
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "0",
+          "def": "2000",
+          "text": "You can Special Summon this card (from your GY) by discarding 1 card. Once per turn, while this card is in your Banishment (Quick Effect): You can place this card on the bottom of your Deck; send the top 2 cards of your Deck to the GY. You can only activate each effect of \"Afterthought - The Forgotten\" once per turn.",
+          "duelingbookId": 6070970,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070970.jpg",
+          "addedAt": "2026-09-29 16:22:45",
+          "changedAt": "2026-09-29 16:22:45"
         }
       ]
     }
