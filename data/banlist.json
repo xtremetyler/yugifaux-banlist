@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:09:39.902Z",
+  "updatedAt": "2026-09-29T16:10:09.872Z",
   "cards": [
     {
       "id": 384,
@@ -21759,7 +21759,7 @@
       "totalClauses": 55,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
-      "retirementRequired": true,
+      "retirementRequired": false,
       "featuredCardId": 257,
       "featuredCardName": "Ancient Ritual Founder's Summoning",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6026884.jpg",
