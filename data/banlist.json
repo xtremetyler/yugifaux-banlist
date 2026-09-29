@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T04:21:42.592Z",
+  "updatedAt": "2026-09-29T05:10:12.641Z",
   "cards": [
     {
       "id": 384,
@@ -7791,7 +7791,7 @@
     {
       "id": 593,
       "name": "Pitfall of the Wild Hunt",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
@@ -7805,7 +7805,7 @@
       "duelingbookId": 6066473,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066473.jpg",
       "addedAt": "2026-09-25 20:06:11",
-      "changedAt": "2026-09-28 16:32:49"
+      "changedAt": "2026-09-29 05:09:47"
     },
     {
       "id": 273,
@@ -13168,7 +13168,7 @@
         {
           "id": 593,
           "name": "Pitfall of the Wild Hunt",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Continuous",
@@ -13182,7 +13182,7 @@
           "duelingbookId": 6066473,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066473.jpg",
           "addedAt": "2026-09-25 20:06:11",
-          "changedAt": "2026-09-28 16:32:49"
+          "changedAt": "2026-09-29 05:09:47"
         },
         {
           "id": 584,
