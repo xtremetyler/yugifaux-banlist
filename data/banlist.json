@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:38:39.904Z",
+  "updatedAt": "2026-09-29T16:39:09.955Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 14,
+      "registeredCardCount": 15,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22813,6 +22813,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071059.jpg",
           "addedAt": "2026-09-29 16:38:37",
           "changedAt": "2026-09-29 16:38:37"
+        },
+        {
+          "id": 389,
+          "name": "Afterthought - The Remnant",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Beast",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 7",
+          "atk": "0",
+          "def": "3000",
+          "text": "1 Floop + 1 Pig\nIf this card is Synchro Summoned: You can send 1 \"Afterthought\" Spell from your Deck to the GY. During the End Phase, if this card is in your Banishment: You can Special Summon this card, and if you do, banish the top 2 cards of each player's Deck, then gain 1000 LP for each Spell Card banished this way.",
+          "duelingbookId": 6071781,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071781.jpg",
+          "addedAt": "2026-09-29 16:39:04",
+          "changedAt": "2026-09-29 16:39:04"
         }
       ]
     }
