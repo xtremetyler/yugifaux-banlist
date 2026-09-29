@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T05:10:12.641Z",
+  "updatedAt": "2026-09-29T05:53:02.192Z",
   "cards": [
     {
       "id": 384,
@@ -12428,7 +12428,7 @@
       "finalAddedClauses": 8,
       "notes": "",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 617,
       "featuredCardName": "A Little Berdie Told Me",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071351.jpg",
