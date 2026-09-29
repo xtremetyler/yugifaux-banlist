@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:59:58.281Z",
+  "updatedAt": "2026-09-29T17:07:22.574Z",
   "cards": [
     {
       "id": 384,
@@ -6607,6 +6607,23 @@
       "officialUrl": "https://ygoprodeck.com/card/mereologic-aggregator-13405",
       "addedAt": "2026-07-29 04:24:38",
       "changedAt": "2026-08-24 14:23:23"
+    },
+    {
+      "id": 623,
+      "name": "Metamorphosis",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Tribute 1 monster. Special Summon 1 Fusion Monster from your Extra Deck with the same Level as the Tributed monster.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "46411259",
+      "duelingbookId": 2855,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/46411259.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/metamorphosis-3958",
+      "addedAt": "2026-09-29 17:07:12",
+      "changedAt": "2026-09-29 17:07:12"
     },
     {
       "id": 10,
@@ -22859,7 +22876,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 25,
+        "balance": 18,
         "lifetimePoints": 378,
         "matchWins": 29,
         "matchLosses": 21,
