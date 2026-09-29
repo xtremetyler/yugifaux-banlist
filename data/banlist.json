@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T16:39:09.955Z",
+  "updatedAt": "2026-09-29T16:40:10.092Z",
   "cards": [
     {
       "id": 384,
@@ -22586,7 +22586,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 15,
+      "registeredCardCount": 16,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22829,6 +22829,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071781.jpg",
           "addedAt": "2026-09-29 16:39:04",
           "changedAt": "2026-09-29 16:39:04"
+        },
+        {
+          "id": 390,
+          "name": "Afterthought - He Who Remembers",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Dragon",
+          "attribute": "LIGHT",
+          "levelRankLink": "Link 4",
+          "atk": "3000",
+          "linkMarkers": [
+            "Top-Left",
+            "Top",
+            "Top-Right",
+            "Bottom"
+          ],
+          "text": "1+ Effect Monsters, including 1 \"Afterthought\" Link Monster\nThe first time this card would leave the field each turn, you can banish 1 card in a zone this card points to instead. During each player's End Phase: Apply each of the following effects in sequence, based on the total number of cards in each player's Banishment, then, if it is your opponent's End Phase and your LP are 15000 or higher, make your opponent Tribute all monsters they control.\n● 10+: Gain 100 LP for each card in a player's Banishment.\n● 20+: Banish the top card of each player's Deck.\n● 30+: Each player banishes 1 card they control, if able.\n● 40+: Each player banishes 1 card from their hand, if able.",
+          "duelingbookId": 6071066,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071066.jpg",
+          "addedAt": "2026-09-29 16:39:57",
+          "changedAt": "2026-09-29 16:39:57"
         }
       ]
     }
