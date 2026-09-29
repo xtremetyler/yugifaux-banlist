@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-29T02:10:12.279Z",
+  "updatedAt": "2026-09-29T03:23:42.439Z",
   "cards": [
     {
       "id": 384,
@@ -22576,6 +22576,26 @@
           "changedAt": "2026-09-28 20:32:23"
         }
       ]
+    },
+    {
+      "id": 37,
+      "name": "Afterthought",
+      "creator": "The Original Rough Cheddar",
+      "status": "active",
+      "description": "",
+      "submittedAt": "2026-09-29 03:23:38",
+      "activatedAt": "2026-09-29 03:23:38",
+      "declaredCardCount": 14,
+      "registeredCardCount": 0,
+      "mainTypes": 2,
+      "extraCount": 4,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 4,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -22614,8 +22634,8 @@
         "gamesWon": 40,
         "gamesLost": 40,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 37,
+        "archetypeName": "Afterthought"
       },
       {
         "name": "I \"Lack toes\" Joules",
