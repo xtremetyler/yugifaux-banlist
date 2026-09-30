@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T14:26:54.022Z",
+  "updatedAt": "2026-09-30T14:27:54.048Z",
   "cards": [
     {
       "id": 384,
@@ -22037,8 +22037,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 13,
-      "totalClauses": 58,
+      "addedClauses": 14,
+      "totalClauses": 59,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22104,11 +22104,11 @@
           "levelRankLink": "Level 7",
           "atk": "2500",
           "def": "2000",
-          "text": "You can Special Summon this card (from your hand) by banishing 2 “Grabbit” Spells from your GY. During your Main Phase: You can target 1 face-up monster your opponent controls in this card’s column or either adjacent column; place it face-up in your Spell & Trap Zone as a Continuous Spell. If a Monster Card you do not own is Special Summoned from your Spell & Trap Zone to your field: You can target 1 other face-up Monster Card in your Spell & Trap Zone that you do not own; Special Summon it. You can only use each effect of “Grabbit Triple Claw” once per turn.",
+          "text": "You can Special Summon this card (from your hand) by banishing 2 “Grabbit” Spells from your GY. During your Main Phase: YYou can activate 1 of the following effects.\n● You can target 1 face-up monster your opponent controls in this card’s column or either adjacent column; place it face-up in your Spell & Trap Zone as a Continuous Spell, and if you do, this card cannot attack directly for the rest of this turn.\n● If your opponent controls no monsters: You can target 1 monster in your opponent's GY or Banishment; place it face-up in your Spell & Trap Zone as a Continuous Spell.\n If a Monster Card you do not own is Special Summoned from your Spell & Trap Zone to your field: You can target 1 other face-up Monster Card in your Spell & Trap Zone that you do not own; Special Summon it. You can only use each effect of “Grabbit Triple Claw” once per turn.",
           "duelingbookId": 6067019,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067019.jpg",
           "addedAt": "2026-09-28 15:37:02",
-          "changedAt": "2026-09-28 17:01:18"
+          "changedAt": "2026-09-30 14:27:31"
         },
         {
           "id": 346,
