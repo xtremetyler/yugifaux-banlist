@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T19:41:16.052Z",
+  "updatedAt": "2026-09-30T21:55:16.339Z",
   "cards": [
     {
       "id": 384,
@@ -23254,7 +23254,7 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 71,
+    "confirmedMatchCount": 72,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
@@ -23270,24 +23270,24 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 18,
-        "lifetimePoints": 297,
+        "balance": 20,
+        "lifetimePoints": 299,
         "matchWins": 18,
-        "matchLosses": 26,
-        "gamesWon": 59,
-        "gamesLost": 94,
+        "matchLosses": 27,
+        "gamesWon": 60,
+        "gamesLost": 96,
         "gamesDrawn": 0,
         "archetypeId": 38,
         "archetypeName": "GobMob"
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 16,
-        "lifetimePoints": 181,
-        "matchWins": 16,
+        "balance": 20,
+        "lifetimePoints": 185,
+        "matchWins": 17,
         "matchLosses": 16,
-        "gamesWon": 40,
-        "gamesLost": 40,
+        "gamesWon": 42,
+        "gamesLost": 41,
         "gamesDrawn": 0,
         "archetypeId": 37,
         "archetypeName": "Afterthought"
@@ -23318,6 +23318,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 75,
+        "confirmedAt": "2026-09-30 21:55:15",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Afterthought",
+        "opponentArchetype": "GobMob"
+      },
       {
         "id": 74,
         "confirmedAt": "2026-09-30 14:32:01",
@@ -23387,19 +23397,19 @@
         "opponentGames": 2,
         "reporterArchetype": "Beyond Life",
         "opponentArchetype": "Grabbit"
-      },
-      {
-        "id": 66,
-        "confirmedAt": "2026-09-25 19:52:30",
-        "reporter": "Edward Swissorhands",
-        "opponent": "The Original Rough Cheddar",
-        "reporterGames": 0,
-        "opponentGames": 2,
-        "reporterArchetype": "Wild Hunt",
-        "opponentArchetype": "Berdz"
       }
     ],
     "matchHistory": [
+      {
+        "id": 75,
+        "confirmedAt": "2026-09-30 21:55:15",
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Afterthought",
+        "opponentArchetype": "GobMob"
+      },
       {
         "id": 74,
         "confirmedAt": "2026-09-30 14:32:01",
