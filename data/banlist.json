@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T22:06:16.233Z",
+  "updatedAt": "2026-09-30T23:21:46.532Z",
   "cards": [
     {
       "id": 384,
@@ -23461,6 +23461,26 @@
           "changedAt": "2026-09-30 22:03:29"
         }
       ]
+    },
+    {
+      "id": 39,
+      "name": "Street of Elms",
+      "creator": "forgoudaboutit",
+      "status": "active",
+      "description": "\"1, 2 Freddy's coming for you...\"",
+      "submittedAt": "2026-09-30 23:21:41",
+      "activatedAt": "2026-09-30 23:21:41",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 2,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -23523,8 +23543,8 @@
         "gamesWon": 0,
         "gamesLost": 0,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 39,
+        "archetypeName": "Street of Elms"
       }
     ],
     "recentMatches": [
