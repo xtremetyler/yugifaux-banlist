@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T11:13:53.775Z",
+  "updatedAt": "2026-09-30T14:23:24.044Z",
   "cards": [
     {
       "id": 384,
@@ -22872,28 +22872,28 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 69,
+    "confirmedMatchCount": 70,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 8,
-        "lifetimePoints": 378,
-        "matchWins": 29,
+        "balance": 12,
+        "lifetimePoints": 382,
+        "matchWins": 30,
         "matchLosses": 21,
-        "gamesWon": 110,
-        "gamesLost": 70,
+        "gamesWon": 112,
+        "gamesLost": 71,
         "gamesDrawn": 0,
         "archetypeId": 36,
         "archetypeName": "Th'Underhiel"
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 21,
-        "lifetimePoints": 288,
+        "balance": 23,
+        "lifetimePoints": 290,
         "matchWins": 18,
-        "matchLosses": 24,
-        "gamesWon": 58,
-        "gamesLost": 90,
+        "matchLosses": 25,
+        "gamesWon": 59,
+        "gamesLost": 92,
         "gamesDrawn": 0,
         "archetypeId": 35,
         "archetypeName": "Grabbit"
@@ -22936,6 +22936,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 73,
+        "confirmedAt": "2026-09-30 14:22:55",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Grabbit",
+        "opponentArchetype": "Th'Underhiel"
+      },
       {
         "id": 72,
         "confirmedAt": "2026-09-29 04:08:51",
@@ -23005,19 +23015,19 @@
         "opponentGames": 1,
         "reporterArchetype": "Berdz",
         "opponentArchetype": "Beyond Life"
-      },
-      {
-        "id": 64,
-        "confirmedAt": "2026-09-24 05:08:03",
-        "reporter": "Edward Swissorhands",
-        "opponent": "Brielieve In Cheesus",
-        "reporterGames": 0,
-        "opponentGames": 2,
-        "reporterArchetype": "Wild Hunt",
-        "opponentArchetype": "Ancient Ritual"
       }
     ],
     "matchHistory": [
+      {
+        "id": 73,
+        "confirmedAt": "2026-09-30 14:22:55",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Grabbit",
+        "opponentArchetype": "Th'Underhiel"
+      },
       {
         "id": 72,
         "confirmedAt": "2026-09-29 04:08:51",
