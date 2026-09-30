@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T14:23:24.044Z",
+  "updatedAt": "2026-09-30T14:25:24.086Z",
   "cards": [
     {
       "id": 384,
@@ -22037,8 +22037,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 10,
-      "totalClauses": 55,
+      "addedClauses": 11,
+      "totalClauses": 56,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22056,11 +22056,11 @@
           "levelRankLink": "Level 3",
           "atk": "1000",
           "def": "1800",
-          "text": "If this card is Normal or Special Summoned: You can add 1 “Grabbit” Spell from your Deck to your hand. During your Main Phase: You can target 1 face-up monster your opponent controls in this card’s column; place it face-up in your Spell & Trap Zone as a Continuous Spell. You can only use each effect of “Grabbit Precision Claw” once per turn.",
+          "text": "If this card is Normal or Special Summoned: You can add 1 “Grabbit” Spell from your Deck to your hand. During your Main Phase: You can activate 1 of the following effects.\n● You can target 1 face-up monster your opponent controls in this card’s column; place it face-up in your Spell & Trap Zone as a Continuous Spell., and if you do, this card cannot attack directly for the rest of this turn.\n● If your opponent controls no monsters: You can send 1 \"Grabbit\" card from your Deck to the GY, except \"Grabbit Precision Claw\". You can only use each effect of “Grabbit Precision Claw” once per turn.",
           "duelingbookId": 6067009,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067009.jpg",
           "addedAt": "2026-09-28 15:35:15",
-          "changedAt": "2026-09-28 16:50:17"
+          "changedAt": "2026-09-30 14:25:01"
         },
         {
           "id": 343,
