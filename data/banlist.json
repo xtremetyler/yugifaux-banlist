@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:21:46.532Z",
+  "updatedAt": "2026-09-30T23:28:16.378Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23480,7 +23480,26 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 411,
+      "featuredCardName": "Iconic Glove on the Street of Elms",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072785.jpg",
+      "cards": [
+        {
+          "id": 411,
+          "name": "Iconic Glove on the Street of Elms",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Equip only to a Fiend or Illusion monster. If a monster destroyed by battle with the equipped monster would be sent to the GY, it is banished instead. While this card is equipped to a Fusion Monster, Attack Position monsters your opponent controls lose 1300 ATK. When the equipped monster attacks a Defense Position monster, it inflicts Piercing Damage. If the equipped monster leaves the field by either your opponent's card or its own effect: You can add this card and up to 1 \"Iconic Kill of F.K.\" monster from your GY and/or Banishment to your hand. You can only control 1 \"Iconic Glove on the Street of Elms.",
+          "duelingbookId": 6072785,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072785.jpg",
+          "addedAt": "2026-09-30 23:28:01",
+          "changedAt": "2026-09-30 23:28:01"
+        }
+      ]
     }
   ],
   "dashboard": {
