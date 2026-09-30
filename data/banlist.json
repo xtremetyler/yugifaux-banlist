@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T22:01:16.224Z",
+  "updatedAt": "2026-09-30T22:01:46.246Z",
   "cards": [
     {
       "id": 384,
@@ -23224,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23347,6 +23347,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072890.jpg",
           "addedAt": "2026-09-30 22:01:10",
           "changedAt": "2026-09-30 22:01:10"
+        },
+        {
+          "id": 403,
+          "name": "GobMob — The Guy With the Map",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "300",
+          "def": "1200",
+          "text": "If this card is Normal or Special Summoned: You can add 1 “GobMob” monster from your Deck to your hand, except “GobMob – The Guy With the Map”, then, if you control a “GobMob” monster in your Extra Monster Zone, you can add 1 additional “GobMob” monster with a different name. You can banish this card from your GY; Place 1 “GobMob” monster from your GY on top of your GY. You can only use each effect of “GobMob — The Guy With the Map” once per turn.",
+          "duelingbookId": 6071966,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071966.jpg",
+          "addedAt": "2026-09-30 22:01:28",
+          "changedAt": "2026-09-30 22:01:28"
         }
       ]
     }
