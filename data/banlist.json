@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:32:46.430Z",
+  "updatedAt": "2026-09-30T23:33:46.396Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23645,6 +23645,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072775.jpg",
           "addedAt": "2026-09-30 23:32:30",
           "changedAt": "2026-09-30 23:32:30"
+        },
+        {
+          "id": 421,
+          "name": "Oneiropotence",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Activate this card by revealing 2 Level 10 or higher Fusion Monsters from your Extra Deck with different Types. When you would draw for your normal draw, while you control a face-up Field Spell, draw 2 cards instead. During your Main Phase: You can destroy 1 card in your hand or field; add 1 \"Street of Elms\" Spell/Trap from your Deck or GY to your hand. If a Fiend or Illusion monster you control leaves the field by either your opponent's card or its own effect: You can add 1 Level 4 or lower monster from your GY to your hand, except a Fiend or Illusion monster. You can only activate each effect of \"Oneiropotence\" once per turn.",
+          "duelingbookId": 6072739,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072739.jpg",
+          "addedAt": "2026-09-30 23:33:25",
+          "changedAt": "2026-09-30 23:33:25"
         }
       ]
     }
