@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T21:56:46.229Z",
+  "updatedAt": "2026-09-30T21:59:46.569Z",
   "cards": [
     {
       "id": 384,
@@ -23224,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23233,6 +23233,9 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
+      "featuredCardId": 397,
+      "featuredCardName": "GobMob — Definitely One Goblin",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072842.jpg",
       "cards": [
         {
           "id": 395,
@@ -23249,6 +23252,22 @@
           "text": "When your opponent activates an effect targeting a Lvl 2 Monster you control while this card is in your hand: Special Summon this card, and if you do, negate that effect. Then, if you control at least 8 monsters, target 1 monster your opponent controls; banish it.\n\n**Commissioned clauses:** 3\n**Created by:** <@238904006066307072>\n**For:** <@487278554355073026>'s **GobMob**\n\n**Review:** Approved by <@484079309955399691>",
           "addedAt": "2026-09-30 18:45:05",
           "changedAt": "2026-09-30 18:45:05"
+        },
+        {
+          "id": 397,
+          "name": "GobMob — Definitely One Goblin",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Rank 2",
+          "atk": "2400",
+          "def": "2400",
+          "text": "2+ Level 2 “GobMob” monsters\nThis card gains effects based on the number of materials attached to it.\n● 1+: Once per turn: You can detach 1 material; Special Summon 1 “GobMob” monster from your Deck.\n● 2+: Cannot be destroyed by battle.\n● 3+: Once per turn (Quick Effect): You can detach 1 material; destroy 1 card on the field.\n● 4+: Once per turn, when your opponent activates a monster effect (Quick Effect): You can detach 1 material; negate that effect.\nIf this card is in your Extra Monster Zone, it gains 300 ATK for each “GobMob” monster you control.",
+          "duelingbookId": 6072842,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072842.jpg",
+          "addedAt": "2026-09-30 21:59:40",
+          "changedAt": "2026-09-30 21:59:40"
         }
       ]
     }
