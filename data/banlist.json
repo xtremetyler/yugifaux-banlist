@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T22:03:16.270Z",
+  "updatedAt": "2026-09-30T22:03:46.236Z",
   "cards": [
     {
       "id": 384,
@@ -23224,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 13,
+      "registeredCardCount": 14,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23427,6 +23427,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072894.jpg",
           "addedAt": "2026-09-30 22:03:11",
           "changedAt": "2026-09-30 22:03:11"
+        },
+        {
+          "id": 408,
+          "name": "GobMob — The Goblin King, Apparently",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Rank 2",
+          "atk": "2000",
+          "def": "2000",
+          "text": "2+ Level 2 “GobMob” monsters\nIf this card is Xyz Summoned: You can activate 1 “GobMob Brooding Pit” directly from your Deck or GY. Once while this card is face-up on the field: You can detach 1 material from this card; Special Summon 1 “GobMob” monster from your Deck. Once per turn: You can detach 1 material from this card; Special Summon 1 “GobMob” monster from your hand. While this card is in the Extra Monster Zone, all other “GobMob” monsters you control gain 500 ATK/DEF.",
+          "duelingbookId": 6072835,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072835.jpg",
+          "addedAt": "2026-09-30 22:03:29",
+          "changedAt": "2026-09-30 22:03:29"
         }
       ]
     }
