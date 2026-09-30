@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T17:26:14.123Z",
+  "updatedAt": "2026-09-30T17:35:14.217Z",
   "cards": [
     {
       "id": 384,
@@ -22949,7 +22949,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 17,
+      "registeredCardCount": 18,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -23221,6 +23221,21 @@
           "text": "Normal Trap\n\nIf you control no cards, except a Field Spell, you can activate this card from your hand. When your opponent activates a card or effect: Banish 1 \"Afterthought\" card from your GY; Negate that effect, then the next time an \"Afterthought\" card you control would be destroyed by battle or card effect this turn, it is not destroyed. You can only activate 1 \"Afterthought — Second Thoughts\" per turn.",
           "addedAt": "2026-09-30 17:26:04",
           "changedAt": "2026-09-30 17:26:04"
+        },
+        {
+          "id": 394,
+          "name": "Afterthought - Not What They Thought",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If you control no cards, except a Field Spell, you can activate this card from your hand. When your opponent activates a card or effect: Banish 1 \"Afterthought\" card from your GY; Negate that effect, then the next time an \"Afterthought\" card you control would be destroyed by battle or card effect this turn, it is not destroyed. You can only activate 1 \"Afterthought — Second Thoughts\" per turn.",
+          "duelingbookId": 6074104,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6074104.jpg",
+          "addedAt": "2026-09-30 17:34:57",
+          "changedAt": "2026-09-30 17:34:57"
         }
       ]
     },
