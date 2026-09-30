@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T16:01:24.387Z",
+  "updatedAt": "2026-09-30T16:57:54.670Z",
   "cards": [
     {
       "id": 384,
@@ -23225,7 +23225,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23234,7 +23234,16 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "cards": [
+        {
+          "id": 391,
+          "name": "GobMob - The Guy with the Shield",
+          "source": "custom",
+          "text": "0 ATK, 2000 DEF, Lv 2.\nDuring the Combat Phase (Quick Effect), when your opponent attacks a \"Gobmob\" monster you control: you can discard this card from hand; negate the attack. During the Combat Phase, If this card is in your GY when your opponent declares an attack: you can Special Summon this monster to your spell/trap zone in face-up DEF position, and if you do, your opponent attacks this card instead. You can only activate each effect of \"CARDNAME\" once per turn.",
+          "addedAt": "2026-09-30 16:57:25",
+          "changedAt": "2026-09-30 16:57:25"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -23266,8 +23275,8 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 23,
-        "lifetimePoints": 180,
+        "balance": 24,
+        "lifetimePoints": 181,
         "matchWins": 16,
         "matchLosses": 16,
         "gamesWon": 40,
