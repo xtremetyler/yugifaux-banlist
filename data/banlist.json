@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T18:21:32.654Z",
+  "updatedAt": "2026-09-30T18:23:02.714Z",
   "cards": [
     {
       "id": 384,
@@ -22636,7 +22636,7 @@
       "submittedAt": "2026-09-28 19:53:16",
       "activatedAt": "2026-09-28 19:53:16",
       "declaredCardCount": 14,
-      "registeredCardCount": 17,
+      "registeredCardCount": 16,
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
@@ -22915,14 +22915,6 @@
           "changedAt": "2026-09-28 20:23:45"
         },
         {
-          "id": 373,
-          "name": "Mænagr of Th’Underhiel",
-          "source": "custom",
-          "text": "Rank 6 / WIND / Rock / Xyz / Effect\nATK 2300 / DEF 2700\n2 Level 6 “Th’Underhiel” monsters\n\nIf this card is Xyz Summoned: You can add 1 “Th’Underhiel” Equip Spell from your Deck to your hand.\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 “Th’Underhiel” monster you control; until the end of this turn, its original Level becomes 11, also if it is used as material for the Xyz Summon of a “Th’Underhiel” monster this turn, it can be treated as 2 materials. You can only use each effect of “Mænagr of Th’Underhiel” once per turn.",
-          "addedAt": "2026-09-28 20:27:24",
-          "changedAt": "2026-09-28 20:27:24"
-        },
-        {
           "id": 374,
           "name": "Mænagrgr of Th’Underhiel",
           "source": "custom",
@@ -22949,7 +22941,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 18,
+      "registeredCardCount": 16,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -22962,14 +22954,6 @@
       "featuredCardName": "Afterthought - The Forgotten",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070970.jpg",
       "cards": [
-        {
-          "id": 375,
-          "name": "Big Dreams of Dancing in the Rain",
-          "source": "custom",
-          "text": "Equip only to an \"Afterthought\" monster you control. When this card is activated: Send 1 \"Afterthought\" card or 1 \"A World Without\" from your Deck to the GY. When the equipped monster declares an attack: You can Set any number of Spells/Traps from your GY, and if you do, those Set cards can be activated this turn. While a Spell/Trap Card, or a Spell/Trap effect, is activated in your GY or by an \"Afterthought\" card you control, the equipped monster cannot be targeted by your opponent's Spell/Trap effects.",
-          "addedAt": "2026-09-29 14:38:26",
-          "changedAt": "2026-09-29 14:38:26"
-        },
         {
           "id": 376,
           "name": "Afterthought - The Forgotten",
@@ -23215,14 +23199,6 @@
           "changedAt": "2026-09-29 16:39:57"
         },
         {
-          "id": 393,
-          "name": "Afterthought — Second Thoughts",
-          "source": "custom",
-          "text": "Normal Trap\n\nIf you control no cards, except a Field Spell, you can activate this card from your hand. When your opponent activates a card or effect: Banish 1 \"Afterthought\" card from your GY; Negate that effect, then the next time an \"Afterthought\" card you control would be destroyed by battle or card effect this turn, it is not destroyed. You can only activate 1 \"Afterthought — Second Thoughts\" per turn.",
-          "addedAt": "2026-09-30 17:26:04",
-          "changedAt": "2026-09-30 17:26:04"
-        },
-        {
           "id": 394,
           "name": "Afterthought - Not What They Thought",
           "source": "custom",
@@ -23248,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 0,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23257,24 +23233,7 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": [
-        {
-          "id": 391,
-          "name": "GobMob - The Guy with the Shield",
-          "source": "custom",
-          "text": "0 ATK, 2000 DEF, Lv 2.\nDuring the Combat Phase (Quick Effect), when your opponent attacks a \"Gobmob\" monster you control: you can discard this card from hand; negate the attack. During the Combat Phase, If this card is in your GY when your opponent declares an attack: you can Special Summon this monster to your spell/trap zone in face-up DEF position, and if you do, your opponent attacks this card instead. You can only activate each effect of \"CARDNAME\" once per turn.",
-          "addedAt": "2026-09-30 16:57:25",
-          "changedAt": "2026-09-30 16:57:25"
-        },
-        {
-          "id": 392,
-          "name": "GobMob - The Guy with the Sword",
-          "source": "custom",
-          "text": "When your opponent activates an effect targeting a Lvl 2 Monster you control while this card is in your hand: Special Summon this card, and if you do, negate that effect. Then, if you control at least 8 monsters, target 1 monster your opponent controls; banish it.",
-          "addedAt": "2026-09-30 17:02:29",
-          "changedAt": "2026-09-30 17:02:29"
-        }
-      ]
+      "cards": []
     }
   ],
   "dashboard": {
