@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T18:45:04.075Z",
+  "updatedAt": "2026-09-30T18:45:33.712Z",
   "cards": [
     {
       "id": 384,
@@ -23224,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 2,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23233,7 +23233,24 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "cards": [
+        {
+          "id": 395,
+          "name": "GobMob - The Guy with the Shield",
+          "source": "custom",
+          "text": "0 ATK, 2000 DEF, Lv 2.\nDuring the Combat Phase (Quick Effect), when your opponent attacks a \"Gobmob\" monster you control: you can discard this card from hand; negate the attack. During the Combat Phase, If this card is in your GY when your opponent declares an attack: you can Special Summon this monster to your spell/trap zone in face-up DEF position, and if you do, your opponent attacks this card instead. You can only activate each effect of \"CARDNAME\" once per turn.\n\n**Commissioned clauses:** 3\n**Created by:** <@239180417876361217>\n**For:** <@487278554355073026>'s **GobMob**\n\n**Review:** Approved by <@484079309955399691>",
+          "addedAt": "2026-09-30 18:45:05",
+          "changedAt": "2026-09-30 18:45:05"
+        },
+        {
+          "id": 396,
+          "name": "GobMob - The Guy with the Sword",
+          "source": "custom",
+          "text": "When your opponent activates an effect targeting a Lvl 2 Monster you control while this card is in your hand: Special Summon this card, and if you do, negate that effect. Then, if you control at least 8 monsters, target 1 monster your opponent controls; banish it.\n\n**Commissioned clauses:** 3\n**Created by:** <@238904006066307072>\n**For:** <@487278554355073026>'s **GobMob**\n\n**Review:** Approved by <@484079309955399691>",
+          "addedAt": "2026-09-30 18:45:05",
+          "changedAt": "2026-09-30 18:45:05"
+        }
+      ]
     }
   ],
   "dashboard": {
