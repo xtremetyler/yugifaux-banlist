@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:31:16.404Z",
+  "updatedAt": "2026-09-30T23:31:46.427Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23597,6 +23597,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072762.jpg",
           "addedAt": "2026-09-30 23:31:00",
           "changedAt": "2026-09-30 23:31:00"
+        },
+        {
+          "id": 418,
+          "name": "Iconic Kill of F.K. - Kerry Hellman",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Thunder",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "600",
+          "def": "600",
+          "text": "If this card in your hand or on your field is destroyed, except by battle: You can take 1 \"Iconic Glove on the Street of Elms\" from your Deck or Banishment and either add it to your hand or equip it to a face-up monster you control.",
+          "duelingbookId": 6072769,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072769.jpg",
+          "addedAt": "2026-09-30 23:31:26",
+          "changedAt": "2026-09-30 23:31:26"
         }
       ]
     }
