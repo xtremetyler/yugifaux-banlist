@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T14:25:54.083Z",
+  "updatedAt": "2026-09-30T14:26:24.050Z",
   "cards": [
     {
       "id": 384,
@@ -22037,8 +22037,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 11,
-      "totalClauses": 56,
+      "addedClauses": 12,
+      "totalClauses": 57,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22072,11 +22072,11 @@
           "levelRankLink": "Level 4",
           "atk": "1600",
           "def": "1200",
-          "text": "If you activated a “Grabbit” Spell Card this turn (Quick Effect): You can Special Summon this card from your hand. During your Main Phase: You can move this card to another of your unoccupied Main Monster Zones, then you can target 1 face-up monster your opponent controls in this card’s column; place it face-up in your Spell & Trap Zone as a Continuous Spell. You can only use each effect of “Grabbit Sidewinder Claw” once per turn.",
+          "text": "If you activated a “Grabbit” Spell Card this turn (Quick Effect): You can Special Summon this card from your hand. During your Main Phase: You can activate 1 of the following effects.\n● You can move this card to another of your unoccupied Main Monster Zones, then you can target 1 face-up monster your opponent controls in this card’s column; place it face-up in your Spell & Trap Zone as a Continuous Spell, and if you do, this card cannot attack directly for the rest of this turn.\n● If your opponent controls no monsters: You can look at 1 random card in your opponent's hand, then if it is a Monster, you can place it face-up in your Spell & Trap Zone as a Continuous Spell. \nYou can only use each effect of “Grabbit Sidewinder Claw” once per turn.",
           "duelingbookId": 6067014,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067014.jpg",
           "addedAt": "2026-09-28 15:36:07",
-          "changedAt": "2026-09-28 16:58:34"
+          "changedAt": "2026-09-30 14:25:59"
         },
         {
           "id": 344,
@@ -22294,8 +22294,8 @@
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 4,
-      "totalClauses": 49,
+      "addedClauses": 3,
+      "totalClauses": 48,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
