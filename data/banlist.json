@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T14:26:24.050Z",
+  "updatedAt": "2026-09-30T14:26:54.022Z",
   "cards": [
     {
       "id": 384,
@@ -22037,8 +22037,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 12,
-      "totalClauses": 57,
+      "addedClauses": 13,
+      "totalClauses": 58,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22088,11 +22088,11 @@
           "levelRankLink": "Level 5",
           "atk": "2200",
           "def": "1400",
-          "text": "You can Special Summon this card (from your hand) by sending 1 face-up in your Spell/Trap zone you control to the GY. During your Main Phase: You can place 1 face-up monster your opponent controls in this card’s column face-up in your Spell & Trap Zone as a Continuous Spell. You can only use this effect of “Grabbit Power Claw” once per turn.",
+          "text": "You can Special Summon this card (from your hand) by sending 1 face-up in your Spell/Trap zone you control to the GY. During your Main Phase: You can activate 1 of the following effects.\n● You can place 1 face-up monster your opponent controls in this card’s column face-up in your Spell & Trap Zone as a Continuous Spell, and if you do, this card cannot attack directly for the rest of this turn.\n● If your opponent controls no monsters: You can excavate the top 4 cards of your opponent's Deck, and if you do, you can place 1 excavated monster face-up in your Spell & Trap Zone as a continuous Spell, also shuffle the rest into the Deck.\nYou can only use this effect of “Grabbit Power Claw” once per turn.",
           "duelingbookId": 6067017,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067017.jpg",
           "addedAt": "2026-09-28 15:36:33",
-          "changedAt": "2026-09-28 17:00:19"
+          "changedAt": "2026-09-30 14:26:43"
         },
         {
           "id": 345,
@@ -22294,8 +22294,8 @@
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 3,
-      "totalClauses": 48,
+      "addedClauses": 4,
+      "totalClauses": 49,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22513,7 +22513,7 @@
           "duelingbookId": 6068700,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068700.jpg",
           "addedAt": "2026-09-28 20:00:08",
-          "changedAt": "2026-09-28 20:00:08"
+          "changedAt": "2026-09-30 14:26:41"
         },
         {
           "id": 369,
