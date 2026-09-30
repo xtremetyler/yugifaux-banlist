@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T22:00:16.227Z",
+  "updatedAt": "2026-09-30T22:00:46.246Z",
   "cards": [
     {
       "id": 384,
@@ -23224,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23299,6 +23299,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071900.jpg",
           "addedAt": "2026-09-30 22:00:08",
           "changedAt": "2026-09-30 22:00:08"
+        },
+        {
+          "id": 400,
+          "name": "GobMob — Little Big Boss",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "1000",
+          "def": "500",
+          "text": "If this card is Normal or Special Summoned: You can add 1 “GobMob Brooding Pit” from your Deck or GY to your hand. Once per turn, while you control “GobMob Brooding Pit”: You can Special Summon 1 “GobMob” monster from your hand, except “GobMob — Little Big Boss”. If this card is in your Extra Monster Zone: You can Special Summon that monster from your Deck instead. You can only use each effect of “GobMob — Little Big Boss” once per turn.",
+          "duelingbookId": 6071918,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071918.jpg",
+          "addedAt": "2026-09-30 22:00:28",
+          "changedAt": "2026-09-30 22:00:28"
         }
       ]
     }
