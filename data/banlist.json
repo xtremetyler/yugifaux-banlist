@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:29:16.387Z",
+  "updatedAt": "2026-09-30T23:29:46.396Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23528,6 +23528,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072720.jpg",
           "addedAt": "2026-09-30 23:29:13",
           "changedAt": "2026-09-30 23:29:13"
+        },
+        {
+          "id": 414,
+          "name": "Street of Elms in Daytime",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can add 1 Level 4 or lower monster from your Deck to your hand with an effect that activates when it is destroyed, or, if this card was activated by the effect of a Fiend monster, you can Special Summon that monster in Attack Position instead. You can only activate this effect of \"Street of Elms in Nightmare\" once per turn. The first time each turn that a face-up Fusion Monster you control that was Special Summoned by its own effect would be returned to the hand or Extra Deck by your opponent's card, you can return 1 monster from your GY to your hand instead.",
+          "duelingbookId": 6072713,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072713.jpg",
+          "addedAt": "2026-09-30 23:29:37",
+          "changedAt": "2026-09-30 23:29:37"
         }
       ]
     }
