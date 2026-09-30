@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T17:18:44.375Z",
+  "updatedAt": "2026-09-30T17:26:14.123Z",
   "cards": [
     {
       "id": 384,
@@ -22949,7 +22949,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 16,
+      "registeredCardCount": 17,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -23213,6 +23213,14 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071066.jpg",
           "addedAt": "2026-09-29 16:39:57",
           "changedAt": "2026-09-29 16:39:57"
+        },
+        {
+          "id": 393,
+          "name": "Afterthought — Second Thoughts",
+          "source": "custom",
+          "text": "Normal Trap\n\nIf you control no cards, except a Field Spell, you can activate this card from your hand. When your opponent activates a card or effect: Banish 1 \"Afterthought\" card from your GY; Negate that effect, then the next time an \"Afterthought\" card you control would be destroyed by battle or card effect this turn, it is not destroyed. You can only activate 1 \"Afterthought — Second Thoughts\" per turn.",
+          "addedAt": "2026-09-30 17:26:04",
+          "changedAt": "2026-09-30 17:26:04"
         }
       ]
     },
@@ -23271,8 +23279,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 17,
-        "lifetimePoints": 296,
+        "balance": 18,
+        "lifetimePoints": 297,
         "matchWins": 18,
         "matchLosses": 26,
         "gamesWon": 59,
