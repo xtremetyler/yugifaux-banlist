@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:31:46.427Z",
+  "updatedAt": "2026-09-30T23:32:16.423Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23613,6 +23613,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072769.jpg",
           "addedAt": "2026-09-30 23:31:26",
           "changedAt": "2026-09-30 23:31:26"
+        },
+        {
+          "id": 419,
+          "name": "Iconic Kill of F.K. - Jennifer Caulfield",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Pyro",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 3",
+          "atk": "900",
+          "def": "900",
+          "text": "If this card is Normal or Special Summoned: You can reveal 2 Level 10 or higher Fusion Monsters from your Extra Deck with different Types; draw 1 card. If this card in your hand or on your field is destroyed, except by battle: You can shuffle up to 3 other cards from your GY and/or Banishment into your Deck. You can only activate each effect of \"Iconic Kill of F.K. - Jennifer Caulfield\" once per turn.",
+          "duelingbookId": 6072772,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072772.jpg",
+          "addedAt": "2026-09-30 23:31:53",
+          "changedAt": "2026-09-30 23:31:53"
         }
       ]
     }
