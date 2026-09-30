@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T22:01:46.246Z",
+  "updatedAt": "2026-09-30T22:02:16.469Z",
   "cards": [
     {
       "id": 384,
@@ -23224,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 9,
+      "registeredCardCount": 11,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23363,6 +23363,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071966.jpg",
           "addedAt": "2026-09-30 22:01:28",
           "changedAt": "2026-09-30 22:01:28"
+        },
+        {
+          "id": 404,
+          "name": "GobMob — Kevin",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "0",
+          "def": "0",
+          "text": "If you control 3 or more “GobMob” monsters, you can Special Summon this card from your hand or GY. If this card is sent to the GY or banished: You can draw 1 card, then, if this card was detached from a “GobMob” Xyz Monster, you can Special Summon this card to one of your Spell & Trap Zones. If this card is in your Extra Monster Zone, your opponent cannot activate cards or effects in response to the activation of your other “GobMob” monster effects.",
+          "duelingbookId": 6071973,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071973.jpg",
+          "addedAt": "2026-09-30 22:01:46",
+          "changedAt": "2026-09-30 22:01:46"
+        },
+        {
+          "id": 405,
+          "name": "GobMob — The Guy in the Mine Cart",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "900",
+          "def": "400",
+          "text": "If you control a “GobMob” card, you can Special Summon this card from your hand. Once per turn (Quick Effect): You can move 1 “GobMob” monster you control to another available Monster Zone; Special Summon 1 “GobMob” monster from your hand to the zone that monster previously occupied. Once per turn, while this card is in your Extra Monster Zone (Quick Effect): You can Special Summon 1 “GobMob” monster from your hand. You can only use each effect of “GobMob — The Guy in the Mine Cart” once per turn.",
+          "duelingbookId": 6072777,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072777.jpg",
+          "addedAt": "2026-09-30 22:02:05",
+          "changedAt": "2026-09-30 22:02:05"
         }
       ]
     }
