@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:30:46.393Z",
+  "updatedAt": "2026-09-30T23:31:16.404Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23581,6 +23581,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072733.jpg",
           "addedAt": "2026-09-30 23:30:34",
           "changedAt": "2026-09-30 23:30:34"
+        },
+        {
+          "id": 417,
+          "name": "Iconic Kill of F.K. - Glen Lantz",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fairy",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 1",
+          "atk": "300",
+          "def": "900",
+          "text": "If this card in your hand or on your field is destroyed, except by battle: You can add it to your hand during the End Phase. You can only activate this effect of \"Iconic Kill of F.K. - Glen Lantz\" once per turn.",
+          "duelingbookId": 6072762,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072762.jpg",
+          "addedAt": "2026-09-30 23:31:00",
+          "changedAt": "2026-09-30 23:31:00"
         }
       ]
     }
