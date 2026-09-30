@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T14:38:24.108Z",
+  "updatedAt": "2026-09-30T14:54:54.147Z",
   "cards": [
     {
       "id": 384,
@@ -23215,6 +23215,26 @@
           "changedAt": "2026-09-29 16:39:57"
         }
       ]
+    },
+    {
+      "id": 38,
+      "name": "GobMob",
+      "creator": "Edward Swissorhands",
+      "status": "active",
+      "description": "GobMob is a sprawling colony of goblins living deep inside the chaotic GobMob Brooding Pit, where every goblin seems to have exactly one job—and questionable qualifications for it. The Little Big Boss keeps the operation moving, while specialists like The Guy With the Ladder, The Guy With the Map, The Guy in the Mine Cart, and The Guy Who Knows Magic flood the tunnels with more and more goblins. Even The Guy Nobody Invited somehow keeps showing up, and Kevin… well, Kevin is Kevin.\nMechanically, GobMob turns the entire field into part of its mob. GobMob Brooding Pit allows the archetype to use Spell & Trap Zones as Monster Zones, letting the goblins swarm into places monsters normally shouldn’t be. Many GobMob monsters can summon themselves, move between zones, replace one another, or keep generating additional bodies, allowing the deck to rapidly build an absurdly crowded board. Cards sent to the GY or banished are rarely truly gone either, as the mob constantly recycles its members and even attacks using goblins from places they normally couldn’t.\nThe Extra Monster Zone represents the top of the pecking order. The Goblin King, Apparently commands and expands the mob, while Definitely One Goblin becomes increasingly dangerous as more goblins pile together beneath one suspiciously large coat.\nGobMob’s strategy is simple: keep adding goblins until the opponent can no longer figure out where they’re all coming from.",
+      "submittedAt": "2026-09-30 14:54:49",
+      "activatedAt": "2026-09-30 14:54:49",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 2,
+      "extraCount": 2,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -23241,8 +23261,8 @@
         "gamesWon": 59,
         "gamesLost": 94,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 38,
+        "archetypeName": "GobMob"
       },
       {
         "name": "The Original Rough Cheddar",
