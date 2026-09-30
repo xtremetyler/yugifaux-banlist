@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T14:37:54.158Z",
+  "updatedAt": "2026-09-30T14:38:24.108Z",
   "cards": [
     {
       "id": 384,
@@ -3925,8 +3925,8 @@
       "archetype": "Grabbit",
       "archetypeId": 35,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6067053,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067053.jpg",
+      "duelingbookId": 6073898,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073898.jpg",
       "addedAt": "2026-09-30 14:35:57",
       "changedAt": "2026-09-30 14:35:57"
     },
@@ -4024,8 +4024,8 @@
       "archetype": "Grabbit",
       "archetypeId": 35,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6067038,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067038.jpg",
+      "duelingbookId": 6073896,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073896.jpg",
       "addedAt": "2026-09-30 14:35:57",
       "changedAt": "2026-09-30 14:35:57"
     },
@@ -4119,8 +4119,8 @@
       "archetype": "Grabbit",
       "archetypeId": 35,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6067040,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067040.jpg",
+      "duelingbookId": 6073897,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073897.jpg",
       "addedAt": "2026-09-30 14:35:57",
       "changedAt": "2026-09-30 14:35:57"
     },
@@ -12780,8 +12780,8 @@
           "archetype": "Grabbit",
           "archetypeId": 35,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6067053,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067053.jpg",
+          "duelingbookId": 6073898,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073898.jpg",
           "addedAt": "2026-09-30 14:35:57",
           "changedAt": "2026-09-30 14:35:57"
         },
@@ -12879,8 +12879,8 @@
           "archetype": "Grabbit",
           "archetypeId": 35,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6067038,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067038.jpg",
+          "duelingbookId": 6073896,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073896.jpg",
           "addedAt": "2026-09-30 14:35:57",
           "changedAt": "2026-09-30 14:35:57"
         },
@@ -12974,8 +12974,8 @@
           "archetype": "Grabbit",
           "archetypeId": 35,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6067040,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067040.jpg",
+          "duelingbookId": 6073897,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073897.jpg",
           "addedAt": "2026-09-30 14:35:57",
           "changedAt": "2026-09-30 14:35:57"
         },
