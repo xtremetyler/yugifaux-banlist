@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T22:00:46.246Z",
+  "updatedAt": "2026-09-30T22:01:16.224Z",
   "cards": [
     {
       "id": 384,
@@ -23224,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 8,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23315,6 +23315,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071918.jpg",
           "addedAt": "2026-09-30 22:00:28",
           "changedAt": "2026-09-30 22:00:28"
+        },
+        {
+          "id": 401,
+          "name": "GobMob — The Guy With the Ladder",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "300",
+          "def": "1200",
+          "text": "If you control a “GobMob” monster, you can Special Summon this card from your hand. If this card is Normal or Special Summoned to a Spell & Trap Zone: You can Special Summon 1 “GobMob” monster from your hand or GY, except “GobMob — The Guy With the Ladder”. While this card is face-up in your Extra Monster Zone: You can Normal Summon 1 “GobMob” monster in addition to your Normal Summon/Set. You can only use each effect of “GobMob — The Guy With the Ladder” once per turn.",
+          "duelingbookId": 6071964,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071964.jpg",
+          "addedAt": "2026-09-30 22:00:50",
+          "changedAt": "2026-09-30 22:00:50"
+        },
+        {
+          "id": 402,
+          "name": "GobMob — The Guy With the Torch",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "800",
+          "def": "300",
+          "text": "Once per turn, you can target 1 face-up card your opponent controls; banish this card and that target until the End Phase. During the Main Phase, if you control 5 or more “GobMob” monsters (Quick Effect): You can Special Summon this card from your hand, Deck, or GY to one of your Spell & Trap Zones. You can only use this effect of “GobMob – The Guy With the Torch” once per turn.",
+          "duelingbookId": 6072890,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072890.jpg",
+          "addedAt": "2026-09-30 22:01:10",
+          "changedAt": "2026-09-30 22:01:10"
         }
       ]
     }
