@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:32:16.423Z",
+  "updatedAt": "2026-09-30T23:32:46.430Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23629,6 +23629,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072772.jpg",
           "addedAt": "2026-09-30 23:31:53",
           "changedAt": "2026-09-30 23:31:53"
+        },
+        {
+          "id": 420,
+          "name": "Iconic Kill of F.K. - Nancy Thompson",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 4",
+          "atk": "900",
+          "def": "2100",
+          "text": "If this card is Normal or Special Summoned: You can reveal 2 Level 10 or higher Fusion Monsters from your Extra Deck with different Types; add 1 \"Iconic Kill of F.K.\" from your Deck to your hand, except a Warrior monster. If this card in your hand or on your field is destroyed, except by battle: You can target 1 face-up monster your opponent controls; destroy it. You can only use each effect of \"Iconic Kill of F.K. - Nancy Thompson\" once per turn.",
+          "duelingbookId": 6072775,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072775.jpg",
+          "addedAt": "2026-09-30 23:32:30",
+          "changedAt": "2026-09-30 23:32:30"
         }
       ]
     }
