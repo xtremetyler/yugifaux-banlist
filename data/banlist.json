@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T14:36:24.170Z",
+  "updatedAt": "2026-09-30T14:36:54.115Z",
   "cards": [
     {
       "id": 384,
@@ -4153,7 +4153,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Tribute 1 monster you control that you do not own; draw 2 cards. You can only activate 1 “Grabbit! Prize Exchange” per turn.",
+      "text": "Tribute 1 Monster Card you control that you do not own; draw 2 cards. During your opponent's End Phase, while this card is in the GY: You can banish this card to target 1 monster in your opponent's GY; place it face-up in your Spell & Trap Zone as a Continuous Spell. You can only activate each effect of “Grabbit! Prize Exchange” once per turn.",
       "archetype": "Grabbit",
       "archetypeId": 35,
       "contributor": "Edward Swissorhands",
@@ -13008,7 +13008,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Tribute 1 monster you control that you do not own; draw 2 cards. You can only activate 1 “Grabbit! Prize Exchange” per turn.",
+          "text": "Tribute 1 Monster Card you control that you do not own; draw 2 cards. During your opponent's End Phase, while this card is in the GY: You can banish this card to target 1 monster in your opponent's GY; place it face-up in your Spell & Trap Zone as a Continuous Spell. You can only activate each effect of “Grabbit! Prize Exchange” once per turn.",
           "archetype": "Grabbit",
           "archetypeId": 35,
           "contributor": "Edward Swissorhands",
