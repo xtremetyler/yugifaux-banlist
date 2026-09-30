@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:30:16.569Z",
+  "updatedAt": "2026-09-30T23:30:46.393Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23562,6 +23562,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072734.jpg",
           "addedAt": "2026-09-30 23:30:06",
           "changedAt": "2026-09-30 23:30:06"
+        },
+        {
+          "id": 416,
+          "name": "F.K. - King of Nightmares",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Fiend",
+          "abilities": [
+            "Spirit"
+          ],
+          "attribute": "FIRE",
+          "levelRankLink": "Level 13",
+          "atk": "1300",
+          "def": "1300",
+          "text": "2+ Level 4 or lower Effect Monsters with the same Attribute, but different Types and Levels\nMust be Fusion Summoned or Special Summoned by its own effect. You can Special Summon this card (from your Extra Deck) by destroying any number of \"Iconic Kill of F.K.\" cards with different names from your hand and/or field. This card cannot be destroyed by battle and your opponent takes any battle damage you would have taken from battles involving this card. Face-up monsters your opponent controls lose ATK equal to 1300 x the number of monsters sent to the GY to Summon this card from the Extra Deck. This card can attack each monster your opponent controls once. Once per turn, during the End Phase, if this card was Special Summoned from the Extra Deck this turn: Return this card to the Extra Deck, and if you do, you can activate 1 \"Street of Elms in Daytime\" from your Deck or GY. You can only control 1 \"F.K\" Fusion Monster at a time.",
+          "duelingbookId": 6072733,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072733.jpg",
+          "addedAt": "2026-09-30 23:30:34",
+          "changedAt": "2026-09-30 23:30:34"
         }
       ]
     }
