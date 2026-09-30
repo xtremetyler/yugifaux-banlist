@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T21:59:46.569Z",
+  "updatedAt": "2026-09-30T22:00:16.227Z",
   "cards": [
     {
       "id": 384,
@@ -23224,12 +23224,12 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 3,
+      "registeredCardCount": 5,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 0,
-      "totalClauses": 45,
+      "addedClauses": 2,
+      "totalClauses": 47,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -23268,6 +23268,37 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072842.jpg",
           "addedAt": "2026-09-30 21:59:40",
           "changedAt": "2026-09-30 21:59:40"
+        },
+        {
+          "id": 398,
+          "name": "GobMob — The Guy Nobody Invited",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "900",
+          "def": "400",
+          "text": "If you control \"GobMob Brooding Pit\", you can Special Summon this card from your hand or GY, but banish it when it leaves the field. If this card is your top face-up banished “GobMob” monster: You can Special Summon this card, but shuffle it into the Deck when it leaves the field.",
+          "duelingbookId": 6072789,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072789.jpg",
+          "addedAt": "2026-09-30 21:59:52",
+          "changedAt": "2026-09-30 21:59:52"
+        },
+        {
+          "id": 399,
+          "name": "GobMob Brooding Pit",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "While this card is face-up on the field, your Spell & Trap Zones can also be used as Monster Zones for “GobMob” monsters. You can Normal or Special Summon “GobMob” monsters to your Extra Monster Zone. Once per turn, if the top card of your GY or your face-up banishment is a “GobMob” monster: You can declare an attack with that monster as if it were a face-up monster you control. Once per turn, during your Main Phase: You can add 1 \"GobMob\" Monster with a different name from monsters in your GY from your Deck to your hand.\n.",
+          "duelingbookId": 6071900,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071900.jpg",
+          "addedAt": "2026-09-30 22:00:08",
+          "changedAt": "2026-09-30 22:00:08"
         }
       ]
     }
