@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:28:46.358Z",
+  "updatedAt": "2026-09-30T23:29:16.387Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23513,6 +23513,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072776.jpg",
           "addedAt": "2026-09-30 23:28:30",
           "changedAt": "2026-09-30 23:28:30"
+        },
+        {
+          "id": 413,
+          "name": "Street of Elms in Nightmare",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can add 1 Level 4 or lower monster from your Deck to your hand with an effect that activates when it is destroyed, then, if this card was activated by the effect of an Illusion monster, you can destroy 1 random monster on the field, except a Level 10 or higher Fusion Monster. You can only activate this effect of \"Street of Elms in Nightmare\" once per turn. The first time each turn your opponent Normal Summons a monster(s) while you control a face-up Fusion Monster that was Special Summoned by its own effect, change the Normal Summoned monster to face-down Defense Position.",
+          "duelingbookId": 6072720,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072720.jpg",
+          "addedAt": "2026-09-30 23:29:13",
+          "changedAt": "2026-09-30 23:29:13"
         }
       ]
     }
