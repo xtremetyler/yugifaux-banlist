@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:28:16.378Z",
+  "updatedAt": "2026-09-30T23:28:46.358Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23498,6 +23498,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072785.jpg",
           "addedAt": "2026-09-30 23:28:01",
           "changedAt": "2026-09-30 23:28:01"
+        },
+        {
+          "id": 412,
+          "name": "A Legacy of Violence on the Street of Elms",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Activate 1 of the following effects, but you can only activate each of these effects of \"A Legacy of Violence on the Street of Elms\" once per turn.\n● Send 1 \"Street of Elms\" Field Spell from your Deck to your GY; Special Summon 1 \"Iconic Kill of F.K.\" monster from your Deck.\n● Shuffle 1 \"Street of Elms\" Field Spell from your hand into your Deck; add 1 \"Street of Elms\" Spell/Trap from your Deck to your hand, except a Normal or Field Spell.",
+          "duelingbookId": 6072776,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072776.jpg",
+          "addedAt": "2026-09-30 23:28:30",
+          "changedAt": "2026-09-30 23:28:30"
         }
       ]
     }
