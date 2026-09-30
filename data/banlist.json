@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T17:08:54.707Z",
+  "updatedAt": "2026-09-30T17:18:44.375Z",
   "cards": [
     {
       "id": 384,
@@ -12738,7 +12738,7 @@
       "finalAddedClauses": 18,
       "notes": "Welcome to Grabbit Arcade!, the brightest, loudest, and suspiciously well-stocked prize arcade in the city. Its famous claw machines promise that anything can be won with enough coins, enough patience, and just the right grip. Plushies, toys, treasures… even monsters.\nInside each machine, the Grabbit Claws race along their rails searching for the next prize. Precision Claw carefully lines up the perfect grab, Sidewinder Claw slides across the machine to attack from a better angle, and Power Claw is built for those prizes that simply refuse to cooperate. When something particularly valuable appears, Triple Claw makes sure it isn't getting away.\nBut winning the prize is only half the game. Captured monsters are dropped into the arcade's collection, where players can protect them with Strong Grip, trade them in at the Prize Exchange, or send them tumbling through the Prize Chute and onto their own field. Miss the grab? Almost Had It! gives the machine another chance. Opponent standing in the wrong spot? Give the cabinet a Machine Shake and try again.\nAnd towering over the arcade is the ultimate machine: Grabbit Grand Prize Crane, built to snatch the rarest prizes from anywhere within its reach.\nMechanically, Grabbit turns a Duel into one enormous claw machine. Position the Claws, line up the columns, grab the opponent's monsters into the Spell & Trap Zone, and figure out what to do with your newly won prizes.\nAfter all, at Grabbit Arcade, if you can grab it—you can keep it.",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 628,
       "featuredCardName": "Grabbit Arcade!",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073887.jpg",
