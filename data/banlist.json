@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T14:36:54.115Z",
+  "updatedAt": "2026-09-30T14:37:24.048Z",
   "cards": [
     {
       "id": 384,
@@ -3921,7 +3921,7 @@
         "Top-Left",
         "Top-Right"
       ],
-      "text": "2 Machine monsters, including a “Grabbit” monster\nIf this card is Link Summoned: You can add 1 “Grabbit” Spell from your Deck or GY to your hand. During your Main Phase: You can target 1 face-up monster your opponent controls in this card’s column or a column this card points to; place it face-up in your Spell & Trap Zone as a Continuous Spell. If a Monster Card you do not own is Special Summoned from your Spell & Trap Zone to your field: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Grabbit Grand Prize Crane” once per turn.",
+      "text": "2 Machine monsters, including a “Grabbit” monster\nIf this card is Link Summoned: You can add 1 “Grabbit” Spell from your Deck or GY to your hand. During your Main Phase: You can target 1 face-up monster your opponent controls in this card’s column or a column this card points to; place it face-up in your Spell & Trap Zone as a Continuous Spell. If a Monster Card you do not own is Special Summoned from your Spell & Trap Zone to your field: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. This card gains 1000 ATK for each card you own but do not control. If this card would be returned to the hand or Extra Deck by your opponent's card, you can send 1 card you own but do not control to the GY instead.You can only use each effect of “Grabbit Grand Prize Crane” once per turn.",
       "archetype": "Grabbit",
       "archetypeId": 35,
       "contributor": "Edward Swissorhands",
@@ -3945,8 +3945,8 @@
       "archetype": "Grabbit",
       "archetypeId": 35,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6067017,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067017.jpg",
+      "duelingbookId": 6073885,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073885.jpg",
       "addedAt": "2026-09-30 14:35:57",
       "changedAt": "2026-09-30 14:35:57"
     },
@@ -3965,8 +3965,8 @@
       "archetype": "Grabbit",
       "archetypeId": 35,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6067009,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067009.jpg",
+      "duelingbookId": 6073883,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073883.jpg",
       "addedAt": "2026-09-30 14:35:57",
       "changedAt": "2026-09-30 14:35:57"
     },
@@ -3985,8 +3985,8 @@
       "archetype": "Grabbit",
       "archetypeId": 35,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6067014,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067014.jpg",
+      "duelingbookId": 6073884,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073884.jpg",
       "addedAt": "2026-09-30 14:35:57",
       "changedAt": "2026-09-30 14:35:57"
     },
@@ -12776,7 +12776,7 @@
             "Top-Left",
             "Top-Right"
           ],
-          "text": "2 Machine monsters, including a “Grabbit” monster\nIf this card is Link Summoned: You can add 1 “Grabbit” Spell from your Deck or GY to your hand. During your Main Phase: You can target 1 face-up monster your opponent controls in this card’s column or a column this card points to; place it face-up in your Spell & Trap Zone as a Continuous Spell. If a Monster Card you do not own is Special Summoned from your Spell & Trap Zone to your field: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of “Grabbit Grand Prize Crane” once per turn.",
+          "text": "2 Machine monsters, including a “Grabbit” monster\nIf this card is Link Summoned: You can add 1 “Grabbit” Spell from your Deck or GY to your hand. During your Main Phase: You can target 1 face-up monster your opponent controls in this card’s column or a column this card points to; place it face-up in your Spell & Trap Zone as a Continuous Spell. If a Monster Card you do not own is Special Summoned from your Spell & Trap Zone to your field: You can target 1 face-up card your opponent controls; negate its effects until the end of this turn. This card gains 1000 ATK for each card you own but do not control. If this card would be returned to the hand or Extra Deck by your opponent's card, you can send 1 card you own but do not control to the GY instead.You can only use each effect of “Grabbit Grand Prize Crane” once per turn.",
           "archetype": "Grabbit",
           "archetypeId": 35,
           "contributor": "Edward Swissorhands",
@@ -12800,8 +12800,8 @@
           "archetype": "Grabbit",
           "archetypeId": 35,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6067017,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067017.jpg",
+          "duelingbookId": 6073885,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073885.jpg",
           "addedAt": "2026-09-30 14:35:57",
           "changedAt": "2026-09-30 14:35:57"
         },
@@ -12820,8 +12820,8 @@
           "archetype": "Grabbit",
           "archetypeId": 35,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6067009,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067009.jpg",
+          "duelingbookId": 6073883,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073883.jpg",
           "addedAt": "2026-09-30 14:35:57",
           "changedAt": "2026-09-30 14:35:57"
         },
@@ -12840,8 +12840,8 @@
           "archetype": "Grabbit",
           "archetypeId": 35,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6067014,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6067014.jpg",
+          "duelingbookId": 6073884,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073884.jpg",
           "addedAt": "2026-09-30 14:35:57",
           "changedAt": "2026-09-30 14:35:57"
         },
