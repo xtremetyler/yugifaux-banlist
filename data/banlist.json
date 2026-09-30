@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T23:33:46.396Z",
+  "updatedAt": "2026-09-30T23:34:16.367Z",
   "cards": [
     {
       "id": 384,
@@ -23471,7 +23471,7 @@
       "submittedAt": "2026-09-30 23:21:41",
       "activatedAt": "2026-09-30 23:21:41",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23660,6 +23660,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072739.jpg",
           "addedAt": "2026-09-30 23:33:25",
           "changedAt": "2026-09-30 23:33:25"
+        },
+        {
+          "id": 422,
+          "name": "Beware the Boiler Room on the Street of Elms",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "You can only activate this card while you control a face-up Field Spell by targeting a face-up monster you control; destroy that target (except if a FIRE Fusion Monster was targeted to activate this card) and up to 1 other face-up monster on the field (regardless), then, if there is a face-up \"Street of Elms\" Field Spell on either field, Set this card.",
+          "duelingbookId": 6072741,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072741.jpg",
+          "addedAt": "2026-09-30 23:33:51",
+          "changedAt": "2026-09-30 23:33:51"
         }
       ]
     }
