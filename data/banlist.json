@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-09-30T22:02:16.469Z",
+  "updatedAt": "2026-09-30T22:03:16.270Z",
   "cards": [
     {
       "id": 384,
@@ -23224,7 +23224,7 @@
       "submittedAt": "2026-09-30 14:54:49",
       "activatedAt": "2026-09-30 14:54:49",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 13,
       "mainTypes": 2,
       "extraCount": 2,
       "baseClauses": 45,
@@ -23395,6 +23395,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072777.jpg",
           "addedAt": "2026-09-30 22:02:05",
           "changedAt": "2026-09-30 22:02:05"
+        },
+        {
+          "id": 406,
+          "name": "GobMob — The Guy Who Knows Magic",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "300",
+          "def": "1500",
+          "text": "If this card is Normal or Special Summoned: You can send 1 “GobMob” monster from your Deck to the GY, except “GobMob – The Guy Who Knows Magic”. You can only use this effect of “GobMob – The Guy Who Knows Magic” once per turn. Once per turn, when your opponent activates a Spell/Trap Card or effect, while you control 3 or more “GobMob” monsters (Quick Effect): You can banish this card from your field or GY; negate that effect. If this card is in your Extra Monster Zone, you can activate this effect without banishing it.",
+          "duelingbookId": 6072865,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072865.jpg",
+          "addedAt": "2026-09-30 22:02:49",
+          "changedAt": "2026-09-30 22:02:49"
+        },
+        {
+          "id": 407,
+          "name": "GobMob — The Guy With the Bag",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Fiend",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "600",
+          "def": "600",
+          "text": "Once per turn (Quick Effect): You can add 1 “GobMob” monster from your GY or face-up banishment to your hand, except “GobMob — The Guy With the Bag”. (Quick Effect): You can banish this card from your field or GY; Special Summon 1 Level 2 “GobMob” monster from your hand. If this card is in your Extra Monster Zone, you can Special Summon that monster from your GY or banishment instead.",
+          "duelingbookId": 6072894,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072894.jpg",
+          "addedAt": "2026-09-30 22:03:11",
+          "changedAt": "2026-09-30 22:03:11"
         }
       ]
     }
