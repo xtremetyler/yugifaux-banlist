@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T20:48:23.923Z",
+  "updatedAt": "2026-10-01T20:49:23.908Z",
   "cards": [
     {
       "id": 384,
@@ -22691,8 +22691,8 @@
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 8,
-      "totalClauses": 53,
+      "addedClauses": 10,
+      "totalClauses": 55,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22975,11 +22975,11 @@
           "levelRankLink": "Rank 6",
           "atk": "2300",
           "def": "2700",
-          "text": "2 Level 6 Rock Monsters\nIf this card is Xyz Summoned: You can add 1 \"Th'Underhiel\" Equip Spell from your Deck to your hand. Once per turn (Quick Effect): You can detach 1 Material from this card, then target 1 face-up Monster you control; until the end of this turn, that target's Level and original Level become 11, also you can treat it as 2 Materials for the Xyz Summon of a \"Th'Underhiel\" Monster this turn. You can only use each effect of \"Mænagrgr of Th’Underhiel\" once per turn.",
+          "text": "2 Level 6 Rock Monsters\nIf this card is Xyz Summoned: You can add 1 \"Th'Underhiel\" Equip Spell from your Deck to your hand, then, if you control no Rank 11 Xyz Monsters, you can send 1 \"Th'Underhiel\" Monster from your Deck to your GY. While Xyz Summoning a Rank 11 \"Th'Underhiel\" Monster, you can treat this card you control as a Level 11 Monster. Once per turn (Quick Effect): You can detach 1 Material from this card, then target 1 face-up Monster you control; until the end of this turn, that target's Level and original Level become 11, also you can treat it as 2 Materials for the Xyz Summon of a \"Th'Underhiel\" Monster this turn. You can only use each effect of \"Mænagrgr of Th’Underhiel\" once per turn.",
           "duelingbookId": 6071345,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071345.jpg",
           "addedAt": "2026-09-28 20:32:23",
-          "changedAt": "2026-09-29 04:15:21"
+          "changedAt": "2026-10-01 20:49:09"
         }
       ]
     },
