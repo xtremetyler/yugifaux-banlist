@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T15:25:28.335Z",
+  "updatedAt": "2026-10-01T15:25:58.322Z",
   "cards": [
     {
       "id": 384,
@@ -4083,7 +4083,7 @@
     {
       "id": 632,
       "name": "Grabbit! Extra Credit",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -4097,12 +4097,12 @@
       "duelingbookId": 6073891,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073891.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:45"
     },
     {
       "id": 629,
       "name": "Grabbit! Insert Coin",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -4116,12 +4116,12 @@
       "duelingbookId": 6073888,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073888.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:30"
     },
     {
       "id": 630,
       "name": "Grabbit! Joystick",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -4135,12 +4135,12 @@
       "duelingbookId": 6073889,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073889.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:36"
     },
     {
       "id": 631,
       "name": "Grabbit! Machine Shake",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -4154,7 +4154,7 @@
       "duelingbookId": 6073890,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073890.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:40"
     },
     {
       "id": 637,
@@ -4216,7 +4216,7 @@
     {
       "id": 633,
       "name": "Grabbit! Strong Grip",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -4230,7 +4230,7 @@
       "duelingbookId": 6073893,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073893.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:52"
     },
     {
       "id": 542,
@@ -12938,7 +12938,7 @@
         {
           "id": 632,
           "name": "Grabbit! Extra Credit",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -12952,12 +12952,12 @@
           "duelingbookId": 6073891,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073891.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:45"
         },
         {
           "id": 629,
           "name": "Grabbit! Insert Coin",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -12971,12 +12971,12 @@
           "duelingbookId": 6073888,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073888.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:30"
         },
         {
           "id": 630,
           "name": "Grabbit! Joystick",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -12990,12 +12990,12 @@
           "duelingbookId": 6073889,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073889.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:36"
         },
         {
           "id": 631,
           "name": "Grabbit! Machine Shake",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -13009,7 +13009,7 @@
           "duelingbookId": 6073890,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073890.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:40"
         },
         {
           "id": 637,
@@ -13071,7 +13071,7 @@
         {
           "id": 633,
           "name": "Grabbit! Strong Grip",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -13085,7 +13085,7 @@
           "duelingbookId": 6073893,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073893.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:52"
         }
       ]
     },
