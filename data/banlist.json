@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T05:15:25.675Z",
+  "updatedAt": "2026-10-01T06:04:55.487Z",
   "cards": [
     {
       "id": 384,
@@ -23731,7 +23731,7 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 73,
+    "confirmedMatchCount": 74,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
@@ -23771,30 +23771,40 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 28,
-        "lifetimePoints": 56,
-        "matchWins": 5,
+        "balance": 32,
+        "lifetimePoints": 60,
+        "matchWins": 6,
         "matchLosses": 6,
-        "gamesWon": 11,
-        "gamesLost": 14,
+        "gamesWon": 13,
+        "gamesLost": 15,
         "gamesDrawn": 0,
         "archetypeId": 31,
         "archetypeName": "Ancient Ritual"
       },
       {
         "name": "forgoudaboutit",
-        "balance": 15,
-        "lifetimePoints": 30,
+        "balance": 17,
+        "lifetimePoints": 32,
         "matchWins": 0,
-        "matchLosses": 0,
-        "gamesWon": 0,
-        "gamesLost": 0,
+        "matchLosses": 1,
+        "gamesWon": 1,
+        "gamesLost": 2,
         "gamesDrawn": 0,
         "archetypeId": 39,
         "archetypeName": "Street of Elms"
       }
     ],
     "recentMatches": [
+      {
+        "id": 77,
+        "confirmedAt": "2026-10-01 06:04:39",
+        "reporter": "Brielieve In Cheesus",
+        "opponent": "forgoudaboutit",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Ancient Ritual",
+        "opponentArchetype": "Street of Elms"
+      },
       {
         "id": 76,
         "confirmedAt": "2026-10-01 03:14:43",
@@ -23864,19 +23874,19 @@
         "opponentGames": 2,
         "reporterArchetype": "Beyond Life",
         "opponentArchetype": "Berdz"
-      },
-      {
-        "id": 68,
-        "confirmedAt": "2026-09-28 16:47:22",
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "Edward Swissorhands",
-        "reporterGames": 2,
-        "opponentGames": 0,
-        "reporterArchetype": "Beyond Life",
-        "opponentArchetype": "Grabbit"
       }
     ],
     "matchHistory": [
+      {
+        "id": 77,
+        "confirmedAt": "2026-10-01 06:04:39",
+        "reporter": "Brielieve In Cheesus",
+        "opponent": "forgoudaboutit",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Ancient Ritual",
+        "opponentArchetype": "Street of Elms"
+      },
       {
         "id": 76,
         "confirmedAt": "2026-10-01 03:14:43",
