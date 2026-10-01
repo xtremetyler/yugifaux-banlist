@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T16:58:53.222Z",
+  "updatedAt": "2026-10-01T16:59:23.239Z",
   "cards": [
     {
       "id": 384,
@@ -22426,8 +22426,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 15,
-      "totalClauses": 60,
+      "addedClauses": 16,
+      "totalClauses": 61,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22654,11 +22654,11 @@
           "levelRankLink": "Rank 0",
           "atk": "0",
           "def": "0",
-          "text": "2+ Level 4 or lower Plant, Zombie, and/or Fiend Monsters with different Attributes\n(This card's original Rank is always treated as 1.)\nThis card gains 500 ATK/DEF for each \"Ancient Ritual Material\" Monster in your GY. While you are Ritual Summoning a monster, you can use this card as the entire Tribute. \nOnce per turn (Quick Effect): You can detach 1 material from this card; send the top 3 cards from your Deck to the GY. If this card leaves the field by your opponent's card: You can add up to 2 \"Ancient Ritual Material\" Monsters with different names from your GY to your hand, except \"Ancient Ritual Material Golem\".",
+          "text": "2+ Level 4 or lower Plant, Zombie, and/or Fiend Monsters with different Attributes\n(This card's original Rank is always treated as 1.)\nThis XYZ summoned monster you control is unaffected by the effects of cards in your opponent's GY\nThis card gains 500 ATK/DEF for each \"Ancient Ritual Material\" Monster in your GY. While you are Ritual Summoning a monster, you can use this card as the entire Tribute. \nOnce per turn (Quick Effect): You can detach 1 material from this card; send the top 3 cards from your Deck to the GY. If this card leaves the field by your opponent's card: You can add up to 2 \"Ancient Ritual Material\" Monsters with different names from your GY to your hand, except \"Ancient Ritual Material Golem\".",
           "duelingbookId": 6027022,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6027022.jpg",
           "addedAt": "2026-09-11 15:38:28",
-          "changedAt": "2026-10-01 03:29:55"
+          "changedAt": "2026-10-01 16:59:10"
         },
         {
           "id": 300,
