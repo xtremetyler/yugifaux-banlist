@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T16:42:53.191Z",
+  "updatedAt": "2026-10-01T16:58:53.222Z",
   "cards": [
     {
       "id": 384,
@@ -22426,8 +22426,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 14,
-      "totalClauses": 59,
+      "addedClauses": 15,
+      "totalClauses": 60,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22553,11 +22553,11 @@
           "levelRankLink": "Level 3",
           "atk": "1000",
           "def": "1000",
-          "text": "If this card is Tributed to Ritual Summon a Monster: You can pay 500 LP; add this card to your hand, and if you do, Special Summon 1 \"Ancient Ritual Material Smoke Wisp Token\" (Pyro/EARTH/Level 3/0 ATK/0 DEF). \nDuring your Main Phase, while this card is in your GY: You can banish this card; Special Summon 1 \"Ancient Ritual Material Smoke Wisp Token\" (Pyro/EARTH/Level 3/0 ATK/0 DEF).",
+          "text": "If this card is excavated or Tributed to Ritual Summon a Monster: You can pay 500 LP; add this card to your hand, and if you do, Special Summon 1 \"Ancient Ritual Material Smoke Wisp Token\" (Pyro/EARTH/Level 3/0 ATK/0 DEF), then you can shuffle 1 Synchro monster from your GY or Banishment into your Extra Deck.\nDuring your Main Phase, while this card is in your GY: You can banish this card; Special Summon 1 \"Ancient Ritual Material Smoke Wisp Token\" (Pyro/EARTH/Level 3/0 ATK/0 DEF).",
           "duelingbookId": 6026815,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6026815.jpg",
           "addedAt": "2026-09-11 15:36:12",
-          "changedAt": "2026-09-15 04:02:38"
+          "changedAt": "2026-10-01 16:58:25"
         },
         {
           "id": 265,
