@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T02:34:48.257Z",
+  "updatedAt": "2026-10-01T02:39:18.257Z",
   "cards": [
     {
       "id": 384,
@@ -320,6 +320,32 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5972256.jpg",
       "addedAt": "2026-09-07 04:04:48",
       "changedAt": "2026-09-09 15:36:54"
+    },
+    {
+      "id": 640,
+      "name": "Accesscode Talker",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Link Monster",
+      "monsterType": "Cyberse",
+      "attribute": "DARK",
+      "levelRankLink": "Link 4",
+      "atk": "2300",
+      "linkMarkers": [
+        "Top",
+        "Left",
+        "Right",
+        "Bottom"
+      ],
+      "text": "2+ Effect Monsters\r\nYour opponent cannot activate cards or effects in response to this card's effect activations. If this card is Link Summoned: You can target 1 Link Monster that was used as material for its Link Summon; this card gains ATK equal to that monster's Link Rating x 1000. You can banish 1 Link Monster from your field or GY; destroy 1 card your opponent controls, also for the rest of this turn, you cannot banish monsters with that same Attribute to activate this effect of \"Accesscode Talker\".",
+      "archetype": "Code Talker",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "86066372",
+      "duelingbookId": 10606,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/86066372.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/accesscode-talker-10731",
+      "addedAt": "2026-10-01 02:38:59",
+      "changedAt": "2026-10-01 02:38:59"
     },
     {
       "id": 596,
@@ -23733,7 +23759,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 12,
+        "balance": 5,
         "lifetimePoints": 192,
         "matchWins": 17,
         "matchLosses": 16,
