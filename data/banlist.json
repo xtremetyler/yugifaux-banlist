@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T15:21:58.442Z",
+  "updatedAt": "2026-10-01T15:24:58.308Z",
   "cards": [
     {
       "id": 384,
@@ -4004,7 +4004,7 @@
     {
       "id": 624,
       "name": "Grabbit Precision Claw",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
@@ -4019,7 +4019,7 @@
       "duelingbookId": 6073883,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073883.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:24:46"
     },
     {
       "id": 625,
@@ -12859,7 +12859,7 @@
         {
           "id": 624,
           "name": "Grabbit Precision Claw",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Machine",
@@ -12874,7 +12874,7 @@
           "duelingbookId": 6073883,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073883.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:24:46"
         },
         {
           "id": 625,
