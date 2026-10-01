@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T01:14:48.470Z",
+  "updatedAt": "2026-10-01T01:26:48.198Z",
   "cards": [
     {
       "id": 384,
@@ -3257,6 +3257,31 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5940516.jpg",
       "addedAt": "2026-07-31 03:49:24",
       "changedAt": "2026-07-31 03:49:24"
+    },
+    {
+      "id": 639,
+      "name": "Excode Talker",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Link Monster",
+      "monsterType": "Cyberse",
+      "attribute": "WIND",
+      "levelRankLink": "Link 3",
+      "atk": "2300",
+      "linkMarkers": [
+        "Top",
+        "Left",
+        "Right"
+      ],
+      "text": "2+ Cyberse monsters\r\nWhen this card is Link Summoned: You can choose unused Main Monster Zones equal to the number of monsters currently in the Extra Monster Zones; those zones cannot be used while this monster is face-up on the field. You can only use this effect of \"Excode Talker\" once per turn. Monsters this card points to gain 500 ATK, also they cannot be destroyed by card effects.",
+      "archetype": "Code Talker",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "40669071",
+      "duelingbookId": 8981,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/40669071.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/excode-talker-8819",
+      "addedAt": "2026-10-01 01:26:42",
+      "changedAt": "2026-10-01 01:26:42"
     },
     {
       "id": 553,
@@ -23708,7 +23733,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 20,
+        "balance": 13,
         "lifetimePoints": 185,
         "matchWins": 17,
         "matchLosses": 16,
