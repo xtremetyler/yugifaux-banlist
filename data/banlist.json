@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T15:25:58.322Z",
+  "updatedAt": "2026-10-01T15:26:28.325Z",
   "cards": [
     {
       "id": 384,
@@ -3961,7 +3961,7 @@
     {
       "id": 638,
       "name": "Grabbit Grand Prize Crane",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Link Monster",
       "monsterType": "Machine",
@@ -3979,7 +3979,7 @@
       "duelingbookId": 6073898,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073898.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:26:22"
     },
     {
       "id": 626,
@@ -4064,7 +4064,7 @@
     {
       "id": 636,
       "name": "Grabbit! Almost Had It!",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -4078,7 +4078,7 @@
       "duelingbookId": 6073896,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073896.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:26:17"
     },
     {
       "id": 632,
@@ -4159,7 +4159,7 @@
     {
       "id": 637,
       "name": "Grabbit! Out of Order!",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -4173,12 +4173,12 @@
       "duelingbookId": 6073897,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073897.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:26:19"
     },
     {
       "id": 635,
       "name": "Grabbit! Prize Chute",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -4192,12 +4192,12 @@
       "duelingbookId": 6073895,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073895.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:26:14"
     },
     {
       "id": 634,
       "name": "Grabbit! Prize Exchange",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -4211,7 +4211,7 @@
       "duelingbookId": 6073894,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073894.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:26:08"
     },
     {
       "id": 633,
@@ -12816,7 +12816,7 @@
         {
           "id": 638,
           "name": "Grabbit Grand Prize Crane",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Link Monster",
           "monsterType": "Machine",
@@ -12834,7 +12834,7 @@
           "duelingbookId": 6073898,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073898.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:26:22"
         },
         {
           "id": 626,
@@ -12919,7 +12919,7 @@
         {
           "id": 636,
           "name": "Grabbit! Almost Had It!",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Continuous",
@@ -12933,7 +12933,7 @@
           "duelingbookId": 6073896,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073896.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:26:17"
         },
         {
           "id": 632,
@@ -13014,7 +13014,7 @@
         {
           "id": 637,
           "name": "Grabbit! Out of Order!",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -13028,12 +13028,12 @@
           "duelingbookId": 6073897,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073897.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:26:19"
         },
         {
           "id": 635,
           "name": "Grabbit! Prize Chute",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Continuous",
@@ -13047,12 +13047,12 @@
           "duelingbookId": 6073895,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073895.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:26:14"
         },
         {
           "id": 634,
           "name": "Grabbit! Prize Exchange",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -13066,7 +13066,7 @@
           "duelingbookId": 6073894,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073894.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:26:08"
         },
         {
           "id": 633,
