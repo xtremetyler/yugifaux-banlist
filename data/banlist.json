@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T15:24:58.308Z",
+  "updatedAt": "2026-10-01T15:25:28.335Z",
   "cards": [
     {
       "id": 384,
@@ -3942,7 +3942,7 @@
     {
       "id": 628,
       "name": "Grabbit Arcade!",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -3956,7 +3956,7 @@
       "duelingbookId": 6073887,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073887.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:26"
     },
     {
       "id": 638,
@@ -3984,7 +3984,7 @@
     {
       "id": 626,
       "name": "Grabbit Power Claw",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
@@ -3999,7 +3999,7 @@
       "duelingbookId": 6073885,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073885.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:19"
     },
     {
       "id": 624,
@@ -4024,7 +4024,7 @@
     {
       "id": 625,
       "name": "Grabbit Sidewinder Claw",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
@@ -4039,12 +4039,12 @@
       "duelingbookId": 6073884,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073884.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:13"
     },
     {
       "id": 627,
       "name": "Grabbit Triple Claw",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Machine",
@@ -4059,7 +4059,7 @@
       "duelingbookId": 6073886,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073886.jpg",
       "addedAt": "2026-09-30 14:35:57",
-      "changedAt": "2026-09-30 14:35:57"
+      "changedAt": "2026-10-01 15:25:22"
     },
     {
       "id": 636,
@@ -12797,7 +12797,7 @@
         {
           "id": 628,
           "name": "Grabbit Arcade!",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -12811,7 +12811,7 @@
           "duelingbookId": 6073887,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073887.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:26"
         },
         {
           "id": 638,
@@ -12839,7 +12839,7 @@
         {
           "id": 626,
           "name": "Grabbit Power Claw",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Machine",
@@ -12854,7 +12854,7 @@
           "duelingbookId": 6073885,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073885.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:19"
         },
         {
           "id": 624,
@@ -12879,7 +12879,7 @@
         {
           "id": 625,
           "name": "Grabbit Sidewinder Claw",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Machine",
@@ -12894,12 +12894,12 @@
           "duelingbookId": 6073884,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073884.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:13"
         },
         {
           "id": 627,
           "name": "Grabbit Triple Claw",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Machine",
@@ -12914,7 +12914,7 @@
           "duelingbookId": 6073886,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6073886.jpg",
           "addedAt": "2026-09-30 14:35:57",
-          "changedAt": "2026-09-30 14:35:57"
+          "changedAt": "2026-10-01 15:25:22"
         },
         {
           "id": 636,
