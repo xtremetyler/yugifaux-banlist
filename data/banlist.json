@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-01T03:19:18.330Z",
+  "updatedAt": "2026-10-01T03:23:18.422Z",
   "cards": [
     {
       "id": 384,
@@ -22426,8 +22426,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 12,
-      "totalClauses": 57,
+      "addedClauses": 13,
+      "totalClauses": 58,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -22589,13 +22589,13 @@
           ],
           "attribute": "FIRE",
           "levelRankLink": "Level 5",
-          "atk": "3000",
-          "def": "3000",
+          "atk": "2300",
+          "def": "1300",
           "text": "This card can be Ritual Summoned by an \"Ancient Ritual\" card. \nIf this card is Ritual Summoned: You can add 1 \"Ancient Ritual Material\" Monster from your Deck or GY to your hand. \nOnce per turn, during your Battle Phase (Quick Effect): You can send 1 other \"Ancient Ritual\" card from your hand or field to the GY, except a Ritual Monster, to target 1 face-up Monster on the field; destroy it.",
           "duelingbookId": 6026895,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6026895.jpg",
           "addedAt": "2026-09-11 15:36:59",
-          "changedAt": "2026-09-11 15:36:59"
+          "changedAt": "2026-10-01 03:23:08"
         },
         {
           "id": 267,
