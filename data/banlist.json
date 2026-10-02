@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-02T13:05:34.960Z",
+  "updatedAt": "2026-10-02T13:12:05.014Z",
   "cards": [
     {
       "id": 384,
@@ -8269,7 +8269,7 @@
     {
       "id": 49,
       "name": "Pot of Duality",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -8282,7 +8282,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/98645731.jpg",
       "officialUrl": "https://ygoprodeck.com/card/pot-of-duality-8196",
       "addedAt": "2026-07-29 05:02:51",
-      "changedAt": "2026-07-29 05:02:51"
+      "changedAt": "2026-10-02 13:11:58"
     },
     {
       "id": 35,
@@ -9770,7 +9770,7 @@
     {
       "id": 367,
       "name": "Skull Meister",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -9785,7 +9785,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/67750322.jpg",
       "officialUrl": "https://ygoprodeck.com/card/skull-meister-5691",
       "addedAt": "2026-09-02 17:12:19",
-      "changedAt": "2026-09-02 17:12:19"
+      "changedAt": "2026-10-02 13:11:58"
     },
     {
       "id": 169,
@@ -10448,7 +10448,7 @@
     {
       "id": 389,
       "name": "Strange Seneschal of the Purp-eL Inversion",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Pendulum Synchro Monster",
       "monsterType": "Wyrm",
@@ -10465,7 +10465,7 @@
       "duelingbookId": 6029738,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029738.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-05 06:23:05"
+      "changedAt": "2026-10-02 13:11:59"
     },
     {
       "id": 550,
@@ -16661,7 +16661,7 @@
         {
           "id": 389,
           "name": "Strange Seneschal of the Purp-eL Inversion",
-          "status": "semi-limeade",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Pendulum Synchro Monster",
           "monsterType": "Wyrm",
@@ -16678,7 +16678,7 @@
           "duelingbookId": 6029738,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029738.jpg",
           "addedAt": "2026-09-04 16:46:47",
-          "changedAt": "2026-09-05 06:23:05"
+          "changedAt": "2026-10-02 13:11:59"
         },
         {
           "id": 379,
@@ -23735,7 +23735,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 15,
+        "balance": 5,
         "lifetimePoints": 395,
         "matchWins": 33,
         "matchLosses": 22,
