@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-02T15:41:08.357Z",
+  "updatedAt": "2026-10-02T16:22:08.484Z",
   "cards": [
     {
       "id": 384,
@@ -1768,6 +1768,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059732.jpg",
       "addedAt": "2026-09-22 02:33:45",
       "changedAt": "2026-09-22 16:45:36"
+    },
+    {
+      "id": 641,
+      "name": "Call From Beyond the Grave",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Quick-Play",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "Activate 1 of these effects.\n● Target 1 monster in your opponent’s GY; banish it.\n● Target 1 of your opponent’s banished monsters; send it to the GY.\nThen, until the end of the next turn, negate that monster’s effects, also negate the activated effects and effects on the field of monsters with the same original name.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6077122,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077122.jpg",
+      "addedAt": "2026-10-02 16:21:46",
+      "changedAt": "2026-10-02 16:21:46"
     },
     {
       "id": 27,
@@ -23747,7 +23765,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 24,
+        "balance": 15,
         "lifetimePoints": 303,
         "matchWins": 19,
         "matchLosses": 27,
