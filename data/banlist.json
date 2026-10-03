@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T02:44:36.938Z",
+  "updatedAt": "2026-10-03T02:55:36.760Z",
   "cards": [
     {
       "id": 384,
@@ -11572,6 +11572,23 @@
       "officialUrl": "https://ygoprodeck.com/card/trap-trick-9620",
       "addedAt": "2026-07-29 04:53:07",
       "changedAt": "2026-07-29 04:53:07"
+    },
+    {
+      "id": 657,
+      "name": "Traptantalizing Tune",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Discard 1 Level 4 Insect or Plant monster, or 1 Normal Trap; draw 2 cards. You can banish this card from your GY, then target 1 of your banished Level 4 Insect or Plant monsters, or Normal Traps; place it on the bottom of the Deck. You can only use each effect of \"Traptantalizing Tune\" once per turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "48805472",
+      "duelingbookId": 13776,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/48805472.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/traptantalizing-tune-13595",
+      "addedAt": "2026-10-03 02:55:35",
+      "changedAt": "2026-10-03 02:55:35"
     },
     {
       "id": 511,
@@ -24107,7 +24124,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 9,
+        "balance": 2,
         "lifetimePoints": 399,
         "matchWins": 34,
         "matchLosses": 22,
