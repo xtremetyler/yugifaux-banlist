@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:44:36.797Z",
+  "updatedAt": "2026-10-03T03:45:06.809Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24155,6 +24155,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071779.jpg",
           "addedAt": "2026-10-03 03:44:20",
           "changedAt": "2026-10-03 03:44:20"
+        },
+        {
+          "id": 424,
+          "name": "WeyYu Deep Space Newborn",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Insect",
+          "abilities": [
+            "Tuner",
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 2",
+          "atk": "500",
+          "def": "1000",
+          "text": "FLIP: You can target 1 Spell/Trap on the field; destroy it.\nIf this face-down monster is flipped face-up during the Battle Phase (including the Damage Step): You can add 1 \"WeyYu\" monster from your Deck to your hand, except \"WeyYu Deep Space Newborn\".",
+          "duelingbookId": 6071859,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071859.jpg",
+          "addedAt": "2026-10-03 03:44:49",
+          "changedAt": "2026-10-03 03:44:49"
         }
       ]
     }
