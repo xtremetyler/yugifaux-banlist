@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:38:06.780Z",
+  "updatedAt": "2026-10-03T03:44:36.797Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24136,7 +24136,27 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 423,
+      "featuredCardName": "WeyYu Unhelpful Synth",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071779.jpg",
+      "cards": [
+        {
+          "id": 423,
+          "name": "WeyYu Unhelpful Synth",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Cyberse",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 2",
+          "atk": "0",
+          "def": "1000",
+          "text": "During your Main Phase: You can reveal this card in your hand; Special Summon it to your opponent's field, and if you do, you can add 1 \"WeyYu\" Spell from your Deck to your hand. \nWhile you control this face-up card and your opponent controls a face-down monster, negate the first effect you activate each turn. \nThis card must attack a face-down monster during each of your Battle Phases, if able.",
+          "duelingbookId": 6071779,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071779.jpg",
+          "addedAt": "2026-10-03 03:44:20",
+          "changedAt": "2026-10-03 03:44:20"
+        }
+      ]
     }
   ],
   "dashboard": {
