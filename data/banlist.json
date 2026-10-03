@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:49:36.794Z",
+  "updatedAt": "2026-10-03T04:06:06.882Z",
   "cards": [
     {
       "id": 384,
@@ -10785,6 +10785,30 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029738.jpg",
       "addedAt": "2026-09-04 16:46:47",
       "changedAt": "2026-10-02 13:11:59"
+    },
+    {
+      "id": 658,
+      "name": "Subterror Behemoth Fiendess",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Link Monster",
+      "monsterType": "Wyrm",
+      "attribute": "EARTH",
+      "levelRankLink": "Link 2",
+      "atk": "2000",
+      "linkMarkers": [
+        "Bottom-Left",
+        "Bottom-Right"
+      ],
+      "text": "2 Flip monsters\r\nGains ATK equal to the combined original Levels of the \"Subterror\" monsters used for its Link Summon x 100. During your Main Phase: You can send 1 Flip monster from your Deck to the GY, and if you do, Special Summon 1 monster from your hand in face-down Defense Position to your zone this card points to. You can only use this effect of \"Subterror Behemoth Fiendess\" once per turn. Once per turn, if a monster this card points to is flipped face-up: Add 1 Flip monster from your Deck or GY to your hand.",
+      "archetype": "Subterror",
+      "contributor": "Brielieve In Cheesus",
+      "passcode": "74937659",
+      "duelingbookId": 8922,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/74937659.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/subterror-behemoth-fiendess-8756",
+      "addedAt": "2026-10-03 04:05:50",
+      "changedAt": "2026-10-03 04:05:50"
     },
     {
       "id": 550,
@@ -24388,7 +24412,7 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 46,
+        "balance": 39,
         "lifetimePoints": 74,
         "matchWins": 6,
         "matchLosses": 7,
