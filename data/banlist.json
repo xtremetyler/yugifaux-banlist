@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:49:06.841Z",
+  "updatedAt": "2026-10-03T03:49:36.794Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24327,6 +24327,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071912.jpg",
           "addedAt": "2026-10-03 03:49:06",
           "changedAt": "2026-10-03 03:49:06"
+        },
+        {
+          "id": 434,
+          "name": "WeyYu Perfect Organism Brood Mother",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Insect",
+          "attribute": "DARK",
+          "levelRankLink": "Level 9",
+          "atk": "3000",
+          "def": "2500",
+          "text": "Must first be Fusion Summoned, or Special Summoned by destroying the above cards you control (face-up and/or face-down). \nIf a face-down Insect monster you control is flipped face-up, while you control this face-up card: You can draw 1 card. \nIf this card and/or another face-up Insect monster(s) you control is sent to the GY by your opponent's card: You can target 1 Flip Monster in your GY; Special Summon it in face-down Defense Position. You can only use this effect of \"WeyYu Perfect Organism Brood Mother\" once per turn.",
+          "duelingbookId": 6071811,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071811.jpg",
+          "addedAt": "2026-10-03 03:49:29",
+          "changedAt": "2026-10-03 03:49:29"
         }
       ]
     }
