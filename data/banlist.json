@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:46:36.850Z",
+  "updatedAt": "2026-10-03T03:47:06.809Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24233,6 +24233,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071855.jpg",
           "addedAt": "2026-10-03 03:46:08",
           "changedAt": "2026-10-03 03:46:08"
+        },
+        {
+          "id": 428,
+          "name": "WeyYu Mysterious Alien Slime",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If a face-down Flip Monster you control is flipped face-up: You can apply its Flip effect as this effect.\nOnce per turn, during your Main Phase: You can reveal 1 Flip Monster from your Deck; Special Summon it in face-down Defense Position.",
+          "duelingbookId": 6071795,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071795.jpg",
+          "addedAt": "2026-10-03 03:46:40",
+          "changedAt": "2026-10-03 03:46:40"
         }
       ]
     }
