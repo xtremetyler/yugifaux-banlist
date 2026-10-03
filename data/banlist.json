@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:48:36.808Z",
+  "updatedAt": "2026-10-03T03:49:06.841Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 9,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24293,6 +24293,40 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072001.jpg",
           "addedAt": "2026-10-03 03:48:13",
           "changedAt": "2026-10-03 03:48:13"
+        },
+        {
+          "id": 432,
+          "name": "WeyYu Engineered Trait: Unnatural Resistances",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Counter",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When your opponent activates a card or effect that includes an effect that would either destroy or banish a face-down Defense Position monster you control: Negate that activation, and if you do, face-down cards you control and cards equipped with a \"WeyYu\" card cannot be destroyed or banished by card effects until your next Standby Phase.",
+          "duelingbookId": 6071789,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071789.jpg",
+          "addedAt": "2026-10-03 03:48:36",
+          "changedAt": "2026-10-03 03:48:36"
+        },
+        {
+          "id": 433,
+          "name": "WeyYu Perfect Organism Ambush Hunter",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Insect",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Rank 4",
+          "atk": "2500",
+          "def": "1000",
+          "text": "2+ Level 4 Flip Monsters (face-up and/or face-down)\nDuring the Main Phase (Quick Effect): You can detach 1 Flip Monster attached to his card as material from this card; apply the detached monster's Flip effect as this effect, and if you do, you can Special Summon the detached monster in face-down Defense Position.\nIf a face-down Insect monster you control is flipped face-up, while you control this face-up card: You can pay 500 LP, then return the flipped monster to your hand; Special Summon 1 monster from your hand in face-down Defense Position. You can only activate each effect of \"WeyYu Perfect Organism Ambush Hunter\" once per turn.",
+          "duelingbookId": 6071912,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071912.jpg",
+          "addedAt": "2026-10-03 03:49:06",
+          "changedAt": "2026-10-03 03:49:06"
         }
       ]
     }
