@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T04:06:06.882Z",
+  "updatedAt": "2026-10-03T09:36:45.002Z",
   "cards": [
     {
       "id": 384,
@@ -13149,7 +13149,7 @@
       "finalAddedClauses": 20,
       "notes": "Summonin' demons since 1666",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 656,
       "featuredCardName": "Ancient Ritual Decrepit Elder Matron",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077874.jpg",
