@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:46:06.818Z",
+  "updatedAt": "2026-10-03T03:46:36.850Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24213,6 +24213,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071969.jpg",
           "addedAt": "2026-10-03 03:45:49",
           "changedAt": "2026-10-03 03:45:49"
+        },
+        {
+          "id": 427,
+          "name": "WeyYu Deep Space Hunter",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Insect",
+          "abilities": [
+            "Tuner",
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "1500",
+          "def": "1500",
+          "text": "FLIP: You can target 1 monster on the field; destroy it.\nIf this face-down monster is flipped face-up during the Battle Phase (including the Damage Step): Negate the effects of each face-up monster your opponent controls, then end the Battle Phase.",
+          "duelingbookId": 6071855,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071855.jpg",
+          "addedAt": "2026-10-03 03:46:08",
+          "changedAt": "2026-10-03 03:46:08"
         }
       ]
     }
