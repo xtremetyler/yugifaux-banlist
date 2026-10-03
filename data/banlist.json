@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T02:55:36.760Z",
+  "updatedAt": "2026-10-03T02:56:36.828Z",
   "cards": [
     {
       "id": 384,
@@ -23915,8 +23915,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 4,
-      "totalClauses": 49,
+      "addedClauses": 5,
+      "totalClauses": 50,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -24032,11 +24032,11 @@
           "levelRankLink": "Level 1",
           "atk": "300",
           "def": "900",
-          "text": "If this card in your hand or on your field is destroyed, except by battle: You can add it to your hand during the End Phase. You can only activate this effect of \"Iconic Kill of F.K. - Glen Lantz\" once per turn.",
+          "text": "While you control this face-up card and \"Street of Elms in Daytime\", you can Special Summon \"F.K.\" Fusion Monsters from your Extra Deck by their own effects during either player's turn as a Quick Effect. If this card in your hand or on your field is destroyed, except by battle: You can add it to your hand during the End Phase. You can only activate this effect of \"Iconic Kill of F.K. - Glen Lantz\" once per turn.",
           "duelingbookId": 6072762,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072762.jpg",
           "addedAt": "2026-09-30 23:31:00",
-          "changedAt": "2026-10-01 20:29:16"
+          "changedAt": "2026-10-03 02:56:26"
         },
         {
           "id": 418,
