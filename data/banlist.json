@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:48:06.814Z",
+  "updatedAt": "2026-10-03T03:48:36.808Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24278,6 +24278,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071899.jpg",
           "addedAt": "2026-10-03 03:47:43",
           "changedAt": "2026-10-03 03:47:43"
+        },
+        {
+          "id": 431,
+          "name": "WeyYu Engineered Trait: Hivemind",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Monsters your opponent controls must attack face-down monsters you control during each Battle Phase, if able.\nOnce per turn, if a face-down monster you control is flipped face-up during the Battle Phase (including the Damage Step): You can pay 500 LP to target 1 face-down monster you control; flip it face-up. \nWhen a monster you control becomes the target of your opponent's card or effect: You can pay 500 LP; change the target of that card or effect to 1 other appropriate face-down monster you control, and if you do, flip that new target face-up, then immediately after this effect resolves, apply the new target's Flip effect, if able. You can only use this effect of \"WeyYu Engineered Trait: Hivemind\" once per turn.",
+          "duelingbookId": 6072001,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072001.jpg",
+          "addedAt": "2026-10-03 03:48:13",
+          "changedAt": "2026-10-03 03:48:13"
         }
       ]
     }
