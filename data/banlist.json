@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T02:40:36.798Z",
+  "updatedAt": "2026-10-03T02:41:06.764Z",
   "cards": [
     {
       "id": 384,
@@ -22444,8 +22444,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 16,
-      "totalClauses": 61,
+      "addedClauses": 20,
+      "totalClauses": 65,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": true,
@@ -22688,11 +22688,11 @@
           "levelRankLink": "Level 2",
           "atk": "1100",
           "def": "1300",
-          "text": "This card can be Ritual Summoned by an \"Ancient Ritual\" card. You can reveal this card from your hand and 1 \"Ancient Ritual\" monster from your Extra Deck; add 1 \"Ancient Ritual\" card from your Deck to your hand, except a Ritual Monster or Ritual Spell. If this card is Ritual Summoned or Tributed to Ritual Summon a Level 5 or higher monster: You can add this card to your hand, and if you do, you can Special Summon 1 \"Ancient Ritual Material\" Monster from your Deck or GY. During your Main Phase, while this card is in your GY: You can banish it; add 1 \"Ancient Ritual\" card from your GY to your hand, and if you do, you can, once per Duel, make your LP become 8000. You can only activate each effect of \"Ancient Ritual Decrepit Elder Matron\" once per turn.",
+          "text": "This card can be Ritual Summoned by an \"Ancient Ritual\" card.\nThis card can be used as the entire tribute for a Ritual Summoned monster.\nYou can reveal this card from your hand and 1 \"Ancient Ritual\" monster from your Extra Deck; add 1 \"Ancient Ritual\" card from your Deck to your hand, except a Ritual Monster or Ritual Spell.\nIf this card is Ritual Summoned or Tributed to Ritual Summon a Level 5 or higher monster: You can add this card to your hand, and if you do, you can Special Summon 1 \"Ancient Ritual Material\" Monster from your Deck or GY.\nDuring your Main Phase, while this card is in your GY: You can banish it; add 1 \"Ancient Ritual\" card from your GY to your hand, and if you do, you can, once per Duel, make your LP become 8000. \nYou can only activate each effect of \"Ancient Ritual Decrepit Elder Matron\" once per turn.",
           "duelingbookId": 6059594,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059594.jpg",
           "addedAt": "2026-09-19 14:27:45",
-          "changedAt": "2026-09-22 02:30:28"
+          "changedAt": "2026-10-03 02:40:59"
         }
       ]
     },
