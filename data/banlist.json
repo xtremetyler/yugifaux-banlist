@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T10:19:59.203Z",
+  "updatedAt": "2026-10-03T11:21:28.581Z",
   "cards": [
     {
       "id": 384,
@@ -3924,6 +3924,26 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017457.jpg",
       "addedAt": "2026-08-27 20:52:01",
       "changedAt": "2026-08-27 20:52:01"
+    },
+    {
+      "id": 659,
+      "name": "Full Armored Dark Knight Lancer",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "XYZ Monster",
+      "monsterType": "Aqua",
+      "attribute": "WATER",
+      "levelRankLink": "Rank 7",
+      "atk": "2800",
+      "def": "1500",
+      "text": "3 Level 7 monsters\r\nOnce per turn, you can also Xyz Summon \"Full Armored Dark Knight Lancer\" by using 1 Rank 5 or 6 Xyz Monster you control. (Transfer its materials to this card.) Gains 300 ATK for each material and Equip Card it has. Once per turn: You can target 1 \"Xyz\" card in your GY; add it to your hand. Once per turn, if an Equip Card becomes equipped to a monster you control (except during the Damage Step): You can attach 1 monster your opponent controls to this card as material.",
+      "contributor": "Edward Swissorhands",
+      "passcode": "67630394",
+      "duelingbookId": 14446,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/67630394.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/full-armored-dark-knight-lancer-14056",
+      "addedAt": "2026-10-03 11:21:18",
+      "changedAt": "2026-10-03 11:21:18"
     },
     {
       "id": 188,
@@ -24388,7 +24408,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 15,
+        "balance": 8,
         "lifetimePoints": 303,
         "matchWins": 19,
         "matchLosses": 27,
