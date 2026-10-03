@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T02:23:37.239Z",
+  "updatedAt": "2026-10-03T02:40:36.798Z",
   "cards": [
     {
       "id": 384,
@@ -22448,7 +22448,7 @@
       "totalClauses": 61,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
-      "retirementRequired": false,
+      "retirementRequired": true,
       "featuredCardId": 257,
       "featuredCardName": "Ancient Ritual Founder's Summoning",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6026884.jpg",
@@ -23749,16 +23749,16 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 76,
+    "confirmedMatchCount": 77,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 5,
-        "lifetimePoints": 395,
-        "matchWins": 33,
+        "balance": 9,
+        "lifetimePoints": 399,
+        "matchWins": 34,
         "matchLosses": 22,
-        "gamesWon": 118,
-        "gamesLost": 74,
+        "gamesWon": 120,
+        "gamesLost": 75,
         "gamesDrawn": 0,
         "archetypeId": 36,
         "archetypeName": "Th'Underhiel"
@@ -23789,12 +23789,12 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 35,
-        "lifetimePoints": 63,
+        "balance": 37,
+        "lifetimePoints": 65,
         "matchWins": 6,
-        "matchLosses": 6,
-        "gamesWon": 13,
-        "gamesLost": 15,
+        "matchLosses": 7,
+        "gamesWon": 14,
+        "gamesLost": 17,
         "gamesDrawn": 0,
         "archetypeId": 31,
         "archetypeName": "Ancient Ritual"
@@ -23813,6 +23813,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 80,
+        "confirmedAt": "2026-10-03 02:40:26",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Th'Underhiel",
+        "opponentArchetype": "Ancient Ritual"
+      },
       {
         "id": 79,
         "confirmedAt": "2026-10-01 20:22:26",
@@ -23882,19 +23892,19 @@
         "opponentGames": 2,
         "reporterArchetype": "Grabbit",
         "opponentArchetype": "Th'Underhiel"
-      },
-      {
-        "id": 72,
-        "confirmedAt": "2026-09-29 04:08:51",
-        "reporter": "Edward Swissorhands",
-        "opponent": "Left Parm of the Forbitten One",
-        "reporterGames": 1,
-        "opponentGames": 2,
-        "reporterArchetype": "Grabbit",
-        "opponentArchetype": "Th'Underhiel"
       }
     ],
     "matchHistory": [
+      {
+        "id": 80,
+        "confirmedAt": "2026-10-03 02:40:26",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Brielieve In Cheesus",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Th'Underhiel",
+        "opponentArchetype": "Ancient Ritual"
+      },
       {
         "id": 79,
         "confirmedAt": "2026-10-01 20:22:26",
