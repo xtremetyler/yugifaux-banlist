@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:02:06.789Z",
+  "updatedAt": "2026-10-03T03:38:06.780Z",
   "cards": [
     {
       "id": 384,
@@ -24117,6 +24117,26 @@
           "changedAt": "2026-09-30 23:33:51"
         }
       ]
+    },
+    {
+      "id": 40,
+      "name": "WeyYu",
+      "creator": "Brielieve In Cheesus",
+      "status": "active",
+      "description": "\"In space, nobody can heaw you scweam, pwincess!\"",
+      "submittedAt": "2026-10-03 03:37:39",
+      "activatedAt": "2026-10-03 03:37:39",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 2,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -24167,8 +24187,8 @@
         "gamesWon": 14,
         "gamesLost": 17,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 40,
+        "archetypeName": "WeyYu"
       },
       {
         "name": "forgoudaboutit",
