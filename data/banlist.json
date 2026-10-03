@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:45:06.809Z",
+  "updatedAt": "2026-10-03T03:45:36.809Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24175,6 +24175,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071859.jpg",
           "addedAt": "2026-10-03 03:44:49",
           "changedAt": "2026-10-03 03:44:49"
+        },
+        {
+          "id": 425,
+          "name": "WeyYu Deep Space Scout",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Insect",
+          "abilities": [
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 2",
+          "atk": "1000",
+          "def": "500",
+          "text": "FLIP: Excavate the top 3 cards of your Deck and add 1 to your hand, and if you do, shuffle the rest into your Deck, then if this effect was activated during the Battle Phase, you can add 1 Level 4 or lower \"WeyYu\" monster from your Deck to your hand, except \"WeyYu Deep Space Scout\". You can only use this effect of \"WeyYu Deep Space Scout\" once per turn.",
+          "duelingbookId": 6071975,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071975.jpg",
+          "addedAt": "2026-10-03 03:45:16",
+          "changedAt": "2026-10-03 03:45:16"
         }
       ]
     }
