@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:47:06.809Z",
+  "updatedAt": "2026-10-03T03:47:36.828Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24248,6 +24248,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071795.jpg",
           "addedAt": "2026-10-03 03:46:40",
           "changedAt": "2026-10-03 03:46:40"
+        },
+        {
+          "id": 429,
+          "name": "WeyYu Deep Space Living Mask",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Change the battle position of a monster equipped with this card to face-up Defense Position and its position cannot be changed. The equipped monster's DEF becomes 0 and its activated effects are negated. Destroy the equipped monster when this card leaves the field and destroy this card when the equipped monster leaves the field. \nIf this card on the field is destroyed: You can Special Summon 1 Flip monster from your Deck or GY in face-down Defense Position. \nA monster can only be equipped with 1 \"WeyYu Living Mask\" at a time.",
+          "duelingbookId": 6059611,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059611.jpg",
+          "addedAt": "2026-10-03 03:47:07",
+          "changedAt": "2026-10-03 03:47:07"
         }
       ]
     }
