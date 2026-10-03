@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T03:47:36.828Z",
+  "updatedAt": "2026-10-03T03:48:06.814Z",
   "cards": [
     {
       "id": 384,
@@ -24127,7 +24127,7 @@
       "submittedAt": "2026-10-03 03:37:39",
       "activatedAt": "2026-10-03 03:37:39",
       "declaredCardCount": 12,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -24263,6 +24263,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6059611.jpg",
           "addedAt": "2026-10-03 03:47:07",
           "changedAt": "2026-10-03 03:47:07"
+        },
+        {
+          "id": 430,
+          "name": "WeyYu Shadowy Science Facility",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can add 1 \"WeyYu\" Spell/Trap from your Deck to your hand, except \"WeyYu Shadowy Science Facility\". \nDuring your Main Phase: You can Special Summon 1 monster from your hand in face-down Defense Position. \nIf a face-down Flip Monster you control is flipped face-up: You can discard 1 card to add 1 Spell/Trap from your GY to your hand. \nYou can only activate each effect of \"WeyYu Shadowy Science Facility\" once per turn.",
+          "duelingbookId": 6071899,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071899.jpg",
+          "addedAt": "2026-10-03 03:47:43",
+          "changedAt": "2026-10-03 03:47:43"
         }
       ]
     }
