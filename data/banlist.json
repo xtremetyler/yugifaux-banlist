@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-03T20:49:26.618Z",
+  "updatedAt": "2026-10-04T04:55:27.881Z",
   "cards": [
     {
       "id": 384,
@@ -24392,16 +24392,16 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 77,
+    "confirmedMatchCount": 78,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 2,
-        "lifetimePoints": 399,
-        "matchWins": 34,
+        "balance": 6,
+        "lifetimePoints": 403,
+        "matchWins": 35,
         "matchLosses": 22,
-        "gamesWon": 120,
-        "gamesLost": 75,
+        "gamesWon": 122,
+        "gamesLost": 76,
         "gamesDrawn": 0,
         "archetypeId": 36,
         "archetypeName": "Th'Underhiel"
@@ -24444,18 +24444,28 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 19,
-        "lifetimePoints": 34,
+        "balance": 21,
+        "lifetimePoints": 36,
         "matchWins": 0,
-        "matchLosses": 2,
-        "gamesWon": 2,
-        "gamesLost": 4,
+        "matchLosses": 3,
+        "gamesWon": 3,
+        "gamesLost": 6,
         "gamesDrawn": 0,
         "archetypeId": 39,
         "archetypeName": "Street of Elms"
       }
     ],
     "recentMatches": [
+      {
+        "id": 81,
+        "confirmedAt": "2026-10-04 04:55:12",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "forgoudaboutit",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Th'Underhiel",
+        "opponentArchetype": "Street of Elms"
+      },
       {
         "id": 80,
         "confirmedAt": "2026-10-03 02:40:26",
@@ -24525,19 +24535,19 @@
         "opponentGames": 0,
         "reporterArchetype": "Th'Underhiel",
         "opponentArchetype": "Grabbit"
-      },
-      {
-        "id": 73,
-        "confirmedAt": "2026-09-30 14:22:55",
-        "reporter": "Edward Swissorhands",
-        "opponent": "Left Parm of the Forbitten One",
-        "reporterGames": 1,
-        "opponentGames": 2,
-        "reporterArchetype": "Grabbit",
-        "opponentArchetype": "Th'Underhiel"
       }
     ],
     "matchHistory": [
+      {
+        "id": 81,
+        "confirmedAt": "2026-10-04 04:55:12",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "forgoudaboutit",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Th'Underhiel",
+        "opponentArchetype": "Street of Elms"
+      },
       {
         "id": 80,
         "confirmedAt": "2026-10-03 02:40:26",
