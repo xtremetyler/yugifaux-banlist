@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-04T16:15:01.607Z",
+  "updatedAt": "2026-10-04T16:15:31.514Z",
   "cards": [
     {
       "id": 384,
@@ -720,7 +720,7 @@
     {
       "id": 643,
       "name": "Ancient Ritual Initiate's Summoning",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Ritual",
@@ -734,7 +734,7 @@
       "duelingbookId": 6077861,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077861.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:15:24"
     },
     {
       "id": 652,
@@ -13282,7 +13282,7 @@
         {
           "id": 643,
           "name": "Ancient Ritual Initiate's Summoning",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Ritual",
@@ -13296,7 +13296,7 @@
           "duelingbookId": 6077861,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077861.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:15:24"
         },
         {
           "id": 652,
