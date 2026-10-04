@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-04T16:16:31.499Z",
+  "updatedAt": "2026-10-04T16:17:01.529Z",
   "cards": [
     {
       "id": 384,
@@ -778,7 +778,7 @@
     {
       "id": 647,
       "name": "Ancient Ritual Material - Amanita Muscaria",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
@@ -793,7 +793,7 @@
       "duelingbookId": 6077865,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077865.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:16:58"
     },
     {
       "id": 649,
@@ -818,7 +818,7 @@
     {
       "id": 646,
       "name": "Ancient Ritual Material - Common Wolfsbane",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Plant",
@@ -833,7 +833,7 @@
       "duelingbookId": 6077864,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077864.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:16:47"
     },
     {
       "id": 648,
@@ -13340,7 +13340,7 @@
         {
           "id": 647,
           "name": "Ancient Ritual Material - Amanita Muscaria",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Zombie",
@@ -13355,7 +13355,7 @@
           "duelingbookId": 6077865,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077865.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:16:58"
         },
         {
           "id": 649,
@@ -13380,7 +13380,7 @@
         {
           "id": 646,
           "name": "Ancient Ritual Material - Common Wolfsbane",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Plant",
@@ -13395,7 +13395,7 @@
           "duelingbookId": 6077864,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077864.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:16:47"
         },
         {
           "id": 648,
