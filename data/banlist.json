@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-04T15:51:31.423Z",
+  "updatedAt": "2026-10-04T16:15:01.607Z",
   "cards": [
     {
       "id": 384,
@@ -658,7 +658,7 @@
     {
       "id": 642,
       "name": "Ancient Ritual Founder's Summoning",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Ritual",
@@ -672,7 +672,7 @@
       "duelingbookId": 6077859,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077859.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:14:58"
     },
     {
       "id": 650,
@@ -13220,7 +13220,7 @@
         {
           "id": 642,
           "name": "Ancient Ritual Founder's Summoning",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Ritual",
@@ -13234,7 +13234,7 @@
           "duelingbookId": 6077859,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077859.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:14:58"
         },
         {
           "id": 650,
