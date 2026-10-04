@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-04T16:17:31.488Z",
+  "updatedAt": "2026-10-04T16:18:01.521Z",
   "cards": [
     {
       "id": 384,
@@ -677,7 +677,7 @@
     {
       "id": 650,
       "name": "Ancient Ritual Fungal Homunculus Assistant",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Plant",
@@ -695,7 +695,7 @@
       "duelingbookId": 6077868,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077868.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:17:45"
     },
     {
       "id": 653,
@@ -13239,7 +13239,7 @@
         {
           "id": 650,
           "name": "Ancient Ritual Fungal Homunculus Assistant",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Ritual Monster",
           "monsterType": "Plant",
@@ -13257,7 +13257,7 @@
           "duelingbookId": 6077868,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077868.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:17:45"
         },
         {
           "id": 653,
