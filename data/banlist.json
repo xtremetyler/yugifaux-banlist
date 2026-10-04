@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-04T16:17:01.529Z",
+  "updatedAt": "2026-10-04T16:17:31.488Z",
   "cards": [
     {
       "id": 384,
@@ -798,7 +798,7 @@
     {
       "id": 649,
       "name": "Ancient Ritual Material - Blood Candle",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -813,7 +813,7 @@
       "duelingbookId": 6077867,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077867.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:17:11"
     },
     {
       "id": 646,
@@ -838,7 +838,7 @@
     {
       "id": 648,
       "name": "Ancient Ritual Material - Corpse Ash",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Zombie",
@@ -853,7 +853,7 @@
       "duelingbookId": 6077866,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077866.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:17:07"
     },
     {
       "id": 645,
@@ -13360,7 +13360,7 @@
         {
           "id": 649,
           "name": "Ancient Ritual Material - Blood Candle",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Fiend",
@@ -13375,7 +13375,7 @@
           "duelingbookId": 6077867,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077867.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:17:11"
         },
         {
           "id": 646,
@@ -13400,7 +13400,7 @@
         {
           "id": 648,
           "name": "Ancient Ritual Material - Corpse Ash",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Zombie",
@@ -13415,7 +13415,7 @@
           "duelingbookId": 6077866,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077866.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:17:07"
         },
         {
           "id": 645,
