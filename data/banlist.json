@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-04T16:18:31.497Z",
+  "updatedAt": "2026-10-04T16:19:01.525Z",
   "cards": [
     {
       "id": 384,
@@ -615,7 +615,7 @@
     {
       "id": 656,
       "name": "Ancient Ritual Decrepit Elder Matron",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Zombie",
@@ -630,7 +630,7 @@
       "duelingbookId": 6077874,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077874.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:18:45"
     },
     {
       "id": 651,
@@ -758,7 +758,7 @@
     {
       "id": 654,
       "name": "Ancient Ritual Magnificent Chasm Lord",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Fiend",
@@ -773,7 +773,7 @@
       "duelingbookId": 6077872,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077872.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:18:35"
     },
     {
       "id": 647,
@@ -877,7 +877,7 @@
     {
       "id": 655,
       "name": "Ancient Ritual Material Golem",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Fiend",
@@ -892,7 +892,7 @@
       "duelingbookId": 6077873,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077873.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:18:40"
     },
     {
       "id": 644,
@@ -13177,7 +13177,7 @@
         {
           "id": 656,
           "name": "Ancient Ritual Decrepit Elder Matron",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Ritual Monster",
           "monsterType": "Zombie",
@@ -13192,7 +13192,7 @@
           "duelingbookId": 6077874,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077874.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:18:45"
         },
         {
           "id": 651,
@@ -13320,7 +13320,7 @@
         {
           "id": 654,
           "name": "Ancient Ritual Magnificent Chasm Lord",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Synchro Monster",
           "monsterType": "Fiend",
@@ -13335,7 +13335,7 @@
           "duelingbookId": 6077872,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077872.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:18:35"
         },
         {
           "id": 647,
@@ -13439,7 +13439,7 @@
         {
           "id": 655,
           "name": "Ancient Ritual Material Golem",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Fiend",
@@ -13454,7 +13454,7 @@
           "duelingbookId": 6077873,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077873.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:18:40"
         },
         {
           "id": 644,
