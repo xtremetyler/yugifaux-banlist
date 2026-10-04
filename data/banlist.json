@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-04T16:18:01.521Z",
+  "updatedAt": "2026-10-04T16:18:31.497Z",
   "cards": [
     {
       "id": 384,
@@ -635,7 +635,7 @@
     {
       "id": 651,
       "name": "Ancient Ritual Feral Chasm Impling",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Fiend",
@@ -653,7 +653,7 @@
       "duelingbookId": 6077869,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077869.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:18:05"
     },
     {
       "id": 642,
@@ -700,7 +700,7 @@
     {
       "id": 653,
       "name": "Ancient Ritual Homunculord of Sublime Decay",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Fiend",
@@ -715,7 +715,7 @@
       "duelingbookId": 6077871,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077871.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:18:30"
     },
     {
       "id": 643,
@@ -739,7 +739,7 @@
     {
       "id": 652,
       "name": "Ancient Ritual Intrusion Ward",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Counter",
@@ -753,7 +753,7 @@
       "duelingbookId": 6077870,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077870.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:18:23"
     },
     {
       "id": 654,
@@ -13197,7 +13197,7 @@
         {
           "id": 651,
           "name": "Ancient Ritual Feral Chasm Impling",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Ritual Monster",
           "monsterType": "Fiend",
@@ -13215,7 +13215,7 @@
           "duelingbookId": 6077869,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077869.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:18:05"
         },
         {
           "id": 642,
@@ -13262,7 +13262,7 @@
         {
           "id": 653,
           "name": "Ancient Ritual Homunculord of Sublime Decay",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Synchro Monster",
           "monsterType": "Fiend",
@@ -13277,7 +13277,7 @@
           "duelingbookId": 6077871,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077871.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:18:30"
         },
         {
           "id": 643,
@@ -13301,7 +13301,7 @@
         {
           "id": 652,
           "name": "Ancient Ritual Intrusion Ward",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Counter",
@@ -13315,7 +13315,7 @@
           "duelingbookId": 6077870,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077870.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:18:23"
         },
         {
           "id": 654,
