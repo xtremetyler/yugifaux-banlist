@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-04T16:15:31.514Z",
+  "updatedAt": "2026-10-04T16:16:31.499Z",
   "cards": [
     {
       "id": 384,
@@ -858,7 +858,7 @@
     {
       "id": 645,
       "name": "Ancient Ritual Material Gathering",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -872,7 +872,7 @@
       "duelingbookId": 6077863,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077863.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:16:28"
     },
     {
       "id": 655,
@@ -897,7 +897,7 @@
     {
       "id": 644,
       "name": "Ancient Ritual Site",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -911,7 +911,7 @@
       "duelingbookId": 6077862,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077862.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-03 02:42:27"
+      "changedAt": "2026-10-04 16:16:11"
     },
     {
       "id": 64,
@@ -13420,7 +13420,7 @@
         {
           "id": 645,
           "name": "Ancient Ritual Material Gathering",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Continuous",
@@ -13434,7 +13434,7 @@
           "duelingbookId": 6077863,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077863.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:16:28"
         },
         {
           "id": 655,
@@ -13459,7 +13459,7 @@
         {
           "id": 644,
           "name": "Ancient Ritual Site",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -13473,7 +13473,7 @@
           "duelingbookId": 6077862,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077862.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-03 02:42:27"
+          "changedAt": "2026-10-04 16:16:11"
         }
       ]
     },
