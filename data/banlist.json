@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T02:50:24.785Z",
+  "updatedAt": "2026-10-05T02:51:24.768Z",
   "cards": [
     {
       "id": 384,
@@ -23959,8 +23959,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 9,
-      "totalClauses": 54,
+      "addedClauses": 10,
+      "totalClauses": 55,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -24095,11 +24095,11 @@
           "levelRankLink": "Level 2",
           "atk": "600",
           "def": "600",
-          "text": "While you control this face-up card and \"Street of Elms in Nightmare\", you can Special Summon \"F.K.\" Fusion Monsters from your Extra Deck by their own effects during either player's turn as a Quick Effect. If this card in your hand or on your field is destroyed, except by battle: You can take 1 \"Iconic Glove on the Street of Elms\" from your Deck or Banishment and either add it to your hand or equip it to a face-up monster you control.",
+          "text": "While you control this face-up card and \"Street of Elms in Nightmare\", you can Special Summon \"F.K.\" Fusion Monsters from your Extra Deck by their own effects during either player's turn as a Quick Effect. If this card in your hand or on your field is destroyed, except by battle, or used as Material to Synchro Summon a Monster: You can take 1 \"Iconic Glove on the Street of Elms\" from your Deck or Banishment and either add it to your hand or equip it to a face-up monster you control.",
           "duelingbookId": 6072769,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072769.jpg",
           "addedAt": "2026-09-30 23:31:26",
-          "changedAt": "2026-10-03 02:57:48"
+          "changedAt": "2026-10-05 02:51:07"
         },
         {
           "id": 419,
