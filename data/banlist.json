@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T18:25:11.883Z",
+  "updatedAt": "2026-10-05T18:29:41.883Z",
   "cards": [
     {
       "id": 384,
@@ -2906,6 +2906,27 @@
       "officialUrl": "https://ygoprodeck.com/card/danger-bigfoot-9628",
       "addedAt": "2026-07-29 04:23:41",
       "changedAt": "2026-07-29 04:23:41"
+    },
+    {
+      "id": 677,
+      "name": "Dante, Traveler of the Burning Abyss",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "XYZ Monster",
+      "monsterType": "Warrior",
+      "attribute": "LIGHT",
+      "levelRankLink": "Rank 3",
+      "atk": "1000",
+      "def": "2500",
+      "text": "2 Level 3 monsters\r\nOnce per turn: You can detach 1 material from this card and choose a number from 1 to 3, then send that many cards from the top of your Deck to the GY; until the end of this turn, this card gains 500 ATK for each card sent to the GY this way. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. If this card is sent to the GY: You can target 1 \"Burning Abyss\" card in your GY, except this card; add it to your hand.",
+      "archetype": "Burning Abyss",
+      "contributor": "Edward Swissorhands",
+      "passcode": "83531441",
+      "duelingbookId": 6836,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/83531441.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/dante-traveler-of-the-burning-abyss-7010",
+      "addedAt": "2026-10-05 18:29:23",
+      "changedAt": "2026-10-05 18:29:23"
     },
     {
       "id": 199,
@@ -24870,7 +24891,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 26,
+        "balance": 19,
         "lifetimePoints": 321,
         "matchWins": 21,
         "matchLosses": 27,
