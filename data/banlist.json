@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T15:55:11.650Z",
+  "updatedAt": "2026-10-05T15:58:41.584Z",
   "cards": [
     {
       "id": 384,
@@ -24392,6 +24392,26 @@
           "changedAt": "2026-10-03 03:49:29"
         }
       ]
+    },
+    {
+      "id": 41,
+      "name": "Deciduous Descendants",
+      "creator": "Joules Tune Brie 2 Blue",
+      "status": "active",
+      "description": "Colliqually known as \"tougheness\" matters, this is a midrange combo snychro deck centered around Plant counters and trying to OTK or almost OTK using a Seed Cannon retrain called \"Entelligence Design\"",
+      "submittedAt": "2026-10-05 15:58:34",
+      "activatedAt": "2026-10-05 15:58:34",
+      "declaredCardCount": 14,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 2,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -24442,8 +24462,8 @@
         "gamesWon": 3,
         "gamesLost": 7,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 41,
+        "archetypeName": "Deciduous Descendants"
       },
       {
         "name": "Brielieve In Cheesus",
