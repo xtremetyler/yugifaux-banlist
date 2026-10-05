@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T18:52:56.863Z",
+  "updatedAt": "2026-10-05T18:53:26.874Z",
   "cards": [
     {
       "id": 384,
@@ -25216,8 +25216,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 6,
-        "lifetimePoints": 430,
+        "balance": 11,
+        "lifetimePoints": 435,
         "matchWins": 35,
         "matchLosses": 23,
         "gamesWon": 123,
@@ -25251,6 +25251,18 @@
         "archetypeName": "Afterthought"
       },
       {
+        "name": "Joules Tune Brie 2 Blue",
+        "balance": 32,
+        "lifetimePoints": 86,
+        "matchWins": 1,
+        "matchLosses": 3,
+        "gamesWon": 3,
+        "gamesLost": 7,
+        "gamesDrawn": 0,
+        "archetypeId": 41,
+        "archetypeName": "Deciduous Descendants"
+      },
+      {
         "name": "Brielieve In Cheesus",
         "balance": 49,
         "lifetimePoints": 84,
@@ -25261,18 +25273,6 @@
         "gamesDrawn": 0,
         "archetypeId": 40,
         "archetypeName": "WeyYu"
-      },
-      {
-        "name": "Joules Tune Brie 2 Blue",
-        "balance": 22,
-        "lifetimePoints": 76,
-        "matchWins": 1,
-        "matchLosses": 3,
-        "gamesWon": 3,
-        "gamesLost": 7,
-        "gamesDrawn": 0,
-        "archetypeId": 41,
-        "archetypeName": "Deciduous Descendants"
       },
       {
         "name": "forgoudaboutit",
