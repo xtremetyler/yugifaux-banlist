@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T17:16:11.707Z",
+  "updatedAt": "2026-10-05T17:25:41.774Z",
   "cards": [
     {
       "id": 384,
@@ -24831,6 +24831,26 @@
       "retirementThreshold": 3,
       "retirementRequired": false,
       "cards": []
+    },
+    {
+      "id": 42,
+      "name": "Mosaic Refrain",
+      "creator": "Left Parm of the Forbitten One",
+      "status": "active",
+      "description": "What if the house of worship itself was the deity? What if its parables were stories etched into the design of its enchanted stained-glass walls? What if the magic of its devotees made manifest the beasts and figures from the fabric of its very teachings?\n\nTrap monsters in a kinda-sorta waifus archetype. Bite me--I might like it.",
+      "submittedAt": "2026-10-05 17:25:23",
+      "activatedAt": "2026-10-05 17:25:23",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 2,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -24845,8 +24865,8 @@
         "gamesWon": 123,
         "gamesLost": 78,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null
+        "archetypeId": 42,
+        "archetypeName": "Mosaic Refrain"
       },
       {
         "name": "Edward Swissorhands",
