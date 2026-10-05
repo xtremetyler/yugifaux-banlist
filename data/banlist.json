@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T17:13:11.730Z",
+  "updatedAt": "2026-10-05T17:13:41.706Z",
   "cards": [
     {
       "id": 384,
@@ -11252,8 +11252,8 @@
       "archetype": "Th'Underhiel",
       "archetypeId": 36,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6068682,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068682.jpg",
+      "duelingbookId": 6081550,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081550.jpg",
       "addedAt": "2026-10-05 17:12:14",
       "changedAt": "2026-10-05 17:12:14"
     },
@@ -11363,8 +11363,8 @@
       "archetype": "Th'Underhiel",
       "archetypeId": 36,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6068679,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068679.jpg",
+      "duelingbookId": 6081549,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081549.jpg",
       "addedAt": "2026-10-05 17:12:14",
       "changedAt": "2026-10-05 17:12:14"
     },
@@ -11929,6 +11929,23 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5971415.jpg",
       "addedAt": "2026-07-31 17:07:37",
       "changedAt": "2026-08-24 17:17:32"
+    },
+    {
+      "id": 676,
+      "name": "Transaction Rollback",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Trap Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Pay half your LP, then target 1 Normal Trap in your opponent's GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can banish this card from your GY and pay half your LP, then target 1 Normal Trap in your GY, except \"Transaction Rollback\"; this effect becomes that card's activation effect. You can only use 1 \"Transaction Rollback\" effect per turn, and only once that turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "06351147",
+      "duelingbookId": 14347,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/6351147.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/transaction-rollback-13855",
+      "addedAt": "2026-10-05 17:13:13",
+      "changedAt": "2026-10-05 17:13:13"
     },
     {
       "id": 79,
@@ -13748,8 +13765,8 @@
           "archetype": "Th'Underhiel",
           "archetypeId": 36,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6068682,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068682.jpg",
+          "duelingbookId": 6081550,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081550.jpg",
           "addedAt": "2026-10-05 17:12:14",
           "changedAt": "2026-10-05 17:12:14"
         },
@@ -13859,8 +13876,8 @@
           "archetype": "Th'Underhiel",
           "archetypeId": 36,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6068679,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068679.jpg",
+          "duelingbookId": 6081549,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081549.jpg",
           "addedAt": "2026-10-05 17:12:14",
           "changedAt": "2026-10-05 17:12:14"
         }
