@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T17:10:41.734Z",
+  "updatedAt": "2026-10-05T17:11:41.699Z",
   "cards": [
     {
       "id": 384,
@@ -23124,8 +23124,8 @@
       "mainTypes": 2,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 14,
-      "totalClauses": 59,
+      "addedClauses": 18,
+      "totalClauses": 63,
       "retirementsSeen": 2,
       "retirementThreshold": 3,
       "retirementRequired": true,
@@ -23408,11 +23408,11 @@
           "levelRankLink": "Rank 6",
           "atk": "2300",
           "def": "2700",
-          "text": "2 Level 6 Rock Monsters\nIf this card is Xyz Summoned: You can add 1 \"Th'Underhiel\" Equip Spell from your Deck to your hand, then, if you control no Rank 11 Xyz Monsters, you can send 1 \"Th'Underhiel\" Monster from your Deck to your GY. While Xyz Summoning a Rank 11 \"Th'Underhiel\" Monster, you can treat this card you control as a Level 11 Monster. Once per turn (Quick Effect): You can detach 1 Material from this card, then target 1 face-up Monster you control; until the end of this turn, that target's Level and original Level become 11, also you can treat it as 2 Materials for the Xyz Summon of a \"Th'Underhiel\" Monster this turn. If this Xyz Summoned card is sent to the GY: You can add 1 Level 7 or higher \"Th'Underhiel\" monster from your GY to your hand. You can only use each effect of \"Mænagrgr of Th’Underhiel\" once per turn.",
+          "text": "2 Level 6 Rock Monsters\nIf this card is Xyz Summoned: You can add 1 \"Th'Underhiel\" Equip Spell from your Deck to your hand, then, if you control no Rank 11 Xyz Monsters, you can send 1 \"Th'Underhiel\" Monster from your Deck to your GY. While Xyz Summoning a Rank 11 \"Th'Underhiel\" Monster, you can treat this card you control as a Level 11 Monster. (Quick Effect): You can detach 1 Material from this card, then target 1 face-up Monster you control; until the end of this turn, that target's Level and original Level become 11, also you can treat it as 2 Materials for the Xyz Summon of a \"Th'Underhiel\" Monster this turn. (Quick Effect) You can detach 1 Material from this card to target 1 face-up Monster your opponent controls; flip that target to face-down Defense Position, and if you do, this card's Level and original Level each become 11 until the end of this turn, also you can treat it as 2 Materials for the Xyz Summon of a \"Th'Underhiel\" Monster this turn.If this Xyz Summoned card is sent to the GY: You can add 1 Level 7 or higher \"Th'Underhiel\" monster from your GY to your hand. You can only use each effect of \"Mænagrgr of Th’Underhiel\" once per turn.",
           "duelingbookId": 6071345,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071345.jpg",
           "addedAt": "2026-09-28 20:32:23",
-          "changedAt": "2026-10-05 15:14:25"
+          "changedAt": "2026-10-05 17:11:13"
         }
       ]
     },
