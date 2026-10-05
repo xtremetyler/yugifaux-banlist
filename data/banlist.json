@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T16:17:11.611Z",
+  "updatedAt": "2026-10-05T16:17:41.709Z",
   "cards": [
     {
       "id": 384,
@@ -23655,11 +23655,11 @@
           "levelRankLink": "Level 7",
           "atk": "0",
           "def": "3000",
-          "text": "1 Floop + 1 Pig\nIf this card is Synchro Summoned: You can send 1 \"Afterthought\" Spell from your Deck to the GY. During the End Phase, if this card is in your Banishment: You can Special Summon this card, and if you do, banish the top 2 cards of each player's Deck, then gain 1000 LP for each Spell Card banished this way.",
+          "text": "1 \"Afterthought\" Tuner + 1+ non-tuner monster(s)\nIf this card is Synchro Summoned: You can send 1 \"Afterthought\" Spell from your Deck to the GY. During the End Phase, if this card is in your Banishment: You can Special Summon this card, and if you do, banish the top 2 cards of each player's Deck, then gain 1000 LP for each Spell Card banished this way.",
           "duelingbookId": 6071781,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071781.jpg",
           "addedAt": "2026-09-29 16:39:04",
-          "changedAt": "2026-09-29 16:39:04"
+          "changedAt": "2026-10-05 16:17:11"
         },
         {
           "id": 390,
