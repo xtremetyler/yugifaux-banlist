@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T16:17:41.709Z",
+  "updatedAt": "2026-10-05T17:09:11.776Z",
   "cards": [
     {
       "id": 384,
@@ -23128,7 +23128,7 @@
       "totalClauses": 59,
       "retirementsSeen": 2,
       "retirementThreshold": 3,
-      "retirementRequired": false,
+      "retirementRequired": true,
       "featuredCardId": 357,
       "featuredCardName": "Th'Underhiel Sygryff",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6068679.jpg",
@@ -24415,28 +24415,28 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 79,
+    "confirmedMatchCount": 80,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 6,
-        "lifetimePoints": 403,
+        "balance": 8,
+        "lifetimePoints": 405,
         "matchWins": 35,
-        "matchLosses": 22,
-        "gamesWon": 122,
-        "gamesLost": 76,
+        "matchLosses": 23,
+        "gamesWon": 123,
+        "gamesLost": 78,
         "gamesDrawn": 0,
         "archetypeId": 36,
         "archetypeName": "Th'Underhiel"
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 16,
-        "lifetimePoints": 311,
-        "matchWins": 20,
+        "balance": 20,
+        "lifetimePoints": 315,
+        "matchWins": 21,
         "matchLosses": 27,
-        "gamesWon": 64,
-        "gamesLost": 97,
+        "gamesWon": 66,
+        "gamesLost": 98,
         "gamesDrawn": 0,
         "archetypeId": 38,
         "archetypeName": "GobMob"
@@ -24479,6 +24479,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 83,
+        "confirmedAt": "2026-10-05 17:08:49",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Th'Underhiel",
+        "opponentArchetype": "GobMob"
+      },
       {
         "id": 82,
         "confirmedAt": "2026-10-05 16:06:09",
@@ -24548,19 +24558,19 @@
         "opponentGames": 0,
         "reporterArchetype": "Th'Underhiel",
         "opponentArchetype": "Ancient Ritual"
-      },
-      {
-        "id": 75,
-        "confirmedAt": "2026-09-30 21:55:15",
-        "reporter": "The Original Rough Cheddar",
-        "opponent": "Edward Swissorhands",
-        "reporterGames": 2,
-        "opponentGames": 1,
-        "reporterArchetype": "Afterthought",
-        "opponentArchetype": "GobMob"
       }
     ],
     "matchHistory": [
+      {
+        "id": 83,
+        "confirmedAt": "2026-10-05 17:08:49",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Th'Underhiel",
+        "opponentArchetype": "GobMob"
+      },
       {
         "id": 82,
         "confirmedAt": "2026-10-05 16:06:09",
