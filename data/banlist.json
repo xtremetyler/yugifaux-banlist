@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-05T19:29:56.960Z",
+  "updatedAt": "2026-10-05T19:51:26.920Z",
   "cards": [
     {
       "id": 384,
@@ -25249,18 +25249,6 @@
         "gamesDrawn": 0,
         "archetypeId": 37,
         "archetypeName": "Afterthought"
-      },
-      {
-        "name": "Joules Tune Brie 2 Blue",
-        "balance": 32,
-        "lifetimePoints": 86,
-        "matchWins": 1,
-        "matchLosses": 3,
-        "gamesWon": 3,
-        "gamesLost": 7,
-        "gamesDrawn": 0,
-        "archetypeId": 41,
-        "archetypeName": "Deciduous Descendants"
       },
       {
         "name": "Brielieve In Cheesus",
