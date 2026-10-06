@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:57:58.044Z",
+  "updatedAt": "2026-10-06T02:58:28.071Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25334,6 +25334,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081502.jpg",
           "addedAt": "2026-10-06 02:57:28",
           "changedAt": "2026-10-06 02:57:28"
+        },
+        {
+          "id": 445,
+          "name": "Reap and Sow",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target any number of face-up Spell/Traps you control with a Plant Counter(s) on them; draw that many cards, then remove that many Plant Counters from your field. If you cannot, banish your entire hand face-down. You can only activate 1 \"Reap and Sow\" per turn.",
+          "duelingbookId": 6081505,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081505.jpg",
+          "addedAt": "2026-10-06 02:57:59",
+          "changedAt": "2026-10-06 02:57:59"
         }
       ]
     },
