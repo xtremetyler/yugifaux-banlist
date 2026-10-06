@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:56:58.090Z",
+  "updatedAt": "2026-10-06T02:57:28.051Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25299,6 +25299,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081336.jpg",
           "addedAt": "2026-10-06 02:56:43",
           "changedAt": "2026-10-06 02:56:43"
+        },
+        {
+          "id": 443,
+          "name": "Deciduous Descendants - Mapleborn",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Plant",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "0",
+          "def": "1000",
+          "text": "If this card is Normal or Special Summoned, or flipped face-up: Change it to face-up Defense Position; place 1 Plant Counter on each face-up Spell/Trap you control. If this card is sent to the GY as Material to Synchro Summon a Monster: You can add it to your hand. You can only activate this effect of \"Deciduous Descendants - Mapleborn\" once per turn.",
+          "duelingbookId": 6081425,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081425.jpg",
+          "addedAt": "2026-10-06 02:57:05",
+          "changedAt": "2026-10-06 02:57:05"
         }
       ]
     },
