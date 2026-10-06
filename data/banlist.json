@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T14:53:00.234Z",
+  "updatedAt": "2026-10-06T14:54:00.119Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25476,6 +25476,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076980.jpg",
           "addedAt": "2026-10-06 14:52:38",
           "changedAt": "2026-10-06 14:52:38"
+        },
+        {
+          "id": 471,
+          "name": "Hallowed Palace of All-Glass",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If a face-down card in your Spell & Trap Zone would leave the field by your opponent's card effect, reveal it to your opponent instead. Your opponent cannot activate Monster effects in response to the activation of \"Mosaic Refrain\" Traps you control.",
+          "duelingbookId": 6077016,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077016.jpg",
+          "addedAt": "2026-10-06 14:53:31",
+          "changedAt": "2026-10-06 14:53:31"
         }
       ]
     },
