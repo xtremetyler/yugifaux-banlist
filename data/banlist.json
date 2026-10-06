@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T14:48:30.037Z",
+  "updatedAt": "2026-10-06T14:49:00.078Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25444,6 +25444,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077023.jpg",
           "addedAt": "2026-10-06 14:48:13",
           "changedAt": "2026-10-06 14:48:13"
+        },
+        {
+          "id": 469,
+          "name": "Harmonious Madame of Mosaic Refrain",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Thunder",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 10",
+          "atk": "2700",
+          "def": "2800",
+          "text": "\"Gray Lady of Mosaic Refrain\" + 1+ LIGHT Monster(s)\nDuring the Main Phase (Quick Effect): You can Set 1 Trap Card with an effect that Special Summons itself as a Monster from your Deck or GY, but you can only Set a \"Mosaic Refrain\" Trap from the Deck this way. You can only activate this effect of \"Harmonious Madame of Mosaic Refrain\" once per turn. While you control this Fusion Summoned monster, you can activate a Trap Card Set by its effect during the same turn that card was Set. Double the ATK/DEF of each Level 4 or lower Monster you control that is also a Trap.",
+          "duelingbookId": 6077013,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077013.jpg",
+          "addedAt": "2026-10-06 14:48:51",
+          "changedAt": "2026-10-06 14:48:51"
         }
       ]
     },
