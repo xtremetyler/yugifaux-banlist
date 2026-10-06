@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:58:28.071Z",
+  "updatedAt": "2026-10-06T02:58:58.032Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25349,6 +25349,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081505.jpg",
           "addedAt": "2026-10-06 02:57:59",
           "changedAt": "2026-10-06 02:57:59"
+        },
+        {
+          "id": 446,
+          "name": "Deciduous Descendants - Poplar Peasant",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Plant",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 4",
+          "atk": "0",
+          "def": "2500",
+          "text": "You can Special Summon this card (from your hand) by removing 1 Plant Counter from your field, then you can add 1 \"Entelligence Design\" from your Deck to your hand. If this card is sent to the GY as material to Synchro Summon a monster: Excavate cards from the top of your Deck until you excavate a Plant Monster with 0 ATK and add that card to your hand, then shuffle the rest into your Deck. You can only activate this effect of \"Deciduous Descendants - Poplar Peasant\" once per turn.",
+          "duelingbookId": 6081448,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081448.jpg",
+          "addedAt": "2026-10-06 02:58:39",
+          "changedAt": "2026-10-06 02:58:39"
         }
       ]
     },
