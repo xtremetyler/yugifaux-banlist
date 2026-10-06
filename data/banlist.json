@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:04:30.114Z",
+  "updatedAt": "2026-10-06T15:05:00.172Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25566,6 +25566,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076995.jpg",
           "addedAt": "2026-10-06 15:04:28",
           "changedAt": "2026-10-06 15:04:28"
+        },
+        {
+          "id": 477,
+          "name": "Mosaic Refrain - Glaring Seraph",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target up to 2 face-down cards on the field; destroy them, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1200/DEF 900) (this card is also still a Trap). If Summoned by its own effect, this card is unaffected by your opponent's cards and effects that target it. When your opponent activates the effect of a Trap Card in the GY or Banishment, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to draw 1 card. You can only use this effect of \"Mosaic Refrain - Glaring Seraph\" once per turn.",
+          "duelingbookId": 6076986,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076986.jpg",
+          "addedAt": "2026-10-06 15:04:58",
+          "changedAt": "2026-10-06 15:04:58"
         }
       ]
     },
