@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:53:58.035Z",
+  "updatedAt": "2026-10-06T02:55:28.053Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25251,6 +25251,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081373.jpg",
           "addedAt": "2026-10-06 02:53:30",
           "changedAt": "2026-10-06 02:53:30"
+        },
+        {
+          "id": 440,
+          "name": "Deciduous Descendants - Oaklord",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Plant",
+          "attribute": "WIND",
+          "levelRankLink": "Level 8",
+          "atk": "2000",
+          "def": "2500",
+          "text": "1+ Tuner & 1 non-Tuner Plant Monster\nIf this card is Synchro Summoned: You can Special Summon as many Level 4 or lower monsters with 0 ATK from your GY as possible, and if you do, neither player can activate the effects of monsters with the same original name as a monster(s) Summoned this way for the rest of this turn, also after this effect resolves, you can only Special Summon 1 additional time during this turn. When your opponent activates a card or effect with an effect that could destroy this card, or if your opponent's monster would destroy this card by battle (Quick Effect): You can banish 1 \"Deciduous Descendants\" from your GY; negate that activation, and if you do, destroy that card. You can only activate this effect of \"Deciduous Descendants - Oaklord\".",
+          "duelingbookId": 6081406,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081406.jpg",
+          "addedAt": "2026-10-06 02:55:14",
+          "changedAt": "2026-10-06 02:55:14"
         }
       ]
     },
@@ -25357,8 +25373,8 @@
       },
       {
         "name": "Joules Tune Brie 2 Blue",
-        "balance": 33,
-        "lifetimePoints": 87,
+        "balance": 35,
+        "lifetimePoints": 89,
         "matchWins": 1,
         "matchLosses": 4,
         "gamesWon": 3,
@@ -25369,8 +25385,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 39,
-        "lifetimePoints": 54,
+        "balance": 43,
+        "lifetimePoints": 58,
         "matchWins": 1,
         "matchLosses": 3,
         "gamesWon": 5,
