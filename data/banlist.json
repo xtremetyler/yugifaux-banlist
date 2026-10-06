@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T14:59:30.096Z",
+  "updatedAt": "2026-10-06T15:00:00.073Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25521,6 +25521,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077002.jpg",
           "addedAt": "2026-10-06 14:59:17",
           "changedAt": "2026-10-06 14:59:17"
+        },
+        {
+          "id": 474,
+          "name": "Mosaic Refrain - Ravenous Pack",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Destroy 1 other card in this card's column, if able, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1800/DEF 0) (this card is also still a Trap). If Summoned by its own effect, destroy any monster this card attacked during damage calculation. When your opponent activates the effect of a Spell Card in their GY or Banishment, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to banish 1 card from either GY. You can only use this effect of \"Mosaic Refrain - Ravenous Pack\" once per turn.",
+          "duelingbookId": 6076993,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076993.jpg",
+          "addedAt": "2026-10-06 14:59:47",
+          "changedAt": "2026-10-06 14:59:47"
         }
       ]
     },
@@ -25537,8 +25552,8 @@
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
-      "addedClauses": 3,
-      "totalClauses": 48,
+      "addedClauses": 4,
+      "totalClauses": 49,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -25647,7 +25662,7 @@
           "duelingbookId": 6046340,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046340.jpg",
           "addedAt": "2026-10-06 04:38:45",
-          "changedAt": "2026-10-06 04:38:45"
+          "changedAt": "2026-10-06 14:59:53"
         },
         {
           "id": 455,
