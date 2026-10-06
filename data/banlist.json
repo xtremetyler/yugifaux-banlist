@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:42:41.760Z",
+  "updatedAt": "2026-10-06T04:43:11.734Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 15,
+      "registeredCardCount": 16,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25699,6 +25699,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046477.jpg",
           "addedAt": "2026-10-06 04:42:28",
           "changedAt": "2026-10-06 04:42:28"
+        },
+        {
+          "id": 465,
+          "name": "Favorite COMIC! Vol. 1 - Skyscraper!",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "This card’s name becomes “Toon World” while in the Field Zone. When this card is activated: You can add 1 “COMIC!” card from your Deck to your hand, except “Favorite COMIC! Vol. 1 - Skyscraper!”. During either players Main Phase: You can Fusion Summon 1 “COMIC! HERO” Fusion Monster from your Extra Deck, using monsters from your hand or field as material. Once per turn, if this face-up card in the Field Zone would be destroyed by an opponent’s card effect, you can banish 1 “COMIC!” card from your GY instead. You can only use each effect of “Favorite COMIC! Vol. 1 - Skyscraper!” once per turn.",
+          "duelingbookId": 6046454,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046454.jpg",
+          "addedAt": "2026-10-06 04:42:54",
+          "changedAt": "2026-10-06 04:42:54"
         }
       ]
     }
