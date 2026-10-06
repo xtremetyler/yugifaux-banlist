@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T20:12:45.649Z",
+  "updatedAt": "2026-10-06T20:13:15.625Z",
   "cards": [
     {
       "id": 384,
@@ -26289,8 +26289,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 14,
-        "lifetimePoints": 448,
+        "balance": 18,
+        "lifetimePoints": 452,
         "matchWins": 37,
         "matchLosses": 23,
         "gamesWon": 127,
@@ -26301,8 +26301,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 3,
-        "lifetimePoints": 329,
+        "balance": 5,
+        "lifetimePoints": 331,
         "matchWins": 21,
         "matchLosses": 29,
         "gamesWon": 68,
