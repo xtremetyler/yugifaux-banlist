@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T00:35:24.467Z",
+  "updatedAt": "2026-10-06T01:53:57.913Z",
   "cards": [
     {
       "id": 384,
@@ -6560,7 +6560,7 @@
     {
       "id": 385,
       "name": "Inverting Purp-eL",
-      "status": "semi-limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -6574,7 +6574,7 @@
       "duelingbookId": 6029734,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029734.jpg",
       "addedAt": "2026-09-04 16:46:47",
-      "changedAt": "2026-09-05 06:22:38"
+      "changedAt": "2026-10-06 01:53:54"
     },
     {
       "id": 194,
@@ -18616,7 +18616,7 @@
         {
           "id": 385,
           "name": "Inverting Purp-eL",
-          "status": "semi-limeade",
+          "status": "banned",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -18630,7 +18630,7 @@
           "duelingbookId": 6029734,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6029734.jpg",
           "addedAt": "2026-09-04 16:46:47",
-          "changedAt": "2026-09-05 06:22:38"
+          "changedAt": "2026-10-06 01:53:54"
         },
         {
           "id": 387,
