@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:37:11.734Z",
+  "updatedAt": "2026-10-06T04:37:41.749Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25430,6 +25430,9 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
+      "featuredCardId": 451,
+      "featuredCardName": "COMIC! HERO Avian",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046334.jpg",
       "cards": [
         {
           "id": 449,
@@ -25446,6 +25449,25 @@
           "text": "You can Special Summon this card (from your hand or GY) by sending 1 other card from your hand or field to the GY that mentions a Fusion Summon, but if this card was Summoned from the GY this way, banish it when it leaves the field. You can only Special Summon \"COMIC! HERO Wildheart\" this way once per turn. If a Fusion Monster that was Fusion Summoned using this monster as material is destroyed and sent to the GY: Destroy all Spell/Trap Cards on the field, except \"Toon World\".\n\n**Commissioned clauses:** 3\n**Created by:** <@484079309955399691>\n**For:** <@487278554355073026>'s **COMIC!**\n\n**Review:** Approved by <@487278554355073026>",
           "addedAt": "2026-10-06 03:28:13",
           "changedAt": "2026-10-06 03:28:13"
+        },
+        {
+          "id": 451,
+          "name": "COMIC! HERO Avian",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 3",
+          "atk": "1000",
+          "def": "1000",
+          "text": "If this card is Normal or Special Summoned: You can add 1 “COMIC!” Spell/Trap from your Deck to your hand. If this card is sent to the GY as material for the Fusion Summon of a “COMIC! HERO” monster while you control “Toon World”: You can target 1 card your opponent controls; return it to the hand. You can only use each effect of “COMIC! HERO Avian” once per turn.",
+          "duelingbookId": 6046334,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046334.jpg",
+          "addedAt": "2026-10-06 04:37:30",
+          "changedAt": "2026-10-06 04:37:30"
         }
       ]
     }
