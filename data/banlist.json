@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T19:03:06.636Z",
+  "updatedAt": "2026-10-06T19:03:36.544Z",
   "cards": [
     {
       "id": 384,
@@ -11680,7 +11680,7 @@
     {
       "id": 669,
       "name": "Th'Underhiel Apocalyptic Amp",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -11694,7 +11694,7 @@
       "duelingbookId": 6081558,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081558.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:03:08"
     },
     {
       "id": 662,
@@ -14752,7 +14752,7 @@
         {
           "id": 669,
           "name": "Th'Underhiel Apocalyptic Amp",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Continuous",
@@ -14766,7 +14766,7 @@
           "duelingbookId": 6081558,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081558.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:03:08"
         },
         {
           "id": 662,
