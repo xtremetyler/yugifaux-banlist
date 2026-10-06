@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:55:28.053Z",
+  "updatedAt": "2026-10-06T02:55:58.039Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25267,6 +25267,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081406.jpg",
           "addedAt": "2026-10-06 02:55:14",
           "changedAt": "2026-10-06 02:55:14"
+        },
+        {
+          "id": 441,
+          "name": "Deciduous Descendants - Barkhide",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Plant",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 4",
+          "atk": "0",
+          "def": "2500",
+          "text": "This card can only be Normal or Special Summoned, or flipped face-up in face-up Defense Position and its battle position cannot be changed. This card can attack in face-up Defense Position (apply its DEF for damage calculation). During your turn, \"Deciduous Descendants\" cards in your Main Monster Zones cannot be targeted by your opponent's card effects.",
+          "duelingbookId": 6081360,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081360.jpg",
+          "addedAt": "2026-10-06 02:55:43",
+          "changedAt": "2026-10-06 02:55:43"
         }
       ]
     },
