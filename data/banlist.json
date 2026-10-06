@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:12:30.153Z",
+  "updatedAt": "2026-10-06T15:13:00.213Z",
   "cards": [
     {
       "id": 384,
@@ -25401,17 +25401,25 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "featuredCardId": 467,
-      "featuredCardName": "Red Sister of Mosaic Refrain",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076976.jpg",
+      "featuredCardId": 435,
+      "featuredCardName": "All-Glass Listener in Mosaic Refrain",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081644.jpg",
       "cards": [
         {
           "id": 435,
           "name": "All-Glass Listener in Mosaic Refrain",
           "source": "custom",
-          "text": "If a Monster(s) that was also a Trap was used as Material for the Synchro Summon of this card and would be sent to the GY, you can Set that card(s) to your Spell & Trap Zone instead. (Quick Effect): You can target 1 face-up Trap Card you control with an effect that Special Summons itself as a Monster; immediately after this effect resolves, Set that card to your Spell & Trap Zone. You can only activate this effect of \"All-Glass Listener in Mosaic Refrain\" twice per turn. You can activate a Trap Card Set by either of this card's effects during the same turn it was Set.\n\n**Commissioned clauses:** 3\n**Created by:** <@487278554355073026>\n**For:** <@484079309955399691>'s **Mosaic Refrain**\n\n**Review:** Approved by <@484079309955399691>",
+          "cardType": "Synchro Monster",
+          "monsterType": "Winged Beast",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 10",
+          "atk": "3000",
+          "def": "2600",
+          "text": "1 Tuner + 1+ non-Tuner Monster(s)\nIf a Monster(s) that was also a Trap was used as Material for the Synchro Summon of this card and would be sent to the GY, you can Set that card(s) to your Spell & Trap Zone instead. (Quick Effect): You can target 1 face-up Trap Card you control with an effect that Special Summons itself as a Monster; immediately after this effect resolves, Set that card to your Spell & Trap Zone. You can only activate this effect of \"All-Glass Listener in Mosaic Refrain\" twice per turn. You can activate a Trap Card Set by either of this card's effects during the same turn it was Set.",
+          "duelingbookId": 6081644,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081644.jpg",
           "addedAt": "2026-10-05 18:51:27",
-          "changedAt": "2026-10-05 18:51:27"
+          "changedAt": "2026-10-06 15:12:51"
         },
         {
           "id": 467,
