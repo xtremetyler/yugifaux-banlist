@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T20:13:45.615Z",
+  "updatedAt": "2026-10-06T20:17:15.609Z",
   "cards": [
     {
       "id": 384,
@@ -25972,7 +25972,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 17,
+      "registeredCardCount": 18,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -26280,6 +26280,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046350.jpg",
           "addedAt": "2026-10-06 04:43:18",
           "changedAt": "2026-10-06 04:43:18"
+        },
+        {
+          "id": 484,
+          "name": "COMIC! HERO Mariner",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "WATER",
+          "levelRankLink": "Level 5",
+          "atk": "1400",
+          "def": "1000",
+          "text": "\"COMIC! HERO Bubbleman\" or \"COMIC! HERO Avian\" + 1 \"COMIC!\" monster\nWhile you have 2 or more cards in your hand, this card can attack directly. At the end of the Damage Step, if this card inflicted battle damage to your opponent: You can target 1 “COMIC! HERO” monster in your GY; Special Summon it. During your opponent’s turn (Quick Effect): You can banish 1 random card from your opponent’s hand, face-up, until the End Phase. You can only use each effect of “COMIC! HERO Mariner” once per turn.",
+          "duelingbookId": 6083044,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083044.jpg",
+          "addedAt": "2026-10-06 20:17:08",
+          "changedAt": "2026-10-06 20:17:08"
         }
       ]
     }
