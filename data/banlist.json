@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T14:49:00.078Z",
+  "updatedAt": "2026-10-06T14:52:30.077Z",
   "cards": [
     {
       "id": 384,
@@ -24727,8 +24727,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 12,
-      "totalClauses": 57,
+      "addedClauses": 14,
+      "totalClauses": 59,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -24809,11 +24809,11 @@
           "levelRankLink": "Level 13",
           "atk": "1300",
           "def": "1300",
-          "text": "2+ Level 4 or lower Effect Monsters with the same Attribute, but different Types and Levels\nMust be Fusion Summoned or Special Summoned by its own effect. You can Special Summon this card (from your Extra Deck) by destroying any number of \"Iconic Kill of F.K.\" cards with different names from your hand and/or field. If this card battles a monster, neither can be destroyed by that battle. This card's original ATK becomes 1300 x the number of monsters sent to the GY to Summon it from the Extra Deck. At the start of your opponent's Battle Phase: Your opponent must change an Attack Position monster they control to face-down Defense Position, if able. Once per turn, during the End Phase, if this card was Special Summoned from the Extra Deck this turn: Return this card to the Extra Deck, and if you do, you can activate 1 \"Street of Elms in Nightmare\" from your Deck or GY. You can only control 1 \"F.K\" Fusion Monster at a time.",
+          "text": "2+ Level 4 or lower Effect Monsters with the same Attribute, but different Types and Levels\nMust be Fusion Summoned or Special Summoned by its own effect. You can Special Summon this card (from your Extra Deck) by destroying any number of \"Iconic Kill of F.K.\" cards with different names from your hand and/or field, then you can Special Summon 1 of the monsters destroyed and sent to the GY from the field this way. If this card battles a monster, neither can be destroyed by that battle. This card's original ATK becomes 1300 x the number of monsters sent to the GY to Summon it from the Extra Deck. At the start of your opponent's Battle Phase: Your opponent must change an Attack Position monster they control to face-down Defense Position, if able. Once per turn, during the End Phase, if this card was Special Summoned from the Extra Deck this turn: Return this card to the Extra Deck, and if you do, you can activate 1 \"Street of Elms in Nightmare\" from your Deck or GY. You can only control 1 \"F.K\" Fusion Monster at a time.",
           "duelingbookId": 6072734,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6072734.jpg",
           "addedAt": "2026-09-30 23:30:06",
-          "changedAt": "2026-10-05 03:29:10"
+          "changedAt": "2026-10-06 14:52:25"
         },
         {
           "id": 416,
