@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:18:00.186Z",
+  "updatedAt": "2026-10-06T16:07:00.414Z",
   "cards": [
     {
       "id": 384,
@@ -24440,7 +24440,7 @@
       "submittedAt": "2026-09-29 03:23:38",
       "activatedAt": "2026-09-29 03:23:38",
       "declaredCardCount": 14,
-      "registeredCardCount": 16,
+      "registeredCardCount": 17,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -24711,6 +24711,26 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6074104.jpg",
           "addedAt": "2026-09-30 17:34:57",
           "changedAt": "2026-09-30 21:56:36"
+        },
+        {
+          "id": 483,
+          "name": "Afterthought - They Who Watch Over",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Psychic",
+          "attribute": "LIGHT",
+          "levelRankLink": "Link 3",
+          "atk": "1500",
+          "linkMarkers": [
+            "Top",
+            "Right",
+            "Left"
+          ],
+          "text": "This card gains 1000 ATK for each \"Afterthought\" monster it points to.\nDuring your turn, while you control this card with 1500 ATK, you can conduct 1 additional Normal Summon from your GY (you can only gain this effect once per turn). Your opponent cannot target this card you control with 3000 or more ATK.\nWhen a monster this card points to becomes the target of your opponent's card effect (Quick Effect): You can send another monster from your hand, field, or banishment to your GY; negate that effect. You can only activate this effect of \"Afterthought - They Who Watch Over\" twice per turn.",
+          "duelingbookId": 6081383,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081383.jpg",
+          "addedAt": "2026-10-06 16:06:58",
+          "changedAt": "2026-10-06 16:06:58"
         }
       ]
     },
