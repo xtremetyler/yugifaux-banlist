@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T14:55:30.118Z",
+  "updatedAt": "2026-10-06T14:57:00.073Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25491,6 +25491,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077016.jpg",
           "addedAt": "2026-10-06 14:53:31",
           "changedAt": "2026-10-06 14:53:31"
+        },
+        {
+          "id": 472,
+          "name": "Mosaic Refrain - Careless Emissary",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Negate the effects of 1 face-up Monster your opponent controls until the end of this turn, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 600/DEF 1800) (this card is also still a Trap). If Summoned by its own effect, this card is unaffected by your opponent's Spell Cards and effects. When your opponent activates a card or effect by sending a card(s) from their hand or Deck to the GY, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to send 1 Monster from your Extra Deck to the GY. You can only use this effect of \"Mosaic Refrain - Careless Emissary\" once per turn.",
+          "duelingbookId": 6077027,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077027.jpg",
+          "addedAt": "2026-10-06 14:56:40",
+          "changedAt": "2026-10-06 14:56:40"
         }
       ]
     },
