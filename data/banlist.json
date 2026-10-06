@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:14:00.541Z",
+  "updatedAt": "2026-10-06T15:15:00.189Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 14,
+      "registeredCardCount": 15,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25620,6 +25620,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081712.jpg",
           "addedAt": "2026-10-06 15:13:44",
           "changedAt": "2026-10-06 15:13:44"
+        },
+        {
+          "id": 481,
+          "name": "Mosaic Refrain - Hallowed Prominence",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Monsters you control that are also Traps can attack directly during each of your Battle Phases this turn, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 400/DEF 2100) (this card is also still a Trap). If Summoned by its own effect, this card cannot be destroyed by battle or your opponent's card effect, unless they discard 1 card. When your opponent declares an attack, while this card is in your GY and you control \"Hallowed Palace of All-Glass\" and/or \"All-Glass Listener in Mosaic Refrain\": You can place this card on the bottom of your Deck to destroy the attacking Monster, and if you do, excavate cards from the top of your Deck equal to the number of \"Mosaic Refrain\" cards you control and send 1 excavated card to your GY, then shuffle the rest into your Deck. You can only use this effect of \"Mosaic Refrain - Hallowed Prominence\" once per turn.",
+          "duelingbookId": 6082208,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082208.jpg",
+          "addedAt": "2026-10-06 15:14:52",
+          "changedAt": "2026-10-06 15:14:52"
         }
       ]
     },
