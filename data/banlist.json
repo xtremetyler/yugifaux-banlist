@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:50:28.043Z",
+  "updatedAt": "2026-10-06T02:50:58.031Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25179,7 +25179,27 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 436,
+      "featuredCardName": "Deciduous Descendants - Apollo Ash",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081372.jpg",
+      "cards": [
+        {
+          "id": 436,
+          "name": "Deciduous Descendants - Apollo Ash",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Plant",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 8",
+          "atk": "0",
+          "def": "3500",
+          "text": "1+ Tuner & 1 non-Tuner Plant Monster\nThis card can only be Special Summoned in face-up Defense Position and its battle position cannot be changed. This card can attack in face-up Defense Position (apply its DEF for damage calculation). During the turn this card is Special Summoned, it cannot be targeted by your opponent's card effects. Once per turn, while you control this Synchro Summoned card: You can banish 2 \"Deciduous Descendants\" cards from your GY; place 1 Plant Counter on each face-up Spell/Trap you control.",
+          "duelingbookId": 6081372,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081372.jpg",
+          "addedAt": "2026-10-06 02:50:45",
+          "changedAt": "2026-10-06 02:50:45"
+        }
+      ]
     },
     {
       "id": 42,
