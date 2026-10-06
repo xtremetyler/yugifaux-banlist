@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T19:00:06.670Z",
+  "updatedAt": "2026-10-06T19:01:36.584Z",
   "cards": [
     {
       "id": 384,
@@ -11661,7 +11661,7 @@
     {
       "id": 668,
       "name": "Th'Underhiel Almighty Axe",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -11675,7 +11675,7 @@
       "duelingbookId": 6081557,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081557.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:01:26"
     },
     {
       "id": 669,
@@ -14733,7 +14733,7 @@
         {
           "id": 668,
           "name": "Th'Underhiel Almighty Axe",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -14747,7 +14747,7 @@
           "duelingbookId": 6081557,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081557.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:01:26"
         },
         {
           "id": 669,
