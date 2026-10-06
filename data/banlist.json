@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:39:11.702Z",
+  "updatedAt": "2026-10-06T04:39:41.743Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 6,
+      "registeredCardCount": 8,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25525,6 +25525,44 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046340.jpg",
           "addedAt": "2026-10-06 04:38:45",
           "changedAt": "2026-10-06 04:38:45"
+        },
+        {
+          "id": 455,
+          "name": "COMIC! HERO Clayman",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 4",
+          "atk": "800",
+          "def": "2000",
+          "text": "While this card is face-up on the field, your opponent cannot target \"COMIC!\" monsters for attacks or effects, except \"COMIC! HERO Clayman\". If this card is sent to the GY as material for the Fusion Summon of a “COMIC! HERO” monster while you control “Toon World”: That Fusion Summoned monster cannot be destroyed by battle or card effects until the end of the next turn. You can only use each effect of “COMIC! HERO Clayman” once per turn.",
+          "duelingbookId": 6046450,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046450.jpg",
+          "addedAt": "2026-10-06 04:39:15",
+          "changedAt": "2026-10-06 04:39:15"
+        },
+        {
+          "id": 456,
+          "name": "COMIC! HERO Wildheart",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 4",
+          "atk": "1500",
+          "def": "1600",
+          "text": "You can Special Summon this card (from your hand or GY) by sending 1 other card from your hand or field to the GY that mentions a Fusion Summon, but if this card was Summoned from the GY this way, banish it when it leaves the field. You can only Special Summon \"COMIC! HERO Wildheart\" this way once per turn. If a Fusion Monster that was Fusion Summoned using this monster as material is destroyed and sent to the GY: Destroy all Spell/Trap Cards on the field, except \"Toon World\".",
+          "duelingbookId": 6082203,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082203.jpg",
+          "addedAt": "2026-10-06 04:39:31",
+          "changedAt": "2026-10-06 04:39:31"
         }
       ]
     }
