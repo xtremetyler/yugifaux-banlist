@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:58:58.032Z",
+  "updatedAt": "2026-10-06T02:59:28.027Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25365,6 +25365,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081448.jpg",
           "addedAt": "2026-10-06 02:58:39",
           "changedAt": "2026-10-06 02:58:39"
+        },
+        {
+          "id": 447,
+          "name": "Deciduous Descendants - Frasier Firforest",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: Place 1 Plant Counter on each face-up Spell/Trap you control. During your Standby Phase: Remove 1 Plant Counter from this card or destroy it. Plant Monsters you control gain 1000 DEF for each Plant Counter on this card. During your Main Phase: You can reveal 1 monster with 0 ATK from your hand or target 1 monster with 0 ATK in your GY; Special Summon it. You can only activate this effect of \"Deciduous Descendants - Frasier Firforest\" once per turn.",
+          "duelingbookId": 6081444,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081444.jpg",
+          "addedAt": "2026-10-06 02:59:05",
+          "changedAt": "2026-10-06 02:59:05"
         }
       ]
     },
