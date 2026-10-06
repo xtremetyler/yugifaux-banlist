@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:39:41.743Z",
+  "updatedAt": "2026-10-06T04:40:11.724Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25430,17 +25430,28 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "featuredCardId": 451,
-      "featuredCardName": "COMIC! HERO Avian",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046334.jpg",
+      "featuredCardId": 449,
+      "featuredCardName": "COMIC! HERO Necroshade",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082206.jpg",
       "cards": [
         {
           "id": 449,
           "name": "COMIC! HERO Necroshade",
           "source": "custom",
-          "text": "During your Main Phase, if this card is in your hand: You can discard this card; Special Summon 1 “COMIC!” monster from your GY. If you Fusion Summon a monster while this card is in your GY: You can place this card on the bottom of the Deck; Special Summon 1 monster used as material for that Fusion Summon from your GY.\n\n**Commissioned clauses:** 3\n**Created by:** <@238904006066307072>\n**For:** <@487278554355073026>'s **COMIC!**\n\n**Review:** Approved by <@484079309955399691>",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 5",
+          "atk": "1600",
+          "def": "1800",
+          "text": "During your Main Phase, if this card is in your hand: You can discard this card; Special Summon 1 “COMIC!” monster from your GY. If you Fusion Summon a monster while this card is in your GY: You can place this card on the bottom of the Deck; Special Summon 1 monster used as material for that Fusion Summon from your GY.",
+          "duelingbookId": 6082206,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082206.jpg",
           "addedAt": "2026-10-06 03:28:13",
-          "changedAt": "2026-10-06 03:28:13"
+          "changedAt": "2026-10-06 04:39:48"
         },
         {
           "id": 450,
@@ -25563,6 +25574,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082203.jpg",
           "addedAt": "2026-10-06 04:39:31",
           "changedAt": "2026-10-06 04:39:31"
+        },
+        {
+          "id": 458,
+          "name": "COMIC! HERO Necroid Shaman",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 6",
+          "atk": "1900",
+          "def": "1800",
+          "text": "\"COMIC! HERO Wildheart\" or \"COMIC! HERO Necroshade\" + 1 COMIC! Monster\nWhile you control this face-up card, if a monster(s) is sent to the GY as material: You can Special Summon 1 of those monsters to either field, but its effects are negated. Once per turn, during your Main Phase: You can activate 1 \"COMIC\" Spell/Trap from your GY, but place it on the bottom of the Deck as it resolves. You can only activate each effect of \"COMIC! HERO Necroid Shaman\" twice per turn.",
+          "duelingbookId": 6082212,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082212.jpg",
+          "addedAt": "2026-10-06 04:40:08",
+          "changedAt": "2026-10-06 04:40:08"
         }
       ]
     }
