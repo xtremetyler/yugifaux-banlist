@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:00:30.086Z",
+  "updatedAt": "2026-10-06T15:04:30.114Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25551,6 +25551,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077001.jpg",
           "addedAt": "2026-10-06 15:00:17",
           "changedAt": "2026-10-06 15:00:17"
+        },
+        {
+          "id": 476,
+          "name": "Mosaic Refrain - Mercurial Fool",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Move 1 face-up card your opponent controls to an appropriate empty zone, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1400/DEF 600) (this card is also still a Trap). If Summoned by its own effect, this card cannot be returned from the field to the hand or Deck by your opponent's card effects. When your opponent activates a card or effect by returning a card(s) from their field to the hand, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to place 1 random card from your opponent's hand on the top of their Deck. You can only use this effect of \"Mosaic Refrain - Mercurial Fool\" once per turn.",
+          "duelingbookId": 6076995,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076995.jpg",
+          "addedAt": "2026-10-06 15:04:28",
+          "changedAt": "2026-10-06 15:04:28"
         }
       ]
     },
