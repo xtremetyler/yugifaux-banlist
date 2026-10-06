@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T19:02:36.591Z",
+  "updatedAt": "2026-10-06T19:03:06.636Z",
   "cards": [
     {
       "id": 384,
@@ -3851,7 +3851,7 @@
     {
       "id": 671,
       "name": "Fienaumm of Th'Underhiel",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Rock",
@@ -3869,7 +3869,7 @@
       "duelingbookId": 6081560,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081560.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:02:40"
     },
     {
       "id": 518,
@@ -11764,7 +11764,7 @@
     {
       "id": 670,
       "name": "Th'Underhiel Hall of Flame",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -11778,7 +11778,7 @@
       "duelingbookId": 6081559,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081559.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:02:55"
     },
     {
       "id": 661,
@@ -14644,7 +14644,7 @@
         {
           "id": 671,
           "name": "Fienaumm of Th'Underhiel",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Rock",
@@ -14662,7 +14662,7 @@
           "duelingbookId": 6081560,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081560.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:02:40"
         },
         {
           "id": 672,
@@ -14836,7 +14836,7 @@
         {
           "id": 670,
           "name": "Th'Underhiel Hall of Flame",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -14850,7 +14850,7 @@
           "duelingbookId": 6081559,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081559.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:02:55"
         },
         {
           "id": 661,
