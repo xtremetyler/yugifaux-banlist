@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:13:00.213Z",
+  "updatedAt": "2026-10-06T15:14:00.541Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 13,
+      "registeredCardCount": 14,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25604,6 +25604,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076987.jpg",
           "addedAt": "2026-10-06 15:12:00",
           "changedAt": "2026-10-06 15:12:00"
+        },
+        {
+          "id": 480,
+          "name": "Forgotten Glass Appraiser in Mosaic Refrain",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Wyrm",
+          "attribute": "LIGHT",
+          "levelRankLink": "Rank 3",
+          "atk": "2500",
+          "def": "2900",
+          "text": "3 Level 3 LIGHT and/or Normal Monsters\nOnce per turn (Quick Effect): You can detach 1 material from this card; add 1 card from your Deck or GY to your hand with the same original name as the detached card, then, if the detached card has an activated effect to Special Summon itself as a Monster, you may Special Summon it as if Special Summoned it by that effect. Once per turn (Quick Effect) You can detach 1 Trap Card attached to this card as Material; activate it, and if you do, you can return 1 \"Mosaic Refrain\" Trap with a different name than the activated card from your GY or Banishment to your hand.",
+          "duelingbookId": 6081712,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081712.jpg",
+          "addedAt": "2026-10-06 15:13:44",
+          "changedAt": "2026-10-06 15:13:44"
         }
       ]
     },
