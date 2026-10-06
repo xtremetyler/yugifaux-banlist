@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T19:40:45.719Z",
+  "updatedAt": "2026-10-06T20:12:45.649Z",
   "cards": [
     {
       "id": 384,
@@ -26285,28 +26285,28 @@
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 83,
+    "confirmedMatchCount": 84,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 10,
-        "lifetimePoints": 444,
-        "matchWins": 36,
+        "balance": 14,
+        "lifetimePoints": 448,
+        "matchWins": 37,
         "matchLosses": 23,
-        "gamesWon": 125,
-        "gamesLost": 78,
+        "gamesWon": 127,
+        "gamesLost": 79,
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain"
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 1,
-        "lifetimePoints": 327,
+        "balance": 3,
+        "lifetimePoints": 329,
         "matchWins": 21,
-        "matchLosses": 28,
-        "gamesWon": 67,
-        "gamesLost": 100,
+        "matchLosses": 29,
+        "gamesWon": 68,
+        "gamesLost": 102,
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!"
@@ -26361,6 +26361,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 87,
+        "confirmedAt": "2026-10-06 20:12:38",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Mosaic Refrain",
+        "opponentArchetype": "COMIC!"
+      },
       {
         "id": 86,
         "confirmedAt": "2026-10-06 18:07:56",
@@ -26430,19 +26440,19 @@
         "opponentGames": 1,
         "reporterArchetype": "Th'Underhiel",
         "opponentArchetype": "Ancient Ritual"
-      },
-      {
-        "id": 79,
-        "confirmedAt": "2026-10-01 20:22:26",
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "forgoudaboutit",
-        "reporterGames": 2,
-        "opponentGames": 1,
-        "reporterArchetype": "Th'Underhiel",
-        "opponentArchetype": "Street of Elms"
       }
     ],
     "matchHistory": [
+      {
+        "id": 87,
+        "confirmedAt": "2026-10-06 20:12:38",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Mosaic Refrain",
+        "opponentArchetype": "COMIC!"
+      },
       {
         "id": 86,
         "confirmedAt": "2026-10-06 18:07:56",
