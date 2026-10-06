@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:51:58.107Z",
+  "updatedAt": "2026-10-06T02:52:58.092Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25217,6 +25217,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081438.jpg",
           "addedAt": "2026-10-06 02:51:48",
           "changedAt": "2026-10-06 02:51:48"
+        },
+        {
+          "id": 438,
+          "name": "Deciduous Descendants - Growing Rites",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When a player activates a card or effect: You can remove any number of Plant Counters from your field; apply 1 of the following effects, based on the number of counters removed this way.\n● 1: Inflict 500 damage to your opponent.\n● 2: Negate the effect of a face-up monster on the field until the end of this turn.\n● 3: Negate the effect of a face-up Spell/Trap on the field, and if you do, destroy it. \n● 4: Take control of 1 face-up monster your opponent controls until the end of this turn.",
+          "duelingbookId": 6081411,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081411.jpg",
+          "addedAt": "2026-10-06 02:52:41",
+          "changedAt": "2026-10-06 02:52:41"
         }
       ]
     },
