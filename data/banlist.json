@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:42:11.745Z",
+  "updatedAt": "2026-10-06T04:42:41.760Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 14,
+      "registeredCardCount": 15,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25684,6 +25684,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046472.jpg",
           "addedAt": "2026-10-06 04:42:06",
           "changedAt": "2026-10-06 04:42:06"
+        },
+        {
+          "id": 464,
+          "name": "COMIC! Plot Armor!",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If you control “Toon World”: Reveal 1 “COMIC! HERO” Fusion Monster in your Extra Deck and target 1 face-up monster your opponent controls; declare the name of 1 “COMIC! HERO” monster mentioned as material on the revealed monster, and if you do, until the end of this turn, that target’s name becomes the declared name, then Fusion Summon the revealed monster, using that target and monsters from your hand or field as material. You can only activate 1 “COMIC! Plot Armor!” per turn.",
+          "duelingbookId": 6046477,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046477.jpg",
+          "addedAt": "2026-10-06 04:42:28",
+          "changedAt": "2026-10-06 04:42:28"
         }
       ]
     }
