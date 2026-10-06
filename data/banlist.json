@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T14:47:00.113Z",
+  "updatedAt": "2026-10-06T14:48:00.044Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25401,6 +25401,9 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
+      "featuredCardId": 467,
+      "featuredCardName": "Red Sister of Mosaic Refrain",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076976.jpg",
       "cards": [
         {
           "id": 435,
@@ -25409,6 +25412,22 @@
           "text": "If a Monster(s) that was also a Trap was used as Material for the Synchro Summon of this card and would be sent to the GY, you can Set that card(s) to your Spell & Trap Zone instead. (Quick Effect): You can target 1 face-up Trap Card you control with an effect that Special Summons itself as a Monster; immediately after this effect resolves, Set that card to your Spell & Trap Zone. You can only activate this effect of \"All-Glass Listener in Mosaic Refrain\" twice per turn. You can activate a Trap Card Set by either of this card's effects during the same turn it was Set.\n\n**Commissioned clauses:** 3\n**Created by:** <@487278554355073026>\n**For:** <@484079309955399691>'s **Mosaic Refrain**\n\n**Review:** Approved by <@484079309955399691>",
           "addedAt": "2026-10-05 18:51:27",
           "changedAt": "2026-10-05 18:51:27"
+        },
+        {
+          "id": 467,
+          "name": "Red Sister of Mosaic Refrain",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Thunder",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 7",
+          "atk": "2400",
+          "def": "2300",
+          "text": "During your Main Phase: You can send 2 Trap Cards with an effect that Special Summons itself as a Monster from your Deck to your GY; Special Summon this card (from your hand), and if you do, you can Set 1 of those sent cards to your field. You can only Special Summon \"Red Sister of Mosaic Refrain\" this way once per turn. Once per turn, during the Main Phase: You can target 1 \"Mosaic Refrain\" card in your GY; add it to your hand or, if that target is a Trap Card with an effect that Special Summons itself as a Monster, you can Set it instead. You can activate a Trap Card Set by either of this card's effects during the same turn it was Set.",
+          "duelingbookId": 6076976,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076976.jpg",
+          "addedAt": "2026-10-06 14:47:38",
+          "changedAt": "2026-10-06 14:47:38"
         }
       ]
     },
