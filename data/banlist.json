@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:38:46.001Z",
+  "updatedAt": "2026-10-06T04:39:11.702Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25506,6 +25506,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046345.jpg",
           "addedAt": "2026-10-06 04:38:24",
           "changedAt": "2026-10-06 04:38:24"
+        },
+        {
+          "id": 454,
+          "name": "COMIC! HERO Bubbleman",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "WATER",
+          "levelRankLink": "Level 4",
+          "atk": "800",
+          "def": "1200",
+          "text": "If you control “Toon World” and a “COMIC! HERO” monster: You can Special Summon this card from your hand or GY, but if Summoned from the GY, banish it when it leaves the field. If this card is sent to the GY as material for the Fusion Summon of a “COMIC! HERO” monster while you control “Toon World”: You can draw 2 cards. You can only use each effect of “COMIC! HERO Bubbleman” once per turn.",
+          "duelingbookId": 6046340,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046340.jpg",
+          "addedAt": "2026-10-06 04:38:45",
+          "changedAt": "2026-10-06 04:38:45"
         }
       ]
     }
