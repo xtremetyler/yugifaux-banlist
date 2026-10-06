@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T18:51:36.515Z",
+  "updatedAt": "2026-10-06T19:00:06.670Z",
   "cards": [
     {
       "id": 384,
@@ -11745,7 +11745,7 @@
     {
       "id": 674,
       "name": "Th'Underhiel Explosive Set",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -11759,7 +11759,7 @@
       "duelingbookId": 6081563,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081563.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 18:59:47"
     },
     {
       "id": 670,
@@ -14817,7 +14817,7 @@
         {
           "id": 674,
           "name": "Th'Underhiel Explosive Set",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -14831,7 +14831,7 @@
           "duelingbookId": 6081563,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081563.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 18:59:47"
         },
         {
           "id": 670,
