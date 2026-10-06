@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:53:28.070Z",
+  "updatedAt": "2026-10-06T02:53:58.035Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25232,6 +25232,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081411.jpg",
           "addedAt": "2026-10-06 02:52:41",
           "changedAt": "2026-10-06 02:52:41"
+        },
+        {
+          "id": 439,
+          "name": "Deciduous Descendants - Weed Synchron",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Plant",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 2",
+          "atk": "0",
+          "def": "1000",
+          "text": "If this card is Normal Summoned: You can target 1 Level 4 or lower monster with 0 ATK in your GY: Special Summon it in face-up Defense Position, but negate its effects.",
+          "duelingbookId": 6081373,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081373.jpg",
+          "addedAt": "2026-10-06 02:53:30",
+          "changedAt": "2026-10-06 02:53:30"
         }
       ]
     },
