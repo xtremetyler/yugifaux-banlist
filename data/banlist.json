@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T19:03:36.544Z",
+  "updatedAt": "2026-10-06T19:05:36.604Z",
   "cards": [
     {
       "id": 384,
@@ -11699,7 +11699,7 @@
     {
       "id": 662,
       "name": "Th'Underhiel Bryjj",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -11717,7 +11717,7 @@
       "duelingbookId": 6081551,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081551.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:05:08"
     },
     {
       "id": 666,
@@ -11806,7 +11806,7 @@
     {
       "id": 664,
       "name": "Th'Underhiel Lierykk",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -11824,7 +11824,7 @@
       "duelingbookId": 6081553,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081553.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:05:30"
     },
     {
       "id": 667,
@@ -14771,7 +14771,7 @@
         {
           "id": 662,
           "name": "Th'Underhiel Bryjj",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Rock",
@@ -14789,7 +14789,7 @@
           "duelingbookId": 6081551,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081551.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:05:08"
         },
         {
           "id": 666,
@@ -14878,7 +14878,7 @@
         {
           "id": 664,
           "name": "Th'Underhiel Lierykk",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Rock",
@@ -14896,7 +14896,7 @@
           "duelingbookId": 6081553,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081553.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:05:30"
         },
         {
           "id": 667,
