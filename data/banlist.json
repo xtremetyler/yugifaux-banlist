@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:41:41.743Z",
+  "updatedAt": "2026-10-06T04:42:11.745Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 13,
+      "registeredCardCount": 14,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25669,6 +25669,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047024.jpg",
           "addedAt": "2026-10-06 04:41:29",
           "changedAt": "2026-10-06 04:41:29"
+        },
+        {
+          "id": 463,
+          "name": "COMIC! Origin Story",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If you control “Toon World”: Reveal 1 “COMIC! HERO” Fusion Monster in your Extra Deck; Special Summon 1 “COMIC! HERO” monster from your hand or Deck whose name is mentioned as material on that revealed monster.",
+          "duelingbookId": 6046472,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046472.jpg",
+          "addedAt": "2026-10-06 04:42:06",
+          "changedAt": "2026-10-06 04:42:06"
         }
       ]
     }
