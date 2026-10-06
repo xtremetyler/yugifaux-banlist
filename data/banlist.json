@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T19:02:06.555Z",
+  "updatedAt": "2026-10-06T19:02:36.591Z",
   "cards": [
     {
       "id": 384,
@@ -4234,7 +4234,7 @@
     {
       "id": 672,
       "name": "Gaudfothrr of Th'Underhiel",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Rock",
@@ -4252,7 +4252,7 @@
       "duelingbookId": 6081561,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081561.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:02:33"
     },
     {
       "id": 125,
@@ -8258,7 +8258,7 @@
     {
       "id": 675,
       "name": "Mænagrgr of Th’Underhiel",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Rock",
@@ -8273,7 +8273,7 @@
       "duelingbookId": 6081564,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081564.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:02:23"
     },
     {
       "id": 531,
@@ -9397,7 +9397,7 @@
     {
       "id": 673,
       "name": "Qalosiss of Th'Underhiel",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Rock",
@@ -9415,7 +9415,7 @@
       "duelingbookId": 6081562,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081562.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:02:30"
     },
     {
       "id": 604,
@@ -11783,7 +11783,7 @@
     {
       "id": 661,
       "name": "Th'Underhiel Kordd",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -11801,7 +11801,7 @@
       "duelingbookId": 6081550,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081550.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:02:09"
     },
     {
       "id": 664,
@@ -11894,7 +11894,7 @@
     {
       "id": 660,
       "name": "Th'Underhiel Sygryff",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -11912,7 +11912,7 @@
       "duelingbookId": 6081549,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081549.jpg",
       "addedAt": "2026-10-05 17:12:14",
-      "changedAt": "2026-10-05 17:12:14"
+      "changedAt": "2026-10-06 19:02:08"
     },
     {
       "id": 231,
@@ -14667,7 +14667,7 @@
         {
           "id": 672,
           "name": "Gaudfothrr of Th'Underhiel",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Rock",
@@ -14685,12 +14685,12 @@
           "duelingbookId": 6081561,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081561.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:02:33"
         },
         {
           "id": 675,
           "name": "Mænagrgr of Th’Underhiel",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Rock",
@@ -14705,12 +14705,12 @@
           "duelingbookId": 6081564,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081564.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:02:23"
         },
         {
           "id": 673,
           "name": "Qalosiss of Th'Underhiel",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Rock",
@@ -14728,7 +14728,7 @@
           "duelingbookId": 6081562,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081562.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:02:30"
         },
         {
           "id": 668,
@@ -14855,7 +14855,7 @@
         {
           "id": 661,
           "name": "Th'Underhiel Kordd",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Rock",
@@ -14873,7 +14873,7 @@
           "duelingbookId": 6081550,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081550.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:02:09"
         },
         {
           "id": 664,
@@ -14966,7 +14966,7 @@
         {
           "id": 660,
           "name": "Th'Underhiel Sygryff",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Rock",
@@ -14984,7 +14984,7 @@
           "duelingbookId": 6081549,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081549.jpg",
           "addedAt": "2026-10-05 17:12:14",
-          "changedAt": "2026-10-05 17:12:14"
+          "changedAt": "2026-10-06 19:02:08"
         }
       ]
     },
