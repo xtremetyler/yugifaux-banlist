@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:37:41.749Z",
+  "updatedAt": "2026-10-06T04:38:11.710Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25468,12 +25468,31 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046334.jpg",
           "addedAt": "2026-10-06 04:37:30",
           "changedAt": "2026-10-06 04:37:30"
+        },
+        {
+          "id": 452,
+          "name": "COMIC! HERO Burstinatrix",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "FIRE",
+          "levelRankLink": "Level 3",
+          "atk": "1200",
+          "def": "800",
+          "text": "If you control “Toon World”, you can Special Summon this card from your hand. If this card is sent to the GY as material for the Fusion Summon of a “COMIC! HERO” monster while you control “Toon World”: You can target 1 face-up card your opponent controls; destroy it, and if it was a monster, inflict damage to your opponent equal to half its original ATK. You can only use each effect of “COMIC! HERO Burstinatrix” once per turn.",
+          "duelingbookId": 6046336,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046336.jpg",
+          "addedAt": "2026-10-06 04:38:04",
+          "changedAt": "2026-10-06 04:38:04"
         }
       ]
     }
   ],
   "dashboard": {
-    "confirmedMatchCount": 81,
+    "confirmedMatchCount": 82,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
@@ -25489,12 +25508,12 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 3,
-        "lifetimePoints": 323,
+        "balance": 5,
+        "lifetimePoints": 325,
         "matchWins": 21,
-        "matchLosses": 27,
-        "gamesWon": 66,
-        "gamesLost": 98,
+        "matchLosses": 28,
+        "gamesWon": 67,
+        "gamesLost": 100,
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!"
@@ -25537,18 +25556,28 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 47,
-        "lifetimePoints": 62,
-        "matchWins": 1,
+        "balance": 51,
+        "lifetimePoints": 66,
+        "matchWins": 2,
         "matchLosses": 3,
-        "gamesWon": 5,
-        "gamesLost": 6,
+        "gamesWon": 7,
+        "gamesLost": 7,
         "gamesDrawn": 0,
         "archetypeId": 39,
         "archetypeName": "Street of Elms"
       }
     ],
     "recentMatches": [
+      {
+        "id": 85,
+        "confirmedAt": "2026-10-06 04:37:41",
+        "reporter": "forgoudaboutit",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Street of Elms",
+        "opponentArchetype": "COMIC!"
+      },
       {
         "id": 84,
         "confirmedAt": "2026-10-06 02:39:54",
@@ -25618,19 +25647,19 @@
         "opponentGames": 0,
         "reporterArchetype": "GobMob",
         "opponentArchetype": "Th'Underhiel"
-      },
-      {
-        "id": 77,
-        "confirmedAt": "2026-10-01 06:04:39",
-        "reporter": "Brielieve In Cheesus",
-        "opponent": "forgoudaboutit",
-        "reporterGames": 2,
-        "opponentGames": 1,
-        "reporterArchetype": "Ancient Ritual",
-        "opponentArchetype": "Street of Elms"
       }
     ],
     "matchHistory": [
+      {
+        "id": 85,
+        "confirmedAt": "2026-10-06 04:37:41",
+        "reporter": "forgoudaboutit",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Street of Elms",
+        "opponentArchetype": "COMIC!"
+      },
       {
         "id": 84,
         "confirmedAt": "2026-10-06 02:39:54",
