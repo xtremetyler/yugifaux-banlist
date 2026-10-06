@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:05:00.172Z",
+  "updatedAt": "2026-10-06T15:12:30.153Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25581,6 +25581,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076986.jpg",
           "addedAt": "2026-10-06 15:04:58",
           "changedAt": "2026-10-06 15:04:58"
+        },
+        {
+          "id": 478,
+          "name": "Mosaic Refrain - Exiled King",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Send 3 Normal Traps with different names from your hand and/or Deck to the GY, except “Mosaic Refrain - Exiled King”, but you lose 500 LP for each Trap sent this way that does not have an effect that Special Summons itself as a Monster, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1000/DEF 1200) (this card is also still a Trap). If Summoned by its own effect, this card cannot be banished by your opponent's card effects. When your opponent activates a card or effect by banishing a card(s), while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to send 1 \"Mosaic Refrain\" Trap Card from your Deck to your GY, except \"Mosaic Refrain - Exiled King\". You can only use this effect of \"Mosaic Refrain - Exiled King\" once per turn.",
+          "duelingbookId": 6076987,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076987.jpg",
+          "addedAt": "2026-10-06 15:12:00",
+          "changedAt": "2026-10-06 15:12:00"
         }
       ]
     },
