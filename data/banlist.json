@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:15:00.189Z",
+  "updatedAt": "2026-10-06T15:18:00.186Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 15,
+      "registeredCardCount": 16,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25635,6 +25635,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082208.jpg",
           "addedAt": "2026-10-06 15:14:52",
           "changedAt": "2026-10-06 15:14:52"
+        },
+        {
+          "id": 482,
+          "name": "Broken Shards Mosaic Fusion",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "You can only activate this card while you control 1 or more Set Spell/Traps by returning 1 Trap Card with an effect that Special Summons itself as a Monster from your field or GY to your hand; Fusion Summon 1 Fusion Monster (from your Extra Deck) that specifically lists the name of a Monster as Material by using Monsters from your hand or field and/or banishing Monsters from your GY as Fusion Material. If you control 3 or more Set Spell/Traps, you can Special Summon 1 \"Mosaic Refrain\" Fusion Monster from your Extra Deck instead (this is treated as a Fusion Summon). You can only activate 1 \"Broken Shards Mosaic Fusion\" per turn.",
+          "duelingbookId": 6081707,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081707.jpg",
+          "addedAt": "2026-10-06 15:17:30",
+          "changedAt": "2026-10-06 15:17:30"
         }
       ]
     },
