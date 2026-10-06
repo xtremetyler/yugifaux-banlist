@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T19:30:45.928Z",
+  "updatedAt": "2026-10-06T19:40:24.433Z",
   "cards": [
     {
       "id": 384,
@@ -14077,7 +14077,7 @@
       "finalAddedClauses": 18,
       "notes": "\"1, 2 Freddy's coming for you...\"",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 693,
       "featuredCardName": "A Legacy of Violence on the Street of Elms",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082993.jpg",
