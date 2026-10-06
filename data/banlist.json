@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T03:35:41.726Z",
+  "updatedAt": "2026-10-06T04:36:41.801Z",
   "cards": [
     {
       "id": 384,
@@ -25515,8 +25515,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 43,
-        "lifetimePoints": 58,
+        "balance": 47,
+        "lifetimePoints": 62,
         "matchWins": 1,
         "matchLosses": 3,
         "gamesWon": 5,
