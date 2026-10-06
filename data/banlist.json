@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:57:28.051Z",
+  "updatedAt": "2026-10-06T02:57:58.044Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25318,6 +25318,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081425.jpg",
           "addedAt": "2026-10-06 02:57:05",
           "changedAt": "2026-10-06 02:57:05"
+        },
+        {
+          "id": 444,
+          "name": "Deciduous Descendants - Maplefriend",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Plant",
+          "attribute": "WIND",
+          "levelRankLink": "Level 4",
+          "atk": "0",
+          "def": "2500",
+          "text": "You can Special Summon this card (from your hand) by removing 1 Plant Counter from your field. During the turn this card is Special Summoned, negate the effects of each face-up monster your opponent controls in the same column as this card. Once per turn: You can remove 1 Plant Counter from your field; add 1 \"Deciduous Descendants\" monster from your Deck to your hand, except \"Deciduous Descendants - Mapleborn\".",
+          "duelingbookId": 6081502,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081502.jpg",
+          "addedAt": "2026-10-06 02:57:28",
+          "changedAt": "2026-10-06 02:57:28"
         }
       ]
     },
