@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T15:00:00.073Z",
+  "updatedAt": "2026-10-06T15:00:30.086Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25536,6 +25536,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076993.jpg",
           "addedAt": "2026-10-06 14:59:47",
           "changedAt": "2026-10-06 14:59:47"
+        },
+        {
+          "id": 475,
+          "name": "Mosaic Refrain - Patchwork Rebellion",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Destroy 1 face-up Monster on the field with the highest total ATK plus DEF, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1600/DEF 300) (this card is also still a Trap). If Summoned by its own effect, this card cannot be destroyed by your opponent's card effects. When your opponent activates a card or effect by Tributing or destroying a card(s) in their hand and/or field, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to destroy as many face-up cards in Field Zones as possible, except \"Hallowed Palace of All-Glass\". You can only use this effect of \"Mosaic Refrain - Patchwork Rebellion\" once per turn.",
+          "duelingbookId": 6077001,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077001.jpg",
+          "addedAt": "2026-10-06 15:00:17",
+          "changedAt": "2026-10-06 15:00:17"
         }
       ]
     },
