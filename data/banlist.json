@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T14:52:30.077Z",
+  "updatedAt": "2026-10-06T14:53:00.234Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25460,6 +25460,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077013.jpg",
           "addedAt": "2026-10-06 14:48:51",
           "changedAt": "2026-10-06 14:48:51"
+        },
+        {
+          "id": 470,
+          "name": "Orchestral Maiden of Mosaic Refrain",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Thunder",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 10",
+          "atk": "2800",
+          "def": "2700",
+          "text": "\"Red Sister of Mosaic Refrain\" + 1+ LIGHT Monster(s)\nOnce during the turn this card was Fusion Summoned (Quick Effect): You can target any number of \"Mosaic Refrain\" card in your GY, up to the number of Monsters used as Fusion Material for this card's Summon that were also Trap Cards; add those targets to your hand, and if you do, you can Set 1 Spell/Trap. You can activate a Trap Card Set by this card's effect during the same turn it was Set.",
+          "duelingbookId": 6076980,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076980.jpg",
+          "addedAt": "2026-10-06 14:52:38",
+          "changedAt": "2026-10-06 14:52:38"
         }
       ]
     },
