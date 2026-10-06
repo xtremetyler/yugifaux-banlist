@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T04:41:11.748Z",
+  "updatedAt": "2026-10-06T04:41:41.743Z",
   "cards": [
     {
       "id": 384,
@@ -25421,7 +25421,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -25650,6 +25650,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047008.jpg",
           "addedAt": "2026-10-06 04:41:08",
           "changedAt": "2026-10-06 04:41:08"
+        },
+        {
+          "id": 462,
+          "name": "COMIC! HERO Tempest",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "WIND",
+          "levelRankLink": "Level 8",
+          "atk": "2800",
+          "def": "2800",
+          "text": "“COMIC! HERO Avian” or “COMIC! HERO Sparkman” or “COMIC! HERO Bubbleman” + 2 \"COMIC!\" monsters\nIf this card is Fusion Summoned: You can Set 1 “COMIC!” Spell/Trap directly from your Deck. Once per turn (Quick Effect): You can shuffle 1 “COMIC!” card from your hand or GY into the Deck, then target 1 card on the field; return it to the hand. You can only use each effect of “COMIC! HERO Tempest” once per turn.",
+          "duelingbookId": 6047024,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047024.jpg",
+          "addedAt": "2026-10-06 04:41:29",
+          "changedAt": "2026-10-06 04:41:29"
         }
       ]
     }
