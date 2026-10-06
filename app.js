@@ -7,7 +7,7 @@ const STATUS = {
 };
 
 const state = { cards: [], nameQuery: "", effectQuery: "", status: "all", source: "all", cardType: "all", attribute: "all",
-  monsterType: "all", ability: "all", sort: "name", view: "all", favorites: new Set() };
+  monsterType: "all", ability: "all", rating: "all", sort: "name", view: "all", favorites: new Set() };
 
 const FAVORITES_KEY = "yugifaux-banlist-favorites";
 const RECENT_DAYS = 14;
@@ -28,6 +28,7 @@ const elements = {
   attribute: document.querySelector("#attribute-filter"),
   monsterType: document.querySelector("#monster-type-filter"),
   ability: document.querySelector("#ability-filter"),
+  rating: document.querySelector("#rating-filter"),
   sort: document.querySelector("#sort"),
   clear: document.querySelector("#clear-filters"),
   favoriteCount: document.querySelector("#favorite-count"),
@@ -153,6 +154,20 @@ function populateDynamicFilters() {
   populateSelect(elements.attribute, unique("attribute"), "Attributes");
   populateSelect(elements.monsterType, unique("monsterType"), "monster types");
   populateSelect(elements.ability, unique("abilities"), "abilities");
+  const currentRating = elements.rating.value;
+  const ratings = [...new Set(state.cards.map(ratingValue).filter(value => value !== null))].sort((a, b) => a - b);
+  elements.rating.innerHTML = `<option value="all">All ratings</option>` + ratings
+    .map(value => `<option value="${value}">${value}</option>`).join("");
+  elements.rating.value = [...elements.rating.options].some(option => option.value === currentRating) ? currentRating : "all";
+}
+
+function ratingValue(card) {
+  const raw = String(card.levelRankLink ?? "").trim();
+  if (!raw) return null;
+  const match = raw.match(/(?:Level|Rank|Link)\s*[-:]?\s*(\d+)/i);
+  if (match) return Number(match[1]);
+  const value = Number(raw);
+  return Number.isFinite(value) && value >= 0 ? value : null;
 }
 
 function statText(card) {
@@ -214,6 +229,7 @@ function getVisibleCards() {
     if (state.attribute !== "all" && String(card.attribute || "").toLocaleLowerCase() !== state.attribute) return false;
     if (state.monsterType !== "all" && String(card.monsterType || "").toLocaleLowerCase() !== state.monsterType) return false;
     if (state.ability !== "all" && !(card.abilities || []).some(value => String(value).toLocaleLowerCase() === state.ability)) return false;
+    if (state.rating !== "all" && ratingValue(card) !== Number(state.rating)) return false;
     const name = String(card.name || "").toLocaleLowerCase();
     const effect = [card.text,card.pendulumEffect].filter(Boolean).join(" ").toLocaleLowerCase();
     if (nameTerms.length && !nameTerms.every(term => name.includes(term))) return false;
@@ -226,6 +242,15 @@ function getVisibleCards() {
     if (state.sort === "status") {
       const statusDifference = (STATUS[a.status]?.order ?? 99) - (STATUS[b.status]?.order ?? 99);
       return statusDifference || a.name.localeCompare(b.name);
+    }
+    if (state.sort === "rating-asc" || state.sort === "rating-desc") {
+      const aRating = ratingValue(a);
+      const bRating = ratingValue(b);
+      if (aRating === null && bRating === null) return a.name.localeCompare(b.name);
+      if (aRating === null) return 1;
+      if (bRating === null) return -1;
+      const difference = state.sort === "rating-asc" ? aRating - bRating : bRating - aRating;
+      return difference || a.name.localeCompare(b.name);
     }
     return a.name.localeCompare(b.name);
   });
@@ -287,7 +312,7 @@ function showCard(card) {
 
 function resetFilters() {
   Object.assign(state, { nameQuery: "", effectQuery: "", status: "all", source: "all", cardType: "all", attribute: "all",
-    monsterType: "all", ability: "all", sort: "name", view: "all" });
+    monsterType: "all", ability: "all", rating: "all", sort: "name", view: "all" });
   elements.nameSearch.value = "";
   elements.effectSearch.value = "";
   elements.status.value = "all";
@@ -296,6 +321,7 @@ function resetFilters() {
   elements.attribute.value = "all";
   elements.monsterType.value = "all";
   elements.ability.value = "all";
+  elements.rating.value = "all";
   elements.sort.value = "name";
   updateViewTabs();
   renderCards();
@@ -337,6 +363,7 @@ elements.cardType.addEventListener("change", event => { state.cardType = event.t
 elements.attribute.addEventListener("change", event => { state.attribute = event.target.value; renderCards(); });
 elements.monsterType.addEventListener("change", event => { state.monsterType = event.target.value; renderCards(); });
 elements.ability.addEventListener("change", event => { state.ability = event.target.value; renderCards(); });
+elements.rating.addEventListener("change", event => { state.rating = event.target.value; renderCards(); });
 elements.sort.addEventListener("change", event => { state.sort = event.target.value; renderCards(); });
 elements.clear.addEventListener("click", resetFilters);
 document.querySelectorAll("[data-view]").forEach(button => button.addEventListener("click", () => {
