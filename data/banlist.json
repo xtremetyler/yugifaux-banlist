@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T02:50:58.031Z",
+  "updatedAt": "2026-10-06T02:51:58.107Z",
   "cards": [
     {
       "id": 384,
@@ -25170,7 +25170,7 @@
       "submittedAt": "2026-10-05 15:58:34",
       "activatedAt": "2026-10-05 15:58:34",
       "declaredCardCount": 14,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25198,6 +25198,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081372.jpg",
           "addedAt": "2026-10-06 02:50:45",
           "changedAt": "2026-10-06 02:50:45"
+        },
+        {
+          "id": 437,
+          "name": "Deciduous Descendants - Sapling Sprout",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Plant",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 2",
+          "atk": "0",
+          "def": "1000",
+          "text": "You may remove a Plant counter from a card you control to Special Summon this. If this card is Normal, Special Summoned or Flip Summoned: Change it to Defense Position. Once per turn, during your Main Phase, you may put a Plant Counter on all face-up Spells/Traps you control.",
+          "duelingbookId": 6081438,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081438.jpg",
+          "addedAt": "2026-10-06 02:51:48",
+          "changedAt": "2026-10-06 02:51:48"
         }
       ]
     },
