@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-06T14:57:00.073Z",
+  "updatedAt": "2026-10-06T14:59:30.096Z",
   "cards": [
     {
       "id": 384,
@@ -25392,7 +25392,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -25506,6 +25506,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077027.jpg",
           "addedAt": "2026-10-06 14:56:40",
           "changedAt": "2026-10-06 14:56:40"
+        },
+        {
+          "id": 473,
+          "name": "Mosaic Refrain - Dutiful Ruin",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Change 1 face-up Monster on either field to face-down Defense Position, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 800/DEF 1500) (this card is also still a Trap). If Summoned by its own effect, this card cannot be destroyed by battle. When your opponent activates a Monster effect in the GY or Banishment, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to halve any damage that would be inflicted to you for the rest of this turn. You can only use this effect of \"Mosaic Refrain - Dutiful Ruin\" once per turn.",
+          "duelingbookId": 6077002,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077002.jpg",
+          "addedAt": "2026-10-06 14:59:17",
+          "changedAt": "2026-10-06 14:59:17"
         }
       ]
     },
