@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T17:38:10.269Z",
+  "updatedAt": "2026-10-07T17:38:24.756Z",
   "cards": [
     {
       "id": 384,
@@ -26375,7 +26375,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 9.029
+        "slacs": 9.96
       },
       {
         "name": "The Original Rough Cheddar",
@@ -26414,7 +26414,7 @@
         "gamesDrawn": 0,
         "archetypeId": 40,
         "archetypeName": "WeyYu",
-        "slacs": 4.15
+        "slacs": 5.226
       },
       {
         "name": "forgoudaboutit",
