@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T17:38:32.674Z",
+  "updatedAt": "2026-10-07T18:20:11.994Z",
   "cards": [
     {
       "id": 384,
@@ -26431,8 +26431,8 @@
       },
       {
         "name": "Joules Tune Brie 2 Blue",
-        "balance": 39,
-        "lifetimePoints": 93,
+        "balance": 40,
+        "lifetimePoints": 94,
         "matchWins": 0,
         "matchLosses": 1,
         "gamesWon": 0,
