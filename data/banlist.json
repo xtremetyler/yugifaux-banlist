@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T20:26:50.220Z",
+  "updatedAt": "2026-10-07T20:28:50.176Z",
   "cards": [
     {
       "id": 384,
@@ -25777,8 +25777,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 4,
-      "totalClauses": 49,
+      "addedClauses": 5,
+      "totalClauses": 50,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -25864,7 +25864,7 @@
           "duelingbookId": 6076980,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076980.jpg",
           "addedAt": "2026-10-06 14:52:38",
-          "changedAt": "2026-10-06 14:52:38"
+          "changedAt": "2026-10-07 20:28:33"
         },
         {
           "id": 471,
