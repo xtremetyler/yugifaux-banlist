@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T19:10:55.459Z",
+  "updatedAt": "2026-10-07T19:18:06.937Z",
   "cards": [
     {
       "id": 384,
@@ -46,7 +46,7 @@
       "id": 693,
       "botCardId": 412,
       "name": "A Legacy of Violence on the Street of Elms",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -60,7 +60,7 @@
       "duelingbookId": 6082993,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082993.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:17:46"
     },
     {
       "id": 617,
@@ -3837,7 +3837,7 @@
       "id": 697,
       "botCardId": 416,
       "name": "F.K. - King of Nightmares",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Fiend",
@@ -3855,13 +3855,13 @@
       "duelingbookId": 6082998,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082998.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:18:04"
     },
     {
       "id": 696,
       "botCardId": 415,
       "name": "F.K. - The Springwood Slasher",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Illusion",
@@ -3879,7 +3879,7 @@
       "duelingbookId": 6082997,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082997.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:18:02"
     },
     {
       "id": 243,
@@ -6332,7 +6332,7 @@
       "id": 692,
       "botCardId": 411,
       "name": "Iconic Glove on the Street of Elms",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -6346,7 +6346,7 @@
       "duelingbookId": 6082992,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082992.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:17:40"
     },
     {
       "id": 698,
@@ -11725,7 +11725,7 @@
       "id": 695,
       "botCardId": 414,
       "name": "Street of Elms in Daytime",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -11739,13 +11739,13 @@
       "duelingbookId": 6082995,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082995.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:17:59"
     },
     {
       "id": 694,
       "botCardId": 413,
       "name": "Street of Elms in Nightmare",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -11759,7 +11759,7 @@
       "duelingbookId": 6082994,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082994.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:17:50"
     },
     {
       "id": 658,
@@ -14519,7 +14519,7 @@
           "id": 693,
           "botCardId": 412,
           "name": "A Legacy of Violence on the Street of Elms",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -14533,7 +14533,7 @@
           "duelingbookId": 6082993,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082993.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:17:46"
         },
         {
           "id": 703,
@@ -14559,7 +14559,7 @@
           "id": 697,
           "botCardId": 416,
           "name": "F.K. - King of Nightmares",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Fiend",
@@ -14577,13 +14577,13 @@
           "duelingbookId": 6082998,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082998.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:18:04"
         },
         {
           "id": 696,
           "botCardId": 415,
           "name": "F.K. - The Springwood Slasher",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Illusion",
@@ -14601,13 +14601,13 @@
           "duelingbookId": 6082997,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082997.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:18:02"
         },
         {
           "id": 692,
           "botCardId": 411,
           "name": "Iconic Glove on the Street of Elms",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -14621,7 +14621,7 @@
           "duelingbookId": 6082992,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082992.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:17:40"
         },
         {
           "id": 698,
@@ -14737,7 +14737,7 @@
           "id": 695,
           "botCardId": 414,
           "name": "Street of Elms in Daytime",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -14751,13 +14751,13 @@
           "duelingbookId": 6082995,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082995.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:17:59"
         },
         {
           "id": 694,
           "botCardId": 413,
           "name": "Street of Elms in Nightmare",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -14771,7 +14771,7 @@
           "duelingbookId": 6082994,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082994.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:17:50"
         }
       ]
     },
