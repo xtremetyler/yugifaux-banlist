@@ -17,12 +17,12 @@
     <main class="shell league-main">
       <section class="dashboard-stats" aria-label="League totals">
         <article><span>Active archetypes</span><strong id="stat-active">—</strong><a href="archetypes.html">View the field</a></article>
-        <article><span>Confirmed matches</span><strong id="stat-matches">—</strong><small>Bot-era results</small></article>
+        <article><span>Confirmed matches</span><strong id="stat-matches">—</strong><small id="matches-basis">Current-season results</small></article>
         <article><span>Retirements waiting</span><strong id="stat-waiting">—</strong><small>Player action required</small></article>
         <article><span>Shared-pool cards</span><strong id="stat-cards">—</strong><a href="banlist.html">Browse the list</a></article>
       </section>
       <div class="dashboard-columns">
-        <section class="dashboard-panel dashboard-panel--standings"><div class="panel-heading"><div><p class="eyebrow">Competition</p><h2>League standings</h2></div><span>Ranked by lifetime points</span></div><div id="standings-table" class="standings-table"></div></section>
+        <section class="dashboard-panel dashboard-panel--standings"><div class="panel-heading"><div><p class="eyebrow">Competition</p><h2>League standings</h2></div><span id="standings-basis">Ranked by seasonal SLACS</span></div><div id="standings-table" class="standings-table"></div></section>
         <section class="dashboard-panel"><div class="panel-heading"><div><p class="eyebrow">Latest duels</p><h2>Recent results</h2></div></div><div id="recent-results" class="result-list"></div></section>
       </div>
       <section class="dashboard-panel"><div class="panel-heading"><div><p class="eyebrow">Cause three Ephtear retirements</p><h2>Duelhalla watch</h2></div><a href="archetypes.html">All active archetypes →</a></div><div id="retirement-watch" class="retirement-watch"></div></section>
@@ -30,7 +30,7 @@
       <section class="error-state" id="dashboard-error" hidden><h2>The dashboard could not be loaded</h2><p>Refresh in a moment or let a league administrator know.</p></section>
     </main>
     <footer><div class="shell footer__content"><span>YugiFaux League Dashboard</span><span>Maintained automatically by The Fauxbidden One</span></div></footer>
-    <script src="dashboard.js?v=2" defer></script>
+    <script src="dashboard.js?v=3" defer></script>
   </body>
 </html>
 
