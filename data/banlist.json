@@ -1,9 +1,10 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T18:35:42.057Z",
+  "updatedAt": "2026-10-07T19:06:36.864Z",
   "cards": [
     {
       "id": 384,
+      "botCardId": 145,
       "name": "A Certain Purp-eL Wrongness",
       "status": "semi-limeade",
       "source": "custom",
@@ -23,6 +24,7 @@
     },
     {
       "id": 382,
+      "botCardId": 143,
       "name": "A Landscape Drowning in Purp-eL",
       "status": "semi-limeade",
       "source": "custom",
@@ -42,6 +44,7 @@
     },
     {
       "id": 693,
+      "botCardId": 412,
       "name": "A Legacy of Violence on the Street of Elms",
       "status": "voting",
       "source": "custom",
@@ -61,6 +64,7 @@
     },
     {
       "id": 617,
+      "botCardId": 308,
       "name": "A Little Berdie Told Me",
       "status": "unlimeade",
       "source": "custom",
@@ -80,6 +84,7 @@
     },
     {
       "id": 383,
+      "botCardId": 144,
       "name": "A Shade Too Purp-eL",
       "status": "semi-limeade",
       "source": "custom",
@@ -368,6 +373,7 @@
     },
     {
       "id": 596,
+      "botCardId": 328,
       "name": "Aimless Ambler Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -388,6 +394,7 @@
     },
     {
       "id": 532,
+      "botCardId": 289,
       "name": "Aladin, Bearer of Fels’teel",
       "status": "unlimeade",
       "source": "custom",
@@ -408,6 +415,7 @@
     },
     {
       "id": 302,
+      "botCardId": 137,
       "name": "Alsabea Capella - The Lust",
       "status": "semi-limeade",
       "source": "custom",
@@ -428,6 +436,7 @@
     },
     {
       "id": 298,
+      "botCardId": 133,
       "name": "Alsabea Ecumundias - The Cardinal Court",
       "status": "unlimeade",
       "source": "custom",
@@ -448,6 +457,7 @@
     },
     {
       "id": 303,
+      "botCardId": 138,
       "name": "Alsabea Leo - The Pride",
       "status": "semi-limeade",
       "source": "custom",
@@ -468,6 +478,7 @@
     },
     {
       "id": 299,
+      "botCardId": 134,
       "name": "Alsabea Triad - Gluttony, Envy, & Greed",
       "status": "limeade",
       "source": "custom",
@@ -488,6 +499,7 @@
     },
     {
       "id": 301,
+      "botCardId": 136,
       "name": "Alsabea Ursus - The Sloth",
       "status": "semi-limeade",
       "source": "custom",
@@ -508,6 +520,7 @@
     },
     {
       "id": 300,
+      "botCardId": 135,
       "name": "Alsabea Vespa - The Wrath",
       "status": "unlimeade",
       "source": "custom",
@@ -593,6 +606,7 @@
     },
     {
       "id": 533,
+      "botCardId": 290,
       "name": "Ancient Fels'teel Lamp",
       "status": "unlimeade",
       "source": "custom",
@@ -613,6 +627,7 @@
     },
     {
       "id": 541,
+      "botCardId": 298,
       "name": "Ancient Fels'teel Lamp of Three Wishes",
       "status": "semi-limeade",
       "source": "custom",
@@ -633,6 +648,7 @@
     },
     {
       "id": 656,
+      "botCardId": 300,
       "name": "Ancient Ritual Decrepit Elder Matron",
       "status": "limeade",
       "source": "custom",
@@ -653,6 +669,7 @@
     },
     {
       "id": 651,
+      "botCardId": 266,
       "name": "Ancient Ritual Feral Chasm Impling",
       "status": "unlimeade",
       "source": "custom",
@@ -676,6 +693,7 @@
     },
     {
       "id": 642,
+      "botCardId": 257,
       "name": "Ancient Ritual Founder's Summoning",
       "status": "unlimeade",
       "source": "custom",
@@ -695,6 +713,7 @@
     },
     {
       "id": 650,
+      "botCardId": 265,
       "name": "Ancient Ritual Fungal Homunculus Assistant",
       "status": "unlimeade",
       "source": "custom",
@@ -718,6 +737,7 @@
     },
     {
       "id": 653,
+      "botCardId": 268,
       "name": "Ancient Ritual Homunculord of Sublime Decay",
       "status": "semi-limeade",
       "source": "custom",
@@ -738,6 +758,7 @@
     },
     {
       "id": 643,
+      "botCardId": 258,
       "name": "Ancient Ritual Initiate's Summoning",
       "status": "unlimeade",
       "source": "custom",
@@ -757,6 +778,7 @@
     },
     {
       "id": 652,
+      "botCardId": 267,
       "name": "Ancient Ritual Intrusion Ward",
       "status": "limeade",
       "source": "custom",
@@ -776,6 +798,7 @@
     },
     {
       "id": 654,
+      "botCardId": 269,
       "name": "Ancient Ritual Magnificent Chasm Lord",
       "status": "semi-limeade",
       "source": "custom",
@@ -796,6 +819,7 @@
     },
     {
       "id": 647,
+      "botCardId": 262,
       "name": "Ancient Ritual Material - Amanita Muscaria",
       "status": "unlimeade",
       "source": "custom",
@@ -816,6 +840,7 @@
     },
     {
       "id": 649,
+      "botCardId": 264,
       "name": "Ancient Ritual Material - Blood Candle",
       "status": "unlimeade",
       "source": "custom",
@@ -836,6 +861,7 @@
     },
     {
       "id": 646,
+      "botCardId": 261,
       "name": "Ancient Ritual Material - Common Wolfsbane",
       "status": "unlimeade",
       "source": "custom",
@@ -856,6 +882,7 @@
     },
     {
       "id": 648,
+      "botCardId": 263,
       "name": "Ancient Ritual Material - Corpse Ash",
       "status": "unlimeade",
       "source": "custom",
@@ -876,6 +903,7 @@
     },
     {
       "id": 645,
+      "botCardId": 260,
       "name": "Ancient Ritual Material Gathering",
       "status": "limeade",
       "source": "custom",
@@ -895,6 +923,7 @@
     },
     {
       "id": 655,
+      "botCardId": 270,
       "name": "Ancient Ritual Material Golem",
       "status": "unlimeade",
       "source": "custom",
@@ -915,6 +944,7 @@
     },
     {
       "id": 644,
+      "botCardId": 259,
       "name": "Ancient Ritual Site",
       "status": "limeade",
       "source": "custom",
@@ -973,6 +1003,7 @@
     },
     {
       "id": 451,
+      "botCardId": 184,
       "name": "Anointed Alfred, Mummy King",
       "status": "limeade",
       "source": "custom",
@@ -993,6 +1024,7 @@
     },
     {
       "id": 452,
+      "botCardId": 185,
       "name": "Anointed Crypt-Breaker",
       "status": "semi-limeade",
       "source": "custom",
@@ -1015,6 +1047,7 @@
     },
     {
       "id": 453,
+      "botCardId": 186,
       "name": "Anointed Deacon",
       "status": "semi-limeade",
       "source": "custom",
@@ -1037,6 +1070,7 @@
     },
     {
       "id": 454,
+      "botCardId": 187,
       "name": "Anointed Kuriboh",
       "status": "banned",
       "source": "custom",
@@ -1059,6 +1093,7 @@
     },
     {
       "id": 455,
+      "botCardId": 188,
       "name": "Anointed Magician of Darkness",
       "status": "semi-limeade",
       "source": "custom",
@@ -1079,6 +1114,7 @@
     },
     {
       "id": 456,
+      "botCardId": 189,
       "name": "Anointed Priest",
       "status": "semi-limeade",
       "source": "custom",
@@ -1101,6 +1137,7 @@
     },
     {
       "id": 457,
+      "botCardId": 190,
       "name": "Anointed Sarcophagus",
       "status": "semi-limeade",
       "source": "custom",
@@ -1121,6 +1158,7 @@
     },
     {
       "id": 458,
+      "botCardId": 191,
       "name": "Anointed Timegazer",
       "status": "semi-limeade",
       "source": "custom",
@@ -1143,6 +1181,7 @@
     },
     {
       "id": 459,
+      "botCardId": 192,
       "name": "Anointment By The Ankh",
       "status": "semi-limeade",
       "source": "custom",
@@ -1244,6 +1283,7 @@
     },
     {
       "id": 162,
+      "botCardId": 2,
       "name": "Azure Skybreaker",
       "status": "unlimeade",
       "source": "custom",
@@ -1321,6 +1361,7 @@
     },
     {
       "id": 292,
+      "botCardId": 127,
       "name": "Barrier Law of Ecumundias",
       "status": "limeade",
       "source": "custom",
@@ -1340,6 +1381,7 @@
     },
     {
       "id": 589,
+      "botCardId": 321,
       "name": "Bashiten, Infernal Trickster of the Canopy",
       "status": "semi-limeade",
       "source": "custom",
@@ -1382,6 +1424,7 @@
     },
     {
       "id": 551,
+      "botCardId": 250,
       "name": "Beacon of The Fade",
       "status": "unlimeade",
       "source": "custom",
@@ -1421,6 +1464,7 @@
     },
     {
       "id": 614,
+      "botCardId": 305,
       "name": "Berd 0205 - Zpero",
       "status": "limeade",
       "source": "custom",
@@ -1443,6 +1487,7 @@
     },
     {
       "id": 612,
+      "botCardId": 303,
       "name": "Berd 0410 - Dhuk",
       "status": "unlimeade",
       "source": "custom",
@@ -1465,6 +1510,7 @@
     },
     {
       "id": 610,
+      "botCardId": 301,
       "name": "Berd 0505 - Pyjjin",
       "status": "unlimeade",
       "source": "custom",
@@ -1487,6 +1533,7 @@
     },
     {
       "id": 613,
+      "botCardId": 304,
       "name": "Berd 0706 - Auwel",
       "status": "unlimeade",
       "source": "custom",
@@ -1509,6 +1556,7 @@
     },
     {
       "id": 611,
+      "botCardId": 302,
       "name": "Berd 0801 - Krau",
       "status": "unlimeade",
       "source": "custom",
@@ -1531,6 +1579,7 @@
     },
     {
       "id": 622,
+      "botCardId": 313,
       "name": "Berd 1400 - Swaloh",
       "status": "unlimeade",
       "source": "custom",
@@ -1554,6 +1603,7 @@
     },
     {
       "id": 620,
+      "botCardId": 311,
       "name": "Berd 1713 - Hock",
       "status": "unlimeade",
       "source": "custom",
@@ -1574,6 +1624,7 @@
     },
     {
       "id": 618,
+      "botCardId": 309,
       "name": "Berd 1812 - Vulcher",
       "status": "unlimeade",
       "source": "custom",
@@ -1594,6 +1645,7 @@
     },
     {
       "id": 615,
+      "botCardId": 306,
       "name": "Berd in the Hand",
       "status": "banned",
       "source": "custom",
@@ -1613,6 +1665,7 @@
     },
     {
       "id": 619,
+      "botCardId": 310,
       "name": "Berd Warcher - Wally Byrdz",
       "status": "limeade",
       "source": "custom",
@@ -1633,6 +1686,7 @@
     },
     {
       "id": 621,
+      "botCardId": 312,
       "name": "Berd Zanctuary",
       "status": "banned",
       "source": "custom",
@@ -1652,6 +1706,7 @@
     },
     {
       "id": 703,
+      "botCardId": 422,
       "name": "Beware the Boiler Room on the Street of Elms",
       "status": "voting",
       "source": "custom",
@@ -1753,6 +1808,7 @@
     },
     {
       "id": 476,
+      "botCardId": 222,
       "name": "Blue Chaos Emerald",
       "status": "banned",
       "source": "custom",
@@ -1906,6 +1962,7 @@
     },
     {
       "id": 460,
+      "botCardId": 193,
       "name": "Book of Sun",
       "status": "banned",
       "source": "custom",
@@ -1925,6 +1982,7 @@
     },
     {
       "id": 443,
+      "botCardId": 212,
       "name": "Brahei from the Hollow Era",
       "status": "semi-limeade",
       "source": "custom",
@@ -1945,6 +2003,7 @@
     },
     {
       "id": 217,
+      "botCardId": 41,
       "name": "Brawltown Boss Floor",
       "status": "unlimeade",
       "source": "custom",
@@ -1985,6 +2044,7 @@
     },
     {
       "id": 168,
+      "botCardId": 10,
       "name": "Broken Skies",
       "status": "banned",
       "source": "custom",
@@ -2004,6 +2064,7 @@
     },
     {
       "id": 606,
+      "botCardId": 338,
       "name": "Bronze-Bound Baron Beyond Life",
       "status": "semi-limeade",
       "source": "custom",
@@ -2024,6 +2085,7 @@
     },
     {
       "id": 605,
+      "botCardId": 337,
       "name": "Bronzed Scholar Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -2091,6 +2153,7 @@
     },
     {
       "id": 534,
+      "botCardId": 291,
       "name": "Califara, City of Fels'teel",
       "status": "unlimeade",
       "source": "custom",
@@ -2165,6 +2228,7 @@
     },
     {
       "id": 236,
+      "botCardId": 35,
       "name": "Carcosa",
       "status": "unlimeade",
       "source": "custom",
@@ -2201,6 +2265,7 @@
     },
     {
       "id": 318,
+      "botCardId": 114,
       "name": "Card Wars Action - Reclaim Landscape",
       "status": "semi-limeade",
       "source": "custom",
@@ -2220,6 +2285,7 @@
     },
     {
       "id": 317,
+      "botCardId": 113,
       "name": "Card Wars Building - Astral Fortress",
       "status": "banned",
       "source": "custom",
@@ -2239,6 +2305,7 @@
     },
     {
       "id": 316,
+      "botCardId": 112,
       "name": "Card Wars Building - Cave of Solitude",
       "status": "semi-limeade",
       "source": "custom",
@@ -2258,6 +2325,7 @@
     },
     {
       "id": 315,
+      "botCardId": 111,
       "name": "Card Wars Building - Corn Castle",
       "status": "semi-limeade",
       "source": "custom",
@@ -2277,6 +2345,7 @@
     },
     {
       "id": 314,
+      "botCardId": 110,
       "name": "Card Wars Building - Schoolhouse",
       "status": "limeade",
       "source": "custom",
@@ -2296,6 +2365,7 @@
     },
     {
       "id": 313,
+      "botCardId": 109,
       "name": "Card Wars Creature - Ancient Scholar and Cool Dog",
       "status": "semi-limeade",
       "source": "custom",
@@ -2316,6 +2386,7 @@
     },
     {
       "id": 312,
+      "botCardId": 108,
       "name": "Card Wars Creature - Archer Dan",
       "status": "semi-limeade",
       "source": "custom",
@@ -2336,6 +2407,7 @@
     },
     {
       "id": 311,
+      "botCardId": 107,
       "name": "Card Wars Creature - Field Reaper",
       "status": "banned",
       "source": "custom",
@@ -2356,6 +2428,7 @@
     },
     {
       "id": 310,
+      "botCardId": 106,
       "name": "Card Wars Creature - Husker Knights and Worms",
       "status": "semi-limeade",
       "source": "custom",
@@ -2376,6 +2449,7 @@
     },
     {
       "id": 309,
+      "botCardId": 105,
       "name": "Card Wars Creature - Immortal Maize Walker",
       "status": "semi-limeade",
       "source": "custom",
@@ -2396,6 +2470,7 @@
     },
     {
       "id": 308,
+      "botCardId": 104,
       "name": "Card Wars Creature - The Pig",
       "status": "unlimeade",
       "source": "custom",
@@ -2416,6 +2491,7 @@
     },
     {
       "id": 307,
+      "botCardId": 103,
       "name": "Card Wars Creature - Wandering Bald Man",
       "status": "unlimeade",
       "source": "custom",
@@ -2439,6 +2515,7 @@
     },
     {
       "id": 306,
+      "botCardId": 102,
       "name": "Card Wars Location - Cornfield and Blue Plains",
       "status": "semi-limeade",
       "source": "custom",
@@ -2458,6 +2535,7 @@
     },
     {
       "id": 305,
+      "botCardId": 101,
       "name": "Card Wars Location - Useless Swamp",
       "status": "limeade",
       "source": "custom",
@@ -2477,6 +2555,7 @@
     },
     {
       "id": 304,
+      "botCardId": 100,
       "name": "Card Wars Player - The Cool Guy and the Dweeb",
       "status": "semi-limeade",
       "source": "custom",
@@ -2536,6 +2615,7 @@
     },
     {
       "id": 515,
+      "botCardId": 272,
       "name": "Catch-A-Ride!",
       "status": "unlimeade",
       "source": "custom",
@@ -2575,6 +2655,7 @@
     },
     {
       "id": 417,
+      "botCardId": 180,
       "name": "Choose a Panel!",
       "status": "unlimeade",
       "source": "custom",
@@ -2632,6 +2713,7 @@
     },
     {
       "id": 592,
+      "botCardId": 324,
       "name": "Contract of the Wild Hunt",
       "status": "unlimeade",
       "source": "custom",
@@ -2651,6 +2733,7 @@
     },
     {
       "id": 449,
+      "botCardId": 218,
       "name": "Core Remnant of the Hollow Era",
       "status": "semi-limeade",
       "source": "custom",
@@ -2671,6 +2754,7 @@
     },
     {
       "id": 599,
+      "botCardId": 331,
       "name": "Corroded Conqueror Beyond Life",
       "status": "banned",
       "source": "custom",
@@ -2708,6 +2792,7 @@
     },
     {
       "id": 468,
+      "botCardId": 201,
       "name": "Cove Area of the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -2765,6 +2850,7 @@
     },
     {
       "id": 163,
+      "botCardId": 5,
       "name": "Crimson Skybreaker",
       "status": "unlimeade",
       "source": "custom",
@@ -2839,6 +2925,7 @@
     },
     {
       "id": 479,
+      "botCardId": 225,
       "name": "Cyan Chaos Emerald",
       "status": "banned",
       "source": "custom",
@@ -2884,6 +2971,7 @@
     },
     {
       "id": 235,
+      "botCardId": 34,
       "name": "Damned King Aldones",
       "status": "unlimeade",
       "source": "custom",
@@ -3183,6 +3271,7 @@
     },
     {
       "id": 588,
+      "botCardId": 320,
       "name": "Donkestra, Craghide Ambusher",
       "status": "semi-limeade",
       "source": "custom",
@@ -3226,6 +3315,7 @@
     },
     {
       "id": 191,
+      "botCardId": 61,
       "name": "Dragon Warrior Po, Bearer of the Scroll",
       "status": "unlimeade",
       "source": "custom",
@@ -3246,6 +3336,7 @@
     },
     {
       "id": 184,
+      "botCardId": 54,
       "name": "Dragon Warrior Tag Team - Crane & Viper",
       "status": "limeade",
       "source": "custom",
@@ -3266,6 +3357,7 @@
     },
     {
       "id": 185,
+      "botCardId": 55,
       "name": "Dragon Warrior Tag Team - Monkey & Mantis",
       "status": "limeade",
       "source": "custom",
@@ -3286,6 +3378,7 @@
     },
     {
       "id": 186,
+      "botCardId": 56,
       "name": "Dragon Warrior Tag Team - Po & Tigress",
       "status": "semi-limeade",
       "source": "custom",
@@ -3343,6 +3436,7 @@
     },
     {
       "id": 616,
+      "botCardId": 307,
       "name": "Ducks in a Row",
       "status": "unlimeade",
       "source": "custom",
@@ -3403,6 +3497,7 @@
     },
     {
       "id": 556,
+      "botCardId": 255,
       "name": "Dyo-Reija, Fade to Molten Wastes",
       "status": "semi-limeade",
       "source": "custom",
@@ -3423,6 +3518,7 @@
     },
     {
       "id": 294,
+      "botCardId": 129,
       "name": "Ecumundias' Edict of the Bear",
       "status": "unlimeade",
       "source": "custom",
@@ -3442,6 +3538,7 @@
     },
     {
       "id": 296,
+      "botCardId": 131,
       "name": "Ecumundias' Edict of the Goat",
       "status": "unlimeade",
       "source": "custom",
@@ -3461,6 +3558,7 @@
     },
     {
       "id": 295,
+      "botCardId": 130,
       "name": "Ecumundias' Edict of the Hornet",
       "status": "semi-limeade",
       "source": "custom",
@@ -3480,6 +3578,7 @@
     },
     {
       "id": 297,
+      "botCardId": 132,
       "name": "Ecumundias' Edict of the Lion",
       "status": "semi-limeade",
       "source": "custom",
@@ -3499,6 +3598,7 @@
     },
     {
       "id": 293,
+      "botCardId": 128,
       "name": "Ecumundias' Triadic Commandment",
       "status": "semi-limeade",
       "source": "custom",
@@ -3518,6 +3618,7 @@
     },
     {
       "id": 467,
+      "botCardId": 200,
       "name": "Eerie Coral in the Dungeon Dark",
       "status": "limeade",
       "source": "custom",
@@ -3537,6 +3638,7 @@
     },
     {
       "id": 466,
+      "botCardId": 199,
       "name": "Eldritch Altar in the Dungeon Dark",
       "status": "limeade",
       "source": "custom",
@@ -3573,6 +3675,7 @@
     },
     {
       "id": 557,
+      "botCardId": 256,
       "name": "Enas-Reija, Fade to Cavernous Depths",
       "status": "unlimeade",
       "source": "custom",
@@ -3613,6 +3716,7 @@
     },
     {
       "id": 229,
+      "botCardId": 28,
       "name": "Ensuing Madness",
       "status": "unlimeade",
       "source": "custom",
@@ -3692,6 +3796,7 @@
     },
     {
       "id": 553,
+      "botCardId": 252,
       "name": "Exi-Reija, Fade to Walled City",
       "status": "semi-limeade",
       "source": "custom",
@@ -3730,6 +3835,7 @@
     },
     {
       "id": 697,
+      "botCardId": 416,
       "name": "F.K. - King of Nightmares",
       "status": "voting",
       "source": "custom",
@@ -3753,6 +3859,7 @@
     },
     {
       "id": 696,
+      "botCardId": 415,
       "name": "F.K. - The Springwood Slasher",
       "status": "voting",
       "source": "custom",
@@ -3796,6 +3903,7 @@
     },
     {
       "id": 539,
+      "botCardId": 296,
       "name": "Fels'teel Mirage Veil",
       "status": "semi-limeade",
       "source": "custom",
@@ -3815,6 +3923,7 @@
     },
     {
       "id": 538,
+      "botCardId": 295,
       "name": "Fels'teel – At Your Beck and Call",
       "status": "limeade",
       "source": "custom",
@@ -3834,6 +3943,7 @@
     },
     {
       "id": 540,
+      "botCardId": 297,
       "name": "Fels'teel – Careful What You Wish For",
       "status": "semi-limeade",
       "source": "custom",
@@ -3853,6 +3963,7 @@
     },
     {
       "id": 671,
+      "botCardId": 368,
       "name": "Fienaumm of Th'Underhiel",
       "status": "unlimeade",
       "source": "custom",
@@ -3876,6 +3987,7 @@
     },
     {
       "id": 518,
+      "botCardId": 275,
       "name": "Fight for Your Life",
       "status": "semi-limeade",
       "source": "custom",
@@ -4000,6 +4112,7 @@
     },
     {
       "id": 603,
+      "botCardId": 335,
       "name": "Forgotten Force Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -4020,6 +4133,7 @@
     },
     {
       "id": 277,
+      "botCardId": 89,
       "name": "Forgotten Reflection",
       "status": "banned",
       "source": "custom",
@@ -4078,6 +4192,7 @@
     },
     {
       "id": 188,
+      "botCardId": 58,
       "name": "Furious Five Dragon - Crane",
       "status": "limeade",
       "source": "custom",
@@ -4098,6 +4213,7 @@
     },
     {
       "id": 190,
+      "botCardId": 60,
       "name": "Furious Five Dragon - Tigress",
       "status": "unlimeade",
       "source": "custom",
@@ -4118,6 +4234,7 @@
     },
     {
       "id": 189,
+      "botCardId": 59,
       "name": "Furious Five Dragon - Viper",
       "status": "limeade",
       "source": "custom",
@@ -4138,6 +4255,7 @@
     },
     {
       "id": 187,
+      "botCardId": 57,
       "name": "Furious Five Dragon Warrior - Mantis",
       "status": "limeade",
       "source": "custom",
@@ -4158,6 +4276,7 @@
     },
     {
       "id": 192,
+      "botCardId": 62,
       "name": "Furious Five Dragon Warrior - Monkey",
       "status": "limeade",
       "source": "custom",
@@ -4215,6 +4334,7 @@
     },
     {
       "id": 549,
+      "botCardId": 248,
       "name": "Gathered Avatar of The Fade",
       "status": "unlimeade",
       "source": "custom",
@@ -4237,6 +4357,7 @@
     },
     {
       "id": 672,
+      "botCardId": 369,
       "name": "Gaudfothrr of Th'Underhiel",
       "status": "unlimeade",
       "source": "custom",
@@ -4283,6 +4404,7 @@
     },
     {
       "id": 164,
+      "botCardId": 6,
       "name": "Gemscale Skybreaker",
       "status": "unlimeade",
       "source": "custom",
@@ -4403,6 +4525,7 @@
     },
     {
       "id": 678,
+      "botCardId": 395,
       "name": "GobMob - The Guy with the Shield",
       "status": "banned",
       "source": "custom",
@@ -4423,6 +4546,7 @@
     },
     {
       "id": 679,
+      "botCardId": 396,
       "name": "GobMob - The Guy with the Sword",
       "status": "banned",
       "source": "custom",
@@ -4443,6 +4567,7 @@
     },
     {
       "id": 682,
+      "botCardId": 399,
       "name": "GobMob Brooding Pit",
       "status": "banned",
       "source": "custom",
@@ -4462,6 +4587,7 @@
     },
     {
       "id": 680,
+      "botCardId": 397,
       "name": "GobMob — Definitely One Goblin",
       "status": "banned",
       "source": "custom",
@@ -4482,6 +4608,7 @@
     },
     {
       "id": 687,
+      "botCardId": 404,
       "name": "GobMob — Kevin",
       "status": "banned",
       "source": "custom",
@@ -4502,6 +4629,7 @@
     },
     {
       "id": 683,
+      "botCardId": 400,
       "name": "GobMob — Little Big Boss",
       "status": "banned",
       "source": "custom",
@@ -4522,6 +4650,7 @@
     },
     {
       "id": 691,
+      "botCardId": 408,
       "name": "GobMob — The Goblin King, Apparently",
       "status": "banned",
       "source": "custom",
@@ -4542,6 +4671,7 @@
     },
     {
       "id": 688,
+      "botCardId": 405,
       "name": "GobMob — The Guy in the Mine Cart",
       "status": "banned",
       "source": "custom",
@@ -4562,6 +4692,7 @@
     },
     {
       "id": 681,
+      "botCardId": 398,
       "name": "GobMob — The Guy Nobody Invited",
       "status": "banned",
       "source": "custom",
@@ -4582,6 +4713,7 @@
     },
     {
       "id": 689,
+      "botCardId": 406,
       "name": "GobMob — The Guy Who Knows Magic",
       "status": "banned",
       "source": "custom",
@@ -4602,6 +4734,7 @@
     },
     {
       "id": 690,
+      "botCardId": 407,
       "name": "GobMob — The Guy With the Bag",
       "status": "banned",
       "source": "custom",
@@ -4622,6 +4755,7 @@
     },
     {
       "id": 684,
+      "botCardId": 401,
       "name": "GobMob — The Guy With the Ladder",
       "status": "banned",
       "source": "custom",
@@ -4642,6 +4776,7 @@
     },
     {
       "id": 686,
+      "botCardId": 403,
       "name": "GobMob — The Guy With the Map",
       "status": "banned",
       "source": "custom",
@@ -4662,6 +4797,7 @@
     },
     {
       "id": 685,
+      "botCardId": 402,
       "name": "GobMob — The Guy With the Torch",
       "status": "banned",
       "source": "custom",
@@ -4716,6 +4852,7 @@
     },
     {
       "id": 628,
+      "botCardId": 346,
       "name": "Grabbit Arcade!",
       "status": "unlimeade",
       "source": "custom",
@@ -4735,6 +4872,7 @@
     },
     {
       "id": 638,
+      "botCardId": 356,
       "name": "Grabbit Grand Prize Crane",
       "status": "semi-limeade",
       "source": "custom",
@@ -4758,6 +4896,7 @@
     },
     {
       "id": 626,
+      "botCardId": 344,
       "name": "Grabbit Power Claw",
       "status": "unlimeade",
       "source": "custom",
@@ -4778,6 +4917,7 @@
     },
     {
       "id": 624,
+      "botCardId": 342,
       "name": "Grabbit Precision Claw",
       "status": "unlimeade",
       "source": "custom",
@@ -4798,6 +4938,7 @@
     },
     {
       "id": 625,
+      "botCardId": 343,
       "name": "Grabbit Sidewinder Claw",
       "status": "unlimeade",
       "source": "custom",
@@ -4818,6 +4959,7 @@
     },
     {
       "id": 627,
+      "botCardId": 345,
       "name": "Grabbit Triple Claw",
       "status": "unlimeade",
       "source": "custom",
@@ -4838,6 +4980,7 @@
     },
     {
       "id": 636,
+      "botCardId": 354,
       "name": "Grabbit! Almost Had It!",
       "status": "unlimeade",
       "source": "custom",
@@ -4857,6 +5000,7 @@
     },
     {
       "id": 632,
+      "botCardId": 350,
       "name": "Grabbit! Extra Credit",
       "status": "unlimeade",
       "source": "custom",
@@ -4876,6 +5020,7 @@
     },
     {
       "id": 629,
+      "botCardId": 347,
       "name": "Grabbit! Insert Coin",
       "status": "unlimeade",
       "source": "custom",
@@ -4895,6 +5040,7 @@
     },
     {
       "id": 630,
+      "botCardId": 348,
       "name": "Grabbit! Joystick",
       "status": "unlimeade",
       "source": "custom",
@@ -4914,6 +5060,7 @@
     },
     {
       "id": 631,
+      "botCardId": 349,
       "name": "Grabbit! Machine Shake",
       "status": "unlimeade",
       "source": "custom",
@@ -4933,6 +5080,7 @@
     },
     {
       "id": 637,
+      "botCardId": 355,
       "name": "Grabbit! Out of Order!",
       "status": "unlimeade",
       "source": "custom",
@@ -4952,6 +5100,7 @@
     },
     {
       "id": 635,
+      "botCardId": 353,
       "name": "Grabbit! Prize Chute",
       "status": "unlimeade",
       "source": "custom",
@@ -4971,6 +5120,7 @@
     },
     {
       "id": 634,
+      "botCardId": 352,
       "name": "Grabbit! Prize Exchange",
       "status": "limeade",
       "source": "custom",
@@ -4990,6 +5140,7 @@
     },
     {
       "id": 633,
+      "botCardId": 351,
       "name": "Grabbit! Strong Grip",
       "status": "unlimeade",
       "source": "custom",
@@ -5009,6 +5160,7 @@
     },
     {
       "id": 542,
+      "botCardId": 299,
       "name": "Grand Fels’teel Lamp of Wishes Unbound",
       "status": "limeade",
       "source": "custom",
@@ -5047,6 +5199,7 @@
     },
     {
       "id": 420,
+      "botCardId": 183,
       "name": "Grand Prize Jackpot",
       "status": "banned",
       "source": "custom",
@@ -5066,6 +5219,7 @@
     },
     {
       "id": 208,
+      "botCardId": 67,
       "name": "Grand Tiki Elder of the Masked Rite",
       "status": "unlimeade",
       "source": "custom",
@@ -5109,6 +5263,7 @@
     },
     {
       "id": 474,
+      "botCardId": 220,
       "name": "Green Chaos Emerald",
       "status": "banned",
       "source": "custom",
@@ -5130,6 +5285,7 @@
     },
     {
       "id": 268,
+      "botCardId": 86,
       "name": "Grounded Airlines Cheep Flight",
       "status": "semi-limeade",
       "source": "custom",
@@ -5150,6 +5306,7 @@
     },
     {
       "id": 269,
+      "botCardId": 87,
       "name": "Grounded Airlines Fowl Flight",
       "status": "semi-limeade",
       "source": "custom",
@@ -5173,6 +5330,7 @@
     },
     {
       "id": 258,
+      "botCardId": 76,
       "name": "Grounded Cabin Crew Flippers",
       "status": "unlimeade",
       "source": "custom",
@@ -5193,6 +5351,7 @@
     },
     {
       "id": 255,
+      "botCardId": 73,
       "name": "Grounded Captain Longneck",
       "status": "unlimeade",
       "source": "custom",
@@ -5213,6 +5372,7 @@
     },
     {
       "id": 260,
+      "botCardId": 78,
       "name": "Grounded CEDO-do",
       "status": "unlimeade",
       "source": "custom",
@@ -5233,6 +5393,7 @@
     },
     {
       "id": 256,
+      "botCardId": 74,
       "name": "Grounded First Officer Waddles",
       "status": "semi-limeade",
       "source": "custom",
@@ -5253,6 +5414,7 @@
     },
     {
       "id": 261,
+      "botCardId": 79,
       "name": "Grounded International Airport",
       "status": "semi-limeade",
       "source": "custom",
@@ -5272,6 +5434,7 @@
     },
     {
       "id": 257,
+      "botCardId": 75,
       "name": "Grounded Mechanic Peep",
       "status": "unlimeade",
       "source": "custom",
@@ -5292,6 +5455,7 @@
     },
     {
       "id": 259,
+      "botCardId": 77,
       "name": "Grounded Security Chief Scrambles",
       "status": "unlimeade",
       "source": "custom",
@@ -5333,6 +5497,7 @@
     },
     {
       "id": 350,
+      "botCardId": 151,
       "name": "Guide of Hyrule - Mapmaker",
       "status": "semi-limeade",
       "source": "custom",
@@ -5377,6 +5542,7 @@
     },
     {
       "id": 472,
+      "botCardId": 205,
       "name": "Hag from the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -5434,6 +5600,7 @@
     },
     {
       "id": 214,
+      "botCardId": 37,
       "name": "Harbor View Pounds",
       "status": "semi-limeade",
       "source": "custom",
@@ -5453,6 +5620,7 @@
     },
     {
       "id": 224,
+      "botCardId": 23,
       "name": "Hastur, the Vermilion Shepherd",
       "status": "limeade",
       "source": "custom",
@@ -5476,6 +5644,7 @@
     },
     {
       "id": 329,
+      "botCardId": 125,
       "name": "Hawthorne’s Final Equation",
       "status": "limeade",
       "source": "custom",
@@ -5557,6 +5726,7 @@
     },
     {
       "id": 418,
+      "botCardId": 181,
       "name": "Here's Your Host!",
       "status": "unlimeade",
       "source": "custom",
@@ -5576,6 +5746,7 @@
     },
     {
       "id": 351,
+      "botCardId": 152,
       "name": "Hero of Hyrule - Adventurer",
       "status": "semi-limeade",
       "source": "custom",
@@ -5598,6 +5769,7 @@
     },
     {
       "id": 352,
+      "botCardId": 153,
       "name": "Hero of Hyrule - Awakening",
       "status": "semi-limeade",
       "source": "custom",
@@ -5618,6 +5790,7 @@
     },
     {
       "id": 353,
+      "botCardId": 154,
       "name": "Hero of Hyrule - Champion",
       "status": "semi-limeade",
       "source": "custom",
@@ -5642,6 +5815,7 @@
     },
     {
       "id": 354,
+      "botCardId": 155,
       "name": "Hero of Hyrule - Elements",
       "status": "limeade",
       "source": "custom",
@@ -5665,6 +5839,7 @@
     },
     {
       "id": 355,
+      "botCardId": 156,
       "name": "Hero of Hyrule - Legend",
       "status": "limeade",
       "source": "custom",
@@ -5690,6 +5865,7 @@
     },
     {
       "id": 414,
+      "botCardId": 177,
       "name": "Heve Starvey as \"The Quizzler!\"",
       "status": "semi-limeade",
       "source": "custom",
@@ -5961,6 +6137,7 @@
     },
     {
       "id": 447,
+      "botCardId": 216,
       "name": "Hollow Era Main Sequence Fusion",
       "status": "semi-limeade",
       "source": "custom",
@@ -5980,6 +6157,7 @@
     },
     {
       "id": 445,
+      "botCardId": 214,
       "name": "Hollow Era Red Giant Fusion",
       "status": "semi-limeade",
       "source": "custom",
@@ -5999,6 +6177,7 @@
     },
     {
       "id": 439,
+      "botCardId": 208,
       "name": "Hollow Era Stargazer Cann-Annie",
       "status": "limeade",
       "source": "custom",
@@ -6022,6 +6201,7 @@
     },
     {
       "id": 441,
+      "botCardId": 210,
       "name": "Hollow Era Stargazer Coper-Nick",
       "status": "limeade",
       "source": "custom",
@@ -6045,6 +6225,7 @@
     },
     {
       "id": 440,
+      "botCardId": 209,
       "name": "Hollow Era Stargazer Gali-Gali",
       "status": "limeade",
       "source": "custom",
@@ -6068,6 +6249,7 @@
     },
     {
       "id": 446,
+      "botCardId": 215,
       "name": "Hollow Era White Dwarf Fusion",
       "status": "semi-limeade",
       "source": "custom",
@@ -6087,6 +6269,7 @@
     },
     {
       "id": 234,
+      "botCardId": 33,
       "name": "Hollow Queen Cassilda",
       "status": "semi-limeade",
       "source": "custom",
@@ -6110,6 +6293,7 @@
     },
     {
       "id": 356,
+      "botCardId": 157,
       "name": "Hyrule Castle",
       "status": "semi-limeade",
       "source": "custom",
@@ -6146,6 +6330,7 @@
     },
     {
       "id": 692,
+      "botCardId": 411,
       "name": "Iconic Glove on the Street of Elms",
       "status": "voting",
       "source": "custom",
@@ -6165,6 +6350,7 @@
     },
     {
       "id": 698,
+      "botCardId": 417,
       "name": "Iconic Kill of F.K. - Glen Lantz",
       "status": "voting",
       "source": "custom",
@@ -6188,6 +6374,7 @@
     },
     {
       "id": 700,
+      "botCardId": 419,
       "name": "Iconic Kill of F.K. - Jennifer Caulfield",
       "status": "voting",
       "source": "custom",
@@ -6211,6 +6398,7 @@
     },
     {
       "id": 699,
+      "botCardId": 418,
       "name": "Iconic Kill of F.K. - Kerry Hellman",
       "status": "voting",
       "source": "custom",
@@ -6231,6 +6419,7 @@
     },
     {
       "id": 701,
+      "botCardId": 420,
       "name": "Iconic Kill of F.K. - Nancy Thompson",
       "status": "voting",
       "source": "custom",
@@ -6292,6 +6481,7 @@
     },
     {
       "id": 609,
+      "botCardId": 341,
       "name": "Illusory Quartz Halls Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -6311,6 +6501,7 @@
     },
     {
       "id": 228,
+      "botCardId": 27,
       "name": "Immemorial Experience",
       "status": "banned",
       "source": "custom",
@@ -6350,6 +6541,7 @@
     },
     {
       "id": 230,
+      "botCardId": 29,
       "name": "Inexplicable Arrival",
       "status": "unlimeade",
       "source": "custom",
@@ -6407,6 +6599,7 @@
     },
     {
       "id": 279,
+      "botCardId": 91,
       "name": "Inhabited Custos",
       "status": "limeade",
       "source": "custom",
@@ -6678,6 +6871,7 @@
     },
     {
       "id": 601,
+      "botCardId": 333,
       "name": "Insolent Imp Beyond Life",
       "status": "semi-limeade",
       "source": "custom",
@@ -6732,6 +6926,7 @@
     },
     {
       "id": 381,
+      "botCardId": 142,
       "name": "Inverter of the Eponymous Purp-eL",
       "status": "semi-limeade",
       "source": "custom",
@@ -6754,6 +6949,7 @@
     },
     {
       "id": 385,
+      "botCardId": 146,
       "name": "Inverting Purp-eL",
       "status": "banned",
       "source": "custom",
@@ -6839,6 +7035,7 @@
     },
     {
       "id": 585,
+      "botCardId": 317,
       "name": "Kael, Embershot of the Wild Hunt",
       "status": "semi-limeade",
       "source": "custom",
@@ -6976,6 +7173,7 @@
     },
     {
       "id": 529,
+      "botCardId": 286,
       "name": "La Jinn the Mystical Genie of Fels’teel",
       "status": "semi-limeade",
       "source": "custom",
@@ -7016,6 +7214,7 @@
     },
     {
       "id": 444,
+      "botCardId": 213,
       "name": "Leileo from the Hollow Era",
       "status": "semi-limeade",
       "source": "custom",
@@ -7058,6 +7257,7 @@
     },
     {
       "id": 552,
+      "botCardId": 251,
       "name": "Localized Aftereffects of The Fade",
       "status": "banned",
       "source": "custom",
@@ -7077,6 +7277,7 @@
     },
     {
       "id": 282,
+      "botCardId": 94,
       "name": "Long-Forgotten, Living Library",
       "status": "limeade",
       "source": "custom",
@@ -7096,6 +7297,7 @@
     },
     {
       "id": 523,
+      "botCardId": 280,
       "name": "Loot - Common",
       "status": "unlimeade",
       "source": "custom",
@@ -7115,6 +7317,7 @@
     },
     {
       "id": 521,
+      "botCardId": 278,
       "name": "Loot - Epic",
       "status": "semi-limeade",
       "source": "custom",
@@ -7134,6 +7337,7 @@
     },
     {
       "id": 520,
+      "botCardId": 277,
       "name": "Loot - Legendary",
       "status": "semi-limeade",
       "source": "custom",
@@ -7153,6 +7357,7 @@
     },
     {
       "id": 522,
+      "botCardId": 279,
       "name": "Loot - Rare",
       "status": "semi-limeade",
       "source": "custom",
@@ -7192,6 +7397,7 @@
     },
     {
       "id": 210,
+      "botCardId": 69,
       "name": "Lumis, Herald of the Masked Rite",
       "status": "semi-limeade",
       "source": "custom",
@@ -7212,6 +7418,7 @@
     },
     {
       "id": 594,
+      "botCardId": 326,
       "name": "Lyra, Guildmaster of the Wild Hunt",
       "status": "limeade",
       "source": "custom",
@@ -7334,6 +7541,7 @@
     },
     {
       "id": 387,
+      "botCardId": 148,
       "name": "Maligned Magnate of Purp-eL Inversion",
       "status": "limeade",
       "source": "custom",
@@ -7394,6 +7602,7 @@
     },
     {
       "id": 200,
+      "botCardId": 18,
       "name": "Masked Beast Des Gardius, Eclipse Incarnate",
       "status": "unlimeade",
       "source": "custom",
@@ -7414,6 +7623,7 @@
     },
     {
       "id": 206,
+      "botCardId": 64,
       "name": "Masked Rite – Accursed Visage",
       "status": "limeade",
       "source": "custom",
@@ -7433,6 +7643,7 @@
     },
     {
       "id": 205,
+      "botCardId": 63,
       "name": "Masked Rite – Brutal Visage",
       "status": "limeade",
       "source": "custom",
@@ -7452,6 +7663,7 @@
     },
     {
       "id": 204,
+      "botCardId": 22,
       "name": "Masked Rite – Dispelling Visage",
       "status": "limeade",
       "source": "custom",
@@ -7471,6 +7683,7 @@
     },
     {
       "id": 203,
+      "botCardId": 21,
       "name": "Masked Rite – Remnant Visage",
       "status": "limeade",
       "source": "custom",
@@ -7490,6 +7703,7 @@
     },
     {
       "id": 202,
+      "botCardId": 20,
       "name": "Masked Rite – Restricting Visage",
       "status": "limeade",
       "source": "custom",
@@ -7509,6 +7723,7 @@
     },
     {
       "id": 180,
+      "botCardId": 49,
       "name": "Master Oogway's Meditation",
       "status": "unlimeade",
       "source": "custom",
@@ -7528,6 +7743,7 @@
     },
     {
       "id": 183,
+      "botCardId": 53,
       "name": "Master Shifu's Training Session",
       "status": "unlimeade",
       "source": "custom",
@@ -7547,6 +7763,7 @@
     },
     {
       "id": 207,
+      "botCardId": 66,
       "name": "Melchid, Four-Faced Beast of the Masked Rite",
       "status": "banned",
       "source": "custom",
@@ -8263,6 +8480,7 @@
     },
     {
       "id": 675,
+      "botCardId": 374,
       "name": "Mænagrgr of Th’Underhiel",
       "status": "limeade",
       "source": "custom",
@@ -8283,6 +8501,7 @@
     },
     {
       "id": 531,
+      "botCardId": 288,
       "name": "Nadira the Mystical Temptress of Fels’teel",
       "status": "semi-limeade",
       "source": "custom",
@@ -8303,6 +8522,7 @@
     },
     {
       "id": 448,
+      "botCardId": 217,
       "name": "Nebula Endgame of the Hollow Era",
       "status": "semi-limeade",
       "source": "custom",
@@ -8323,6 +8543,7 @@
     },
     {
       "id": 471,
+      "botCardId": 204,
       "name": "Necromancer from the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -8362,6 +8583,7 @@
     },
     {
       "id": 280,
+      "botCardId": 92,
       "name": "Nemesis Perditorum",
       "status": "limeade",
       "source": "custom",
@@ -8382,6 +8604,7 @@
     },
     {
       "id": 165,
+      "botCardId": 7,
       "name": "Night-Hue Skybreaker",
       "status": "unlimeade",
       "source": "custom",
@@ -8423,6 +8646,7 @@
     },
     {
       "id": 286,
+      "botCardId": 98,
       "name": "No Way Out!",
       "status": "unlimeade",
       "source": "custom",
@@ -8463,6 +8687,7 @@
     },
     {
       "id": 212,
+      "botCardId": 72,
       "name": "Nuvia the Wicked of the Masked Rite",
       "status": "semi-limeade",
       "source": "custom",
@@ -8483,6 +8708,7 @@
     },
     {
       "id": 587,
+      "botCardId": 319,
       "name": "Oaragoon, Blood Hive Devourer",
       "status": "semi-limeade",
       "source": "custom",
@@ -8506,6 +8732,7 @@
     },
     {
       "id": 465,
+      "botCardId": 198,
       "name": "Occult Scrawlings in the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -8525,6 +8752,7 @@
     },
     {
       "id": 548,
+      "botCardId": 247,
       "name": "Omni-Reija, Realized Ideal of The Fade",
       "status": "banned",
       "source": "custom",
@@ -8585,6 +8813,7 @@
     },
     {
       "id": 702,
+      "botCardId": 421,
       "name": "Oneiropotence",
       "status": "voting",
       "source": "custom",
@@ -8604,6 +8833,7 @@
     },
     {
       "id": 179,
+      "botCardId": 47,
       "name": "Oogway’s Staff of Wisdom",
       "status": "unlimeade",
       "source": "custom",
@@ -8696,6 +8926,7 @@
     },
     {
       "id": 223,
+      "botCardId": 52,
       "name": "P-Power Resonance",
       "status": "semi-limeade",
       "source": "custom",
@@ -8715,6 +8946,7 @@
     },
     {
       "id": 537,
+      "botCardId": 294,
       "name": "Pact of the Fels'teel Lamp",
       "status": "semi-limeade",
       "source": "custom",
@@ -8734,6 +8966,7 @@
     },
     {
       "id": 278,
+      "botCardId": 90,
       "name": "Paginae Steed",
       "status": "semi-limeade",
       "source": "custom",
@@ -8772,6 +9005,7 @@
     },
     {
       "id": 524,
+      "botCardId": 281,
       "name": "Pandoran Demolitionist",
       "status": "banned",
       "source": "custom",
@@ -8792,6 +9026,7 @@
     },
     {
       "id": 525,
+      "botCardId": 282,
       "name": "Pandoran Gun Merchant",
       "status": "semi-limeade",
       "source": "custom",
@@ -8812,6 +9047,7 @@
     },
     {
       "id": 528,
+      "botCardId": 285,
       "name": "Pandoran Mascot",
       "status": "limeade",
       "source": "custom",
@@ -8835,6 +9071,7 @@
     },
     {
       "id": 519,
+      "botCardId": 276,
       "name": "Pandoran Sanctuary - Moxxi's",
       "status": "semi-limeade",
       "source": "custom",
@@ -8854,6 +9091,7 @@
     },
     {
       "id": 514,
+      "botCardId": 271,
       "name": "Pandoran Tyrant - Handsome Jack",
       "status": "limeade",
       "source": "custom",
@@ -8874,6 +9112,7 @@
     },
     {
       "id": 499,
+      "botCardId": 207,
       "name": "Pandoran Tyrant – Handsome Jack",
       "status": "banned",
       "source": "custom",
@@ -8886,6 +9125,7 @@
     },
     {
       "id": 527,
+      "botCardId": 284,
       "name": "Pandoran Vault Hunter - Commando",
       "status": "unlimeade",
       "source": "custom",
@@ -8906,6 +9146,7 @@
     },
     {
       "id": 517,
+      "botCardId": 274,
       "name": "Pandoran Vault Hunter - Legendary Commando",
       "status": "semi-limeade",
       "source": "custom",
@@ -8926,6 +9167,7 @@
     },
     {
       "id": 526,
+      "botCardId": 283,
       "name": "Pandoran Vault Hunter - Siren",
       "status": "semi-limeade",
       "source": "custom",
@@ -8946,6 +9188,7 @@
     },
     {
       "id": 516,
+      "botCardId": 273,
       "name": "Pandoran Vault Hunter - The Firehawk",
       "status": "semi-limeade",
       "source": "custom",
@@ -8987,6 +9230,7 @@
     },
     {
       "id": 554,
+      "botCardId": 253,
       "name": "Pente-Reija, Fade to Eternal Storm",
       "status": "unlimeade",
       "source": "custom",
@@ -9070,6 +9314,7 @@
     },
     {
       "id": 593,
+      "botCardId": 325,
       "name": "Pitfall of the Wild Hunt",
       "status": "unlimeade",
       "source": "custom",
@@ -9112,6 +9357,7 @@
     },
     {
       "id": 265,
+      "botCardId": 83,
       "name": "Please Remain Seated!",
       "status": "unlimeade",
       "source": "custom",
@@ -9131,6 +9377,7 @@
     },
     {
       "id": 608,
+      "botCardId": 340,
       "name": "Polished Bronze Walls Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -9262,6 +9509,7 @@
     },
     {
       "id": 546,
+      "botCardId": 245,
       "name": "Predecessor of Reija",
       "status": "semi-limeade",
       "source": "custom",
@@ -9282,6 +9530,7 @@
     },
     {
       "id": 327,
+      "botCardId": 123,
       "name": "Premature Collapse",
       "status": "banned",
       "source": "custom",
@@ -9301,6 +9550,7 @@
     },
     {
       "id": 262,
+      "botCardId": 80,
       "name": "Prepare for Departure!",
       "status": "unlimeade",
       "source": "custom",
@@ -9320,6 +9570,7 @@
     },
     {
       "id": 357,
+      "botCardId": 158,
       "name": "Princess of Hyrule - Fate",
       "status": "semi-limeade",
       "source": "custom",
@@ -9340,6 +9591,7 @@
     },
     {
       "id": 358,
+      "botCardId": 159,
       "name": "Princess of Hyrule - Shadow",
       "status": "semi-limeade",
       "source": "custom",
@@ -9360,6 +9612,7 @@
     },
     {
       "id": 330,
+      "botCardId": 126,
       "name": "Professor Hawthorne, Beyond the Horizon",
       "status": "banned",
       "source": "custom",
@@ -9383,6 +9636,7 @@
     },
     {
       "id": 478,
+      "botCardId": 224,
       "name": "Purple Chaos Emerald",
       "status": "banned",
       "source": "custom",
@@ -9404,6 +9658,7 @@
     },
     {
       "id": 673,
+      "botCardId": 370,
       "name": "Qalosiss of Th'Underhiel",
       "status": "unlimeade",
       "source": "custom",
@@ -9427,6 +9682,7 @@
     },
     {
       "id": 604,
+      "botCardId": 336,
       "name": "Quartz Caller Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -9449,6 +9705,7 @@
     },
     {
       "id": 607,
+      "botCardId": 339,
       "name": "Quartz-Coat Queen Beyond Life",
       "status": "semi-limeade",
       "source": "custom",
@@ -9469,6 +9726,7 @@
     },
     {
       "id": 419,
+      "botCardId": 182,
       "name": "Question Change!",
       "status": "unlimeade",
       "source": "custom",
@@ -9488,6 +9746,7 @@
     },
     {
       "id": 408,
+      "botCardId": 170,
       "name": "Quiz Panel – Obelisk 10",
       "status": "unlimeade",
       "source": "custom",
@@ -9511,6 +9770,7 @@
     },
     {
       "id": 409,
+      "botCardId": 171,
       "name": "Quiz Panel – Obelisk 20",
       "status": "unlimeade",
       "source": "custom",
@@ -9534,6 +9794,7 @@
     },
     {
       "id": 410,
+      "botCardId": 172,
       "name": "Quiz Panel – Obelisk 30",
       "status": "semi-limeade",
       "source": "custom",
@@ -9557,6 +9818,7 @@
     },
     {
       "id": 411,
+      "botCardId": 173,
       "name": "Quiz Panel – Ra 10",
       "status": "unlimeade",
       "source": "custom",
@@ -9580,6 +9842,7 @@
     },
     {
       "id": 412,
+      "botCardId": 174,
       "name": "Quiz Panel – Ra 20",
       "status": "unlimeade",
       "source": "custom",
@@ -9603,6 +9866,7 @@
     },
     {
       "id": 413,
+      "botCardId": 175,
       "name": "Quiz Panel – Ra 30",
       "status": "unlimeade",
       "source": "custom",
@@ -9626,6 +9890,7 @@
     },
     {
       "id": 405,
+      "botCardId": 167,
       "name": "Quiz Panel – Slifer 10",
       "status": "unlimeade",
       "source": "custom",
@@ -9649,6 +9914,7 @@
     },
     {
       "id": 406,
+      "botCardId": 168,
       "name": "Quiz Panel – Slifer 20",
       "status": "unlimeade",
       "source": "custom",
@@ -9672,6 +9938,7 @@
     },
     {
       "id": 407,
+      "botCardId": 169,
       "name": "Quiz Panel – Slifer 30",
       "status": "unlimeade",
       "source": "custom",
@@ -9695,6 +9962,7 @@
     },
     {
       "id": 416,
+      "botCardId": 179,
       "name": "Quiz Show Stage",
       "status": "unlimeade",
       "source": "custom",
@@ -9732,6 +10000,7 @@
     },
     {
       "id": 213,
+      "botCardId": 36,
       "name": "Rapid Reload",
       "status": "unlimeade",
       "source": "custom",
@@ -9751,6 +10020,7 @@
     },
     {
       "id": 475,
+      "botCardId": 221,
       "name": "Red Chaos Emerald",
       "status": "banned",
       "source": "custom",
@@ -9813,6 +10083,7 @@
     },
     {
       "id": 547,
+      "botCardId": 246,
       "name": "Reija The Fade",
       "status": "unlimeade",
       "source": "custom",
@@ -9930,6 +10201,7 @@
     },
     {
       "id": 388,
+      "botCardId": 149,
       "name": "Roiling Regent of Purp-eL Inversion",
       "status": "limeade",
       "source": "custom",
@@ -9952,6 +10224,7 @@
     },
     {
       "id": 602,
+      "botCardId": 334,
       "name": "Rotted Rukh Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -9972,6 +10245,7 @@
     },
     {
       "id": 584,
+      "botCardId": 316,
       "name": "Rowan, Berserker of the Wild Hunt",
       "status": "semi-limeade",
       "source": "custom",
@@ -9992,6 +10266,7 @@
     },
     {
       "id": 535,
+      "botCardId": 292,
       "name": "Rub the Fels'teel Lamp",
       "status": "semi-limeade",
       "source": "custom",
@@ -10011,6 +10286,7 @@
     },
     {
       "id": 464,
+      "botCardId": 197,
       "name": "Ruins Area of the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -10030,6 +10306,7 @@
     },
     {
       "id": 222,
+      "botCardId": 48,
       "name": "S-Power Rushdown",
       "status": "semi-limeade",
       "source": "custom",
@@ -10112,6 +10389,7 @@
     },
     {
       "id": 218,
+      "botCardId": 42,
       "name": "Saki, Monk Specialist",
       "status": "semi-limeade",
       "source": "custom",
@@ -10132,6 +10410,7 @@
     },
     {
       "id": 215,
+      "botCardId": 38,
       "name": "Saki, Protective Spirit",
       "status": "semi-limeade",
       "source": "custom",
@@ -10152,6 +10431,7 @@
     },
     {
       "id": 219,
+      "botCardId": 43,
       "name": "Saki, Rush Buckle Smash",
       "status": "unlimeade",
       "source": "custom",
@@ -10172,6 +10452,7 @@
     },
     {
       "id": 221,
+      "botCardId": 46,
       "name": "Saki, Spiritual Keeper",
       "status": "semi-limeade",
       "source": "custom",
@@ -10192,6 +10473,7 @@
     },
     {
       "id": 220,
+      "botCardId": 44,
       "name": "Saki, Vehement Poison Block",
       "status": "unlimeade",
       "source": "custom",
@@ -10235,6 +10517,7 @@
     },
     {
       "id": 281,
+      "botCardId": 93,
       "name": "Same Old Song",
       "status": "semi-limeade",
       "source": "custom",
@@ -10254,6 +10537,7 @@
     },
     {
       "id": 359,
+      "botCardId": 160,
       "name": "Scourge of Hyrule - Calamity",
       "status": "limeade",
       "source": "custom",
@@ -10274,6 +10558,7 @@
     },
     {
       "id": 360,
+      "botCardId": 161,
       "name": "Scourge of Hyrule - King of Thieves",
       "status": "semi-limeade",
       "source": "custom",
@@ -10391,6 +10676,7 @@
     },
     {
       "id": 166,
+      "botCardId": 8,
       "name": "Shimmering Skybreaker",
       "status": "unlimeade",
       "source": "custom",
@@ -10411,6 +10697,7 @@
     },
     {
       "id": 285,
+      "botCardId": 97,
       "name": "Should Have Known…",
       "status": "semi-limeade",
       "source": "custom",
@@ -10430,6 +10717,7 @@
     },
     {
       "id": 201,
+      "botCardId": 19,
       "name": "Signature Sigil of the Masked Rites",
       "status": "unlimeade",
       "source": "custom",
@@ -10449,6 +10737,7 @@
     },
     {
       "id": 326,
+      "botCardId": 122,
       "name": "Singularitech Controlled Collapse",
       "status": "banned",
       "source": "custom",
@@ -10468,6 +10757,7 @@
     },
     {
       "id": 328,
+      "botCardId": 124,
       "name": "Singularitech Dark Hole Device",
       "status": "banned",
       "source": "custom",
@@ -10487,6 +10777,7 @@
     },
     {
       "id": 324,
+      "botCardId": 120,
       "name": "Singularitech Event Horizon",
       "status": "banned",
       "source": "custom",
@@ -10506,6 +10797,7 @@
     },
     {
       "id": 320,
+      "botCardId": 116,
       "name": "Singularitech Observer",
       "status": "banned",
       "source": "custom",
@@ -10526,6 +10818,7 @@
     },
     {
       "id": 321,
+      "botCardId": 117,
       "name": "Singularitech Paradox Assistant",
       "status": "banned",
       "source": "custom",
@@ -10546,6 +10839,7 @@
     },
     {
       "id": 319,
+      "botCardId": 115,
       "name": "Singularitech Professor Hawthorne",
       "status": "banned",
       "source": "custom",
@@ -10566,6 +10860,7 @@
     },
     {
       "id": 322,
+      "botCardId": 118,
       "name": "Singularitech Retrieval Drone",
       "status": "banned",
       "source": "custom",
@@ -10589,6 +10884,7 @@
     },
     {
       "id": 323,
+      "botCardId": 119,
       "name": "Singularitech Surveyor Drone",
       "status": "banned",
       "source": "custom",
@@ -10612,6 +10908,7 @@
     },
     {
       "id": 325,
+      "botCardId": 121,
       "name": "Singularity Reversal",
       "status": "banned",
       "source": "custom",
@@ -10631,6 +10928,7 @@
     },
     {
       "id": 470,
+      "botCardId": 203,
       "name": "Siren from the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -10651,6 +10949,7 @@
     },
     {
       "id": 586,
+      "botCardId": 318,
       "name": "Skadi, Frostwarden of the Wild Hunt",
       "status": "semi-limeade",
       "source": "custom",
@@ -10671,6 +10970,7 @@
     },
     {
       "id": 598,
+      "botCardId": 330,
       "name": "Skeletal Saurus Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -10691,6 +10991,7 @@
     },
     {
       "id": 590,
+      "botCardId": 322,
       "name": "Skorvath, Tyrant of the Frozen Peaks",
       "status": "semi-limeade",
       "source": "custom",
@@ -10734,6 +11035,7 @@
     },
     {
       "id": 169,
+      "botCardId": 11,
       "name": "Sky-Splitting Soundwave",
       "status": "semi-limeade",
       "source": "custom",
@@ -10753,6 +11055,7 @@
     },
     {
       "id": 167,
+      "botCardId": 9,
       "name": "Skybreaker Adolescent",
       "status": "banned",
       "source": "custom",
@@ -10776,6 +11079,7 @@
     },
     {
       "id": 172,
+      "botCardId": 14,
       "name": "Skybreaker Aeria Rex",
       "status": "semi-limeade",
       "source": "custom",
@@ -10796,6 +11100,7 @@
     },
     {
       "id": 173,
+      "botCardId": 15,
       "name": "Skybreaker Aloft Sovereign",
       "status": "semi-limeade",
       "source": "custom",
@@ -10816,6 +11121,7 @@
     },
     {
       "id": 171,
+      "botCardId": 13,
       "name": "Skybreaker Apex Magna",
       "status": "semi-limeade",
       "source": "custom",
@@ -10836,6 +11142,7 @@
     },
     {
       "id": 174,
+      "botCardId": 16,
       "name": "Skybreaker Atmos Khan",
       "status": "unlimeade",
       "source": "custom",
@@ -10856,6 +11163,7 @@
     },
     {
       "id": 170,
+      "botCardId": 12,
       "name": "Skybreaker Resplendent",
       "status": "limeade",
       "source": "custom",
@@ -11392,6 +11700,7 @@
     },
     {
       "id": 389,
+      "botCardId": 150,
       "name": "Strange Seneschal of the Purp-eL Inversion",
       "status": "limeade",
       "source": "custom",
@@ -11414,6 +11723,7 @@
     },
     {
       "id": 695,
+      "botCardId": 414,
       "name": "Street of Elms in Daytime",
       "status": "voting",
       "source": "custom",
@@ -11433,6 +11743,7 @@
     },
     {
       "id": 694,
+      "botCardId": 413,
       "name": "Street of Elms in Nightmare",
       "status": "voting",
       "source": "custom",
@@ -11476,6 +11787,7 @@
     },
     {
       "id": 550,
+      "botCardId": 249,
       "name": "Subtle Art of The Fade",
       "status": "unlimeade",
       "source": "custom",
@@ -11495,6 +11807,7 @@
     },
     {
       "id": 227,
+      "botCardId": 26,
       "name": "Sudden Intermission",
       "status": "unlimeade",
       "source": "custom",
@@ -11531,6 +11844,7 @@
     },
     {
       "id": 161,
+      "botCardId": 1,
       "name": "Supersonic Dive-Bomb",
       "status": "unlimeade",
       "source": "custom",
@@ -11550,6 +11864,7 @@
     },
     {
       "id": 404,
+      "botCardId": 166,
       "name": "Survey Says...",
       "status": "semi-limeade",
       "source": "custom",
@@ -11569,6 +11884,7 @@
     },
     {
       "id": 469,
+      "botCardId": 202,
       "name": "Swine Prince from the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -11649,6 +11965,7 @@
     },
     {
       "id": 450,
+      "botCardId": 219,
       "name": "Terminal Nova of the Hollow Era",
       "status": "semi-limeade",
       "source": "custom",
@@ -11669,6 +11986,7 @@
     },
     {
       "id": 668,
+      "botCardId": 365,
       "name": "Th'Underhiel Almighty Axe",
       "status": "unlimeade",
       "source": "custom",
@@ -11688,6 +12006,7 @@
     },
     {
       "id": 669,
+      "botCardId": 366,
       "name": "Th'Underhiel Apocalyptic Amp",
       "status": "unlimeade",
       "source": "custom",
@@ -11707,6 +12026,7 @@
     },
     {
       "id": 662,
+      "botCardId": 359,
       "name": "Th'Underhiel Bryjj",
       "status": "unlimeade",
       "source": "custom",
@@ -11730,6 +12050,7 @@
     },
     {
       "id": 666,
+      "botCardId": 363,
       "name": "Th'Underhiel Chrebull",
       "status": "unlimeade",
       "source": "custom",
@@ -11753,6 +12074,7 @@
     },
     {
       "id": 674,
+      "botCardId": 371,
       "name": "Th'Underhiel Explosive Set",
       "status": "unlimeade",
       "source": "custom",
@@ -11772,6 +12094,7 @@
     },
     {
       "id": 670,
+      "botCardId": 367,
       "name": "Th'Underhiel Hall of Flame",
       "status": "limeade",
       "source": "custom",
@@ -11791,6 +12114,7 @@
     },
     {
       "id": 661,
+      "botCardId": 358,
       "name": "Th'Underhiel Kordd",
       "status": "unlimeade",
       "source": "custom",
@@ -11814,6 +12138,7 @@
     },
     {
       "id": 664,
+      "botCardId": 361,
       "name": "Th'Underhiel Lierykk",
       "status": "unlimeade",
       "source": "custom",
@@ -11837,6 +12162,7 @@
     },
     {
       "id": 667,
+      "botCardId": 364,
       "name": "Th'Underhiel Opening Number",
       "status": "limeade",
       "source": "custom",
@@ -11856,6 +12182,7 @@
     },
     {
       "id": 665,
+      "botCardId": 362,
       "name": "Th'Underhiel Rhodii",
       "status": "limeade",
       "source": "custom",
@@ -11879,6 +12206,7 @@
     },
     {
       "id": 663,
+      "botCardId": 360,
       "name": "Th'Underhiel Styxx",
       "status": "unlimeade",
       "source": "custom",
@@ -11902,6 +12230,7 @@
     },
     {
       "id": 660,
+      "botCardId": 357,
       "name": "Th'Underhiel Sygryff",
       "status": "semi-limeade",
       "source": "custom",
@@ -11925,6 +12254,7 @@
     },
     {
       "id": 231,
+      "botCardId": 30,
       "name": "The Bearer of the Yellow Sign",
       "status": "unlimeade",
       "source": "custom",
@@ -11948,6 +12278,7 @@
     },
     {
       "id": 182,
+      "botCardId": 51,
       "name": "The Dragon Scroll",
       "status": "banned",
       "source": "custom",
@@ -11988,6 +12319,7 @@
     },
     {
       "id": 591,
+      "botCardId": 323,
       "name": "The Guild Hall of The Wild Hunt",
       "status": "semi-limeade",
       "source": "custom",
@@ -12025,6 +12357,7 @@
     },
     {
       "id": 181,
+      "botCardId": 50,
       "name": "The Jade Palace",
       "status": "banned",
       "source": "custom",
@@ -12044,6 +12377,7 @@
     },
     {
       "id": 225,
+      "botCardId": 24,
       "name": "The King In Yellow",
       "status": "banned",
       "source": "custom",
@@ -12085,6 +12419,7 @@
     },
     {
       "id": 211,
+      "botCardId": 70,
       "name": "The Masked Beast, Devourer of Souls",
       "status": "semi-limeade",
       "source": "custom",
@@ -12105,6 +12440,7 @@
     },
     {
       "id": 361,
+      "botCardId": 162,
       "name": "The Master Sword",
       "status": "semi-limeade",
       "source": "custom",
@@ -12124,6 +12460,7 @@
     },
     {
       "id": 595,
+      "botCardId": 327,
       "name": "The Maze Beyond Life",
       "status": "limeade",
       "source": "custom",
@@ -12181,6 +12518,7 @@
     },
     {
       "id": 226,
+      "botCardId": 25,
       "name": "The Phantom of Truth",
       "status": "limeade",
       "source": "custom",
@@ -12294,6 +12632,7 @@
     },
     {
       "id": 86,
+      "botCardId": 17,
       "name": "The Spire",
       "status": "semi-limeade",
       "source": "custom",
@@ -12313,6 +12652,7 @@
     },
     {
       "id": 232,
+      "botCardId": 31,
       "name": "The Stranger in a Pallid Mask",
       "status": "unlimeade",
       "source": "custom",
@@ -12336,6 +12676,7 @@
     },
     {
       "id": 536,
+      "botCardId": 293,
       "name": "Three Gifts of Fels'teel",
       "status": "semi-limeade",
       "source": "custom",
@@ -12451,6 +12792,7 @@
     },
     {
       "id": 233,
+      "botCardId": 32,
       "name": "Tormented Maiden Camilla",
       "status": "unlimeade",
       "source": "custom",
@@ -12599,6 +12941,7 @@
     },
     {
       "id": 555,
+      "botCardId": 254,
       "name": "Tria-Reija, Fade to Shrouded Lands",
       "status": "unlimeade",
       "source": "custom",
@@ -12636,6 +12979,7 @@
     },
     {
       "id": 362,
+      "botCardId": 163,
       "name": "Triforce of Courage",
       "status": "semi-limeade",
       "source": "custom",
@@ -12655,6 +12999,7 @@
     },
     {
       "id": 363,
+      "botCardId": 164,
       "name": "Triforce of Power",
       "status": "semi-limeade",
       "source": "custom",
@@ -12674,6 +13019,7 @@
     },
     {
       "id": 364,
+      "botCardId": 165,
       "name": "Triforce of Wisdom",
       "status": "limeade",
       "source": "custom",
@@ -12710,6 +13056,7 @@
     },
     {
       "id": 463,
+      "botCardId": 196,
       "name": "Troubling Effigy in the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -12789,6 +13136,7 @@
     },
     {
       "id": 442,
+      "botCardId": 211,
       "name": "Tykho from the Hollow Era",
       "status": "semi-limeade",
       "source": "custom",
@@ -12849,6 +13197,7 @@
     },
     {
       "id": 379,
+      "botCardId": 140,
       "name": "Ultra-Purp-eL Wavelength",
       "status": "banned",
       "source": "custom",
@@ -12868,6 +13217,7 @@
     },
     {
       "id": 209,
+      "botCardId": 68,
       "name": "Umbra, Herald of the Masked Rite",
       "status": "semi-limeade",
       "source": "custom",
@@ -12888,6 +13238,7 @@
     },
     {
       "id": 597,
+      "botCardId": 329,
       "name": "Umbral Undying Beyond Life",
       "status": "unlimeade",
       "source": "custom",
@@ -12927,6 +13278,7 @@
     },
     {
       "id": 266,
+      "botCardId": 84,
       "name": "Unscheduled Arrival",
       "status": "unlimeade",
       "source": "custom",
@@ -12946,6 +13298,7 @@
     },
     {
       "id": 378,
+      "botCardId": 139,
       "name": "Unseeing Dragon of Purp-eL Inversion",
       "status": "unlimeade",
       "source": "custom",
@@ -12971,6 +13324,7 @@
     },
     {
       "id": 216,
+      "botCardId": 40,
       "name": "Uptown Breakdown",
       "status": "limeade",
       "source": "custom",
@@ -13035,6 +13389,7 @@
     },
     {
       "id": 487,
+      "botCardId": 233,
       "name": "VeloCity - Amy Rose",
       "status": "banned",
       "source": "custom",
@@ -13055,6 +13410,7 @@
     },
     {
       "id": 486,
+      "botCardId": 232,
       "name": "VeloCity - Dr. Eggman",
       "status": "banned",
       "source": "custom",
@@ -13075,6 +13431,7 @@
     },
     {
       "id": 489,
+      "botCardId": 235,
       "name": "VeloCity - Gotta Go Fast!",
       "status": "banned",
       "source": "custom",
@@ -13094,6 +13451,7 @@
     },
     {
       "id": 497,
+      "botCardId": 243,
       "name": "VeloCity - Knuckles, Master Emerald Guardian",
       "status": "banned",
       "source": "custom",
@@ -13114,6 +13472,7 @@
     },
     {
       "id": 494,
+      "botCardId": 240,
       "name": "VeloCity - Metal Sonic",
       "status": "banned",
       "source": "custom",
@@ -13137,6 +13496,7 @@
     },
     {
       "id": 485,
+      "botCardId": 231,
       "name": "VeloCity - Rouge the Bat",
       "status": "banned",
       "source": "custom",
@@ -13157,6 +13517,7 @@
     },
     {
       "id": 496,
+      "botCardId": 242,
       "name": "VeloCity - Shadow, Ultimate Life Form",
       "status": "banned",
       "source": "custom",
@@ -13177,6 +13538,7 @@
     },
     {
       "id": 495,
+      "botCardId": 241,
       "name": "VeloCity - Sonic, the Blue Blur",
       "status": "banned",
       "source": "custom",
@@ -13197,6 +13559,7 @@
     },
     {
       "id": 498,
+      "botCardId": 244,
       "name": "VeloCity - Team Sonic",
       "status": "banned",
       "source": "custom",
@@ -13220,6 +13583,7 @@
     },
     {
       "id": 493,
+      "botCardId": 239,
       "name": "VeloCity - Tornado Tag Team",
       "status": "banned",
       "source": "custom",
@@ -13240,6 +13604,7 @@
     },
     {
       "id": 491,
+      "botCardId": 237,
       "name": "VeloCity – Chaos Control!",
       "status": "banned",
       "source": "custom",
@@ -13259,6 +13624,7 @@
     },
     {
       "id": 488,
+      "botCardId": 234,
       "name": "VeloCity – City Escape!",
       "status": "banned",
       "source": "custom",
@@ -13278,6 +13644,7 @@
     },
     {
       "id": 490,
+      "botCardId": 236,
       "name": "VeloCity – Golden Ring",
       "status": "banned",
       "source": "custom",
@@ -13297,6 +13664,7 @@
     },
     {
       "id": 483,
+      "botCardId": 229,
       "name": "VeloCity – Knuckles the Echidna",
       "status": "banned",
       "source": "custom",
@@ -13317,6 +13685,7 @@
     },
     {
       "id": 482,
+      "botCardId": 228,
       "name": "VeloCity – Miles “Tails” Prower",
       "status": "banned",
       "source": "custom",
@@ -13337,6 +13706,7 @@
     },
     {
       "id": 484,
+      "botCardId": 230,
       "name": "VeloCity – Shadow the Hedgehog",
       "status": "banned",
       "source": "custom",
@@ -13360,6 +13730,7 @@
     },
     {
       "id": 481,
+      "botCardId": 227,
       "name": "VeloCity – Sonic the Hedgehog",
       "status": "banned",
       "source": "custom",
@@ -13383,6 +13754,7 @@
     },
     {
       "id": 492,
+      "botCardId": 238,
       "name": "VeloCity – Super Sonic",
       "status": "banned",
       "source": "custom",
@@ -13423,6 +13795,7 @@
     },
     {
       "id": 583,
+      "botCardId": 315,
       "name": "Vesper, Exterminator of the Wild Hunt",
       "status": "semi-limeade",
       "source": "custom",
@@ -13443,6 +13816,7 @@
     },
     {
       "id": 380,
+      "botCardId": 141,
       "name": "Virulent Vassal of Purp-eL Inversion",
       "status": "limeade",
       "source": "custom",
@@ -13482,6 +13856,7 @@
     },
     {
       "id": 284,
+      "botCardId": 96,
       "name": "Wait, What!",
       "status": "banned",
       "source": "custom",
@@ -13519,6 +13894,7 @@
     },
     {
       "id": 473,
+      "botCardId": 206,
       "name": "Wandering Collector from the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -13581,6 +13957,7 @@
     },
     {
       "id": 462,
+      "botCardId": 195,
       "name": "Warrens Area of the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -13638,6 +14015,7 @@
     },
     {
       "id": 267,
+      "botCardId": 85,
       "name": "We Apologize for the Inconvenience",
       "status": "unlimeade",
       "source": "custom",
@@ -13657,6 +14035,7 @@
     },
     {
       "id": 461,
+      "botCardId": 194,
       "name": "Weald Area of the Dungeon Dark",
       "status": "semi-limeade",
       "source": "custom",
@@ -13676,6 +14055,7 @@
     },
     {
       "id": 415,
+      "botCardId": 178,
       "name": "Whanna Vite as \"Miss Information!\"",
       "status": "limeade",
       "source": "custom",
@@ -13735,6 +14115,7 @@
     },
     {
       "id": 386,
+      "botCardId": 147,
       "name": "Whispering Wain of Purp-eL Inversion",
       "status": "limeade",
       "source": "custom",
@@ -13757,6 +14138,7 @@
     },
     {
       "id": 480,
+      "botCardId": 226,
       "name": "White Chaos Emerald",
       "status": "banned",
       "source": "custom",
@@ -13817,6 +14199,7 @@
     },
     {
       "id": 600,
+      "botCardId": 332,
       "name": "Withered Wand Beyond Life",
       "status": "semi-limeade",
       "source": "custom",
@@ -13857,6 +14240,7 @@
     },
     {
       "id": 178,
+      "botCardId": 45,
       "name": "Wuxi Finger Hold",
       "status": "banned",
       "source": "custom",
@@ -13876,6 +14260,7 @@
     },
     {
       "id": 276,
+      "botCardId": 88,
       "name": "Xigg, the Lost",
       "status": "unlimeade",
       "source": "custom",
@@ -13932,6 +14317,7 @@
     },
     {
       "id": 477,
+      "botCardId": 223,
       "name": "Yellow Chaos Emerald",
       "status": "banned",
       "source": "custom",
@@ -13953,6 +14339,7 @@
     },
     {
       "id": 283,
+      "botCardId": 95,
       "name": "You Wouldn't Believe It",
       "status": "unlimeade",
       "source": "custom",
@@ -13972,6 +14359,7 @@
     },
     {
       "id": 287,
+      "botCardId": 99,
       "name": "You've Got to be Kidding...",
       "status": "semi-limeade",
       "source": "custom",
@@ -13991,6 +14379,7 @@
     },
     {
       "id": 263,
+      "botCardId": 81,
       "name": "Your Flight Has Been Delayed",
       "status": "unlimeade",
       "source": "custom",
@@ -14010,6 +14399,7 @@
     },
     {
       "id": 264,
+      "botCardId": 82,
       "name": "Your Luggage Has Departed Without You!",
       "status": "unlimeade",
       "source": "custom",
@@ -14072,6 +14462,7 @@
     },
     {
       "id": 530,
+      "botCardId": 287,
       "name": "Zahira the Mystical Mirage of Fels’teel",
       "status": "semi-limeade",
       "source": "custom",
@@ -14126,6 +14517,7 @@
       "cards": [
         {
           "id": 693,
+          "botCardId": 412,
           "name": "A Legacy of Violence on the Street of Elms",
           "status": "voting",
           "source": "custom",
@@ -14145,6 +14537,7 @@
         },
         {
           "id": 703,
+          "botCardId": 422,
           "name": "Beware the Boiler Room on the Street of Elms",
           "status": "voting",
           "source": "custom",
@@ -14164,6 +14557,7 @@
         },
         {
           "id": 697,
+          "botCardId": 416,
           "name": "F.K. - King of Nightmares",
           "status": "voting",
           "source": "custom",
@@ -14187,6 +14581,7 @@
         },
         {
           "id": 696,
+          "botCardId": 415,
           "name": "F.K. - The Springwood Slasher",
           "status": "voting",
           "source": "custom",
@@ -14210,6 +14605,7 @@
         },
         {
           "id": 692,
+          "botCardId": 411,
           "name": "Iconic Glove on the Street of Elms",
           "status": "voting",
           "source": "custom",
@@ -14229,6 +14625,7 @@
         },
         {
           "id": 698,
+          "botCardId": 417,
           "name": "Iconic Kill of F.K. - Glen Lantz",
           "status": "voting",
           "source": "custom",
@@ -14252,6 +14649,7 @@
         },
         {
           "id": 700,
+          "botCardId": 419,
           "name": "Iconic Kill of F.K. - Jennifer Caulfield",
           "status": "voting",
           "source": "custom",
@@ -14275,6 +14673,7 @@
         },
         {
           "id": 699,
+          "botCardId": 418,
           "name": "Iconic Kill of F.K. - Kerry Hellman",
           "status": "voting",
           "source": "custom",
@@ -14295,6 +14694,7 @@
         },
         {
           "id": 701,
+          "botCardId": 420,
           "name": "Iconic Kill of F.K. - Nancy Thompson",
           "status": "voting",
           "source": "custom",
@@ -14315,6 +14715,7 @@
         },
         {
           "id": 702,
+          "botCardId": 421,
           "name": "Oneiropotence",
           "status": "voting",
           "source": "custom",
@@ -14334,6 +14735,7 @@
         },
         {
           "id": 695,
+          "botCardId": 414,
           "name": "Street of Elms in Daytime",
           "status": "voting",
           "source": "custom",
@@ -14353,6 +14755,7 @@
         },
         {
           "id": 694,
+          "botCardId": 413,
           "name": "Street of Elms in Nightmare",
           "status": "voting",
           "source": "custom",
@@ -14389,6 +14792,7 @@
       "cards": [
         {
           "id": 678,
+          "botCardId": 395,
           "name": "GobMob - The Guy with the Shield",
           "status": "banned",
           "source": "custom",
@@ -14409,6 +14813,7 @@
         },
         {
           "id": 679,
+          "botCardId": 396,
           "name": "GobMob - The Guy with the Sword",
           "status": "banned",
           "source": "custom",
@@ -14429,6 +14834,7 @@
         },
         {
           "id": 682,
+          "botCardId": 399,
           "name": "GobMob Brooding Pit",
           "status": "banned",
           "source": "custom",
@@ -14448,6 +14854,7 @@
         },
         {
           "id": 680,
+          "botCardId": 397,
           "name": "GobMob — Definitely One Goblin",
           "status": "banned",
           "source": "custom",
@@ -14468,6 +14875,7 @@
         },
         {
           "id": 687,
+          "botCardId": 404,
           "name": "GobMob — Kevin",
           "status": "banned",
           "source": "custom",
@@ -14488,6 +14896,7 @@
         },
         {
           "id": 683,
+          "botCardId": 400,
           "name": "GobMob — Little Big Boss",
           "status": "banned",
           "source": "custom",
@@ -14508,6 +14917,7 @@
         },
         {
           "id": 691,
+          "botCardId": 408,
           "name": "GobMob — The Goblin King, Apparently",
           "status": "banned",
           "source": "custom",
@@ -14528,6 +14938,7 @@
         },
         {
           "id": 688,
+          "botCardId": 405,
           "name": "GobMob — The Guy in the Mine Cart",
           "status": "banned",
           "source": "custom",
@@ -14548,6 +14959,7 @@
         },
         {
           "id": 681,
+          "botCardId": 398,
           "name": "GobMob — The Guy Nobody Invited",
           "status": "banned",
           "source": "custom",
@@ -14568,6 +14980,7 @@
         },
         {
           "id": 689,
+          "botCardId": 406,
           "name": "GobMob — The Guy Who Knows Magic",
           "status": "banned",
           "source": "custom",
@@ -14588,6 +15001,7 @@
         },
         {
           "id": 690,
+          "botCardId": 407,
           "name": "GobMob — The Guy With the Bag",
           "status": "banned",
           "source": "custom",
@@ -14608,6 +15022,7 @@
         },
         {
           "id": 684,
+          "botCardId": 401,
           "name": "GobMob — The Guy With the Ladder",
           "status": "banned",
           "source": "custom",
@@ -14628,6 +15043,7 @@
         },
         {
           "id": 686,
+          "botCardId": 403,
           "name": "GobMob — The Guy With the Map",
           "status": "banned",
           "source": "custom",
@@ -14648,6 +15064,7 @@
         },
         {
           "id": 685,
+          "botCardId": 402,
           "name": "GobMob — The Guy With the Torch",
           "status": "banned",
           "source": "custom",
@@ -14685,6 +15102,7 @@
       "cards": [
         {
           "id": 671,
+          "botCardId": 368,
           "name": "Fienaumm of Th'Underhiel",
           "status": "unlimeade",
           "source": "custom",
@@ -14708,6 +15126,7 @@
         },
         {
           "id": 672,
+          "botCardId": 369,
           "name": "Gaudfothrr of Th'Underhiel",
           "status": "unlimeade",
           "source": "custom",
@@ -14731,6 +15150,7 @@
         },
         {
           "id": 675,
+          "botCardId": 374,
           "name": "Mænagrgr of Th’Underhiel",
           "status": "limeade",
           "source": "custom",
@@ -14751,6 +15171,7 @@
         },
         {
           "id": 673,
+          "botCardId": 370,
           "name": "Qalosiss of Th'Underhiel",
           "status": "unlimeade",
           "source": "custom",
@@ -14774,6 +15195,7 @@
         },
         {
           "id": 668,
+          "botCardId": 365,
           "name": "Th'Underhiel Almighty Axe",
           "status": "unlimeade",
           "source": "custom",
@@ -14793,6 +15215,7 @@
         },
         {
           "id": 669,
+          "botCardId": 366,
           "name": "Th'Underhiel Apocalyptic Amp",
           "status": "unlimeade",
           "source": "custom",
@@ -14812,6 +15235,7 @@
         },
         {
           "id": 662,
+          "botCardId": 359,
           "name": "Th'Underhiel Bryjj",
           "status": "unlimeade",
           "source": "custom",
@@ -14835,6 +15259,7 @@
         },
         {
           "id": 666,
+          "botCardId": 363,
           "name": "Th'Underhiel Chrebull",
           "status": "unlimeade",
           "source": "custom",
@@ -14858,6 +15283,7 @@
         },
         {
           "id": 674,
+          "botCardId": 371,
           "name": "Th'Underhiel Explosive Set",
           "status": "unlimeade",
           "source": "custom",
@@ -14877,6 +15303,7 @@
         },
         {
           "id": 670,
+          "botCardId": 367,
           "name": "Th'Underhiel Hall of Flame",
           "status": "limeade",
           "source": "custom",
@@ -14896,6 +15323,7 @@
         },
         {
           "id": 661,
+          "botCardId": 358,
           "name": "Th'Underhiel Kordd",
           "status": "unlimeade",
           "source": "custom",
@@ -14919,6 +15347,7 @@
         },
         {
           "id": 664,
+          "botCardId": 361,
           "name": "Th'Underhiel Lierykk",
           "status": "unlimeade",
           "source": "custom",
@@ -14942,6 +15371,7 @@
         },
         {
           "id": 667,
+          "botCardId": 364,
           "name": "Th'Underhiel Opening Number",
           "status": "limeade",
           "source": "custom",
@@ -14961,6 +15391,7 @@
         },
         {
           "id": 665,
+          "botCardId": 362,
           "name": "Th'Underhiel Rhodii",
           "status": "limeade",
           "source": "custom",
@@ -14984,6 +15415,7 @@
         },
         {
           "id": 663,
+          "botCardId": 360,
           "name": "Th'Underhiel Styxx",
           "status": "unlimeade",
           "source": "custom",
@@ -15007,6 +15439,7 @@
         },
         {
           "id": 660,
+          "botCardId": 357,
           "name": "Th'Underhiel Sygryff",
           "status": "semi-limeade",
           "source": "custom",
@@ -15047,6 +15480,7 @@
       "cards": [
         {
           "id": 656,
+          "botCardId": 300,
           "name": "Ancient Ritual Decrepit Elder Matron",
           "status": "limeade",
           "source": "custom",
@@ -15067,6 +15501,7 @@
         },
         {
           "id": 651,
+          "botCardId": 266,
           "name": "Ancient Ritual Feral Chasm Impling",
           "status": "unlimeade",
           "source": "custom",
@@ -15090,6 +15525,7 @@
         },
         {
           "id": 642,
+          "botCardId": 257,
           "name": "Ancient Ritual Founder's Summoning",
           "status": "unlimeade",
           "source": "custom",
@@ -15109,6 +15545,7 @@
         },
         {
           "id": 650,
+          "botCardId": 265,
           "name": "Ancient Ritual Fungal Homunculus Assistant",
           "status": "unlimeade",
           "source": "custom",
@@ -15132,6 +15569,7 @@
         },
         {
           "id": 653,
+          "botCardId": 268,
           "name": "Ancient Ritual Homunculord of Sublime Decay",
           "status": "semi-limeade",
           "source": "custom",
@@ -15152,6 +15590,7 @@
         },
         {
           "id": 643,
+          "botCardId": 258,
           "name": "Ancient Ritual Initiate's Summoning",
           "status": "unlimeade",
           "source": "custom",
@@ -15171,6 +15610,7 @@
         },
         {
           "id": 652,
+          "botCardId": 267,
           "name": "Ancient Ritual Intrusion Ward",
           "status": "limeade",
           "source": "custom",
@@ -15190,6 +15630,7 @@
         },
         {
           "id": 654,
+          "botCardId": 269,
           "name": "Ancient Ritual Magnificent Chasm Lord",
           "status": "semi-limeade",
           "source": "custom",
@@ -15210,6 +15651,7 @@
         },
         {
           "id": 647,
+          "botCardId": 262,
           "name": "Ancient Ritual Material - Amanita Muscaria",
           "status": "unlimeade",
           "source": "custom",
@@ -15230,6 +15672,7 @@
         },
         {
           "id": 649,
+          "botCardId": 264,
           "name": "Ancient Ritual Material - Blood Candle",
           "status": "unlimeade",
           "source": "custom",
@@ -15250,6 +15693,7 @@
         },
         {
           "id": 646,
+          "botCardId": 261,
           "name": "Ancient Ritual Material - Common Wolfsbane",
           "status": "unlimeade",
           "source": "custom",
@@ -15270,6 +15714,7 @@
         },
         {
           "id": 648,
+          "botCardId": 263,
           "name": "Ancient Ritual Material - Corpse Ash",
           "status": "unlimeade",
           "source": "custom",
@@ -15290,6 +15735,7 @@
         },
         {
           "id": 645,
+          "botCardId": 260,
           "name": "Ancient Ritual Material Gathering",
           "status": "limeade",
           "source": "custom",
@@ -15309,6 +15755,7 @@
         },
         {
           "id": 655,
+          "botCardId": 270,
           "name": "Ancient Ritual Material Golem",
           "status": "unlimeade",
           "source": "custom",
@@ -15329,6 +15776,7 @@
         },
         {
           "id": 644,
+          "botCardId": 259,
           "name": "Ancient Ritual Site",
           "status": "limeade",
           "source": "custom",
@@ -15365,6 +15813,7 @@
       "cards": [
         {
           "id": 628,
+          "botCardId": 346,
           "name": "Grabbit Arcade!",
           "status": "unlimeade",
           "source": "custom",
@@ -15384,6 +15833,7 @@
         },
         {
           "id": 638,
+          "botCardId": 356,
           "name": "Grabbit Grand Prize Crane",
           "status": "semi-limeade",
           "source": "custom",
@@ -15407,6 +15857,7 @@
         },
         {
           "id": 626,
+          "botCardId": 344,
           "name": "Grabbit Power Claw",
           "status": "unlimeade",
           "source": "custom",
@@ -15427,6 +15878,7 @@
         },
         {
           "id": 624,
+          "botCardId": 342,
           "name": "Grabbit Precision Claw",
           "status": "unlimeade",
           "source": "custom",
@@ -15447,6 +15899,7 @@
         },
         {
           "id": 625,
+          "botCardId": 343,
           "name": "Grabbit Sidewinder Claw",
           "status": "unlimeade",
           "source": "custom",
@@ -15467,6 +15920,7 @@
         },
         {
           "id": 627,
+          "botCardId": 345,
           "name": "Grabbit Triple Claw",
           "status": "unlimeade",
           "source": "custom",
@@ -15487,6 +15941,7 @@
         },
         {
           "id": 636,
+          "botCardId": 354,
           "name": "Grabbit! Almost Had It!",
           "status": "unlimeade",
           "source": "custom",
@@ -15506,6 +15961,7 @@
         },
         {
           "id": 632,
+          "botCardId": 350,
           "name": "Grabbit! Extra Credit",
           "status": "unlimeade",
           "source": "custom",
@@ -15525,6 +15981,7 @@
         },
         {
           "id": 629,
+          "botCardId": 347,
           "name": "Grabbit! Insert Coin",
           "status": "unlimeade",
           "source": "custom",
@@ -15544,6 +16001,7 @@
         },
         {
           "id": 630,
+          "botCardId": 348,
           "name": "Grabbit! Joystick",
           "status": "unlimeade",
           "source": "custom",
@@ -15563,6 +16021,7 @@
         },
         {
           "id": 631,
+          "botCardId": 349,
           "name": "Grabbit! Machine Shake",
           "status": "unlimeade",
           "source": "custom",
@@ -15582,6 +16041,7 @@
         },
         {
           "id": 637,
+          "botCardId": 355,
           "name": "Grabbit! Out of Order!",
           "status": "unlimeade",
           "source": "custom",
@@ -15601,6 +16061,7 @@
         },
         {
           "id": 635,
+          "botCardId": 353,
           "name": "Grabbit! Prize Chute",
           "status": "unlimeade",
           "source": "custom",
@@ -15620,6 +16081,7 @@
         },
         {
           "id": 634,
+          "botCardId": 352,
           "name": "Grabbit! Prize Exchange",
           "status": "limeade",
           "source": "custom",
@@ -15639,6 +16101,7 @@
         },
         {
           "id": 633,
+          "botCardId": 351,
           "name": "Grabbit! Strong Grip",
           "status": "unlimeade",
           "source": "custom",
@@ -15675,6 +16138,7 @@
       "cards": [
         {
           "id": 617,
+          "botCardId": 308,
           "name": "A Little Berdie Told Me",
           "status": "unlimeade",
           "source": "custom",
@@ -15694,6 +16158,7 @@
         },
         {
           "id": 614,
+          "botCardId": 305,
           "name": "Berd 0205 - Zpero",
           "status": "limeade",
           "source": "custom",
@@ -15716,6 +16181,7 @@
         },
         {
           "id": 612,
+          "botCardId": 303,
           "name": "Berd 0410 - Dhuk",
           "status": "unlimeade",
           "source": "custom",
@@ -15738,6 +16204,7 @@
         },
         {
           "id": 610,
+          "botCardId": 301,
           "name": "Berd 0505 - Pyjjin",
           "status": "unlimeade",
           "source": "custom",
@@ -15760,6 +16227,7 @@
         },
         {
           "id": 613,
+          "botCardId": 304,
           "name": "Berd 0706 - Auwel",
           "status": "unlimeade",
           "source": "custom",
@@ -15782,6 +16250,7 @@
         },
         {
           "id": 611,
+          "botCardId": 302,
           "name": "Berd 0801 - Krau",
           "status": "unlimeade",
           "source": "custom",
@@ -15804,6 +16273,7 @@
         },
         {
           "id": 622,
+          "botCardId": 313,
           "name": "Berd 1400 - Swaloh",
           "status": "unlimeade",
           "source": "custom",
@@ -15827,6 +16297,7 @@
         },
         {
           "id": 620,
+          "botCardId": 311,
           "name": "Berd 1713 - Hock",
           "status": "unlimeade",
           "source": "custom",
@@ -15847,6 +16318,7 @@
         },
         {
           "id": 618,
+          "botCardId": 309,
           "name": "Berd 1812 - Vulcher",
           "status": "unlimeade",
           "source": "custom",
@@ -15867,6 +16339,7 @@
         },
         {
           "id": 615,
+          "botCardId": 306,
           "name": "Berd in the Hand",
           "status": "banned",
           "source": "custom",
@@ -15886,6 +16359,7 @@
         },
         {
           "id": 619,
+          "botCardId": 310,
           "name": "Berd Warcher - Wally Byrdz",
           "status": "limeade",
           "source": "custom",
@@ -15906,6 +16380,7 @@
         },
         {
           "id": 621,
+          "botCardId": 312,
           "name": "Berd Zanctuary",
           "status": "banned",
           "source": "custom",
@@ -15925,6 +16400,7 @@
         },
         {
           "id": 616,
+          "botCardId": 307,
           "name": "Ducks in a Row",
           "status": "unlimeade",
           "source": "custom",
@@ -15961,6 +16437,7 @@
       "cards": [
         {
           "id": 596,
+          "botCardId": 328,
           "name": "Aimless Ambler Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -15981,6 +16458,7 @@
         },
         {
           "id": 606,
+          "botCardId": 338,
           "name": "Bronze-Bound Baron Beyond Life",
           "status": "semi-limeade",
           "source": "custom",
@@ -16001,6 +16479,7 @@
         },
         {
           "id": 605,
+          "botCardId": 337,
           "name": "Bronzed Scholar Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -16023,6 +16502,7 @@
         },
         {
           "id": 599,
+          "botCardId": 331,
           "name": "Corroded Conqueror Beyond Life",
           "status": "banned",
           "source": "custom",
@@ -16043,6 +16523,7 @@
         },
         {
           "id": 603,
+          "botCardId": 335,
           "name": "Forgotten Force Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -16063,6 +16544,7 @@
         },
         {
           "id": 609,
+          "botCardId": 341,
           "name": "Illusory Quartz Halls Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -16082,6 +16564,7 @@
         },
         {
           "id": 601,
+          "botCardId": 333,
           "name": "Insolent Imp Beyond Life",
           "status": "semi-limeade",
           "source": "custom",
@@ -16102,6 +16585,7 @@
         },
         {
           "id": 608,
+          "botCardId": 340,
           "name": "Polished Bronze Walls Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -16121,6 +16605,7 @@
         },
         {
           "id": 604,
+          "botCardId": 336,
           "name": "Quartz Caller Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -16143,6 +16628,7 @@
         },
         {
           "id": 607,
+          "botCardId": 339,
           "name": "Quartz-Coat Queen Beyond Life",
           "status": "semi-limeade",
           "source": "custom",
@@ -16163,6 +16649,7 @@
         },
         {
           "id": 602,
+          "botCardId": 334,
           "name": "Rotted Rukh Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -16183,6 +16670,7 @@
         },
         {
           "id": 598,
+          "botCardId": 330,
           "name": "Skeletal Saurus Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -16203,6 +16691,7 @@
         },
         {
           "id": 595,
+          "botCardId": 327,
           "name": "The Maze Beyond Life",
           "status": "limeade",
           "source": "custom",
@@ -16222,6 +16711,7 @@
         },
         {
           "id": 597,
+          "botCardId": 329,
           "name": "Umbral Undying Beyond Life",
           "status": "unlimeade",
           "source": "custom",
@@ -16242,6 +16732,7 @@
         },
         {
           "id": 600,
+          "botCardId": 332,
           "name": "Withered Wand Beyond Life",
           "status": "semi-limeade",
           "source": "custom",
@@ -16279,6 +16770,7 @@
       "cards": [
         {
           "id": 589,
+          "botCardId": 321,
           "name": "Bashiten, Infernal Trickster of the Canopy",
           "status": "semi-limeade",
           "source": "custom",
@@ -16302,6 +16794,7 @@
         },
         {
           "id": 592,
+          "botCardId": 324,
           "name": "Contract of the Wild Hunt",
           "status": "unlimeade",
           "source": "custom",
@@ -16321,6 +16814,7 @@
         },
         {
           "id": 588,
+          "botCardId": 320,
           "name": "Donkestra, Craghide Ambusher",
           "status": "semi-limeade",
           "source": "custom",
@@ -16344,6 +16838,7 @@
         },
         {
           "id": 585,
+          "botCardId": 317,
           "name": "Kael, Embershot of the Wild Hunt",
           "status": "semi-limeade",
           "source": "custom",
@@ -16364,6 +16859,7 @@
         },
         {
           "id": 594,
+          "botCardId": 326,
           "name": "Lyra, Guildmaster of the Wild Hunt",
           "status": "limeade",
           "source": "custom",
@@ -16384,6 +16880,7 @@
         },
         {
           "id": 587,
+          "botCardId": 319,
           "name": "Oaragoon, Blood Hive Devourer",
           "status": "semi-limeade",
           "source": "custom",
@@ -16407,6 +16904,7 @@
         },
         {
           "id": 593,
+          "botCardId": 325,
           "name": "Pitfall of the Wild Hunt",
           "status": "unlimeade",
           "source": "custom",
@@ -16426,6 +16924,7 @@
         },
         {
           "id": 584,
+          "botCardId": 316,
           "name": "Rowan, Berserker of the Wild Hunt",
           "status": "semi-limeade",
           "source": "custom",
@@ -16446,6 +16945,7 @@
         },
         {
           "id": 586,
+          "botCardId": 318,
           "name": "Skadi, Frostwarden of the Wild Hunt",
           "status": "semi-limeade",
           "source": "custom",
@@ -16466,6 +16966,7 @@
         },
         {
           "id": 590,
+          "botCardId": 322,
           "name": "Skorvath, Tyrant of the Frozen Peaks",
           "status": "semi-limeade",
           "source": "custom",
@@ -16489,6 +16990,7 @@
         },
         {
           "id": 591,
+          "botCardId": 323,
           "name": "The Guild Hall of The Wild Hunt",
           "status": "semi-limeade",
           "source": "custom",
@@ -16508,6 +17010,7 @@
         },
         {
           "id": 583,
+          "botCardId": 315,
           "name": "Vesper, Exterminator of the Wild Hunt",
           "status": "semi-limeade",
           "source": "custom",
@@ -16545,6 +17048,7 @@
       "cards": [
         {
           "id": 551,
+          "botCardId": 250,
           "name": "Beacon of The Fade",
           "status": "unlimeade",
           "source": "custom",
@@ -16564,6 +17068,7 @@
         },
         {
           "id": 556,
+          "botCardId": 255,
           "name": "Dyo-Reija, Fade to Molten Wastes",
           "status": "semi-limeade",
           "source": "custom",
@@ -16584,6 +17089,7 @@
         },
         {
           "id": 557,
+          "botCardId": 256,
           "name": "Enas-Reija, Fade to Cavernous Depths",
           "status": "unlimeade",
           "source": "custom",
@@ -16604,6 +17110,7 @@
         },
         {
           "id": 553,
+          "botCardId": 252,
           "name": "Exi-Reija, Fade to Walled City",
           "status": "semi-limeade",
           "source": "custom",
@@ -16624,6 +17131,7 @@
         },
         {
           "id": 549,
+          "botCardId": 248,
           "name": "Gathered Avatar of The Fade",
           "status": "unlimeade",
           "source": "custom",
@@ -16646,6 +17154,7 @@
         },
         {
           "id": 552,
+          "botCardId": 251,
           "name": "Localized Aftereffects of The Fade",
           "status": "banned",
           "source": "custom",
@@ -16665,6 +17174,7 @@
         },
         {
           "id": 548,
+          "botCardId": 247,
           "name": "Omni-Reija, Realized Ideal of The Fade",
           "status": "banned",
           "source": "custom",
@@ -16685,6 +17195,7 @@
         },
         {
           "id": 554,
+          "botCardId": 253,
           "name": "Pente-Reija, Fade to Eternal Storm",
           "status": "unlimeade",
           "source": "custom",
@@ -16705,6 +17216,7 @@
         },
         {
           "id": 546,
+          "botCardId": 245,
           "name": "Predecessor of Reija",
           "status": "semi-limeade",
           "source": "custom",
@@ -16725,6 +17237,7 @@
         },
         {
           "id": 547,
+          "botCardId": 246,
           "name": "Reija The Fade",
           "status": "unlimeade",
           "source": "custom",
@@ -16745,6 +17258,7 @@
         },
         {
           "id": 550,
+          "botCardId": 249,
           "name": "Subtle Art of The Fade",
           "status": "unlimeade",
           "source": "custom",
@@ -16764,6 +17278,7 @@
         },
         {
           "id": 555,
+          "botCardId": 254,
           "name": "Tria-Reija, Fade to Shrouded Lands",
           "status": "unlimeade",
           "source": "custom",
@@ -16801,6 +17316,7 @@
       "cards": [
         {
           "id": 532,
+          "botCardId": 289,
           "name": "Aladin, Bearer of Fels’teel",
           "status": "unlimeade",
           "source": "custom",
@@ -16821,6 +17337,7 @@
         },
         {
           "id": 533,
+          "botCardId": 290,
           "name": "Ancient Fels'teel Lamp",
           "status": "unlimeade",
           "source": "custom",
@@ -16841,6 +17358,7 @@
         },
         {
           "id": 541,
+          "botCardId": 298,
           "name": "Ancient Fels'teel Lamp of Three Wishes",
           "status": "semi-limeade",
           "source": "custom",
@@ -16861,6 +17379,7 @@
         },
         {
           "id": 534,
+          "botCardId": 291,
           "name": "Califara, City of Fels'teel",
           "status": "unlimeade",
           "source": "custom",
@@ -16880,6 +17399,7 @@
         },
         {
           "id": 539,
+          "botCardId": 296,
           "name": "Fels'teel Mirage Veil",
           "status": "semi-limeade",
           "source": "custom",
@@ -16899,6 +17419,7 @@
         },
         {
           "id": 538,
+          "botCardId": 295,
           "name": "Fels'teel – At Your Beck and Call",
           "status": "limeade",
           "source": "custom",
@@ -16918,6 +17439,7 @@
         },
         {
           "id": 540,
+          "botCardId": 297,
           "name": "Fels'teel – Careful What You Wish For",
           "status": "semi-limeade",
           "source": "custom",
@@ -16937,6 +17459,7 @@
         },
         {
           "id": 542,
+          "botCardId": 299,
           "name": "Grand Fels’teel Lamp of Wishes Unbound",
           "status": "limeade",
           "source": "custom",
@@ -16957,6 +17480,7 @@
         },
         {
           "id": 529,
+          "botCardId": 286,
           "name": "La Jinn the Mystical Genie of Fels’teel",
           "status": "semi-limeade",
           "source": "custom",
@@ -16977,6 +17501,7 @@
         },
         {
           "id": 531,
+          "botCardId": 288,
           "name": "Nadira the Mystical Temptress of Fels’teel",
           "status": "semi-limeade",
           "source": "custom",
@@ -16997,6 +17522,7 @@
         },
         {
           "id": 537,
+          "botCardId": 294,
           "name": "Pact of the Fels'teel Lamp",
           "status": "semi-limeade",
           "source": "custom",
@@ -17016,6 +17542,7 @@
         },
         {
           "id": 535,
+          "botCardId": 292,
           "name": "Rub the Fels'teel Lamp",
           "status": "semi-limeade",
           "source": "custom",
@@ -17035,6 +17562,7 @@
         },
         {
           "id": 536,
+          "botCardId": 293,
           "name": "Three Gifts of Fels'teel",
           "status": "semi-limeade",
           "source": "custom",
@@ -17054,6 +17582,7 @@
         },
         {
           "id": 530,
+          "botCardId": 287,
           "name": "Zahira the Mystical Mirage of Fels’teel",
           "status": "semi-limeade",
           "source": "custom",
@@ -17091,6 +17620,7 @@
       "cards": [
         {
           "id": 515,
+          "botCardId": 272,
           "name": "Catch-A-Ride!",
           "status": "unlimeade",
           "source": "custom",
@@ -17110,6 +17640,7 @@
         },
         {
           "id": 518,
+          "botCardId": 275,
           "name": "Fight for Your Life",
           "status": "semi-limeade",
           "source": "custom",
@@ -17129,6 +17660,7 @@
         },
         {
           "id": 523,
+          "botCardId": 280,
           "name": "Loot - Common",
           "status": "unlimeade",
           "source": "custom",
@@ -17148,6 +17680,7 @@
         },
         {
           "id": 521,
+          "botCardId": 278,
           "name": "Loot - Epic",
           "status": "semi-limeade",
           "source": "custom",
@@ -17167,6 +17700,7 @@
         },
         {
           "id": 520,
+          "botCardId": 277,
           "name": "Loot - Legendary",
           "status": "semi-limeade",
           "source": "custom",
@@ -17186,6 +17720,7 @@
         },
         {
           "id": 522,
+          "botCardId": 279,
           "name": "Loot - Rare",
           "status": "semi-limeade",
           "source": "custom",
@@ -17205,6 +17740,7 @@
         },
         {
           "id": 524,
+          "botCardId": 281,
           "name": "Pandoran Demolitionist",
           "status": "banned",
           "source": "custom",
@@ -17225,6 +17761,7 @@
         },
         {
           "id": 525,
+          "botCardId": 282,
           "name": "Pandoran Gun Merchant",
           "status": "semi-limeade",
           "source": "custom",
@@ -17245,6 +17782,7 @@
         },
         {
           "id": 528,
+          "botCardId": 285,
           "name": "Pandoran Mascot",
           "status": "limeade",
           "source": "custom",
@@ -17268,6 +17806,7 @@
         },
         {
           "id": 519,
+          "botCardId": 276,
           "name": "Pandoran Sanctuary - Moxxi's",
           "status": "semi-limeade",
           "source": "custom",
@@ -17287,6 +17826,7 @@
         },
         {
           "id": 514,
+          "botCardId": 271,
           "name": "Pandoran Tyrant - Handsome Jack",
           "status": "limeade",
           "source": "custom",
@@ -17307,6 +17847,7 @@
         },
         {
           "id": 499,
+          "botCardId": 207,
           "name": "Pandoran Tyrant – Handsome Jack",
           "status": "banned",
           "source": "custom",
@@ -17319,6 +17860,7 @@
         },
         {
           "id": 527,
+          "botCardId": 284,
           "name": "Pandoran Vault Hunter - Commando",
           "status": "unlimeade",
           "source": "custom",
@@ -17339,6 +17881,7 @@
         },
         {
           "id": 517,
+          "botCardId": 274,
           "name": "Pandoran Vault Hunter - Legendary Commando",
           "status": "semi-limeade",
           "source": "custom",
@@ -17359,6 +17902,7 @@
         },
         {
           "id": 526,
+          "botCardId": 283,
           "name": "Pandoran Vault Hunter - Siren",
           "status": "semi-limeade",
           "source": "custom",
@@ -17379,6 +17923,7 @@
         },
         {
           "id": 516,
+          "botCardId": 273,
           "name": "Pandoran Vault Hunter - The Firehawk",
           "status": "semi-limeade",
           "source": "custom",
@@ -17416,6 +17961,7 @@
       "cards": [
         {
           "id": 468,
+          "botCardId": 201,
           "name": "Cove Area of the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17435,6 +17981,7 @@
         },
         {
           "id": 467,
+          "botCardId": 200,
           "name": "Eerie Coral in the Dungeon Dark",
           "status": "limeade",
           "source": "custom",
@@ -17454,6 +18001,7 @@
         },
         {
           "id": 466,
+          "botCardId": 199,
           "name": "Eldritch Altar in the Dungeon Dark",
           "status": "limeade",
           "source": "custom",
@@ -17473,6 +18021,7 @@
         },
         {
           "id": 472,
+          "botCardId": 205,
           "name": "Hag from the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17493,6 +18042,7 @@
         },
         {
           "id": 471,
+          "botCardId": 204,
           "name": "Necromancer from the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17513,6 +18063,7 @@
         },
         {
           "id": 465,
+          "botCardId": 198,
           "name": "Occult Scrawlings in the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17532,6 +18083,7 @@
         },
         {
           "id": 464,
+          "botCardId": 197,
           "name": "Ruins Area of the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17551,6 +18103,7 @@
         },
         {
           "id": 470,
+          "botCardId": 203,
           "name": "Siren from the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17571,6 +18124,7 @@
         },
         {
           "id": 469,
+          "botCardId": 202,
           "name": "Swine Prince from the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17591,6 +18145,7 @@
         },
         {
           "id": 463,
+          "botCardId": 196,
           "name": "Troubling Effigy in the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17610,6 +18165,7 @@
         },
         {
           "id": 473,
+          "botCardId": 206,
           "name": "Wandering Collector from the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17630,6 +18186,7 @@
         },
         {
           "id": 462,
+          "botCardId": 195,
           "name": "Warrens Area of the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17649,6 +18206,7 @@
         },
         {
           "id": 461,
+          "botCardId": 194,
           "name": "Weald Area of the Dungeon Dark",
           "status": "semi-limeade",
           "source": "custom",
@@ -17685,6 +18243,7 @@
       "cards": [
         {
           "id": 476,
+          "botCardId": 222,
           "name": "Blue Chaos Emerald",
           "status": "banned",
           "source": "custom",
@@ -17706,6 +18265,7 @@
         },
         {
           "id": 479,
+          "botCardId": 225,
           "name": "Cyan Chaos Emerald",
           "status": "banned",
           "source": "custom",
@@ -17727,6 +18287,7 @@
         },
         {
           "id": 474,
+          "botCardId": 220,
           "name": "Green Chaos Emerald",
           "status": "banned",
           "source": "custom",
@@ -17748,6 +18309,7 @@
         },
         {
           "id": 478,
+          "botCardId": 224,
           "name": "Purple Chaos Emerald",
           "status": "banned",
           "source": "custom",
@@ -17769,6 +18331,7 @@
         },
         {
           "id": 475,
+          "botCardId": 221,
           "name": "Red Chaos Emerald",
           "status": "banned",
           "source": "custom",
@@ -17790,6 +18353,7 @@
         },
         {
           "id": 487,
+          "botCardId": 233,
           "name": "VeloCity - Amy Rose",
           "status": "banned",
           "source": "custom",
@@ -17810,6 +18374,7 @@
         },
         {
           "id": 486,
+          "botCardId": 232,
           "name": "VeloCity - Dr. Eggman",
           "status": "banned",
           "source": "custom",
@@ -17830,6 +18395,7 @@
         },
         {
           "id": 489,
+          "botCardId": 235,
           "name": "VeloCity - Gotta Go Fast!",
           "status": "banned",
           "source": "custom",
@@ -17849,6 +18415,7 @@
         },
         {
           "id": 497,
+          "botCardId": 243,
           "name": "VeloCity - Knuckles, Master Emerald Guardian",
           "status": "banned",
           "source": "custom",
@@ -17869,6 +18436,7 @@
         },
         {
           "id": 494,
+          "botCardId": 240,
           "name": "VeloCity - Metal Sonic",
           "status": "banned",
           "source": "custom",
@@ -17892,6 +18460,7 @@
         },
         {
           "id": 485,
+          "botCardId": 231,
           "name": "VeloCity - Rouge the Bat",
           "status": "banned",
           "source": "custom",
@@ -17912,6 +18481,7 @@
         },
         {
           "id": 496,
+          "botCardId": 242,
           "name": "VeloCity - Shadow, Ultimate Life Form",
           "status": "banned",
           "source": "custom",
@@ -17932,6 +18502,7 @@
         },
         {
           "id": 495,
+          "botCardId": 241,
           "name": "VeloCity - Sonic, the Blue Blur",
           "status": "banned",
           "source": "custom",
@@ -17952,6 +18523,7 @@
         },
         {
           "id": 498,
+          "botCardId": 244,
           "name": "VeloCity - Team Sonic",
           "status": "banned",
           "source": "custom",
@@ -17975,6 +18547,7 @@
         },
         {
           "id": 493,
+          "botCardId": 239,
           "name": "VeloCity - Tornado Tag Team",
           "status": "banned",
           "source": "custom",
@@ -17995,6 +18568,7 @@
         },
         {
           "id": 491,
+          "botCardId": 237,
           "name": "VeloCity – Chaos Control!",
           "status": "banned",
           "source": "custom",
@@ -18014,6 +18588,7 @@
         },
         {
           "id": 488,
+          "botCardId": 234,
           "name": "VeloCity – City Escape!",
           "status": "banned",
           "source": "custom",
@@ -18033,6 +18608,7 @@
         },
         {
           "id": 490,
+          "botCardId": 236,
           "name": "VeloCity – Golden Ring",
           "status": "banned",
           "source": "custom",
@@ -18052,6 +18628,7 @@
         },
         {
           "id": 483,
+          "botCardId": 229,
           "name": "VeloCity – Knuckles the Echidna",
           "status": "banned",
           "source": "custom",
@@ -18072,6 +18649,7 @@
         },
         {
           "id": 482,
+          "botCardId": 228,
           "name": "VeloCity – Miles “Tails” Prower",
           "status": "banned",
           "source": "custom",
@@ -18092,6 +18670,7 @@
         },
         {
           "id": 484,
+          "botCardId": 230,
           "name": "VeloCity – Shadow the Hedgehog",
           "status": "banned",
           "source": "custom",
@@ -18115,6 +18694,7 @@
         },
         {
           "id": 481,
+          "botCardId": 227,
           "name": "VeloCity – Sonic the Hedgehog",
           "status": "banned",
           "source": "custom",
@@ -18138,6 +18718,7 @@
         },
         {
           "id": 492,
+          "botCardId": 238,
           "name": "VeloCity – Super Sonic",
           "status": "banned",
           "source": "custom",
@@ -18158,6 +18739,7 @@
         },
         {
           "id": 480,
+          "botCardId": 226,
           "name": "White Chaos Emerald",
           "status": "banned",
           "source": "custom",
@@ -18179,6 +18761,7 @@
         },
         {
           "id": 477,
+          "botCardId": 223,
           "name": "Yellow Chaos Emerald",
           "status": "banned",
           "source": "custom",
@@ -18217,6 +18800,7 @@
       "cards": [
         {
           "id": 451,
+          "botCardId": 184,
           "name": "Anointed Alfred, Mummy King",
           "status": "limeade",
           "source": "custom",
@@ -18237,6 +18821,7 @@
         },
         {
           "id": 452,
+          "botCardId": 185,
           "name": "Anointed Crypt-Breaker",
           "status": "semi-limeade",
           "source": "custom",
@@ -18259,6 +18844,7 @@
         },
         {
           "id": 453,
+          "botCardId": 186,
           "name": "Anointed Deacon",
           "status": "semi-limeade",
           "source": "custom",
@@ -18281,6 +18867,7 @@
         },
         {
           "id": 454,
+          "botCardId": 187,
           "name": "Anointed Kuriboh",
           "status": "banned",
           "source": "custom",
@@ -18303,6 +18890,7 @@
         },
         {
           "id": 455,
+          "botCardId": 188,
           "name": "Anointed Magician of Darkness",
           "status": "semi-limeade",
           "source": "custom",
@@ -18323,6 +18911,7 @@
         },
         {
           "id": 456,
+          "botCardId": 189,
           "name": "Anointed Priest",
           "status": "semi-limeade",
           "source": "custom",
@@ -18345,6 +18934,7 @@
         },
         {
           "id": 457,
+          "botCardId": 190,
           "name": "Anointed Sarcophagus",
           "status": "semi-limeade",
           "source": "custom",
@@ -18365,6 +18955,7 @@
         },
         {
           "id": 458,
+          "botCardId": 191,
           "name": "Anointed Timegazer",
           "status": "semi-limeade",
           "source": "custom",
@@ -18387,6 +18978,7 @@
         },
         {
           "id": 459,
+          "botCardId": 192,
           "name": "Anointment By The Ankh",
           "status": "semi-limeade",
           "source": "custom",
@@ -18406,6 +18998,7 @@
         },
         {
           "id": 460,
+          "botCardId": 193,
           "name": "Book of Sun",
           "status": "banned",
           "source": "custom",
@@ -18442,6 +19035,7 @@
       "cards": [
         {
           "id": 443,
+          "botCardId": 212,
           "name": "Brahei from the Hollow Era",
           "status": "semi-limeade",
           "source": "custom",
@@ -18462,6 +19056,7 @@
         },
         {
           "id": 449,
+          "botCardId": 218,
           "name": "Core Remnant of the Hollow Era",
           "status": "semi-limeade",
           "source": "custom",
@@ -18482,6 +19077,7 @@
         },
         {
           "id": 447,
+          "botCardId": 216,
           "name": "Hollow Era Main Sequence Fusion",
           "status": "semi-limeade",
           "source": "custom",
@@ -18501,6 +19097,7 @@
         },
         {
           "id": 445,
+          "botCardId": 214,
           "name": "Hollow Era Red Giant Fusion",
           "status": "semi-limeade",
           "source": "custom",
@@ -18520,6 +19117,7 @@
         },
         {
           "id": 439,
+          "botCardId": 208,
           "name": "Hollow Era Stargazer Cann-Annie",
           "status": "limeade",
           "source": "custom",
@@ -18543,6 +19141,7 @@
         },
         {
           "id": 441,
+          "botCardId": 210,
           "name": "Hollow Era Stargazer Coper-Nick",
           "status": "limeade",
           "source": "custom",
@@ -18566,6 +19165,7 @@
         },
         {
           "id": 440,
+          "botCardId": 209,
           "name": "Hollow Era Stargazer Gali-Gali",
           "status": "limeade",
           "source": "custom",
@@ -18589,6 +19189,7 @@
         },
         {
           "id": 446,
+          "botCardId": 215,
           "name": "Hollow Era White Dwarf Fusion",
           "status": "semi-limeade",
           "source": "custom",
@@ -18608,6 +19209,7 @@
         },
         {
           "id": 444,
+          "botCardId": 213,
           "name": "Leileo from the Hollow Era",
           "status": "semi-limeade",
           "source": "custom",
@@ -18628,6 +19230,7 @@
         },
         {
           "id": 448,
+          "botCardId": 217,
           "name": "Nebula Endgame of the Hollow Era",
           "status": "semi-limeade",
           "source": "custom",
@@ -18648,6 +19251,7 @@
         },
         {
           "id": 450,
+          "botCardId": 219,
           "name": "Terminal Nova of the Hollow Era",
           "status": "semi-limeade",
           "source": "custom",
@@ -18668,6 +19272,7 @@
         },
         {
           "id": 442,
+          "botCardId": 211,
           "name": "Tykho from the Hollow Era",
           "status": "semi-limeade",
           "source": "custom",
@@ -18705,6 +19310,7 @@
       "cards": [
         {
           "id": 417,
+          "botCardId": 180,
           "name": "Choose a Panel!",
           "status": "unlimeade",
           "source": "custom",
@@ -18724,6 +19330,7 @@
         },
         {
           "id": 420,
+          "botCardId": 183,
           "name": "Grand Prize Jackpot",
           "status": "banned",
           "source": "custom",
@@ -18743,6 +19350,7 @@
         },
         {
           "id": 418,
+          "botCardId": 181,
           "name": "Here's Your Host!",
           "status": "unlimeade",
           "source": "custom",
@@ -18762,6 +19370,7 @@
         },
         {
           "id": 414,
+          "botCardId": 177,
           "name": "Heve Starvey as \"The Quizzler!\"",
           "status": "semi-limeade",
           "source": "custom",
@@ -18784,6 +19393,7 @@
         },
         {
           "id": 419,
+          "botCardId": 182,
           "name": "Question Change!",
           "status": "unlimeade",
           "source": "custom",
@@ -18803,6 +19413,7 @@
         },
         {
           "id": 408,
+          "botCardId": 170,
           "name": "Quiz Panel – Obelisk 10",
           "status": "unlimeade",
           "source": "custom",
@@ -18826,6 +19437,7 @@
         },
         {
           "id": 409,
+          "botCardId": 171,
           "name": "Quiz Panel – Obelisk 20",
           "status": "unlimeade",
           "source": "custom",
@@ -18849,6 +19461,7 @@
         },
         {
           "id": 410,
+          "botCardId": 172,
           "name": "Quiz Panel – Obelisk 30",
           "status": "semi-limeade",
           "source": "custom",
@@ -18872,6 +19485,7 @@
         },
         {
           "id": 411,
+          "botCardId": 173,
           "name": "Quiz Panel – Ra 10",
           "status": "unlimeade",
           "source": "custom",
@@ -18895,6 +19509,7 @@
         },
         {
           "id": 412,
+          "botCardId": 174,
           "name": "Quiz Panel – Ra 20",
           "status": "unlimeade",
           "source": "custom",
@@ -18918,6 +19533,7 @@
         },
         {
           "id": 413,
+          "botCardId": 175,
           "name": "Quiz Panel – Ra 30",
           "status": "unlimeade",
           "source": "custom",
@@ -18941,6 +19557,7 @@
         },
         {
           "id": 405,
+          "botCardId": 167,
           "name": "Quiz Panel – Slifer 10",
           "status": "unlimeade",
           "source": "custom",
@@ -18964,6 +19581,7 @@
         },
         {
           "id": 406,
+          "botCardId": 168,
           "name": "Quiz Panel – Slifer 20",
           "status": "unlimeade",
           "source": "custom",
@@ -18987,6 +19605,7 @@
         },
         {
           "id": 407,
+          "botCardId": 169,
           "name": "Quiz Panel – Slifer 30",
           "status": "unlimeade",
           "source": "custom",
@@ -19010,6 +19629,7 @@
         },
         {
           "id": 416,
+          "botCardId": 179,
           "name": "Quiz Show Stage",
           "status": "unlimeade",
           "source": "custom",
@@ -19029,6 +19649,7 @@
         },
         {
           "id": 404,
+          "botCardId": 166,
           "name": "Survey Says...",
           "status": "semi-limeade",
           "source": "custom",
@@ -19048,6 +19669,7 @@
         },
         {
           "id": 415,
+          "botCardId": 178,
           "name": "Whanna Vite as \"Miss Information!\"",
           "status": "limeade",
           "source": "custom",
@@ -19087,6 +19709,7 @@
       "cards": [
         {
           "id": 384,
+          "botCardId": 145,
           "name": "A Certain Purp-eL Wrongness",
           "status": "semi-limeade",
           "source": "custom",
@@ -19106,6 +19729,7 @@
         },
         {
           "id": 382,
+          "botCardId": 143,
           "name": "A Landscape Drowning in Purp-eL",
           "status": "semi-limeade",
           "source": "custom",
@@ -19125,6 +19749,7 @@
         },
         {
           "id": 383,
+          "botCardId": 144,
           "name": "A Shade Too Purp-eL",
           "status": "semi-limeade",
           "source": "custom",
@@ -19144,6 +19769,7 @@
         },
         {
           "id": 381,
+          "botCardId": 142,
           "name": "Inverter of the Eponymous Purp-eL",
           "status": "semi-limeade",
           "source": "custom",
@@ -19166,6 +19792,7 @@
         },
         {
           "id": 385,
+          "botCardId": 146,
           "name": "Inverting Purp-eL",
           "status": "banned",
           "source": "custom",
@@ -19185,6 +19812,7 @@
         },
         {
           "id": 387,
+          "botCardId": 148,
           "name": "Maligned Magnate of Purp-eL Inversion",
           "status": "limeade",
           "source": "custom",
@@ -19207,6 +19835,7 @@
         },
         {
           "id": 388,
+          "botCardId": 149,
           "name": "Roiling Regent of Purp-eL Inversion",
           "status": "limeade",
           "source": "custom",
@@ -19229,6 +19858,7 @@
         },
         {
           "id": 389,
+          "botCardId": 150,
           "name": "Strange Seneschal of the Purp-eL Inversion",
           "status": "limeade",
           "source": "custom",
@@ -19251,6 +19881,7 @@
         },
         {
           "id": 379,
+          "botCardId": 140,
           "name": "Ultra-Purp-eL Wavelength",
           "status": "banned",
           "source": "custom",
@@ -19270,6 +19901,7 @@
         },
         {
           "id": 378,
+          "botCardId": 139,
           "name": "Unseeing Dragon of Purp-eL Inversion",
           "status": "unlimeade",
           "source": "custom",
@@ -19295,6 +19927,7 @@
         },
         {
           "id": 380,
+          "botCardId": 141,
           "name": "Virulent Vassal of Purp-eL Inversion",
           "status": "limeade",
           "source": "custom",
@@ -19316,6 +19949,7 @@
         },
         {
           "id": 386,
+          "botCardId": 147,
           "name": "Whispering Wain of Purp-eL Inversion",
           "status": "limeade",
           "source": "custom",
@@ -19355,6 +19989,7 @@
       "cards": [
         {
           "id": 350,
+          "botCardId": 151,
           "name": "Guide of Hyrule - Mapmaker",
           "status": "semi-limeade",
           "source": "custom",
@@ -19375,6 +20010,7 @@
         },
         {
           "id": 351,
+          "botCardId": 152,
           "name": "Hero of Hyrule - Adventurer",
           "status": "semi-limeade",
           "source": "custom",
@@ -19397,6 +20033,7 @@
         },
         {
           "id": 352,
+          "botCardId": 153,
           "name": "Hero of Hyrule - Awakening",
           "status": "semi-limeade",
           "source": "custom",
@@ -19417,6 +20054,7 @@
         },
         {
           "id": 353,
+          "botCardId": 154,
           "name": "Hero of Hyrule - Champion",
           "status": "semi-limeade",
           "source": "custom",
@@ -19441,6 +20079,7 @@
         },
         {
           "id": 354,
+          "botCardId": 155,
           "name": "Hero of Hyrule - Elements",
           "status": "limeade",
           "source": "custom",
@@ -19464,6 +20103,7 @@
         },
         {
           "id": 355,
+          "botCardId": 156,
           "name": "Hero of Hyrule - Legend",
           "status": "limeade",
           "source": "custom",
@@ -19489,6 +20129,7 @@
         },
         {
           "id": 356,
+          "botCardId": 157,
           "name": "Hyrule Castle",
           "status": "semi-limeade",
           "source": "custom",
@@ -19508,6 +20149,7 @@
         },
         {
           "id": 357,
+          "botCardId": 158,
           "name": "Princess of Hyrule - Fate",
           "status": "semi-limeade",
           "source": "custom",
@@ -19528,6 +20170,7 @@
         },
         {
           "id": 358,
+          "botCardId": 159,
           "name": "Princess of Hyrule - Shadow",
           "status": "semi-limeade",
           "source": "custom",
@@ -19548,6 +20191,7 @@
         },
         {
           "id": 359,
+          "botCardId": 160,
           "name": "Scourge of Hyrule - Calamity",
           "status": "limeade",
           "source": "custom",
@@ -19568,6 +20212,7 @@
         },
         {
           "id": 360,
+          "botCardId": 161,
           "name": "Scourge of Hyrule - King of Thieves",
           "status": "semi-limeade",
           "source": "custom",
@@ -19588,6 +20233,7 @@
         },
         {
           "id": 361,
+          "botCardId": 162,
           "name": "The Master Sword",
           "status": "semi-limeade",
           "source": "custom",
@@ -19607,6 +20253,7 @@
         },
         {
           "id": 362,
+          "botCardId": 163,
           "name": "Triforce of Courage",
           "status": "semi-limeade",
           "source": "custom",
@@ -19626,6 +20273,7 @@
         },
         {
           "id": 363,
+          "botCardId": 164,
           "name": "Triforce of Power",
           "status": "semi-limeade",
           "source": "custom",
@@ -19645,6 +20293,7 @@
         },
         {
           "id": 364,
+          "botCardId": 165,
           "name": "Triforce of Wisdom",
           "status": "limeade",
           "source": "custom",
@@ -19681,6 +20330,7 @@
       "cards": [
         {
           "id": 329,
+          "botCardId": 125,
           "name": "Hawthorne’s Final Equation",
           "status": "limeade",
           "source": "custom",
@@ -19700,6 +20350,7 @@
         },
         {
           "id": 327,
+          "botCardId": 123,
           "name": "Premature Collapse",
           "status": "banned",
           "source": "custom",
@@ -19719,6 +20370,7 @@
         },
         {
           "id": 330,
+          "botCardId": 126,
           "name": "Professor Hawthorne, Beyond the Horizon",
           "status": "banned",
           "source": "custom",
@@ -19742,6 +20394,7 @@
         },
         {
           "id": 326,
+          "botCardId": 122,
           "name": "Singularitech Controlled Collapse",
           "status": "banned",
           "source": "custom",
@@ -19761,6 +20414,7 @@
         },
         {
           "id": 328,
+          "botCardId": 124,
           "name": "Singularitech Dark Hole Device",
           "status": "banned",
           "source": "custom",
@@ -19780,6 +20434,7 @@
         },
         {
           "id": 324,
+          "botCardId": 120,
           "name": "Singularitech Event Horizon",
           "status": "banned",
           "source": "custom",
@@ -19799,6 +20454,7 @@
         },
         {
           "id": 320,
+          "botCardId": 116,
           "name": "Singularitech Observer",
           "status": "banned",
           "source": "custom",
@@ -19819,6 +20475,7 @@
         },
         {
           "id": 321,
+          "botCardId": 117,
           "name": "Singularitech Paradox Assistant",
           "status": "banned",
           "source": "custom",
@@ -19839,6 +20496,7 @@
         },
         {
           "id": 319,
+          "botCardId": 115,
           "name": "Singularitech Professor Hawthorne",
           "status": "banned",
           "source": "custom",
@@ -19859,6 +20517,7 @@
         },
         {
           "id": 322,
+          "botCardId": 118,
           "name": "Singularitech Retrieval Drone",
           "status": "banned",
           "source": "custom",
@@ -19882,6 +20541,7 @@
         },
         {
           "id": 323,
+          "botCardId": 119,
           "name": "Singularitech Surveyor Drone",
           "status": "banned",
           "source": "custom",
@@ -19905,6 +20565,7 @@
         },
         {
           "id": 325,
+          "botCardId": 121,
           "name": "Singularity Reversal",
           "status": "banned",
           "source": "custom",
@@ -19941,6 +20602,7 @@
       "cards": [
         {
           "id": 318,
+          "botCardId": 114,
           "name": "Card Wars Action - Reclaim Landscape",
           "status": "semi-limeade",
           "source": "custom",
@@ -19960,6 +20622,7 @@
         },
         {
           "id": 317,
+          "botCardId": 113,
           "name": "Card Wars Building - Astral Fortress",
           "status": "banned",
           "source": "custom",
@@ -19979,6 +20642,7 @@
         },
         {
           "id": 316,
+          "botCardId": 112,
           "name": "Card Wars Building - Cave of Solitude",
           "status": "semi-limeade",
           "source": "custom",
@@ -19998,6 +20662,7 @@
         },
         {
           "id": 315,
+          "botCardId": 111,
           "name": "Card Wars Building - Corn Castle",
           "status": "semi-limeade",
           "source": "custom",
@@ -20017,6 +20682,7 @@
         },
         {
           "id": 314,
+          "botCardId": 110,
           "name": "Card Wars Building - Schoolhouse",
           "status": "limeade",
           "source": "custom",
@@ -20036,6 +20702,7 @@
         },
         {
           "id": 313,
+          "botCardId": 109,
           "name": "Card Wars Creature - Ancient Scholar and Cool Dog",
           "status": "semi-limeade",
           "source": "custom",
@@ -20056,6 +20723,7 @@
         },
         {
           "id": 312,
+          "botCardId": 108,
           "name": "Card Wars Creature - Archer Dan",
           "status": "semi-limeade",
           "source": "custom",
@@ -20076,6 +20744,7 @@
         },
         {
           "id": 311,
+          "botCardId": 107,
           "name": "Card Wars Creature - Field Reaper",
           "status": "banned",
           "source": "custom",
@@ -20096,6 +20765,7 @@
         },
         {
           "id": 310,
+          "botCardId": 106,
           "name": "Card Wars Creature - Husker Knights and Worms",
           "status": "semi-limeade",
           "source": "custom",
@@ -20116,6 +20786,7 @@
         },
         {
           "id": 309,
+          "botCardId": 105,
           "name": "Card Wars Creature - Immortal Maize Walker",
           "status": "semi-limeade",
           "source": "custom",
@@ -20136,6 +20807,7 @@
         },
         {
           "id": 308,
+          "botCardId": 104,
           "name": "Card Wars Creature - The Pig",
           "status": "unlimeade",
           "source": "custom",
@@ -20156,6 +20828,7 @@
         },
         {
           "id": 307,
+          "botCardId": 103,
           "name": "Card Wars Creature - Wandering Bald Man",
           "status": "unlimeade",
           "source": "custom",
@@ -20179,6 +20852,7 @@
         },
         {
           "id": 306,
+          "botCardId": 102,
           "name": "Card Wars Location - Cornfield and Blue Plains",
           "status": "semi-limeade",
           "source": "custom",
@@ -20198,6 +20872,7 @@
         },
         {
           "id": 305,
+          "botCardId": 101,
           "name": "Card Wars Location - Useless Swamp",
           "status": "limeade",
           "source": "custom",
@@ -20217,6 +20892,7 @@
         },
         {
           "id": 304,
+          "botCardId": 100,
           "name": "Card Wars Player - The Cool Guy and the Dweeb",
           "status": "semi-limeade",
           "source": "custom",
@@ -20254,6 +20930,7 @@
       "cards": [
         {
           "id": 302,
+          "botCardId": 137,
           "name": "Alsabea Capella - The Lust",
           "status": "semi-limeade",
           "source": "custom",
@@ -20274,6 +20951,7 @@
         },
         {
           "id": 298,
+          "botCardId": 133,
           "name": "Alsabea Ecumundias - The Cardinal Court",
           "status": "unlimeade",
           "source": "custom",
@@ -20294,6 +20972,7 @@
         },
         {
           "id": 303,
+          "botCardId": 138,
           "name": "Alsabea Leo - The Pride",
           "status": "semi-limeade",
           "source": "custom",
@@ -20314,6 +20993,7 @@
         },
         {
           "id": 299,
+          "botCardId": 134,
           "name": "Alsabea Triad - Gluttony, Envy, & Greed",
           "status": "limeade",
           "source": "custom",
@@ -20334,6 +21014,7 @@
         },
         {
           "id": 301,
+          "botCardId": 136,
           "name": "Alsabea Ursus - The Sloth",
           "status": "semi-limeade",
           "source": "custom",
@@ -20354,6 +21035,7 @@
         },
         {
           "id": 300,
+          "botCardId": 135,
           "name": "Alsabea Vespa - The Wrath",
           "status": "unlimeade",
           "source": "custom",
@@ -20374,6 +21056,7 @@
         },
         {
           "id": 292,
+          "botCardId": 127,
           "name": "Barrier Law of Ecumundias",
           "status": "limeade",
           "source": "custom",
@@ -20393,6 +21076,7 @@
         },
         {
           "id": 294,
+          "botCardId": 129,
           "name": "Ecumundias' Edict of the Bear",
           "status": "unlimeade",
           "source": "custom",
@@ -20412,6 +21096,7 @@
         },
         {
           "id": 296,
+          "botCardId": 131,
           "name": "Ecumundias' Edict of the Goat",
           "status": "unlimeade",
           "source": "custom",
@@ -20431,6 +21116,7 @@
         },
         {
           "id": 295,
+          "botCardId": 130,
           "name": "Ecumundias' Edict of the Hornet",
           "status": "semi-limeade",
           "source": "custom",
@@ -20450,6 +21136,7 @@
         },
         {
           "id": 297,
+          "botCardId": 132,
           "name": "Ecumundias' Edict of the Lion",
           "status": "semi-limeade",
           "source": "custom",
@@ -20469,6 +21156,7 @@
         },
         {
           "id": 293,
+          "botCardId": 128,
           "name": "Ecumundias' Triadic Commandment",
           "status": "semi-limeade",
           "source": "custom",
@@ -20505,6 +21193,7 @@
       "cards": [
         {
           "id": 277,
+          "botCardId": 89,
           "name": "Forgotten Reflection",
           "status": "banned",
           "source": "custom",
@@ -20525,6 +21214,7 @@
         },
         {
           "id": 279,
+          "botCardId": 91,
           "name": "Inhabited Custos",
           "status": "limeade",
           "source": "custom",
@@ -20545,6 +21235,7 @@
         },
         {
           "id": 282,
+          "botCardId": 94,
           "name": "Long-Forgotten, Living Library",
           "status": "limeade",
           "source": "custom",
@@ -20564,6 +21255,7 @@
         },
         {
           "id": 280,
+          "botCardId": 92,
           "name": "Nemesis Perditorum",
           "status": "limeade",
           "source": "custom",
@@ -20584,6 +21276,7 @@
         },
         {
           "id": 286,
+          "botCardId": 98,
           "name": "No Way Out!",
           "status": "unlimeade",
           "source": "custom",
@@ -20603,6 +21296,7 @@
         },
         {
           "id": 278,
+          "botCardId": 90,
           "name": "Paginae Steed",
           "status": "semi-limeade",
           "source": "custom",
@@ -20623,6 +21317,7 @@
         },
         {
           "id": 281,
+          "botCardId": 93,
           "name": "Same Old Song",
           "status": "semi-limeade",
           "source": "custom",
@@ -20642,6 +21337,7 @@
         },
         {
           "id": 285,
+          "botCardId": 97,
           "name": "Should Have Known…",
           "status": "semi-limeade",
           "source": "custom",
@@ -20661,6 +21357,7 @@
         },
         {
           "id": 284,
+          "botCardId": 96,
           "name": "Wait, What!",
           "status": "banned",
           "source": "custom",
@@ -20680,6 +21377,7 @@
         },
         {
           "id": 276,
+          "botCardId": 88,
           "name": "Xigg, the Lost",
           "status": "unlimeade",
           "source": "custom",
@@ -20700,6 +21398,7 @@
         },
         {
           "id": 283,
+          "botCardId": 95,
           "name": "You Wouldn't Believe It",
           "status": "unlimeade",
           "source": "custom",
@@ -20719,6 +21418,7 @@
         },
         {
           "id": 287,
+          "botCardId": 99,
           "name": "You've Got to be Kidding...",
           "status": "semi-limeade",
           "source": "custom",
@@ -20755,6 +21455,7 @@
       "cards": [
         {
           "id": 268,
+          "botCardId": 86,
           "name": "Grounded Airlines Cheep Flight",
           "status": "semi-limeade",
           "source": "custom",
@@ -20775,6 +21476,7 @@
         },
         {
           "id": 269,
+          "botCardId": 87,
           "name": "Grounded Airlines Fowl Flight",
           "status": "semi-limeade",
           "source": "custom",
@@ -20798,6 +21500,7 @@
         },
         {
           "id": 258,
+          "botCardId": 76,
           "name": "Grounded Cabin Crew Flippers",
           "status": "unlimeade",
           "source": "custom",
@@ -20818,6 +21521,7 @@
         },
         {
           "id": 255,
+          "botCardId": 73,
           "name": "Grounded Captain Longneck",
           "status": "unlimeade",
           "source": "custom",
@@ -20838,6 +21542,7 @@
         },
         {
           "id": 260,
+          "botCardId": 78,
           "name": "Grounded CEDO-do",
           "status": "unlimeade",
           "source": "custom",
@@ -20858,6 +21563,7 @@
         },
         {
           "id": 256,
+          "botCardId": 74,
           "name": "Grounded First Officer Waddles",
           "status": "semi-limeade",
           "source": "custom",
@@ -20878,6 +21584,7 @@
         },
         {
           "id": 261,
+          "botCardId": 79,
           "name": "Grounded International Airport",
           "status": "semi-limeade",
           "source": "custom",
@@ -20897,6 +21604,7 @@
         },
         {
           "id": 257,
+          "botCardId": 75,
           "name": "Grounded Mechanic Peep",
           "status": "unlimeade",
           "source": "custom",
@@ -20917,6 +21625,7 @@
         },
         {
           "id": 259,
+          "botCardId": 77,
           "name": "Grounded Security Chief Scrambles",
           "status": "unlimeade",
           "source": "custom",
@@ -20937,6 +21646,7 @@
         },
         {
           "id": 265,
+          "botCardId": 83,
           "name": "Please Remain Seated!",
           "status": "unlimeade",
           "source": "custom",
@@ -20956,6 +21666,7 @@
         },
         {
           "id": 262,
+          "botCardId": 80,
           "name": "Prepare for Departure!",
           "status": "unlimeade",
           "source": "custom",
@@ -20975,6 +21686,7 @@
         },
         {
           "id": 266,
+          "botCardId": 84,
           "name": "Unscheduled Arrival",
           "status": "unlimeade",
           "source": "custom",
@@ -20994,6 +21706,7 @@
         },
         {
           "id": 267,
+          "botCardId": 85,
           "name": "We Apologize for the Inconvenience",
           "status": "unlimeade",
           "source": "custom",
@@ -21013,6 +21726,7 @@
         },
         {
           "id": 263,
+          "botCardId": 81,
           "name": "Your Flight Has Been Delayed",
           "status": "unlimeade",
           "source": "custom",
@@ -21032,6 +21746,7 @@
         },
         {
           "id": 264,
+          "botCardId": 82,
           "name": "Your Luggage Has Departed Without You!",
           "status": "unlimeade",
           "source": "custom",
@@ -21352,6 +22067,7 @@
       "cards": [
         {
           "id": 236,
+          "botCardId": 35,
           "name": "Carcosa",
           "status": "unlimeade",
           "source": "custom",
@@ -21371,6 +22087,7 @@
         },
         {
           "id": 235,
+          "botCardId": 34,
           "name": "Damned King Aldones",
           "status": "unlimeade",
           "source": "custom",
@@ -21394,6 +22111,7 @@
         },
         {
           "id": 229,
+          "botCardId": 28,
           "name": "Ensuing Madness",
           "status": "unlimeade",
           "source": "custom",
@@ -21413,6 +22131,7 @@
         },
         {
           "id": 224,
+          "botCardId": 23,
           "name": "Hastur, the Vermilion Shepherd",
           "status": "limeade",
           "source": "custom",
@@ -21436,6 +22155,7 @@
         },
         {
           "id": 234,
+          "botCardId": 33,
           "name": "Hollow Queen Cassilda",
           "status": "semi-limeade",
           "source": "custom",
@@ -21459,6 +22179,7 @@
         },
         {
           "id": 228,
+          "botCardId": 27,
           "name": "Immemorial Experience",
           "status": "banned",
           "source": "custom",
@@ -21478,6 +22199,7 @@
         },
         {
           "id": 230,
+          "botCardId": 29,
           "name": "Inexplicable Arrival",
           "status": "unlimeade",
           "source": "custom",
@@ -21497,6 +22219,7 @@
         },
         {
           "id": 227,
+          "botCardId": 26,
           "name": "Sudden Intermission",
           "status": "unlimeade",
           "source": "custom",
@@ -21516,6 +22239,7 @@
         },
         {
           "id": 231,
+          "botCardId": 30,
           "name": "The Bearer of the Yellow Sign",
           "status": "unlimeade",
           "source": "custom",
@@ -21539,6 +22263,7 @@
         },
         {
           "id": 225,
+          "botCardId": 24,
           "name": "The King In Yellow",
           "status": "banned",
           "source": "custom",
@@ -21562,6 +22287,7 @@
         },
         {
           "id": 226,
+          "botCardId": 25,
           "name": "The Phantom of Truth",
           "status": "limeade",
           "source": "custom",
@@ -21587,6 +22313,7 @@
         },
         {
           "id": 232,
+          "botCardId": 31,
           "name": "The Stranger in a Pallid Mask",
           "status": "unlimeade",
           "source": "custom",
@@ -21610,6 +22337,7 @@
         },
         {
           "id": 233,
+          "botCardId": 32,
           "name": "Tormented Maiden Camilla",
           "status": "unlimeade",
           "source": "custom",
@@ -21650,6 +22378,7 @@
       "cards": [
         {
           "id": 217,
+          "botCardId": 41,
           "name": "Brawltown Boss Floor",
           "status": "unlimeade",
           "source": "custom",
@@ -21669,6 +22398,7 @@
         },
         {
           "id": 214,
+          "botCardId": 37,
           "name": "Harbor View Pounds",
           "status": "semi-limeade",
           "source": "custom",
@@ -21688,6 +22418,7 @@
         },
         {
           "id": 223,
+          "botCardId": 52,
           "name": "P-Power Resonance",
           "status": "semi-limeade",
           "source": "custom",
@@ -21707,6 +22438,7 @@
         },
         {
           "id": 213,
+          "botCardId": 36,
           "name": "Rapid Reload",
           "status": "unlimeade",
           "source": "custom",
@@ -21726,6 +22458,7 @@
         },
         {
           "id": 222,
+          "botCardId": 48,
           "name": "S-Power Rushdown",
           "status": "semi-limeade",
           "source": "custom",
@@ -21745,6 +22478,7 @@
         },
         {
           "id": 218,
+          "botCardId": 42,
           "name": "Saki, Monk Specialist",
           "status": "semi-limeade",
           "source": "custom",
@@ -21765,6 +22499,7 @@
         },
         {
           "id": 215,
+          "botCardId": 38,
           "name": "Saki, Protective Spirit",
           "status": "semi-limeade",
           "source": "custom",
@@ -21785,6 +22520,7 @@
         },
         {
           "id": 219,
+          "botCardId": 43,
           "name": "Saki, Rush Buckle Smash",
           "status": "unlimeade",
           "source": "custom",
@@ -21805,6 +22541,7 @@
         },
         {
           "id": 221,
+          "botCardId": 46,
           "name": "Saki, Spiritual Keeper",
           "status": "semi-limeade",
           "source": "custom",
@@ -21825,6 +22562,7 @@
         },
         {
           "id": 220,
+          "botCardId": 44,
           "name": "Saki, Vehement Poison Block",
           "status": "unlimeade",
           "source": "custom",
@@ -21845,6 +22583,7 @@
         },
         {
           "id": 216,
+          "botCardId": 40,
           "name": "Uptown Breakdown",
           "status": "limeade",
           "source": "custom",
@@ -21881,6 +22620,7 @@
       "cards": [
         {
           "id": 208,
+          "botCardId": 67,
           "name": "Grand Tiki Elder of the Masked Rite",
           "status": "unlimeade",
           "source": "custom",
@@ -21901,6 +22641,7 @@
         },
         {
           "id": 210,
+          "botCardId": 69,
           "name": "Lumis, Herald of the Masked Rite",
           "status": "semi-limeade",
           "source": "custom",
@@ -21921,6 +22662,7 @@
         },
         {
           "id": 200,
+          "botCardId": 18,
           "name": "Masked Beast Des Gardius, Eclipse Incarnate",
           "status": "unlimeade",
           "source": "custom",
@@ -21941,6 +22683,7 @@
         },
         {
           "id": 206,
+          "botCardId": 64,
           "name": "Masked Rite – Accursed Visage",
           "status": "limeade",
           "source": "custom",
@@ -21960,6 +22703,7 @@
         },
         {
           "id": 205,
+          "botCardId": 63,
           "name": "Masked Rite – Brutal Visage",
           "status": "limeade",
           "source": "custom",
@@ -21979,6 +22723,7 @@
         },
         {
           "id": 204,
+          "botCardId": 22,
           "name": "Masked Rite – Dispelling Visage",
           "status": "limeade",
           "source": "custom",
@@ -21998,6 +22743,7 @@
         },
         {
           "id": 203,
+          "botCardId": 21,
           "name": "Masked Rite – Remnant Visage",
           "status": "limeade",
           "source": "custom",
@@ -22017,6 +22763,7 @@
         },
         {
           "id": 202,
+          "botCardId": 20,
           "name": "Masked Rite – Restricting Visage",
           "status": "limeade",
           "source": "custom",
@@ -22036,6 +22783,7 @@
         },
         {
           "id": 207,
+          "botCardId": 66,
           "name": "Melchid, Four-Faced Beast of the Masked Rite",
           "status": "banned",
           "source": "custom",
@@ -22056,6 +22804,7 @@
         },
         {
           "id": 212,
+          "botCardId": 72,
           "name": "Nuvia the Wicked of the Masked Rite",
           "status": "semi-limeade",
           "source": "custom",
@@ -22076,6 +22825,7 @@
         },
         {
           "id": 201,
+          "botCardId": 19,
           "name": "Signature Sigil of the Masked Rites",
           "status": "unlimeade",
           "source": "custom",
@@ -22095,6 +22845,7 @@
         },
         {
           "id": 211,
+          "botCardId": 70,
           "name": "The Masked Beast, Devourer of Souls",
           "status": "semi-limeade",
           "source": "custom",
@@ -22115,6 +22866,7 @@
         },
         {
           "id": 209,
+          "botCardId": 68,
           "name": "Umbra, Herald of the Masked Rite",
           "status": "semi-limeade",
           "source": "custom",
@@ -22152,6 +22904,7 @@
       "cards": [
         {
           "id": 191,
+          "botCardId": 61,
           "name": "Dragon Warrior Po, Bearer of the Scroll",
           "status": "unlimeade",
           "source": "custom",
@@ -22172,6 +22925,7 @@
         },
         {
           "id": 184,
+          "botCardId": 54,
           "name": "Dragon Warrior Tag Team - Crane & Viper",
           "status": "limeade",
           "source": "custom",
@@ -22192,6 +22946,7 @@
         },
         {
           "id": 185,
+          "botCardId": 55,
           "name": "Dragon Warrior Tag Team - Monkey & Mantis",
           "status": "limeade",
           "source": "custom",
@@ -22212,6 +22967,7 @@
         },
         {
           "id": 186,
+          "botCardId": 56,
           "name": "Dragon Warrior Tag Team - Po & Tigress",
           "status": "semi-limeade",
           "source": "custom",
@@ -22232,6 +22988,7 @@
         },
         {
           "id": 188,
+          "botCardId": 58,
           "name": "Furious Five Dragon - Crane",
           "status": "limeade",
           "source": "custom",
@@ -22252,6 +23009,7 @@
         },
         {
           "id": 190,
+          "botCardId": 60,
           "name": "Furious Five Dragon - Tigress",
           "status": "unlimeade",
           "source": "custom",
@@ -22272,6 +23030,7 @@
         },
         {
           "id": 189,
+          "botCardId": 59,
           "name": "Furious Five Dragon - Viper",
           "status": "limeade",
           "source": "custom",
@@ -22292,6 +23051,7 @@
         },
         {
           "id": 187,
+          "botCardId": 57,
           "name": "Furious Five Dragon Warrior - Mantis",
           "status": "limeade",
           "source": "custom",
@@ -22312,6 +23072,7 @@
         },
         {
           "id": 192,
+          "botCardId": 62,
           "name": "Furious Five Dragon Warrior - Monkey",
           "status": "limeade",
           "source": "custom",
@@ -22332,6 +23093,7 @@
         },
         {
           "id": 180,
+          "botCardId": 49,
           "name": "Master Oogway's Meditation",
           "status": "unlimeade",
           "source": "custom",
@@ -22351,6 +23113,7 @@
         },
         {
           "id": 183,
+          "botCardId": 53,
           "name": "Master Shifu's Training Session",
           "status": "unlimeade",
           "source": "custom",
@@ -22370,6 +23133,7 @@
         },
         {
           "id": 179,
+          "botCardId": 47,
           "name": "Oogway’s Staff of Wisdom",
           "status": "unlimeade",
           "source": "custom",
@@ -22389,6 +23153,7 @@
         },
         {
           "id": 182,
+          "botCardId": 51,
           "name": "The Dragon Scroll",
           "status": "banned",
           "source": "custom",
@@ -22408,6 +23173,7 @@
         },
         {
           "id": 181,
+          "botCardId": 50,
           "name": "The Jade Palace",
           "status": "banned",
           "source": "custom",
@@ -22427,6 +23193,7 @@
         },
         {
           "id": 178,
+          "botCardId": 45,
           "name": "Wuxi Finger Hold",
           "status": "banned",
           "source": "custom",
@@ -22463,6 +23230,7 @@
       "cards": [
         {
           "id": 162,
+          "botCardId": 2,
           "name": "Azure Skybreaker",
           "status": "unlimeade",
           "source": "custom",
@@ -22483,6 +23251,7 @@
         },
         {
           "id": 168,
+          "botCardId": 10,
           "name": "Broken Skies",
           "status": "banned",
           "source": "custom",
@@ -22502,6 +23271,7 @@
         },
         {
           "id": 163,
+          "botCardId": 5,
           "name": "Crimson Skybreaker",
           "status": "unlimeade",
           "source": "custom",
@@ -22522,6 +23292,7 @@
         },
         {
           "id": 164,
+          "botCardId": 6,
           "name": "Gemscale Skybreaker",
           "status": "unlimeade",
           "source": "custom",
@@ -22542,6 +23313,7 @@
         },
         {
           "id": 165,
+          "botCardId": 7,
           "name": "Night-Hue Skybreaker",
           "status": "unlimeade",
           "source": "custom",
@@ -22562,6 +23334,7 @@
         },
         {
           "id": 166,
+          "botCardId": 8,
           "name": "Shimmering Skybreaker",
           "status": "unlimeade",
           "source": "custom",
@@ -22582,6 +23355,7 @@
         },
         {
           "id": 169,
+          "botCardId": 11,
           "name": "Sky-Splitting Soundwave",
           "status": "semi-limeade",
           "source": "custom",
@@ -22601,6 +23375,7 @@
         },
         {
           "id": 167,
+          "botCardId": 9,
           "name": "Skybreaker Adolescent",
           "status": "banned",
           "source": "custom",
@@ -22624,6 +23399,7 @@
         },
         {
           "id": 172,
+          "botCardId": 14,
           "name": "Skybreaker Aeria Rex",
           "status": "semi-limeade",
           "source": "custom",
@@ -22644,6 +23420,7 @@
         },
         {
           "id": 173,
+          "botCardId": 15,
           "name": "Skybreaker Aloft Sovereign",
           "status": "semi-limeade",
           "source": "custom",
@@ -22664,6 +23441,7 @@
         },
         {
           "id": 171,
+          "botCardId": 13,
           "name": "Skybreaker Apex Magna",
           "status": "semi-limeade",
           "source": "custom",
@@ -22684,6 +23462,7 @@
         },
         {
           "id": 174,
+          "botCardId": 16,
           "name": "Skybreaker Atmos Khan",
           "status": "unlimeade",
           "source": "custom",
@@ -22704,6 +23483,7 @@
         },
         {
           "id": 170,
+          "botCardId": 12,
           "name": "Skybreaker Resplendent",
           "status": "limeade",
           "source": "custom",
@@ -22724,6 +23504,7 @@
         },
         {
           "id": 161,
+          "botCardId": 1,
           "name": "Supersonic Dive-Bomb",
           "status": "unlimeade",
           "source": "custom",
@@ -23065,6 +23846,7 @@
         },
         {
           "id": 86,
+          "botCardId": 17,
           "name": "The Spire",
           "status": "semi-limeade",
           "source": "custom",
