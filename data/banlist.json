@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T17:36:48.653Z",
+  "updatedAt": "2026-10-07T17:36:59.911Z",
   "cards": [
     {
       "id": 384,
@@ -26414,7 +26414,7 @@
         "gamesDrawn": 0,
         "archetypeId": 40,
         "archetypeName": "WeyYu",
-        "slacs": 3.025
+        "slacs": 4.15
       },
       {
         "name": "forgoudaboutit",
