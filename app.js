@@ -177,6 +177,7 @@ function statText(card) {
 
 function detailRows(card) {
   const rows = [
+    ["Permanent bot card #", card.botCardId],
     ["Card type", card.cardType],
     ["Spell/Trap type", card.spellTrapType],
     ["Monster type", card.monsterType],
@@ -271,7 +272,7 @@ function renderCards() {
       <h2>${escapeHtml(card.name)}</h2>
       <p class="ban-card__type">${escapeHtml(typeText(card))}</p>
       ${statText(card) ? `<p class="ban-card__stats">${escapeHtml(statText(card))}</p>` : ""}
-      <p class="ban-card__meta">${normalizeSource(card) === "official" ? "Official card" : `Custom card${card.clauses != null ? ` · ${card.clauses} clauses` : ""}`}</p>
+      <p class="ban-card__meta">${normalizeSource(card) === "official" ? "Official card" : `Custom card${card.botCardId ? ` · Bot Card #${escapeHtml(card.botCardId)}` : ""}${card.clauses != null ? ` · ${card.clauses} clauses` : ""}`}</p>
     </div>
   </article>`).join("");
 
@@ -375,4 +376,3 @@ elements.dialog.querySelector(".dialog-close").addEventListener("click", () => e
 elements.dialog.addEventListener("click", event => { if (event.target === elements.dialog) elements.dialog.close(); });
 
 loadData();
-
