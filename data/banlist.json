@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T17:13:42.797Z",
+  "updatedAt": "2026-10-07T17:24:42.787Z",
   "cards": [
     {
       "id": 384,
@@ -25990,7 +25990,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 19,
+      "registeredCardCount": 20,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -26336,6 +26336,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6084009.jpg",
           "addedAt": "2026-10-07 16:49:32",
           "changedAt": "2026-10-07 16:49:32"
+        },
+        {
+          "id": 486,
+          "name": "COMIC! HERO Mudballman",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "WATER",
+          "levelRankLink": "Level 6",
+          "atk": "1900",
+          "def": "3000",
+          "text": "\"COMIC! HERO Bubbleman\" or \"COMIC! HERO Clayman\" + 1 \"COMIC!\" monster\nWhile you control this Fusion Summoned card (Quick Effect): You can activate this effect; immediately after this effect resolves, you can Normal Summon 1 Warrior or Toon monster from your hand or GY in addition to your Normal Summon/Set (you can only gain this benefit once per turn). If this card or another \"HERO\" Fusion Monster is destroyed and sent to your GY: You can return it to the Extra Deck; Special Summon as many of the monsters specifically listed as Fusion Material on that card with different names from your GY as possible. You can only activate each effect of \"COMIC! HERO Mudballman\" once per turn.",
+          "duelingbookId": 6084016,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6084016.jpg",
+          "addedAt": "2026-10-07 17:24:41",
+          "changedAt": "2026-10-07 17:24:41"
         }
       ]
     }
@@ -26369,7 +26388,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 14.139
+        "slacs": 14.164
       },
       {
         "name": "The Original Rough Cheddar",
