@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T17:37:27.266Z",
+  "updatedAt": "2026-10-07T17:37:33.611Z",
   "cards": [
     {
       "id": 384,
@@ -26440,7 +26440,7 @@
         "gamesDrawn": 0,
         "archetypeId": 41,
         "archetypeName": "Deciduous Descendants",
-        "slacs": 1.514
+        "slacs": 1.832
       }
     ],
     "recentMatches": [
