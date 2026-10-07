@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T20:33:44.073Z",
+  "updatedAt": "2026-10-07T20:36:13.890Z",
   "cards": [
     {
       "id": 384,
@@ -27185,8 +27185,8 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 31,
-        "lifetimePoints": 218,
+        "balance": 32,
+        "lifetimePoints": 219,
         "matchWins": 6,
         "matchLosses": 2,
         "gamesWon": 13,
