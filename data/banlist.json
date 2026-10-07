@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T18:23:11.912Z",
+  "updatedAt": "2026-10-07T18:34:12.158Z",
   "cards": [
     {
       "id": 384,
@@ -2137,6 +2137,7 @@
       "text": "Target 1 monster in your opponent's GY; banish it, and if you do, until the end of the next turn, its effects are negated, as well as the activated effects and effects on the field of monsters with the same original name.",
       "contributor": "Edward Swissorhands",
       "passcode": "24224830",
+      "duelingbookId": 9189,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24224830.jpg",
       "officialUrl": "https://ygoprodeck.com/card/called-by-the-grave-9244",
       "addedAt": "2026-07-29 04:48:33",
@@ -2940,6 +2941,7 @@
       "archetype": "Danger!",
       "contributor": "Edward Swissorhands",
       "passcode": "43316238",
+      "duelingbookId": 9550,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/43316238.jpg",
       "officialUrl": "https://ygoprodeck.com/card/danger-bigfoot-9628",
       "addedAt": "2026-07-29 04:23:41",
@@ -3155,6 +3157,7 @@
       "text": "2 Level 12 monsters\r\nOnce per turn, if an Xyz Monster battled this turn, you can also Xyz Summon \"Divine Arsenal AA-ZEUS - Sky Thunder\" by using 1 Xyz Monster you control as material. (Transfer its materials to this card.) (Quick Effect): You can detach 2 materials from this card; send all other cards from the field to the GY. Once per turn, if another card(s) you control is destroyed by battle or an opponent's card effect: You can attach 1 card from your hand, Deck, or Extra Deck to this card as material.",
       "contributor": "Edward Swissorhands",
       "passcode": "90448279",
+      "duelingbookId": 11089,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/90448279.jpg",
       "officialUrl": "https://ygoprodeck.com/card/divine-arsenal-aa-zeus-sky-thunder-11379",
       "addedAt": "2026-07-29 05:07:52",
