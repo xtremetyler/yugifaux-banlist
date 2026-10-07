@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T17:38:24.756Z",
+  "updatedAt": "2026-10-07T17:38:32.674Z",
   "cards": [
     {
       "id": 384,
@@ -26388,7 +26388,7 @@
         "gamesDrawn": 0,
         "archetypeId": 37,
         "archetypeName": "Afterthought",
-        "slacs": 6.905
+        "slacs": 8.011
       },
       {
         "name": "Edward Swissorhands",
@@ -26440,7 +26440,7 @@
         "gamesDrawn": 0,
         "archetypeId": 41,
         "archetypeName": "Deciduous Descendants",
-        "slacs": 1.832
+        "slacs": 2.1
       }
     ],
     "recentMatches": [
