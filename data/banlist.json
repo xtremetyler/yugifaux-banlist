@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-07T03:51:22.262Z",
+  "updatedAt": "2026-10-07T03:51:52.191Z",
   "cards": [
     {
       "id": 384,
@@ -1817,7 +1817,7 @@
     {
       "id": 562,
       "name": "Blue-Eyes White Dragon, Engine of Destruction",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Dragon",
@@ -1831,7 +1831,7 @@
       "duelingbookId": 6063430,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6063430.jpg",
       "addedAt": "2026-09-24 05:21:33",
-      "changedAt": "2026-09-24 05:21:33"
+      "changedAt": "2026-10-07 03:51:41"
     },
     {
       "id": 334,
@@ -3383,7 +3383,7 @@
     {
       "id": 579,
       "name": "Dusty Guidebook to Unlikely Scenarios",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -3396,7 +3396,7 @@
       "duelingbookId": 6066395,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6066395.jpg",
       "addedAt": "2026-09-25 19:31:22",
-      "changedAt": "2026-09-25 19:31:22"
+      "changedAt": "2026-10-07 03:51:41"
     },
     {
       "id": 556,
@@ -12546,7 +12546,7 @@
     {
       "id": 657,
       "name": "Traptantalizing Tune",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -12558,7 +12558,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/48805472.jpg",
       "officialUrl": "https://ygoprodeck.com/card/traptantalizing-tune-13595",
       "addedAt": "2026-10-03 02:55:35",
-      "changedAt": "2026-10-03 02:55:35"
+      "changedAt": "2026-10-07 03:51:41"
     },
     {
       "id": 511,
@@ -26326,7 +26326,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 21,
+        "balance": 11,
         "lifetimePoints": 462,
         "matchWins": 37,
         "matchLosses": 23,
@@ -26338,8 +26338,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 30,
-        "lifetimePoints": 361,
+        "balance": 35,
+        "lifetimePoints": 366,
         "matchWins": 21,
         "matchLosses": 29,
         "gamesWon": 68,
