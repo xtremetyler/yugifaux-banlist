@@ -1,7 +1,7 @@
 const STATUS={banned:{label:"Banned",copies:0},limeade:{label:"Limeade",copies:1},"semi-limeade":{label:"Semi-Limeade",copies:2},unlimeade:{label:"Un-Limeade",copies:3}};
 const SEASON_TWO_START_UTC=Date.parse("2026-09-21T05:00:00Z");
 const PACK_POOLS={
-  advent:{label:"Advent of Falsehood",image:"assets/advent-of-falsehood-pack.png",alt:"Advent of Falsehood Draft Booster"},
+  advent:{label:"Advent of Falsehood",image:"assets/advent-of-falsehood-pack.png?v=2",alt:"Advent of Falsehood Draft Booster"},
   full:{label:"Full Pool",image:"assets/draft-pack.jpg?v=2",alt:"YugiFaux Full Pool Draft Booster"},
 };
 const PACK_KEY="yugifaux-draft-pack-pool-v1";
