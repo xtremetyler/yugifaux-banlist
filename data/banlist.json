@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T19:18:06.937Z",
+  "updatedAt": "2026-10-07T19:18:37.069Z",
   "cards": [
     {
       "id": 384,
@@ -1708,7 +1708,7 @@
       "id": 703,
       "botCardId": 422,
       "name": "Beware the Boiler Room on the Street of Elms",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -1722,7 +1722,7 @@
       "duelingbookId": 6083004,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083004.jpg",
       "addedAt": "2026-10-06 18:11:21",
-      "changedAt": "2026-10-06 18:11:21"
+      "changedAt": "2026-10-07 19:18:18"
     },
     {
       "id": 55,
@@ -6352,7 +6352,7 @@
       "id": 698,
       "botCardId": 417,
       "name": "Iconic Kill of F.K. - Glen Lantz",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -6370,13 +6370,13 @@
       "duelingbookId": 6082999,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082999.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:18:07"
     },
     {
       "id": 700,
       "botCardId": 419,
       "name": "Iconic Kill of F.K. - Jennifer Caulfield",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Pyro",
@@ -6394,13 +6394,13 @@
       "duelingbookId": 6083001,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083001.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:18:11"
     },
     {
       "id": 699,
       "botCardId": 418,
       "name": "Iconic Kill of F.K. - Kerry Hellman",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Thunder",
@@ -6415,13 +6415,13 @@
       "duelingbookId": 6083000,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083000.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:18:08"
     },
     {
       "id": 701,
       "botCardId": 420,
       "name": "Iconic Kill of F.K. - Nancy Thompson",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -6436,7 +6436,7 @@
       "duelingbookId": 6083002,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083002.jpg",
       "addedAt": "2026-10-06 18:11:20",
-      "changedAt": "2026-10-06 18:11:20"
+      "changedAt": "2026-10-07 19:18:12"
     },
     {
       "id": 89,
@@ -8815,7 +8815,7 @@
       "id": 702,
       "botCardId": 421,
       "name": "Oneiropotence",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -8829,7 +8829,7 @@
       "duelingbookId": 6083003,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083003.jpg",
       "addedAt": "2026-10-06 18:11:21",
-      "changedAt": "2026-10-06 18:11:21"
+      "changedAt": "2026-10-07 19:18:15"
     },
     {
       "id": 179,
@@ -14539,7 +14539,7 @@
           "id": 703,
           "botCardId": 422,
           "name": "Beware the Boiler Room on the Street of Elms",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -14553,7 +14553,7 @@
           "duelingbookId": 6083004,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083004.jpg",
           "addedAt": "2026-10-06 18:11:21",
-          "changedAt": "2026-10-06 18:11:21"
+          "changedAt": "2026-10-07 19:18:18"
         },
         {
           "id": 697,
@@ -14627,7 +14627,7 @@
           "id": 698,
           "botCardId": 417,
           "name": "Iconic Kill of F.K. - Glen Lantz",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Fairy",
@@ -14645,13 +14645,13 @@
           "duelingbookId": 6082999,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082999.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:18:07"
         },
         {
           "id": 700,
           "botCardId": 419,
           "name": "Iconic Kill of F.K. - Jennifer Caulfield",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Pyro",
@@ -14669,13 +14669,13 @@
           "duelingbookId": 6083001,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083001.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:18:11"
         },
         {
           "id": 699,
           "botCardId": 418,
           "name": "Iconic Kill of F.K. - Kerry Hellman",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Thunder",
@@ -14690,13 +14690,13 @@
           "duelingbookId": 6083000,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083000.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:18:08"
         },
         {
           "id": 701,
           "botCardId": 420,
           "name": "Iconic Kill of F.K. - Nancy Thompson",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -14711,13 +14711,13 @@
           "duelingbookId": 6083002,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083002.jpg",
           "addedAt": "2026-10-06 18:11:20",
-          "changedAt": "2026-10-06 18:11:20"
+          "changedAt": "2026-10-07 19:18:12"
         },
         {
           "id": 702,
           "botCardId": 421,
           "name": "Oneiropotence",
-          "status": "voting",
+          "status": "banned",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Continuous",
@@ -14731,7 +14731,7 @@
           "duelingbookId": 6083003,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083003.jpg",
           "addedAt": "2026-10-06 18:11:21",
-          "changedAt": "2026-10-06 18:11:21"
+          "changedAt": "2026-10-07 19:18:15"
         },
         {
           "id": 695,
