@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updatedAt": "2026-10-07T03:29:52.151Z",
+  "updatedAt": "2026-10-07T03:30:22.126Z",
   "cards": [
     {
       "id": 384,
@@ -12151,6 +12151,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5999257.jpg",
       "addedAt": "2026-08-17 14:37:22",
       "changedAt": "2026-09-11 23:29:02"
+    },
+    {
+      "id": 704,
+      "name": "The Phantom Knights of Tomb Shield",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Trap Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Special Summon this card in Attack Position as a Normal Monster (Warrior/DARK/Level 3/ATK 0/DEF 0). (This card is NOT treated as a Trap.) During your turn, except the turn this card was sent to the GY: You can banish this card from your GY, then target 1 face-up Trap your opponent controls; negate its effects until the end of this turn.",
+      "archetype": "Phantom Knights",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "51606429",
+      "duelingbookId": 7837,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/51606429.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/the-phantom-knights-of-tomb-shield-4392",
+      "addedAt": "2026-10-07 03:29:56",
+      "changedAt": "2026-10-07 03:29:56"
     },
     {
       "id": 226,
