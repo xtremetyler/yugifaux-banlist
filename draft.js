@@ -1,4 +1,10 @@
 const STATUS={banned:{label:"Banned",copies:0},limeade:{label:"Limeade",copies:1},"semi-limeade":{label:"Semi-Limeade",copies:2},unlimeade:{label:"Un-Limeade",copies:3}};
+const SEASON_TWO_START_UTC=Date.parse("2026-09-21T05:00:00Z");
+const PACK_POOLS={
+  advent:{label:"Advent of Falsehood",image:"assets/advent-of-falsehood-pack.png",alt:"Advent of Falsehood Draft Booster"},
+  full:{label:"Full Pool",image:"assets/draft-pack.jpg?v=2",alt:"YugiFaux Full Pool Draft Booster"},
+};
+const PACK_KEY="yugifaux-draft-pack-pool-v1";
 const RIP_KEY="yugifaux-draft-night-collection-v1";
 const DRAFT_KEY="yugifaux-pick-two-draft-v1";
 const DRAFT_PENDING_KEY="yugifaux-pick-two-pending-v1";
@@ -7,14 +13,20 @@ const ZONE_KEYS={rips:"yugifaux-draft-zones-rips-v1",draft:"yugifaux-draft-zones
 const ORDER_KEYS={rips:"yugifaux-draft-order-rips-v1",draft:"yugifaux-draft-order-pick-two-v1"};
 const ZONE_LIMITS={main:60,side:15,extra:15};
 const emptyZoneOrder=()=>({main:[],side:[],extra:[]});
-const state={cards:[],mode:"rips",ripPacks:[],draftRounds:[],pendingPack:null,selectedIds:new Set(),zoneAssignments:{rips:{},draft:{}},zoneOrder:{rips:emptyZoneOrder(),draft:emptyZoneOrder()},draggedInstanceId:null,busy:false,ready:false};
+const state={eligibleCards:[],cards:[],packPool:"advent",mode:"rips",ripPacks:[],draftRounds:[],pendingPack:null,selectedIds:new Set(),zoneAssignments:{rips:{},draft:{}},zoneOrder:{rips:emptyZoneOrder(),draft:emptyZoneOrder()},draggedInstanceId:null,busy:false,ready:false};
 const elements={
-  modes:[...document.querySelectorAll("[data-draft-mode]")],open:document.querySelector("#open-pack"),confirm:document.querySelector("#confirm-picks"),export:document.querySelector("#export-draft"),reset:document.querySelector("#reset-draft"),stage:document.querySelector("#pack-stage"),picks:document.querySelector("#draft-picks"),poolStatus:document.querySelector("#draft-pool-status"),packCount:document.querySelector("#pack-count"),pullTotal:document.querySelector("#pull-total"),message:document.querySelector("#draft-message"),error:document.querySelector("#draft-error"),dialog:document.querySelector("#draft-card-dialog"),dialogContent:document.querySelector("#draft-dialog-content"),stationKicker:document.querySelector("#station-kicker"),stationTitle:document.querySelector("#pack-station-title"),stationDescription:document.querySelector("#pack-station-description"),collectionKicker:document.querySelector("#collection-kicker"),collectionTitle:document.querySelector("#collection-title"),mainCount:document.querySelector("#main-count"),sideCount:document.querySelector("#side-count"),extraCount:document.querySelector("#extra-count"),mainProgress:document.querySelector("#main-progress"),sideProgress:document.querySelector("#side-progress"),extraProgress:document.querySelector("#extra-progress"),
+  packs:[...document.querySelectorAll("[data-pack-pool]")],modes:[...document.querySelectorAll("[data-draft-mode]")],open:document.querySelector("#open-pack"),confirm:document.querySelector("#confirm-picks"),export:document.querySelector("#export-draft"),reset:document.querySelector("#reset-draft"),stage:document.querySelector("#pack-stage"),picks:document.querySelector("#draft-picks"),poolStatus:document.querySelector("#draft-pool-status"),packCount:document.querySelector("#pack-count"),pullTotal:document.querySelector("#pull-total"),message:document.querySelector("#draft-message"),error:document.querySelector("#draft-error"),dialog:document.querySelector("#draft-card-dialog"),dialogContent:document.querySelector("#draft-dialog-content"),stationKicker:document.querySelector("#station-kicker"),stationTitle:document.querySelector("#pack-station-title"),stationDescription:document.querySelector("#pack-station-description"),collectionKicker:document.querySelector("#collection-kicker"),collectionTitle:document.querySelector("#collection-title"),mainCount:document.querySelector("#main-count"),sideCount:document.querySelector("#side-count"),extraCount:document.querySelector("#extra-count"),mainProgress:document.querySelector("#main-progress"),sideProgress:document.querySelector("#side-progress"),extraProgress:document.querySelector("#extra-progress"),
 };
 
 const escapeHtml=(value="")=>String(value).replace(/[&<>'"]/g,character=>({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#039;",'"':"&quot;"})[character]);
 
 function randomFraction(){const value=new Uint32Array(1);crypto.getRandomValues(value);return value[0]/0x100000000;}
+function databaseTime(value){const timestamp=String(value||"").trim();return Date.parse(/[zZ]$|[+-]\d\d:\d\d$/.test(timestamp)?timestamp:`${timestamp.replace(" ","T")}Z`);}
+function cardInPack(card,pool=state.packPool){return pool==="full"||databaseTime(card.addedAt)<SEASON_TWO_START_UTC;}
+function storageKey(base){return state.packPool==="full"?base:`${base}-${state.packPool}`;}
+function currentPack(){return PACK_POOLS[state.packPool];}
+function applyPackCards(){state.cards=state.eligibleCards.filter(card=>cardInPack(card)&&isExportable(card));}
+function updatePoolStatus(){const eligible=state.eligibleCards.filter(card=>cardInPack(card));const unavailable=eligible.length-state.cards.length;elements.poolStatus.textContent=`${currentPack().label}: ${state.cards.length} export-ready cards${unavailable?` · ${unavailable} awaiting IDs`:""}`;}
 function archetypeKey(card){return String(card.archetype||"").trim().toLocaleLowerCase();}
 function collectionCards(){return(state.mode==="draft"?state.draftRounds:state.ripPacks).flat();}
 function collectionInstances(){
@@ -201,25 +213,26 @@ function moveOrSwap(instanceId,targetZone,targetInstanceId){
 }
 
 function saveCollections(){
-  localStorage.setItem(RIP_KEY,JSON.stringify(state.ripPacks.map(pack=>pack.map(card=>card.id))));
-  localStorage.setItem(DRAFT_KEY,JSON.stringify(state.draftRounds.map(round=>round.map(card=>card.id))));
-  if(state.pendingPack)localStorage.setItem(DRAFT_PENDING_KEY,JSON.stringify({pack:state.pendingPack.map(card=>card.id),selected:[...state.selectedIds]}));
-  else localStorage.removeItem(DRAFT_PENDING_KEY);
+  localStorage.setItem(storageKey(RIP_KEY),JSON.stringify(state.ripPacks.map(pack=>pack.map(card=>card.id))));
+  localStorage.setItem(storageKey(DRAFT_KEY),JSON.stringify(state.draftRounds.map(round=>round.map(card=>card.id))));
+  if(state.pendingPack)localStorage.setItem(storageKey(DRAFT_PENDING_KEY),JSON.stringify({pack:state.pendingPack.map(card=>card.id),selected:[...state.selectedIds]}));
+  else localStorage.removeItem(storageKey(DRAFT_PENDING_KEY));
+  localStorage.setItem(PACK_KEY,state.packPool);
   localStorage.setItem(MODE_KEY,state.mode);
-  localStorage.setItem(ZONE_KEYS.rips,JSON.stringify(state.zoneAssignments.rips));
-  localStorage.setItem(ZONE_KEYS.draft,JSON.stringify(state.zoneAssignments.draft));
-  localStorage.setItem(ORDER_KEYS.rips,JSON.stringify(state.zoneOrder.rips));
-  localStorage.setItem(ORDER_KEYS.draft,JSON.stringify(state.zoneOrder.draft));
+  localStorage.setItem(storageKey(ZONE_KEYS.rips),JSON.stringify(state.zoneAssignments.rips));
+  localStorage.setItem(storageKey(ZONE_KEYS.draft),JSON.stringify(state.zoneAssignments.draft));
+  localStorage.setItem(storageKey(ORDER_KEYS.rips),JSON.stringify(state.zoneOrder.rips));
+  localStorage.setItem(storageKey(ORDER_KEYS.draft),JSON.stringify(state.zoneOrder.draft));
 }
 function restoreCardGroups(key){
   try{const saved=JSON.parse(localStorage.getItem(key)||"[]");if(!Array.isArray(saved))return[];return saved.map(group=>Array.isArray(group)?group.map(cardById).filter(Boolean):[]).filter(group=>group.length);}catch{return[];}
 }
 function restoreCollections(){
-  state.ripPacks=restoreCardGroups(RIP_KEY);state.draftRounds=restoreCardGroups(DRAFT_KEY);state.mode=localStorage.getItem(MODE_KEY)==="draft"?"draft":"rips";
-  for(const mode of ["rips","draft"]){try{const saved=JSON.parse(localStorage.getItem(ZONE_KEYS[mode])||"{}");state.zoneAssignments[mode]=saved&&typeof saved==="object"&&!Array.isArray(saved)?saved:{};}catch{state.zoneAssignments[mode]={};}}
-  for(const mode of ["rips","draft"]){try{const saved=JSON.parse(localStorage.getItem(ORDER_KEYS[mode])||"{}");state.zoneOrder[mode]={main:Array.isArray(saved.main)?saved.main:[],side:Array.isArray(saved.side)?saved.side:[],extra:Array.isArray(saved.extra)?saved.extra:[]};}catch{state.zoneOrder[mode]=emptyZoneOrder();}}
+  state.ripPacks=restoreCardGroups(storageKey(RIP_KEY));state.draftRounds=restoreCardGroups(storageKey(DRAFT_KEY));state.mode=localStorage.getItem(MODE_KEY)==="draft"?"draft":"rips";state.pendingPack=null;state.selectedIds.clear();
+  for(const mode of ["rips","draft"]){try{const saved=JSON.parse(localStorage.getItem(storageKey(ZONE_KEYS[mode]))||"{}");state.zoneAssignments[mode]=saved&&typeof saved==="object"&&!Array.isArray(saved)?saved:{};}catch{state.zoneAssignments[mode]={};}}
+  for(const mode of ["rips","draft"]){try{const saved=JSON.parse(localStorage.getItem(storageKey(ORDER_KEYS[mode]))||"{}");state.zoneOrder[mode]={main:Array.isArray(saved.main)?saved.main:[],side:Array.isArray(saved.side)?saved.side:[],extra:Array.isArray(saved.extra)?saved.extra:[]};}catch{state.zoneOrder[mode]=emptyZoneOrder();}}
   try{
-    const pending=JSON.parse(localStorage.getItem(DRAFT_PENDING_KEY)||"null");
+    const pending=JSON.parse(localStorage.getItem(storageKey(DRAFT_PENDING_KEY))||"null");
     if(Array.isArray(pending?.pack)&&pending.pack.length===5){
       const restored=pending.pack.map(cardById).filter(Boolean);
       if(restored.length===5){state.pendingPack=restored;state.selectedIds=new Set((Array.isArray(pending.selected)?pending.selected:[]).map(String).filter(id=>restored.some(card=>String(card.id)===id)).slice(0,2));}
@@ -253,8 +266,9 @@ function renderCollection(){
 
 function emptyStage(){
   const draftMode=state.mode==="draft";
+  const pack=currentPack();
   elements.stage.classList.remove("is-open","is-ripping","is-choosing","is-confirmed");
-  elements.stage.innerHTML=`<div class="pack-empty"><img src="assets/draft-pack.jpg?v=2" alt="YugiFaux Draft Night booster pack" /><h2>${draftMode?"Your next draft round is waiting":"Your next pack is waiting"}</h2><p>${draftMode?"Open five cards, then select exactly two to keep.":"Select “Rip a pack” to reveal five cards."}</p></div>`;
+  elements.stage.innerHTML=`<div class="pack-empty"><img src="${escapeHtml(pack.image)}" alt="${escapeHtml(pack.alt)}" /><h2>${draftMode?"Your next draft round is waiting":"Your next pack is waiting"}</h2><p>${draftMode?"Open five cards, then select exactly two to keep.":"Select “Rip a pack” to reveal five cards."}</p></div>`;
   installImageFallbacks(elements.stage);
 }
 function renderPendingPack(animate=false){
@@ -273,10 +287,12 @@ function updateButtons(){
   elements.confirm.disabled=state.busy||state.selectedIds.size!==2;
   elements.export.disabled=!state.ready||zoneSize(activeZones())===0;
   elements.modes.forEach(button=>{button.disabled=state.busy;});
+  elements.packs.forEach(button=>{button.disabled=state.busy;});
 }
 
 function applyMode(){
   const draftMode=state.mode==="draft";
+  elements.packs.forEach(button=>button.setAttribute("aria-pressed",String(button.dataset.packPool===state.packPool)));
   elements.modes.forEach(button=>button.setAttribute("aria-pressed",String(button.dataset.draftMode===state.mode)));
   elements.stationKicker.textContent=draftMode?"Draft table":"Pack station";
   elements.stationTitle.textContent=draftMode?"Open five. Keep two.":"Five cards. One rip.";
@@ -292,10 +308,15 @@ function applyMode(){
   renderCollection();updateButtons();saveCollections();
 }
 function selectMode(mode){if(state.busy||!["rips","draft"].includes(mode)||mode===state.mode)return;state.mode=mode;applyMode();}
+function selectPackPool(pool){
+  if(state.busy||!PACK_POOLS[pool]||pool===state.packPool)return;
+  saveCollections();state.packPool=pool;localStorage.setItem(PACK_KEY,pool);applyPackCards();restoreCollections();updatePoolStatus();applyMode();
+}
 
 function showRipAnimation(roundNumber){
+  const pack=currentPack();
   elements.stage.classList.remove("is-open","is-ripping","is-choosing","is-confirmed");
-  elements.stage.innerHTML=`<div class="pack-rip" aria-label="Opening YugiFaux Draft Night booster pack"><div class="pack-rip__glow"></div><img class="pack-rip__whole" src="assets/draft-pack.jpg?v=2" alt="" /><div class="pack-rip__half pack-rip__half--top"><img src="assets/draft-pack.jpg?v=2" alt="" /></div><div class="pack-rip__half pack-rip__half--bottom"><img src="assets/draft-pack.jpg?v=2" alt="" /></div><span class="pack-rip__tear" aria-hidden="true"></span></div>`;
+  elements.stage.innerHTML=`<div class="pack-rip" aria-label="Opening ${escapeHtml(pack.label)} booster pack"><div class="pack-rip__glow"></div><img class="pack-rip__whole" src="${escapeHtml(pack.image)}" alt="" /><div class="pack-rip__half pack-rip__half--top"><img src="${escapeHtml(pack.image)}" alt="" /></div><div class="pack-rip__half pack-rip__half--bottom"><img src="${escapeHtml(pack.image)}" alt="" /></div><span class="pack-rip__tear" aria-hidden="true"></span></div>`;
   void elements.stage.offsetWidth;elements.stage.classList.add("is-ripping");
   elements.message.textContent=state.mode==="draft"?`Opening draft round ${roundNumber}…`:`Ripping pack ${roundNumber}…`;
 }
@@ -347,7 +368,7 @@ function resetDraft(){
   const hasProgress=state.mode==="draft"?state.draftRounds.length||state.pendingPack:state.ripPacks.length;
   const label=state.mode==="draft"?"every kept card and the current unconfirmed round":"every pack opened";
   if(hasProgress&&!window.confirm(`Clear ${label} in this browser?`))return;
-  if(state.mode==="draft"){state.draftRounds=[];state.pendingPack=null;state.selectedIds.clear();state.zoneAssignments.draft={};state.zoneOrder.draft=emptyZoneOrder();localStorage.removeItem(DRAFT_KEY);localStorage.removeItem(DRAFT_PENDING_KEY);localStorage.removeItem(ZONE_KEYS.draft);localStorage.removeItem(ORDER_KEYS.draft);}else{state.ripPacks=[];state.zoneAssignments.rips={};state.zoneOrder.rips=emptyZoneOrder();localStorage.removeItem(RIP_KEY);localStorage.removeItem(ZONE_KEYS.rips);localStorage.removeItem(ORDER_KEYS.rips);}
+  if(state.mode==="draft"){state.draftRounds=[];state.pendingPack=null;state.selectedIds.clear();state.zoneAssignments.draft={};state.zoneOrder.draft=emptyZoneOrder();localStorage.removeItem(storageKey(DRAFT_KEY));localStorage.removeItem(storageKey(DRAFT_PENDING_KEY));localStorage.removeItem(storageKey(ZONE_KEYS.draft));localStorage.removeItem(storageKey(ORDER_KEYS.draft));}else{state.ripPacks=[];state.zoneAssignments.rips={};state.zoneOrder.rips=emptyZoneOrder();localStorage.removeItem(storageKey(RIP_KEY));localStorage.removeItem(storageKey(ZONE_KEYS.rips));localStorage.removeItem(storageKey(ORDER_KEYS.rips));}
   emptyStage();elements.message.textContent=state.mode==="draft"?"Draft picks reset. Your next round is ready.":"Pack pulls reset. Your next pack is ready.";renderCollection();updateButtons();
 }
 
@@ -378,12 +399,12 @@ function showCard(card){
 }
 
 async function loadDraftPool(){
-  try{const response=await fetch(`data/banlist.json?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(`HTTP ${response.status}`);const payload=await response.json();const eligible=(Array.isArray(payload.cards)?payload.cards:[]).filter(card=>STATUS[card.status]);state.cards=eligible.filter(isExportable);if(state.cards.length<5)throw new Error("The export-ready draft pool contains fewer than five cards.");restoreCollections();state.ready=true;const unavailable=eligible.length-state.cards.length;elements.poolStatus.textContent=`${state.cards.length} export-ready cards in the draft pool${unavailable?` · ${unavailable} awaiting IDs`:""}`;applyMode();}
+  try{const response=await fetch(`data/banlist.json?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(`HTTP ${response.status}`);const payload=await response.json();state.eligibleCards=(Array.isArray(payload.cards)?payload.cards:[]).filter(card=>STATUS[card.status]);const savedPool=localStorage.getItem(PACK_KEY);state.packPool=PACK_POOLS[savedPool]?savedPool:"advent";applyPackCards();if(state.cards.length<5)throw new Error("The selected export-ready draft pool contains fewer than five cards.");restoreCollections();state.ready=true;updatePoolStatus();applyMode();}
   catch(error){console.error("Could not load Draft Night",error);elements.error.hidden=false;elements.poolStatus.textContent="Draft pool unavailable";elements.stage.hidden=true;}
 }
 
+elements.packs.forEach(button=>button.addEventListener("click",()=>selectPackPool(button.dataset.packPool)));
 elements.modes.forEach(button=>button.addEventListener("click",()=>selectMode(button.dataset.draftMode)));
 elements.open.addEventListener("click",openPack);elements.confirm.addEventListener("click",confirmDraftPicks);elements.export.addEventListener("click",exportDraftXml);elements.reset.addEventListener("click",resetDraft);
 elements.dialog.querySelector(".dialog-close").addEventListener("click",()=>elements.dialog.close());elements.dialog.addEventListener("click",event=>{if(event.target===elements.dialog)elements.dialog.close();});
 loadDraftPool();
-

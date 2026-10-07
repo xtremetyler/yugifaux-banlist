@@ -15,7 +15,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css" />
-    <link rel="stylesheet" href="draft-styles.css" />
+    <link rel="stylesheet" href="draft-styles.css?v=3" />
   </head>
   <body class="draft-page">
     <header class="hero draft-hero">
@@ -37,7 +37,7 @@
           <span class="hero__logo" aria-hidden="true"></span>
           <h1>Draft Night</h1>
         </div>
-        <p class="hero__intro">Rip five-card packs from the current legal shared-card pool and build your picks for the night.</p>
+        <p class="hero__intro">Choose a card era, rip five-card packs, and build your picks for the night.</p>
         <div class="hero__meta">
           <span id="draft-pool-status">Loading draft pool…</span>
           <span class="hero__dot" aria-hidden="true"></span>
@@ -47,6 +47,23 @@
     </header>
 
     <main class="shell draft-main">
+      <section class="draft-pack-picker" aria-labelledby="draft-pack-title">
+        <div class="draft-pack-picker__heading">
+          <p class="draft-kicker">Choose your card pool</p>
+          <h2 id="draft-pack-title">Draft booster packs</h2>
+        </div>
+        <div class="draft-pack-options" role="group" aria-label="Draft booster pack">
+          <button type="button" data-pack-pool="advent" aria-pressed="true">
+            <img src="assets/advent-of-falsehood-pack.png" alt="Advent of Falsehood Draft Booster" />
+            <span><strong>Advent of Falsehood</strong><small>Season 1 pool · cards available before September 21, 2026</small></span>
+          </button>
+          <button type="button" data-pack-pool="full" aria-pressed="false">
+            <img src="assets/draft-pack.jpg?v=2" alt="YugiFaux Full Pool Draft Booster" />
+            <span><strong>Full Pool</strong><small>Every current export-ready card</small></span>
+          </button>
+        </div>
+      </section>
+
       <section class="draft-mode-picker" aria-labelledby="draft-mode-title">
         <div>
           <p class="draft-kicker">Choose how you play</p>
@@ -87,7 +104,7 @@
       <p id="draft-message" class="draft-message" role="status" aria-live="polite"></p>
       <section id="pack-stage" class="pack-stage" aria-label="Most recently opened pack">
         <div class="pack-empty">
-          <img src="assets/draft-pack.jpg?v=2" alt="YugiFaux Draft Night booster pack" />
+          <img src="assets/advent-of-falsehood-pack.png" alt="Advent of Falsehood Draft Booster" />
           <h2>Your next pack is waiting</h2>
           <p>Select “Rip a pack” to reveal five cards.</p>
         </div>
@@ -124,7 +141,6 @@
         <span>Your draft collection is saved in this browser</span>
       </div>
     </footer>
-    <script src="draft.js" defer></script>
+    <script src="draft.js?v=3" defer></script>
   </body>
 </html>
-
