@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T17:36:30.713Z",
+  "updatedAt": "2026-10-07T17:36:48.653Z",
   "cards": [
     {
       "id": 384,
@@ -26375,7 +26375,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 8.084
+        "slacs": 9.029
       },
       {
         "name": "The Original Rough Cheddar",
