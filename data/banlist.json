@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T17:37:33.611Z",
+  "updatedAt": "2026-10-07T17:37:53.009Z",
   "cards": [
     {
       "id": 384,
@@ -26388,7 +26388,7 @@
         "gamesDrawn": 0,
         "archetypeId": 37,
         "archetypeName": "Afterthought",
-        "slacs": 5.781
+        "slacs": 6.905
       },
       {
         "name": "Edward Swissorhands",
