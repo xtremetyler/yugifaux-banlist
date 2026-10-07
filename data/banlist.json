@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-07T18:34:12.158Z",
+  "updatedAt": "2026-10-07T18:34:41.957Z",
   "cards": [
     {
       "id": 384,
@@ -4187,6 +4187,7 @@
       "text": "Reveal 1 Fusion Monster in your Extra Deck and Special Summon, from your hand or Deck, 1 of the Fusion Materials whose name is specifically listed on that card, also you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters, the turn you activate this card. You can only activate 1 \"Fusion Deployment\" per turn.",
       "contributor": "Edward Swissorhands",
       "passcode": "06498706",
+      "duelingbookId": 10631,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/6498706.jpg",
       "officialUrl": "https://ygoprodeck.com/card/fusion-deployment-10818",
       "addedAt": "2026-08-10 16:30:00",
@@ -4315,6 +4316,7 @@
       "archetype": "Genex",
       "contributor": "Left Parm of the Forbitten One",
       "passcode": "64034255",
+      "duelingbookId": 1805,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/64034255.jpg",
       "officialUrl": "https://ygoprodeck.com/card/genex-ally-birdman-5403",
       "addedAt": "2026-09-02 17:14:45",
@@ -4334,6 +4336,7 @@
       "text": "When a monster on the field activates its effect, or when a Spell/Trap that is already face-up on the field activates its effect (Quick Effect): You can send this card from your hand or field to the GY; destroy that card on the field. You can only use this effect of \"Ghost Ogre & Snow Rabbit\" once per turn.",
       "contributor": "Edward Swissorhands",
       "passcode": "59438930",
+      "duelingbookId": 7175,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/59438930.jpg",
       "officialUrl": "https://ygoprodeck.com/card/ghost-ogre-snow-rabbit-5052",
       "addedAt": "2026-07-29 04:27:09",
@@ -9177,6 +9180,7 @@
       "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.",
       "contributor": "Edward Swissorhands",
       "passcode": "24094653",
+      "duelingbookId": 3336,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24094653.jpg",
       "officialUrl": "https://ygoprodeck.com/card/polymerization-2077",
       "addedAt": "2026-07-29 04:47:26",
@@ -9250,6 +9254,7 @@
       "text": "Add 1 Ritual Spell from your Deck to your hand, and add 1 Ritual Monster from your Deck or GY to your hand whose name is listed on that Ritual Spell. You can only activate 1 \"Pre-Preparation of Rites\" per turn.",
       "contributor": "Edward Swissorhands",
       "passcode": "13048472",
+      "duelingbookId": 7917,
       "imageUrl": "https://images.ygoprodeck.com/images/cards/13048472.jpg",
       "officialUrl": "https://ygoprodeck.com/card/pre-preparation-of-rites-1126",
       "addedAt": "2026-07-29 04:37:29",
