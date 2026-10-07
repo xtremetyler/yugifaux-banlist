@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-10-07T16:52:12.507Z",
+  "version": 4,
+  "updatedAt": "2026-10-07T17:01:13.453Z",
   "cards": [
     {
       "id": 384,
@@ -26341,6 +26341,8 @@
     }
   ],
   "dashboard": {
+    "seasonName": "Season 1",
+    "seasonStart": "2026-06-01",
     "confirmedMatchCount": 84,
     "standings": [
       {
@@ -26349,11 +26351,12 @@
         "lifetimePoints": 475,
         "matchWins": 37,
         "matchLosses": 23,
-        "gamesWon": 127,
-        "gamesLost": 79,
+        "gamesWon": 86,
+        "gamesLost": 62,
         "gamesDrawn": 0,
         "archetypeId": 42,
-        "archetypeName": "Mosaic Refrain"
+        "archetypeName": "Mosaic Refrain",
+        "slacs": 23.297
       },
       {
         "name": "Edward Swissorhands",
@@ -26361,11 +26364,12 @@
         "lifetimePoints": 366,
         "matchWins": 21,
         "matchLosses": 29,
-        "gamesWon": 68,
-        "gamesLost": 102,
+        "gamesWon": 54,
+        "gamesLost": 67,
         "gamesDrawn": 0,
         "archetypeId": 43,
-        "archetypeName": "COMIC!"
+        "archetypeName": "COMIC!",
+        "slacs": 14.139
       },
       {
         "name": "The Original Rough Cheddar",
@@ -26377,19 +26381,8 @@
         "gamesLost": 43,
         "gamesDrawn": 0,
         "archetypeId": 37,
-        "archetypeName": "Afterthought"
-      },
-      {
-        "name": "Joules Tune Brie 2 Blue",
-        "balance": 39,
-        "lifetimePoints": 93,
-        "matchWins": 1,
-        "matchLosses": 4,
-        "gamesWon": 3,
-        "gamesLost": 9,
-        "gamesDrawn": 0,
-        "archetypeId": 41,
-        "archetypeName": "Deciduous Descendants"
+        "archetypeName": "Afterthought",
+        "slacs": 13.42
       },
       {
         "name": "Brielieve In Cheesus",
@@ -26401,7 +26394,21 @@
         "gamesLost": 17,
         "gamesDrawn": 0,
         "archetypeId": 40,
-        "archetypeName": "WeyYu"
+        "archetypeName": "WeyYu",
+        "slacs": 5.925
+      },
+      {
+        "name": "Joules Tune Brie 2 Blue",
+        "balance": 39,
+        "lifetimePoints": 93,
+        "matchWins": 1,
+        "matchLosses": 4,
+        "gamesWon": 3,
+        "gamesLost": 9,
+        "gamesDrawn": 0,
+        "archetypeId": 41,
+        "archetypeName": "Deciduous Descendants",
+        "slacs": 3.55
       },
       {
         "name": "forgoudaboutit",
@@ -26413,7 +26420,8 @@
         "gamesLost": 9,
         "gamesDrawn": 0,
         "archetypeId": null,
-        "archetypeName": null
+        "archetypeName": null,
+        "slacs": 2.277
       }
     ],
     "recentMatches": [
