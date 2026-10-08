@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-08T14:01:09.181Z",
+  "updatedAt": "2026-10-08T14:04:09.218Z",
   "cards": [
     {
       "id": 384,
@@ -25773,7 +25773,7 @@
       "submittedAt": "2026-10-05 17:25:23",
       "activatedAt": "2026-10-05 17:25:23",
       "declaredCardCount": 12,
-      "registeredCardCount": 16,
+      "registeredCardCount": 17,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -26031,6 +26031,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081707.jpg",
           "addedAt": "2026-10-06 15:17:30",
           "changedAt": "2026-10-07 20:31:56"
+        },
+        {
+          "id": 487,
+          "name": "Apricot Prioress of Mosaic Refrain",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Thunder",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 7",
+          "atk": "2350",
+          "def": "2350",
+          "text": "During your Main Phase: You can send 2 Trap Cards with an effect that Special Summons itself as a Monster from your Deck to your GY; Special Summon this card (from your hand), and if you do, you can Set 1 of those sent cards to your field. You can only Special Summon \"Apricot Prioress of Mosaic Refrain\" this way once per turn. During your Main Phase (Quick Effect): You can place 1 \"Mosaic Refrain\" Monster from your hand or GY on the bottom of your Deck, except \"Apricot Prioress of Mosaic Refrain\"; you can have this card either gain that placed Monster's original effects until the end of this turn or have it treated as a Normal Monster until the end of this turn. You can activate a Trap Card Set by this card's effect during the same turn it was Set.",
+          "duelingbookId": 6085208,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085208.jpg",
+          "addedAt": "2026-10-08 14:03:41",
+          "changedAt": "2026-10-08 14:03:41"
         }
       ]
     },
@@ -27181,7 +27197,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 9.658
+        "slacs": 9.689
       },
       {
         "name": "The Original Rough Cheddar",
