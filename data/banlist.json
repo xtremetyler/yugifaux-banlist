@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-08T18:31:56.240Z",
+  "updatedAt": "2026-10-08T18:32:56.246Z",
   "cards": [
     {
       "id": 384,
@@ -1905,6 +1905,23 @@
       "officialUrl": "https://ygoprodeck.com/card/bonfire-13988",
       "addedAt": "2026-08-26 17:29:51",
       "changedAt": "2026-08-26 17:29:51"
+    },
+    {
+      "id": 705,
+      "name": "Boo-Boo Game",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Trap Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "During damage calculation, if a monster battles: You take no battle damage from that battle. If this Set card in its owner's control is destroyed by your opponent's card effect and sent to the GY: You can target up to 2 Normal Traps in your GY, except \"Boo-Boo Game\"; Set them to your field. They can be activated this turn. You can only use this effect of \"Boo-Boo Game\" once per turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "27923575",
+      "duelingbookId": 11589,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/27923575.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/boo-boo-game-11891",
+      "addedAt": "2026-10-08 18:32:35",
+      "changedAt": "2026-10-08 18:32:35"
     },
     {
       "id": 253,
@@ -27188,7 +27205,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 39,
+        "balance": 32,
         "lifetimePoints": 500,
         "matchWins": 12,
         "matchLosses": 7,
@@ -27197,7 +27214,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 9.689
+        "slacs": 9.775
       },
       {
         "name": "The Original Rough Cheddar",
