@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-08T00:58:38.874Z",
+  "updatedAt": "2026-10-08T02:08:38.790Z",
   "cards": [
     {
       "id": 384,
@@ -27172,7 +27172,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 37,
+        "balance": 27,
         "lifetimePoints": 488,
         "matchWins": 12,
         "matchLosses": 7,
@@ -27181,7 +27181,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 9.573
+        "slacs": 9.658
       },
       {
         "name": "The Original Rough Cheddar",
