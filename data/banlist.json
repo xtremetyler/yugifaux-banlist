@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-09T17:26:10.403Z",
+  "updatedAt": "2026-10-09T17:38:40.003Z",
   "cards": [
     {
       "id": 384,
@@ -27249,8 +27249,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 8,
-        "lifetimePoints": 393,
+        "balance": 13,
+        "lifetimePoints": 398,
         "matchWins": 5,
         "matchLosses": 12,
         "gamesWon": 17,
@@ -27275,7 +27275,7 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 75,
+        "balance": 60,
         "lifetimePoints": 90,
         "matchWins": 2,
         "matchLosses": 4,
@@ -27284,7 +27284,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 2.828
+        "slacs": 2.857
       },
       {
         "name": "Joules Tune Brie 2 Blue",
