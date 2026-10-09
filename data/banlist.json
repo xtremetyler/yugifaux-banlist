@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-09T19:05:40.029Z",
+  "updatedAt": "2026-10-09T19:06:09.998Z",
   "cards": [
     {
       "id": 384,
@@ -462,7 +462,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Equip only to an \"Afterthought\" monster you control. When this card is activated: Send 1 \"Afterthought\" card or 1 \"A World Without\" from your Deck to the GY. When the equipped monster declares an attack: You can Set any number of Spells/Traps from your GY, and if you do, those Set cards can be activated this turn. Your opponent cannot target the equipped monster with Spell/Trap Cards or effects in response to the activation of \"Afterthought\" cards or effects in your GY.",
+      "text": "Equip only to an \"Afterthought\" monster you control. When this card is activated: Send 1 \"Afterthought\" card or 1 \"A World Without\" from your Deck to the GY. When the equipped monster declares an attack: You can Set up to 2 Spells/Traps from your GY, and if you do, those Set cards can be activated this turn. Your opponent cannot target the equipped monster with Spell/Trap Cards or effects in response to the activation of \"Afterthought\" cards or effects in your GY.",
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
@@ -15005,7 +15005,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Equip only to an \"Afterthought\" monster you control. When this card is activated: Send 1 \"Afterthought\" card or 1 \"A World Without\" from your Deck to the GY. When the equipped monster declares an attack: You can Set any number of Spells/Traps from your GY, and if you do, those Set cards can be activated this turn. Your opponent cannot target the equipped monster with Spell/Trap Cards or effects in response to the activation of \"Afterthought\" cards or effects in your GY.",
+          "text": "Equip only to an \"Afterthought\" monster you control. When this card is activated: Send 1 \"Afterthought\" card or 1 \"A World Without\" from your Deck to the GY. When the equipped monster declares an attack: You can Set up to 2 Spells/Traps from your GY, and if you do, those Set cards can be activated this turn. Your opponent cannot target the equipped monster with Spell/Trap Cards or effects in response to the activation of \"Afterthought\" cards or effects in your GY.",
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
