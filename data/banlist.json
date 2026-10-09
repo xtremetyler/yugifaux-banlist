@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-09T19:27:10.167Z",
+  "updatedAt": "2026-10-09T19:27:40.130Z",
   "cards": [
     {
       "id": 384,
@@ -27665,8 +27665,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 30,
-        "lifetimePoints": 505,
+        "balance": 35,
+        "lifetimePoints": 510,
         "matchWins": 12,
         "matchLosses": 7,
         "gamesWon": 28,
@@ -27691,8 +27691,8 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 71,
-        "lifetimePoints": 106,
+        "balance": 76,
+        "lifetimePoints": 111,
         "matchWins": 4,
         "matchLosses": 2,
         "gamesWon": 9,
@@ -27730,8 +27730,8 @@
       },
       {
         "name": "Joules Tune Brie 2 Blue",
-        "balance": 50,
-        "lifetimePoints": 104,
+        "balance": 55,
+        "lifetimePoints": 109,
         "matchWins": 0,
         "matchLosses": 1,
         "gamesWon": 0,
