@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-10-09T19:43:10.154Z",
+  "version": 5,
+  "updatedAt": "2026-10-09T21:49:08.794Z",
   "cards": [
     {
       "id": 384,
@@ -14927,7 +14927,7 @@
       "finalAddedClauses": 10,
       "notes": "",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 709,
       "featuredCardName": "A World Without",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087018.jpg",
@@ -28134,5 +28134,6 @@
         "opponentArchetype": "Berdz"
       }
     ]
-  }
+  },
+  "events": []
 }
