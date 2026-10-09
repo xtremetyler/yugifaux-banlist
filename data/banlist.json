@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-09T19:06:40.034Z",
+  "updatedAt": "2026-10-09T19:07:10.022Z",
   "cards": [
     {
       "id": 384,
@@ -117,8 +117,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6070947,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070947.jpg",
+      "duelingbookId": 6087018,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087018.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -406,8 +406,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6071045,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071045.jpg",
+      "duelingbookId": 6087025,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087025.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -426,8 +426,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6071035,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071035.jpg",
+      "duelingbookId": 6087024,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087024.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -446,8 +446,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6071039,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071039.jpg",
+      "duelingbookId": 6087022,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087022.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -486,8 +486,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6071016,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071016.jpg",
+      "duelingbookId": 6087019,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087019.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -532,8 +532,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6071020,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071020.jpg",
+      "duelingbookId": 6087020,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087020.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -572,8 +572,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6071024,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071024.jpg",
+      "duelingbookId": 6087021,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087021.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -593,8 +593,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6070970,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070970.jpg",
+      "duelingbookId": 6087015,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087015.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -617,8 +617,8 @@
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
-      "duelingbookId": 6070995,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070995.jpg",
+      "duelingbookId": 6087017,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087017.jpg",
       "addedAt": "2026-10-09 19:05:13",
       "changedAt": "2026-10-09 19:05:13"
     },
@@ -14912,7 +14912,7 @@
       "cardListComplete": false,
       "featuredCardId": 709,
       "featuredCardName": "A World Without",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070947.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087018.jpg",
       "cards": [
         {
           "id": 709,
@@ -14929,8 +14929,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6070947,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070947.jpg",
+          "duelingbookId": 6087018,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087018.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
@@ -14949,8 +14949,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6071045,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071045.jpg",
+          "duelingbookId": 6087025,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087025.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
@@ -14969,8 +14969,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6071035,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071035.jpg",
+          "duelingbookId": 6087024,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087024.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
@@ -14989,8 +14989,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6071039,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071039.jpg",
+          "duelingbookId": 6087022,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087022.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
@@ -15029,8 +15029,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6071016,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071016.jpg",
+          "duelingbookId": 6087019,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087019.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
@@ -15075,8 +15075,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6071020,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071020.jpg",
+          "duelingbookId": 6087020,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087020.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
@@ -15115,8 +15115,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6071024,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071024.jpg",
+          "duelingbookId": 6087021,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087021.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
@@ -15136,8 +15136,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6070970,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070970.jpg",
+          "duelingbookId": 6087015,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087015.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
@@ -15160,8 +15160,8 @@
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
-          "duelingbookId": 6070995,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6070995.jpg",
+          "duelingbookId": 6087017,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6087017.jpg",
           "addedAt": "2026-10-09 19:05:13",
           "changedAt": "2026-10-09 19:05:13"
         },
