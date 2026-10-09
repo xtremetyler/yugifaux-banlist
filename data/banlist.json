@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updatedAt": "2026-10-09T19:06:09.998Z",
+  "updatedAt": "2026-10-09T19:06:40.034Z",
   "cards": [
     {
       "id": 384,
@@ -548,7 +548,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "If you control no cards, except a Field Spell, you can activate this card from your hand. When your opponent activates a card or effect: Banish 1 \"Afterthought\" card from your GY; Negate that effect, then the next time an \"Afterthought\" card you control would be destroyed by battle or card effect this turn, it is not destroyed. You can only activate 1 \"Afterthought — Second Thoughts\" per turn.",
+      "text": "If you control no cards, except a Field Spell, you can activate this card from your hand. When your opponent activates a card or effect: Banish 1 \"Afterthought\" card from your GY; Negate that effect, then the next time an \"Afterthought\" card you control would be destroyed by battle or card effect this turn, it is not destroyed. While this card is in your GY, you can Banish this card to target 3 cards in your banishment; Shuffle all of those targets into your deck, then, if you shuffled 3 \"Afterthought\" cards into your deck this way, send the top card of your deck to the GY. You can only activate 1 \"Afterthought — Second Thoughts\" per turn.",
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
@@ -657,7 +657,7 @@
       "levelRankLink": "Level 7",
       "atk": "0",
       "def": "3000",
-      "text": "1 \"Afterthought\" Tuner + 1+ non-tuner monster(s)\nIf this card is Synchro Summoned: You can send 1 \"Afterthought\" Spell from your Deck to the GY. During the End Phase, if this card is in your Banishment: You can Special Summon this card, and if you do, banish the top 2 cards of each player's Deck, then gain 1000 LP for each Spell Card banished this way.",
+      "text": "1 \"Afterthought\" Tuner + 1+ non-tuner monster(s)\nIf this card is Synchro Summoned: You can send 1 \"Afterthought\" Spell from your Deck to the GY. During the End Phase, if this card is in your Banishment: You can Special Summon this card, and if you do, banish the top 2 cards of each player's Deck, then gain 1000 LP for each Spell Card banished this way. Once per duel, If you control \"Afterthought - The Lost\", Gain 2000 LP for each Spell Card banished this way instead.",
       "archetype": "Afterthought",
       "archetypeId": 37,
       "contributor": "The Original Rough Cheddar",
@@ -15091,7 +15091,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "If you control no cards, except a Field Spell, you can activate this card from your hand. When your opponent activates a card or effect: Banish 1 \"Afterthought\" card from your GY; Negate that effect, then the next time an \"Afterthought\" card you control would be destroyed by battle or card effect this turn, it is not destroyed. You can only activate 1 \"Afterthought — Second Thoughts\" per turn.",
+          "text": "If you control no cards, except a Field Spell, you can activate this card from your hand. When your opponent activates a card or effect: Banish 1 \"Afterthought\" card from your GY; Negate that effect, then the next time an \"Afterthought\" card you control would be destroyed by battle or card effect this turn, it is not destroyed. While this card is in your GY, you can Banish this card to target 3 cards in your banishment; Shuffle all of those targets into your deck, then, if you shuffled 3 \"Afterthought\" cards into your deck this way, send the top card of your deck to the GY. You can only activate 1 \"Afterthought — Second Thoughts\" per turn.",
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
@@ -15200,7 +15200,7 @@
           "levelRankLink": "Level 7",
           "atk": "0",
           "def": "3000",
-          "text": "1 \"Afterthought\" Tuner + 1+ non-tuner monster(s)\nIf this card is Synchro Summoned: You can send 1 \"Afterthought\" Spell from your Deck to the GY. During the End Phase, if this card is in your Banishment: You can Special Summon this card, and if you do, banish the top 2 cards of each player's Deck, then gain 1000 LP for each Spell Card banished this way.",
+          "text": "1 \"Afterthought\" Tuner + 1+ non-tuner monster(s)\nIf this card is Synchro Summoned: You can send 1 \"Afterthought\" Spell from your Deck to the GY. During the End Phase, if this card is in your Banishment: You can Special Summon this card, and if you do, banish the top 2 cards of each player's Deck, then gain 1000 LP for each Spell Card banished this way. Once per duel, If you control \"Afterthought - The Lost\", Gain 2000 LP for each Spell Card banished this way instead.",
           "archetype": "Afterthought",
           "archetypeId": 37,
           "contributor": "The Original Rough Cheddar",
