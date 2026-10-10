@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T03:02:16.335Z",
+  "updatedAt": "2026-10-10T03:03:16.383Z",
   "cards": [
     {
       "id": 384,
@@ -12321,6 +12321,24 @@
       "officialUrl": "https://ygoprodeck.com/card/swordsoul-supreme-sovereign-chengying-12463",
       "addedAt": "2026-09-04 17:51:37",
       "changedAt": "2026-09-14 12:45:59"
+    },
+    {
+      "id": 726,
+      "name": "Synchro Overtake",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Reveal 1 Synchro Monster in your Extra Deck, choose 1 of the Synchro Materials mentioned on it, and add to your hand or Special Summon that monster, from your Deck or GY, also you cannot Special Summon monsters from the Extra Deck the turn you activate this card, except Synchro Monsters. You can only activate 1 \"Synchro Overtake\" per turn.",
+      "archetype": "Synchro",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "99243014",
+      "duelingbookId": 11811,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/99243014.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/synchro-overtake-12199",
+      "addedAt": "2026-10-10 03:02:55",
+      "changedAt": "2026-10-10 03:02:55"
     },
     {
       "id": 16,
@@ -27700,7 +27718,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 36,
+        "balance": 29,
         "lifetimePoints": 518,
         "matchWins": 13,
         "matchLosses": 7,
@@ -27709,7 +27727,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.356
+        "slacs": 10.446
       },
       {
         "name": "Edward Swissorhands",
