@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T02:38:46.302Z",
+  "updatedAt": "2026-10-10T02:39:46.365Z",
   "cards": [
     {
       "id": 384,
@@ -27679,20 +27679,20 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 29,
+    "confirmedMatchCount": 30,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 35,
-        "lifetimePoints": 510,
-        "matchWins": 12,
+        "balance": 39,
+        "lifetimePoints": 514,
+        "matchWins": 13,
         "matchLosses": 7,
-        "gamesWon": 28,
+        "gamesWon": 30,
         "gamesLost": 21,
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 9.86
+        "slacs": 10.265
       },
       {
         "name": "Edward Swissorhands",
@@ -27709,16 +27709,16 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 76,
-        "lifetimePoints": 111,
+        "balance": 77,
+        "lifetimePoints": 112,
         "matchWins": 4,
-        "matchLosses": 2,
+        "matchLosses": 3,
         "gamesWon": 9,
-        "gamesLost": 7,
+        "gamesLost": 9,
         "gamesDrawn": 0,
         "archetypeId": 40,
         "archetypeName": "WeyYu",
-        "slacs": 5.764
+        "slacs": 5.111
       },
       {
         "name": "The Original Rough Cheddar",
@@ -27761,6 +27761,16 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 90,
+        "confirmedAt": "2026-10-10 02:39:35",
+        "reporter": "Brielieve In Cheesus",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "WeyYu",
+        "opponentArchetype": "Mosaic Refrain"
+      },
       {
         "id": 89,
         "confirmedAt": "2026-10-09 18:54:44",
@@ -27830,19 +27840,19 @@
         "opponentGames": 2,
         "reporterArchetype": "Th'Underhiel",
         "opponentArchetype": "GobMob"
-      },
-      {
-        "id": 82,
-        "confirmedAt": "2026-10-05 16:06:09",
-        "reporter": "Edward Swissorhands",
-        "opponent": "The Original Rough Cheddar",
-        "reporterGames": 2,
-        "opponentGames": 1,
-        "reporterArchetype": "GobMob",
-        "opponentArchetype": "Afterthought"
       }
     ],
     "matchHistory": [
+      {
+        "id": 90,
+        "confirmedAt": "2026-10-10 02:39:35",
+        "reporter": "Brielieve In Cheesus",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "WeyYu",
+        "opponentArchetype": "Mosaic Refrain"
+      },
       {
         "id": 89,
         "confirmedAt": "2026-10-09 18:54:44",
