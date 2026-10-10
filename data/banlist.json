@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T02:56:16.374Z",
+  "updatedAt": "2026-10-10T03:00:16.541Z",
   "cards": [
     {
       "id": 384,
@@ -27683,8 +27683,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 39,
-        "lifetimePoints": 514,
+        "balance": 43,
+        "lifetimePoints": 518,
         "matchWins": 13,
         "matchLosses": 7,
         "gamesWon": 30,
@@ -27709,8 +27709,8 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 77,
-        "lifetimePoints": 112,
+        "balance": 78,
+        "lifetimePoints": 113,
         "matchWins": 4,
         "matchLosses": 3,
         "gamesWon": 9,
