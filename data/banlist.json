@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T03:03:46.366Z",
+  "updatedAt": "2026-10-10T03:06:16.354Z",
   "cards": [
     {
       "id": 384,
@@ -3978,7 +3978,7 @@
       "id": 297,
       "botCardId": 132,
       "name": "Ecumundias' Edict of the Lion",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -3992,7 +3992,7 @@
       "duelingbookId": 6012053,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012053.jpg",
       "addedAt": "2026-08-24 19:34:44",
-      "changedAt": "2026-08-24 19:34:44"
+      "changedAt": "2026-10-10 03:05:55"
     },
     {
       "id": 293,
@@ -5875,7 +5875,7 @@
     {
       "id": 53,
       "name": "Guardian Chimera",
-      "status": "limeade",
+      "status": "banned",
       "source": "official",
       "cardType": "Fusion Monster",
       "monsterType": "Beast",
@@ -5891,7 +5891,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/11321089.jpg",
       "officialUrl": "https://ygoprodeck.com/card/guardian-chimera-12783",
       "addedAt": "2026-07-29 05:06:45",
-      "changedAt": "2026-07-29 05:06:45"
+      "changedAt": "2026-10-10 03:05:55"
     },
     {
       "id": 350,
@@ -12327,7 +12327,7 @@
     {
       "id": 390,
       "name": "Swordsoul Supreme Sovereign - Chengying",
-      "status": "limeade",
+      "status": "banned",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Wyrm",
@@ -12343,7 +12343,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/96633955.jpg",
       "officialUrl": "https://ygoprodeck.com/card/swordsoul-supreme-sovereign-chengying-12463",
       "addedAt": "2026-09-04 17:51:37",
-      "changedAt": "2026-09-14 12:45:59"
+      "changedAt": "2026-10-10 03:05:55"
     },
     {
       "id": 726,
@@ -21994,7 +21994,7 @@
           "id": 297,
           "botCardId": 132,
           "name": "Ecumundias' Edict of the Lion",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -22008,7 +22008,7 @@
           "duelingbookId": 6012053,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012053.jpg",
           "addedAt": "2026-08-24 19:34:44",
-          "changedAt": "2026-08-24 19:34:44"
+          "changedAt": "2026-10-10 03:05:55"
         },
         {
           "id": 293,
@@ -27741,7 +27741,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 22,
+        "balance": 12,
         "lifetimePoints": 518,
         "matchWins": 13,
         "matchLosses": 7,
@@ -27750,7 +27750,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.537
+        "slacs": 10.628
       },
       {
         "name": "Edward Swissorhands",
