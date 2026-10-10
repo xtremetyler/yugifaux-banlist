@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T03:00:16.541Z",
+  "updatedAt": "2026-10-10T03:02:16.335Z",
   "cards": [
     {
       "id": 384,
@@ -3349,6 +3349,23 @@
       "officialUrl": "https://ygoprodeck.com/card/cyberse-contract-witch-15567",
       "addedAt": "2026-09-09 16:40:49",
       "changedAt": "2026-09-29 18:28:10"
+    },
+    {
+      "id": 725,
+      "name": "Cynet Mining",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Send 1 card from your hand to the GY; add 1 Level 4 or lower Cyberse monster from your Deck to your hand. You can only activate 1 \"Cynet Mining\" per turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "57160136",
+      "duelingbookId": 9879,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/57160136.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/cynet-mining-10014",
+      "addedAt": "2026-10-10 03:01:50",
+      "changedAt": "2026-10-10 03:01:50"
     },
     {
       "id": 235,
@@ -27683,7 +27700,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 43,
+        "balance": 36,
         "lifetimePoints": 518,
         "matchWins": 13,
         "matchLosses": 7,
@@ -27692,7 +27709,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.265
+        "slacs": 10.356
       },
       {
         "name": "Edward Swissorhands",
