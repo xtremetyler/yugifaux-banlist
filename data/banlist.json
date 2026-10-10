@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T02:54:16.357Z",
+  "updatedAt": "2026-10-10T02:56:16.374Z",
   "cards": [
     {
       "id": 384,
@@ -26861,8 +26861,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 5,
-      "totalClauses": 50,
+      "addedClauses": 6,
+      "totalClauses": 51,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -26880,11 +26880,11 @@
           "levelRankLink": "Level 2",
           "atk": "0",
           "def": "1000",
-          "text": "During your Main Phase: You can reveal this card in your hand; Special Summon it to your opponent's field, and if you do, you can add 1 \"WeyYu\" Spell from your Deck to your hand. \nWhile you control this face-up card and your opponent controls a face-down monster, negate the first effect you activate each turn. \nThis card must attack a face-down monster during each of your Battle Phases, if able.",
+          "text": "This card cannot be used as material until the end phase of the next turn after the turn this card was summoned. \nDuring your Main Phase: You can reveal this card in your hand; Special Summon it to your opponent's field, and if you do, you can add 1 \"WeyYu\" Spell from your Deck to your hand. \nWhile you control this face-up card and your opponent controls a face-down monster, negate the first effect you activate each turn. \nThis card must attack a face-down monster during each of your Battle Phases, if able.",
           "duelingbookId": 6071779,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071779.jpg",
           "addedAt": "2026-10-03 03:44:20",
-          "changedAt": "2026-10-09 18:59:29"
+          "changedAt": "2026-10-10 02:55:58"
         },
         {
           "id": 424,
