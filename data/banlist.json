@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-10T03:03:16.383Z",
+  "updatedAt": "2026-10-10T03:03:46.366Z",
   "cards": [
     {
       "id": 384,
@@ -10395,6 +10395,29 @@
       "officialUrl": "https://ygoprodeck.com/card/radiant-typhoon-vision-15116",
       "addedAt": "2026-08-21 21:46:06",
       "changedAt": "2026-08-21 21:46:06"
+    },
+    {
+      "id": 727,
+      "name": "Rahamu, Envoy of the Sacred Tome",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Link Monster",
+      "monsterType": "Fairy",
+      "attribute": "DARK",
+      "levelRankLink": "Link 2",
+      "atk": "1400",
+      "linkMarkers": [
+        "Left",
+        "Bottom-Right"
+      ],
+      "text": "2 Effect Monsters\r\nOnce, while this Link Summoned card is face-up on the field, you can Normal Summon 1 Level 5 or higher monster without Tributing. During the Main Phase, you can (Quick Effect): Immediately after this effect resolves, Normal Summon 1 Level 5 or higher DARK monster. During your End Phase: You can reveal any number of monsters in your hand and place them on the bottom of the Deck in any order, then draw cards equal to the number placed. You can only use each effect of \"Rahamu, Envoy of the Sacred Tome\" once per turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "53904087",
+      "duelingbookId": 17467,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/53904087.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/rahamu-envoy-of-the-sacred-tome-15483",
+      "addedAt": "2026-10-10 03:03:39",
+      "changedAt": "2026-10-10 03:03:39"
     },
     {
       "id": 213,
@@ -27718,7 +27741,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 29,
+        "balance": 22,
         "lifetimePoints": 518,
         "matchWins": 13,
         "matchLosses": 7,
@@ -27727,7 +27750,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.446
+        "slacs": 10.537
       },
       {
         "name": "Edward Swissorhands",
