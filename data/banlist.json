@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T12:22:09.880Z",
+  "updatedAt": "2026-10-11T13:25:09.994Z",
   "cards": [
     {
       "id": 384,
@@ -823,7 +823,7 @@
       "id": 303,
       "botCardId": 138,
       "name": "Alsabea Leo - The Pride",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast-Warrior",
@@ -838,7 +838,7 @@
       "duelingbookId": 6012059,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012059.jpg",
       "addedAt": "2026-08-24 19:34:44",
-      "changedAt": "2026-08-24 19:34:44"
+      "changedAt": "2026-10-11 13:24:41"
     },
     {
       "id": 299,
@@ -13047,7 +13047,7 @@
     {
       "id": 338,
       "name": "The Sojourner in Summer",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -13064,7 +13064,7 @@
       "duelingbookId": 6017316,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017316.jpg",
       "addedAt": "2026-08-27 19:20:05",
-      "changedAt": "2026-09-14 19:38:57"
+      "changedAt": "2026-10-11 13:24:41"
     },
     {
       "id": 340,
@@ -13269,7 +13269,7 @@
     {
       "id": 724,
       "name": "Toon Bookmark",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -13282,7 +13282,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/91500017.jpg",
       "officialUrl": "https://ygoprodeck.com/card/toon-bookmark-11217",
       "addedAt": "2026-10-09 19:42:50",
-      "changedAt": "2026-10-09 19:42:50"
+      "changedAt": "2026-10-11 13:24:41"
     },
     {
       "id": 233,
@@ -21849,7 +21849,7 @@
           "id": 303,
           "botCardId": 138,
           "name": "Alsabea Leo - The Pride",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Beast-Warrior",
@@ -21864,7 +21864,7 @@
           "duelingbookId": 6012059,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012059.jpg",
           "addedAt": "2026-08-24 19:34:44",
-          "changedAt": "2026-08-24 19:34:44"
+          "changedAt": "2026-10-11 13:24:41"
         },
         {
           "id": 299,
@@ -27773,7 +27773,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 31,
+        "balance": 21,
         "lifetimePoints": 423,
         "matchWins": 5,
         "matchLosses": 12,
@@ -27782,7 +27782,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 5.998
+        "slacs": 6.017
       },
       {
         "name": "Brielieve In Cheesus",
