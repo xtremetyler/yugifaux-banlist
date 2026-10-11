@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T15:01:01.064Z",
+  "updatedAt": "2026-10-11T15:09:49.314Z",
   "cards": [
     {
       "id": 384,
@@ -27951,6 +27951,7 @@
       {
         "id": 90,
         "confirmedAt": "2026-10-10 02:39:35",
+        "replayUrl": null,
         "reporter": "Brielieve In Cheesus",
         "opponent": "Left Parm of the Forbitten One",
         "reporterGames": 0,
@@ -27961,6 +27962,7 @@
       {
         "id": 89,
         "confirmedAt": "2026-10-09 18:54:44",
+        "replayUrl": null,
         "reporter": "The Original Rough Cheddar",
         "opponent": "Brielieve In Cheesus",
         "reporterGames": 1,
@@ -27971,6 +27973,7 @@
       {
         "id": 88,
         "confirmedAt": "2026-10-07 20:18:54",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "The Original Rough Cheddar",
         "reporterGames": 0,
@@ -27981,6 +27984,7 @@
       {
         "id": 87,
         "confirmedAt": "2026-10-06 20:12:38",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -27991,6 +27995,7 @@
       {
         "id": 86,
         "confirmedAt": "2026-10-06 18:07:56",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "forgoudaboutit",
         "reporterGames": 2,
@@ -28001,6 +28006,7 @@
       {
         "id": 85,
         "confirmedAt": "2026-10-06 04:37:41",
+        "replayUrl": null,
         "reporter": "forgoudaboutit",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -28011,6 +28017,7 @@
       {
         "id": 84,
         "confirmedAt": "2026-10-06 02:39:54",
+        "replayUrl": null,
         "reporter": "forgoudaboutit",
         "opponent": "Joules Tune Brie 2 Blue",
         "reporterGames": 2,
@@ -28021,6 +28028,7 @@
       {
         "id": 83,
         "confirmedAt": "2026-10-05 17:08:49",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 1,
@@ -28033,6 +28041,7 @@
       {
         "id": 90,
         "confirmedAt": "2026-10-10 02:39:35",
+        "replayUrl": null,
         "reporter": "Brielieve In Cheesus",
         "opponent": "Left Parm of the Forbitten One",
         "reporterGames": 0,
@@ -28043,6 +28052,7 @@
       {
         "id": 89,
         "confirmedAt": "2026-10-09 18:54:44",
+        "replayUrl": null,
         "reporter": "The Original Rough Cheddar",
         "opponent": "Brielieve In Cheesus",
         "reporterGames": 1,
@@ -28053,6 +28063,7 @@
       {
         "id": 88,
         "confirmedAt": "2026-10-07 20:18:54",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "The Original Rough Cheddar",
         "reporterGames": 0,
@@ -28063,6 +28074,7 @@
       {
         "id": 87,
         "confirmedAt": "2026-10-06 20:12:38",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -28073,6 +28085,7 @@
       {
         "id": 86,
         "confirmedAt": "2026-10-06 18:07:56",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "forgoudaboutit",
         "reporterGames": 2,
@@ -28083,6 +28096,7 @@
       {
         "id": 85,
         "confirmedAt": "2026-10-06 04:37:41",
+        "replayUrl": null,
         "reporter": "forgoudaboutit",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -28093,6 +28107,7 @@
       {
         "id": 84,
         "confirmedAt": "2026-10-06 02:39:54",
+        "replayUrl": null,
         "reporter": "forgoudaboutit",
         "opponent": "Joules Tune Brie 2 Blue",
         "reporterGames": 2,
@@ -28103,6 +28118,7 @@
       {
         "id": 83,
         "confirmedAt": "2026-10-05 17:08:49",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 1,
@@ -28113,6 +28129,7 @@
       {
         "id": 82,
         "confirmedAt": "2026-10-05 16:06:09",
+        "replayUrl": null,
         "reporter": "Edward Swissorhands",
         "opponent": "The Original Rough Cheddar",
         "reporterGames": 2,
@@ -28123,6 +28140,7 @@
       {
         "id": 81,
         "confirmedAt": "2026-10-04 04:55:12",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "forgoudaboutit",
         "reporterGames": 2,
@@ -28133,6 +28151,7 @@
       {
         "id": 80,
         "confirmedAt": "2026-10-03 02:40:26",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Brielieve In Cheesus",
         "reporterGames": 2,
@@ -28143,6 +28162,7 @@
       {
         "id": 79,
         "confirmedAt": "2026-10-01 20:22:26",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "forgoudaboutit",
         "reporterGames": 2,
@@ -28153,6 +28173,7 @@
       {
         "id": 78,
         "confirmedAt": "2026-10-01 15:55:17",
+        "replayUrl": null,
         "reporter": "Edward Swissorhands",
         "opponent": "Left Parm of the Forbitten One",
         "reporterGames": 2,
@@ -28163,6 +28184,7 @@
       {
         "id": 77,
         "confirmedAt": "2026-10-01 06:04:39",
+        "replayUrl": null,
         "reporter": "Brielieve In Cheesus",
         "opponent": "forgoudaboutit",
         "reporterGames": 2,
@@ -28173,6 +28195,7 @@
       {
         "id": 76,
         "confirmedAt": "2026-10-01 03:14:43",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Brielieve In Cheesus",
         "reporterGames": 2,
@@ -28183,6 +28206,7 @@
       {
         "id": 75,
         "confirmedAt": "2026-09-30 21:55:15",
+        "replayUrl": null,
         "reporter": "The Original Rough Cheddar",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -28193,6 +28217,7 @@
       {
         "id": 74,
         "confirmedAt": "2026-09-30 14:32:01",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -28203,6 +28228,7 @@
       {
         "id": 73,
         "confirmedAt": "2026-09-30 14:22:55",
+        "replayUrl": null,
         "reporter": "Edward Swissorhands",
         "opponent": "Left Parm of the Forbitten One",
         "reporterGames": 1,
@@ -28213,6 +28239,7 @@
       {
         "id": 72,
         "confirmedAt": "2026-09-29 04:08:51",
+        "replayUrl": null,
         "reporter": "Edward Swissorhands",
         "opponent": "Left Parm of the Forbitten One",
         "reporterGames": 1,
@@ -28223,6 +28250,7 @@
       {
         "id": 70,
         "confirmedAt": "2026-09-28 19:34:21",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 1,
@@ -28233,6 +28261,7 @@
       {
         "id": 69,
         "confirmedAt": "2026-09-28 18:13:21",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "The Original Rough Cheddar",
         "reporterGames": 1,
@@ -28243,6 +28272,7 @@
       {
         "id": 68,
         "confirmedAt": "2026-09-28 16:47:22",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -28253,6 +28283,7 @@
       {
         "id": 67,
         "confirmedAt": "2026-09-28 16:12:35",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 0,
@@ -28263,6 +28294,7 @@
       {
         "id": 66,
         "confirmedAt": "2026-09-25 19:52:30",
+        "replayUrl": null,
         "reporter": "Edward Swissorhands",
         "opponent": "The Original Rough Cheddar",
         "reporterGames": 0,
@@ -28273,6 +28305,7 @@
       {
         "id": 65,
         "confirmedAt": "2026-09-25 17:52:23",
+        "replayUrl": null,
         "reporter": "The Original Rough Cheddar",
         "opponent": "Left Parm of the Forbitten One",
         "reporterGames": 2,
@@ -28283,6 +28316,7 @@
       {
         "id": 64,
         "confirmedAt": "2026-09-24 05:08:03",
+        "replayUrl": null,
         "reporter": "Edward Swissorhands",
         "opponent": "Brielieve In Cheesus",
         "reporterGames": 0,
@@ -28293,6 +28327,7 @@
       {
         "id": 63,
         "confirmedAt": "2026-09-23 18:46:28",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -28303,6 +28338,7 @@
       {
         "id": 62,
         "confirmedAt": "2026-09-23 16:45:54",
+        "replayUrl": null,
         "reporter": "Edward Swissorhands",
         "opponent": "The Original Rough Cheddar",
         "reporterGames": 0,
@@ -28313,6 +28349,7 @@
       {
         "id": 61,
         "confirmedAt": "2026-09-22 02:25:58",
+        "replayUrl": null,
         "reporter": "Brielieve In Cheesus",
         "opponent": "Edward Swissorhands",
         "reporterGames": 2,
@@ -28323,6 +28360,7 @@
       {
         "id": 60,
         "confirmedAt": "2026-09-22 02:22:06",
+        "replayUrl": null,
         "reporter": "Left Parm of the Forbitten One",
         "opponent": "The Original Rough Cheddar",
         "reporterGames": 2,
