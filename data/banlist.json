@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T14:00:39.938Z",
+  "updatedAt": "2026-10-11T14:01:09.951Z",
   "cards": [
     {
       "id": 384,
@@ -27384,7 +27384,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 24,
+      "registeredCardCount": 25,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -27821,6 +27821,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085571.jpg",
           "addedAt": "2026-10-11 14:00:38",
           "changedAt": "2026-10-11 14:00:38"
+        },
+        {
+          "id": 492,
+          "name": "COMIC! HERO Bladedge",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 7",
+          "atk": "2600",
+          "def": "1800",
+          "text": "If this card in your hand would be sent to the GY as Fusion Material, you can Special Summon it instead, and if you do, destroy the Fusion Monster that was Fusion Summoned using this monster as material. When attacking a Defense Position monster your opponent controls, this card inflicts Piercing Damage. During the Main Phase or Battle Phase (Quick Effect): You can Tribute this card; return any number of Warrior and/or Toon Fusion Monsters from your GY to your Extra Deck.",
+          "duelingbookId": 6085576,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085576.jpg",
+          "addedAt": "2026-10-11 14:01:03",
+          "changedAt": "2026-10-11 14:01:03"
         }
       ]
     }
@@ -27854,7 +27873,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 6.118
+        "slacs": 6.132
       },
       {
         "name": "Brielieve In Cheesus",
