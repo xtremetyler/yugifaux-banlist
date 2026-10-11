@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T21:55:32.923Z",
+  "updatedAt": "2026-10-11T22:36:03.137Z",
   "cards": [
     {
       "id": 384,
@@ -27883,8 +27883,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 37,
-        "lifetimePoints": 459,
+        "balance": 47,
+        "lifetimePoints": 469,
         "matchWins": 5,
         "matchLosses": 12,
         "gamesWon": 17,
