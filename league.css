@@ -7,4 +7,5 @@
 .standing>a strong,.standing>a small{display:block}.standing>a{color:var(--text);text-decoration:none}.standing>a:hover strong{color:var(--gold)}
 .standing{grid-template-columns:42px minmax(140px,1.5fr) minmax(82px,.7fr) minmax(62px,.5fr) minmax(68px,.55fr);gap:10px}.standing__slacs{color:#d8ff45;text-align:right}
 @media(max-width:600px){.standing{grid-template-columns:32px minmax(92px,1fr) 54px 46px 58px;gap:6px;font-size:.68rem}}
-
+.result-card .result-replay{color:var(--gold);font-weight:800;text-decoration:none;text-transform:none}.result-card .result-replay:hover{text-decoration:underline}
+.profile-match small a{color:var(--gold);font-weight:700;text-decoration:none}.profile-match small a:hover{text-decoration:underline}
