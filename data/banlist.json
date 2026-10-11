@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T14:01:09.951Z",
+  "updatedAt": "2026-10-11T14:02:09.942Z",
   "cards": [
     {
       "id": 384,
@@ -27384,7 +27384,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 25,
+      "registeredCardCount": 26,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -27840,6 +27840,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085576.jpg",
           "addedAt": "2026-10-11 14:01:03",
           "changedAt": "2026-10-11 14:01:03"
+        },
+        {
+          "id": 493,
+          "name": "Favorite COMIC! HERO Shining Neos Wingman",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 8",
+          "atk": "3100",
+          "def": "2500",
+          "text": "\"COMIC! Hero Neos\" or \"COMIC! HERO Shining Flare Wingman\" + 1 \"COMIC!\" Monster\nMust first be Fusion Summoned. If this card is Fusion Summoned: You can activate this effect; for the rest of this turn, your opponent cannot activate cards or effects on the field, except Trap Cards and Trap effects. This card gains 300 ATK for each monster in your GY, and cannot be destroyed by card effects.",
+          "duelingbookId": 6085715,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085715.jpg",
+          "addedAt": "2026-10-11 14:01:46",
+          "changedAt": "2026-10-11 14:01:46"
         }
       ]
     }
@@ -27873,7 +27892,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 6.132
+        "slacs": 6.147
       },
       {
         "name": "Brielieve In Cheesus",
