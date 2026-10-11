@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T14:00:09.974Z",
+  "updatedAt": "2026-10-11T14:00:39.938Z",
   "cards": [
     {
       "id": 384,
@@ -27384,7 +27384,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 23,
+      "registeredCardCount": 24,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -27802,6 +27802,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085566.jpg",
           "addedAt": "2026-10-11 14:00:07",
           "changedAt": "2026-10-11 14:00:07"
+        },
+        {
+          "id": 491,
+          "name": "COMIC! HERO Darkbright",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 6",
+          "atk": "2000",
+          "def": "1000",
+          "text": "Any time you Fusion Summon a monster duirng a turn in which you have revealed a monster(s) from your Extra Deck, you can also use this card in your Extra Deck or GY as 1 of the Fusion Materials by banishing it. While this card is face-up in your Banishment, \"Toon World\" is unaffected by the effects of your opponent's Spell Cards that could destroy or banish it, but do not target it, also you cannot Special Summon monsters from the Extra Deck, except Fusion Monsters. If this card is revealed from your Extra Deck by a card effect or to activate a card effect: You can target 1 face-up card your opponent controls; destroy it. You can only activate this effect of \"COMIC! HERO Darkbright\" once per turn.",
+          "duelingbookId": 6085571,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085571.jpg",
+          "addedAt": "2026-10-11 14:00:38",
+          "changedAt": "2026-10-11 14:00:38"
         }
       ]
     }
@@ -27835,7 +27854,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 6.102
+        "slacs": 6.118
       },
       {
         "name": "Brielieve In Cheesus",
