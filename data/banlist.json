@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T13:25:09.994Z",
+  "updatedAt": "2026-10-11T13:30:39.996Z",
   "cards": [
     {
       "id": 384,
@@ -6104,7 +6104,7 @@
     {
       "id": 728,
       "name": "Heavy Knight & Wan Jester",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -6118,7 +6118,7 @@
       "duelingbookId": 6089012,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6089012.jpg",
       "addedAt": "2026-10-11 03:35:38",
-      "changedAt": "2026-10-11 03:35:38"
+      "changedAt": "2026-10-11 13:30:19"
     },
     {
       "id": 44,
@@ -13025,7 +13025,7 @@
     {
       "id": 337,
       "name": "The Sojourner in Spring",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -13042,7 +13042,7 @@
       "duelingbookId": 6017313,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017313.jpg",
       "addedAt": "2026-08-27 19:19:13",
-      "changedAt": "2026-08-27 19:19:13"
+      "changedAt": "2026-10-11 13:30:19"
     },
     {
       "id": 338,
@@ -13069,7 +13069,7 @@
     {
       "id": 340,
       "name": "The Sojourner in Winter",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fairy",
@@ -13086,7 +13086,7 @@
       "duelingbookId": 6017320,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6017320.jpg",
       "addedAt": "2026-08-27 19:21:24",
-      "changedAt": "2026-09-14 19:38:57"
+      "changedAt": "2026-10-11 13:30:19"
     },
     {
       "id": 86,
@@ -27773,7 +27773,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 21,
+        "balance": 11,
         "lifetimePoints": 423,
         "matchWins": 5,
         "matchLosses": 12,
@@ -27782,7 +27782,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 6.017
+        "slacs": 6.036
       },
       {
         "name": "Brielieve In Cheesus",
