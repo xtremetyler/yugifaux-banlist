@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T13:34:09.937Z",
+  "updatedAt": "2026-10-11T13:34:39.912Z",
   "cards": [
     {
       "id": 384,
@@ -1073,7 +1073,7 @@
       "duelingbookId": 6077859,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077859.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-11 13:33:50"
+      "changedAt": "2026-10-11 13:34:23"
     },
     {
       "id": 650,
@@ -16416,7 +16416,7 @@
           "duelingbookId": 6077859,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077859.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-11 13:33:50"
+          "changedAt": "2026-10-11 13:34:23"
         },
         {
           "id": 650,
