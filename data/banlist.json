@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T20:25:59.519Z",
+  "updatedAt": "2026-10-11T21:55:19.029Z",
   "cards": [
     {
       "id": 384,
@@ -28370,5 +28370,287 @@
       }
     ]
   },
-  "events": []
+  "events": [],
+  "achievements": {
+    "seasonName": "Season 2",
+    "catalog": [
+      {
+        "id": "opening-act",
+        "name": "Opening Act",
+        "description": "Complete your first confirmed match of the season.",
+        "image": "opening-act.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/opening-act.png"
+      },
+      {
+        "id": "league-regular",
+        "name": "League Regular",
+        "description": "Complete 15 confirmed matches in the season.",
+        "image": "league-regular.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/league-regular.png"
+      },
+      {
+        "id": "iron-duelist",
+        "name": "Iron Duelist",
+        "description": "Complete 50 confirmed matches in the season.",
+        "image": "iron-duelist.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/iron-duelist.png"
+      },
+      {
+        "id": "first-blood",
+        "name": "First Blood",
+        "description": "Win your first match of the season.",
+        "image": "first-blood.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/first-blood.png"
+      },
+      {
+        "id": "proven-duelist",
+        "name": "Proven Duelist",
+        "description": "Win 15 matches in the season.",
+        "image": "proven-duelist.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/proven-duelist.png"
+      },
+      {
+        "id": "clean-sweep",
+        "name": "Clean Sweep",
+        "description": "Win a match 2–0.",
+        "image": "clean-sweep.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/clean-sweep.png"
+      },
+      {
+        "id": "on-a-roll",
+        "name": "On a Roll",
+        "description": "Win 3 consecutive matches.",
+        "image": "on-a-roll.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/on-a-roll.png"
+      },
+      {
+        "id": "bounce-back",
+        "name": "Bounce Back",
+        "description": "Win a match after at least 4 consecutive match losses.",
+        "image": "bounce-back.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/bounce-back.png"
+      },
+      {
+        "id": "making-the-rounds",
+        "name": "Making the Rounds",
+        "description": "Duel against every other active duelist.",
+        "image": "making-the-rounds.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/making-the-rounds.png"
+      },
+      {
+        "id": "equal-opportunity-duelist",
+        "name": "Equal Opportunity Duelist",
+        "description": "Win at least 1 match against every other active duelist.",
+        "image": "equal-opportunity-duelist.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/equal-opportunity-duelist.png"
+      },
+      {
+        "id": "run-it-back",
+        "name": "Run It Back",
+        "description": "Win against a player who beat you earlier in the same season.",
+        "image": "run-it-back.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/run-it-back.png"
+      },
+      {
+        "id": "last-stand",
+        "name": "Last Stand",
+        "description": "Win 3 matches with the same archetype while beginning each match at or above its Ephtear retirement threshold.",
+        "image": "last-stand.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/last-stand.png"
+      },
+      {
+        "id": "leaving-a-legacy",
+        "name": "Leaving a Legacy",
+        "description": "Retire 3 archetypes to Ephtear or Duelhalla during the season.",
+        "image": "leaving-a-legacy.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/leaving-a-legacy.png"
+      },
+      {
+        "id": "end-of-a-reign",
+        "name": "End of a Reign",
+        "description": "Win the decisive match that sends an opponent's archetype to Ephtear.",
+        "image": "end-of-a-reign.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/end-of-a-reign.png"
+      },
+      {
+        "id": "ascension",
+        "name": "Ascension",
+        "description": "Retire an active archetype to Duelhalla.",
+        "image": "ascension.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/ascension.png"
+      }
+    ],
+    "awards": [
+      {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "opening-act",
+        "earnedAt": "2026-09-22 02:22:06"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "opening-act",
+        "earnedAt": "2026-09-22 02:22:06"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "first-blood",
+        "earnedAt": "2026-09-22 02:22:06"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "clean-sweep",
+        "earnedAt": "2026-09-22 02:22:06"
+      },
+      {
+        "player": "Brielieve In Cheesus",
+        "achievementId": "opening-act",
+        "earnedAt": "2026-09-22 02:25:58"
+      },
+      {
+        "player": "Brielieve In Cheesus",
+        "achievementId": "first-blood",
+        "earnedAt": "2026-09-22 02:25:58"
+      },
+      {
+        "player": "Brielieve In Cheesus",
+        "achievementId": "end-of-a-reign",
+        "earnedAt": "2026-09-22 02:25:58"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "opening-act",
+        "earnedAt": "2026-09-22 02:25:58"
+      },
+      {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "first-blood",
+        "earnedAt": "2026-09-23 16:45:54"
+      },
+      {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "clean-sweep",
+        "earnedAt": "2026-09-23 16:45:54"
+      },
+      {
+        "player": "Brielieve In Cheesus",
+        "achievementId": "clean-sweep",
+        "earnedAt": "2026-09-24 05:08:03"
+      },
+      {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "run-it-back",
+        "earnedAt": "2026-09-25 17:52:23"
+      },
+      {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "on-a-roll",
+        "earnedAt": "2026-09-25 19:52:30"
+      },
+      {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "end-of-a-reign",
+        "earnedAt": "2026-09-25 19:52:30"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "first-blood",
+        "earnedAt": "2026-09-28 16:12:35"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "clean-sweep",
+        "earnedAt": "2026-09-28 16:12:35"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "bounce-back",
+        "earnedAt": "2026-09-28 16:12:35"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "run-it-back",
+        "earnedAt": "2026-09-28 16:12:35"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "run-it-back",
+        "earnedAt": "2026-09-28 16:47:22"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "end-of-a-reign",
+        "earnedAt": "2026-09-28 19:34:21"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "on-a-roll",
+        "earnedAt": "2026-09-30 14:32:01"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "end-of-a-reign",
+        "earnedAt": "2026-09-30 14:32:01"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "leaving-a-legacy",
+        "earnedAt": "2026-09-30 14:35:57"
+      },
+      {
+        "player": "forgoudaboutit",
+        "achievementId": "opening-act",
+        "earnedAt": "2026-10-01 06:04:39"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "league-regular",
+        "earnedAt": "2026-10-04 04:55:12"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "league-regular",
+        "earnedAt": "2026-10-05 17:08:49"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "on-a-roll",
+        "earnedAt": "2026-10-05 17:08:49"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "leaving-a-legacy",
+        "earnedAt": "2026-10-05 17:12:14"
+      },
+      {
+        "player": "forgoudaboutit",
+        "achievementId": "first-blood",
+        "earnedAt": "2026-10-06 02:39:54"
+      },
+      {
+        "player": "forgoudaboutit",
+        "achievementId": "clean-sweep",
+        "earnedAt": "2026-10-06 02:39:54"
+      },
+      {
+        "player": "Joules Tune Brie 2 Blue",
+        "achievementId": "opening-act",
+        "earnedAt": "2026-10-06 02:39:54"
+      }
+    ]
+  }
 }
