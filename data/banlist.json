@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T13:59:39.981Z",
+  "updatedAt": "2026-10-11T14:00:09.974Z",
   "cards": [
     {
       "id": 384,
@@ -27384,7 +27384,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 22,
+      "registeredCardCount": 23,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -27783,6 +27783,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085559.jpg",
           "addedAt": "2026-10-11 13:59:35",
           "changedAt": "2026-10-11 13:59:35"
+        },
+        {
+          "id": 490,
+          "name": "COMIC! HERO Wildege",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 8",
+          "atk": "2600",
+          "def": "2300",
+          "text": "\"COMIC! HERO Bladedge\" or \"COMIC! HERO Wildheart\" + 1 \"COMIC!\" monster\nIf this Fusion Summoned card is destroyed and sent to the GY: Special Summon it, and if you do, you can destroy 1 monster your opponent controls.",
+          "duelingbookId": 6085566,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085566.jpg",
+          "addedAt": "2026-10-11 14:00:07",
+          "changedAt": "2026-10-11 14:00:07"
         }
       ]
     }
@@ -27816,7 +27835,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 6.087
+        "slacs": 6.102
       },
       {
         "name": "Brielieve In Cheesus",
