@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T13:34:39.912Z",
+  "updatedAt": "2026-10-11T13:59:39.981Z",
   "cards": [
     {
       "id": 384,
@@ -27384,7 +27384,7 @@
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
       "declaredCardCount": 13,
-      "registeredCardCount": 20,
+      "registeredCardCount": 22,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -27749,6 +27749,40 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6084016.jpg",
           "addedAt": "2026-10-07 17:24:41",
           "changedAt": "2026-10-07 17:24:41"
+        },
+        {
+          "id": 488,
+          "name": "COMIC! HERO Rampart Blaster",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Toon"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 6",
+          "atk": "2000",
+          "def": "2500",
+          "text": "\"COMIC! HERO Clayman\" or “COMIC! HERO Burstinatrix” + 1 \"COMIC!\" monster\nThis card can attack directly while in Defense Position. If it does, apply its ATK for damage calculation, but halve its ATK during damage calculation only. When your opponent activates a card or effect that targets a Spell/Trap you control (Quick Effect): You can change this card’s battle position; negate that effect. During the Main Phase of the turn this card was Summoned: You can change this card’s battle position, then shuffle 1 “COMIC! HERO” card from your GY into the Deck; Draw 1 card. You can only use each effect of “COMIC! HERO Rampart Blaster” once per turn.",
+          "duelingbookId": 6084165,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6084165.jpg",
+          "addedAt": "2026-10-11 13:59:10",
+          "changedAt": "2026-10-11 13:59:10"
+        },
+        {
+          "id": 489,
+          "name": "COMIC! HEROs Assemble!",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Activate 1 of these effects.\n● If you control no face-up monsters: Pay 2000 LP and discard 1 “COMIC! HERO” monster; Special Summon 2 Level 4 or lower “COMIC! HERO” monsters with different names from your Deck, but negate their effects.\n● Return 1 “COMIC! HERO” Fusion Monster in your GY to the Extra Deck; Special Summon up to 2 “COMIC! HERO” monsters with different names from your Deck or GY whose names are specifically mentioned as material on that monster, but only 1 can be Special Summoned from the Deck.\n● Fusion Summon 1 “COMIC! HERO” Fusion Monster from your Extra Deck, by banishing Fusion Materials mentioned on it from your Field or GY.",
+          "duelingbookId": 6085559,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085559.jpg",
+          "addedAt": "2026-10-11 13:59:35",
+          "changedAt": "2026-10-11 13:59:35"
         }
       ]
     }
@@ -27782,7 +27816,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 6.055
+        "slacs": 6.087
       },
       {
         "name": "Brielieve In Cheesus",
