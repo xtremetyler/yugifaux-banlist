@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:25:55.365Z",
+  "updatedAt": "2026-10-12T15:26:25.384Z",
   "cards": [
     {
       "id": 384,
@@ -27971,7 +27971,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28150,6 +28150,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085258.jpg",
           "addedAt": "2026-10-12 15:25:50",
           "changedAt": "2026-10-12 15:25:50"
+        },
+        {
+          "id": 505,
+          "name": "Parcel-Tongue Post — Sign Here",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Reveal 3 \"Parcel-Tongue Post Package\" Spells with different names from your Deck, and if you do, your opponent randomly Sets 2 of the cards revealed this way to their field, then send the rest to your GY. During the Main Phase, while this card is in the GY: You can banish it; Set 1 \"Parcel-Tongue Post\" Spell from your GY to either player's field, except \"Parcel-Tongue Post - Sign Here\". You can only use 1 \"Parcel-Tongue Post - Sign Here\" effect per turn, and only once per turn.",
+          "duelingbookId": 6085256,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085256.jpg",
+          "addedAt": "2026-10-12 15:26:12",
+          "changedAt": "2026-10-12 15:26:12"
         }
       ]
     }
@@ -28196,7 +28211,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 5.863
+        "slacs": 5.93
       },
       {
         "name": "Brielieve In Cheesus",
