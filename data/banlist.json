@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:24:25.313Z",
+  "updatedAt": "2026-10-12T15:24:55.342Z",
   "cards": [
     {
       "id": 384,
@@ -27971,7 +27971,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28090,6 +28090,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085334.jpg",
           "addedAt": "2026-10-12 15:24:13",
           "changedAt": "2026-10-12 15:24:13"
+        },
+        {
+          "id": 501,
+          "name": "Parcel-Tongue Post Package - THIS SIDE UP",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "For the rest of this turn, if a monster(s) would be Special Summoned face-up to your field, it is Special Summoned in face-down Defense Position instead. Once per Duel, during either player's turn: You can attach this card in your GY to a face-up \"Parcel-Tongue Post\" Xyz Monster you control as material; you can Set 1 \"Package\" Spell currently attached to a face-up Xyz Monster on either field as material to your opponent's field.",
+          "duelingbookId": 6085314,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085314.jpg",
+          "addedAt": "2026-10-12 15:24:35",
+          "changedAt": "2026-10-12 15:24:35"
         }
       ]
     }
@@ -28136,7 +28151,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 5.572
+        "slacs": 5.648
       },
       {
         "name": "Brielieve In Cheesus",
