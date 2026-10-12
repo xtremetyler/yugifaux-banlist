@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-11T23:04:17.144Z",
+  "updatedAt": "2026-10-12T00:17:41.032Z",
   "cards": [
     {
       "id": 384,
@@ -28370,7 +28370,19 @@
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "id": 1,
+      "name": "Advent of Falsehood - Draft Night!",
+      "description": "🃏 YUGIFAUX — SEASON 1 DRAFT NIGHT\n\n⚡ ADVENT OF FALSEHOOD ⚡\n\nWe're going back to where it all began!\n\nWe're already into Season 2 of YugiFaux, but for one special night, we're turning back the clock and revisiting the set that started it all!\n\nWelcome to Season 1 Draft Night, featuring our original booster set, Advent of Falsehood!\n\nIt's a throwback to our roots, where creativity, unexpected combinations, and a little bit of luck determine what kind of deck you'll be playing!\n\n📦 HOW THE DRAFT WORKS\n\nWe'll be drafting from 5-card Advent of Falsehood booster packs!\n\nThe rules are simple:\n\nOpen a pack containing 5 cards.\n\nPick 2 cards from that pack to add to your collection.\n\nContinue drafting until you've collected:\n\n🃏 60 Main Deck cards\n\n🌟 15 Extra Deck cards\n\n🔄 15 Side Deck-eligible cards\n\nOnce your draft is complete, build a deck using your drafted cards!\n\nThat's a total of 90 cards to build your strategy around!\n\n⚔️ BUILD SOMETHING UNEXPECTED!\n\nOnce you've finished drafting, it'",
+      "location": "Custom YGO",
+      "startAt": "2026-10-27T00:00:00.000Z",
+      "endAt": "2026-10-27T04:59:00.000Z",
+      "imageUrl": "https://cdn.discordapp.com/guild-events/1558997045141049464/dc893b60e48af3c3dc35a4f5f29b71e1.webp?size=1024",
+      "discordUrl": "https://discord.com/events/884532137359978557/1558997045141049464",
+      "status": "scheduled"
+    }
+  ],
   "achievements": {
     "seasonName": "Season 2",
     "catalog": [
