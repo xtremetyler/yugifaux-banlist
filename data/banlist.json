@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:25:25.280Z",
+  "updatedAt": "2026-10-12T15:25:55.365Z",
   "cards": [
     {
       "id": 384,
@@ -27971,7 +27971,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28135,6 +28135,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085265.jpg",
           "addedAt": "2026-10-12 15:25:21",
           "changedAt": "2026-10-12 15:25:21"
+        },
+        {
+          "id": 504,
+          "name": "Parcel-Tongue Post — Return to Sender",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target up to 2 \"Package\" Spells in your GY (min. 1); Set them to your opponent's field. During your Main Phase, while this card is in your GY: You can banish it; Special Summon 1 \"Parcel-Tongue Post Courier\" or 1 monster that mentions \"Parcel-Tongue Post Package\" from your GY. You can only use 1 \"Parcel-Tongue Post - Return to Sender\" effect per turn, and only once per turn.",
+          "duelingbookId": 6085258,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085258.jpg",
+          "addedAt": "2026-10-12 15:25:50",
+          "changedAt": "2026-10-12 15:25:50"
         }
       ]
     }
@@ -28181,7 +28196,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 5.794
+        "slacs": 5.863
       },
       {
         "name": "Brielieve In Cheesus",
