@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T01:48:33.815Z",
+  "updatedAt": "2026-10-12T02:48:34.022Z",
   "cards": [
     {
       "id": 384,
@@ -4033,6 +4033,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038098.jpg",
       "addedAt": "2026-09-09 19:29:06",
       "changedAt": "2026-09-11 01:03:17"
+    },
+    {
+      "id": 730,
+      "name": "Elder Sage & Grinning Assassin",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Fiend",
+      "attribute": "EARTH",
+      "levelRankLink": "Level 5",
+      "atk": "1950",
+      "def": "1950",
+      "text": "During your opponent's Main Phase, when a Monster(s) is Special Summoned to your opponent's field from the Extra Deck, if they have Special Summoned 3 or more Monsters this turn (Quick Effect): You can reveal this card in your hand; immediately after this effect resolves, apply 1 of the following effects, if able.\n● If you control no Tribute Summoned Monsters: Tribute Summon this card using that Monster your opponent controls as Tribute.\n● If you control no Monsters Special Summoned from the Extra Deck: Special Summon 1 Level 3 or lower Monster from your Extra Deck.\n● If you control no face-up Monsters: Look at your opponent's Extra Deck and banish each Monster from it that shares an original name with the Summoned Monster(s).\nYou can only activate this effect of \"Elder Sage & Grinning Assassin\" once per turn.",
+      "clauses": 3,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6090534,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090534.jpg",
+      "addedAt": "2026-10-12 02:48:28",
+      "changedAt": "2026-10-12 02:48:28"
     },
     {
       "id": 466,
@@ -27889,7 +27908,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 26,
+        "balance": 17,
         "lifetimePoints": 550,
         "matchWins": 13,
         "matchLosses": 7,
@@ -27898,7 +27917,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.809
+        "slacs": 10.899
       },
       {
         "name": "Edward Swissorhands",
