@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:15:55.475Z",
+  "updatedAt": "2026-10-12T15:21:55.296Z",
   "cards": [
     {
       "id": 384,
@@ -27971,7 +27971,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -27980,7 +27980,27 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 494,
+      "featuredCardName": "Parcel-Tongue Post - Central Distribution Hub",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085354.jpg",
+      "cards": [
+        {
+          "id": 494,
+          "name": "Parcel-Tongue Post - Central Distribution Hub",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Reptile",
+          "attribute": "EARTH",
+          "levelRankLink": "Rank 12",
+          "atk": "2000",
+          "def": "4000",
+          "text": "3 Level 12 monsters\nYou can also Xyz Summon this card by using 1 \"Parcel-Tongue Post Courier\" you control and 4 or more \"Parcel-Tongue Post Package\" Spells in your GY as material. Tribute this face-up card you control when it has no materials attached, and if you do, you can Special Summon 1 \"Parcel-Tongue Post Courier\" from your hand, Deck, GY, or Banishment. Once per turn, during the Main Phase (Quick Effect): You can make your opponent reveal 1 random face-down Spell/Trap they control, then, immediately after this Chain ends if they revealed a card you own this way, it can be activated during the same turn it was Set and they must activate it. During the Main Phase (Quick Effect): You can detach up to 4 materials from this card (min. 1); activate 1 of the following effects, based on the number of materials detached, but you can only activate each of these effects of \"Parcel-Tongue Post - Central Distribution Hub\" once per turn.\n● 1: Set 1 \"Package\" Spell from your GY to your opponent's field.\n● 2: Destroy 1 card on the field.\n● 3: Choose 1 face-up monster on the field and negate its effects until the end of this turn.\n● 4: Inflict 2000 damage to your opponent.",
+          "duelingbookId": 6085354,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085354.jpg",
+          "addedAt": "2026-10-12 15:21:25",
+          "changedAt": "2026-10-12 15:21:25"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -28038,7 +28058,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 4.963
+        "slacs": 5.058
       },
       {
         "name": "forgoudaboutit",
