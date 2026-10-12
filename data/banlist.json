@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T14:55:12.826Z",
+  "updatedAt": "2026-10-12T15:13:48.943Z",
   "cards": [
     {
       "id": 384,
@@ -27961,6 +27961,26 @@
           "changedAt": "2026-10-11 14:01:46"
         }
       ]
+    },
+    {
+      "id": 44,
+      "name": "Parcel-Tongue Post",
+      "creator": "The Original Rough Cheddar",
+      "status": "active",
+      "description": "The worst delivery man you've ever known. Delivering packages no one wants!",
+      "submittedAt": "2026-10-12 15:13:27",
+      "activatedAt": "2026-10-12 15:13:27",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 2,
+      "extraCount": 1,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -28016,9 +28036,9 @@
         "gamesWon": 14,
         "gamesLost": 9,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null,
-        "slacs": 4.646
+        "archetypeId": 44,
+        "archetypeName": "Parcel-Tongue Post",
+        "slacs": 4.963
       },
       {
         "name": "forgoudaboutit",
