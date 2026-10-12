@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:22:55.293Z",
+  "updatedAt": "2026-10-12T15:23:55.367Z",
   "cards": [
     {
       "id": 384,
@@ -27971,7 +27971,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 4,
+      "registeredCardCount": 6,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28045,6 +28045,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085290.jpg",
           "addedAt": "2026-10-12 15:22:51",
           "changedAt": "2026-10-12 15:22:51"
+        },
+        {
+          "id": 498,
+          "name": "Parcel-Tongue Post Package - HEAVY",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Choose 1 face-up monster you control, and if you do, apply each of the following effects to that monster for the rest of this turn.\n● It is unaffected by the card effects of other cards.\n● It cannot be destroyed by battle.\n● It cannot be used as material for the Fusion Summon, Synchro Summon, Xyz Summon, or Link Summon of a monster from your Extra Deck.\n● Its effects are negated.\nOnce per Duel, during either player's turn: You can attach this card in your GY to a face-up \"Parcel-Tongue Post\" Xyz Monster you control as material; that monster cannot be destroyed by battle or by card effects until the end of this turn.",
+          "duelingbookId": 6085288,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085288.jpg",
+          "addedAt": "2026-10-12 15:23:27",
+          "changedAt": "2026-10-12 15:23:27"
+        },
+        {
+          "id": 499,
+          "name": "Parcel-Tongue Post Package - OVERSIZED",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Your opponent can Special Summon 1 \"Parcel-Tongue Post - Central Distribution Hub\" from their Extra Deck, ignoring its Summoning conditions, then attach up to 2 \"Parcel-Tongue Post\" cards from their GY to it as material. Once per duel: While this card is in the GY (Quick Effect), attach this card as material to a \"Parcel Tongue Post\" Xyz Monster you control; Special summon 1 \"Parcel-Tongue Post\" Monster currently attached as material to an Xyz Monster you control.",
+          "duelingbookId": 6085327,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085327.jpg",
+          "addedAt": "2026-10-12 15:23:51",
+          "changedAt": "2026-10-12 15:23:51"
         }
       ]
     }
@@ -28091,7 +28121,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 5.327
+        "slacs": 5.493
       },
       {
         "name": "Brielieve In Cheesus",
