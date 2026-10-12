@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:22:25.346Z",
+  "updatedAt": "2026-10-12T15:22:55.293Z",
   "cards": [
     {
       "id": 384,
@@ -27971,7 +27971,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 4,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28015,6 +28015,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082971.jpg",
           "addedAt": "2026-10-12 15:22:04",
           "changedAt": "2026-10-12 15:22:04"
+        },
+        {
+          "id": 496,
+          "name": "Parcel-Tongue Post Package - DELAYED",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "You cannot activate Spell/Trap Cards from your hand or Spell/Trap Cards you control that were Set this turn for the rest of this turn, except \"Parcel-Tongue Post\" Spells. Once per Duel, during either player's turn: You can attach this card in your GY to a face-up \"Parcel-Tongue Post\" Xyz Monster you control as material; draw 1 card.",
+          "duelingbookId": 6085321,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085321.jpg",
+          "addedAt": "2026-10-12 15:22:30",
+          "changedAt": "2026-10-12 15:22:30"
+        },
+        {
+          "id": 497,
+          "name": "Parcel-Tongue Post Package - FRAGILE",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "For the rest of this turn, if a monster(s) used as material for the Fusion Summon, Synchro Summon, or Link Summon of a monster from your Extra Deck would be sent to the GY, it is banished face-down instead. Once per Duel, during either player's turn: You can attach this card in your GY to a face-up \"Parcel-Tongue Post\" Xyz Monster you control as material; attach up to 1 other \"Parcel-Tongue Post\" card from your GY to that same monster as material.",
+          "duelingbookId": 6085290,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085290.jpg",
+          "addedAt": "2026-10-12 15:22:51",
+          "changedAt": "2026-10-12 15:22:51"
         }
       ]
     }
@@ -28061,7 +28091,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 5.151
+        "slacs": 5.327
       },
       {
         "name": "Brielieve In Cheesus",
