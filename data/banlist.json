@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T17:05:25.739Z",
+  "updatedAt": "2026-10-12T17:10:55.663Z",
   "cards": [
     {
       "id": 384,
@@ -26752,8 +26752,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 9,
-      "totalClauses": 54,
+      "addedClauses": 10,
+      "totalClauses": 55,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -26835,11 +26835,11 @@
           "levelRankLink": "Level 10",
           "atk": "2800",
           "def": "2700",
-          "text": "\"Red Sister of Mosaic Refrain\" + 1+ LIGHT Monster(s)\nOnce during the turn this card was Fusion Summoned (Quick Effect): You can target any number of \"Mosaic Refrain\" card in your GY, up to the number of Monsters used as Fusion Material for this card's Summon that were also Trap Cards; add those targets to your hand, and if you do, you can Set 1 Spell/Trap. You can activate a Trap Card Set by this card's effect during the same turn it was Set.",
+          "text": "\"Red Sister of Mosaic Refrain\" + 1+ LIGHT Monster(s)\nWhile you control this face-up card, the effects of \"Mosaic Refrain\" Traps cannot be negated. Once during the turn this card was Fusion Summoned (Quick Effect): You can target any number of \"Mosaic Refrain\" card in your GY, up to the number of Monsters used as Fusion Material for this card's Summon that were also Trap Cards; add those targets to your hand, and if you do, you can Set 1 Spell/Trap. You can activate a Trap Card Set by this card's effect during the same turn it was Set.",
           "duelingbookId": 6076980,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076980.jpg",
           "addedAt": "2026-10-06 14:52:38",
-          "changedAt": "2026-10-07 20:28:33"
+          "changedAt": "2026-10-12 17:10:54"
         },
         {
           "id": 471,
