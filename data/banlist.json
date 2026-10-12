@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:33:25.345Z",
+  "updatedAt": "2026-10-12T16:27:55.490Z",
   "cards": [
     {
       "id": 384,
@@ -28172,33 +28172,33 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 30,
+    "confirmedMatchCount": 31,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 7,
-        "lifetimePoints": 550,
+        "balance": 8,
+        "lifetimePoints": 551,
         "matchWins": 13,
-        "matchLosses": 7,
+        "matchLosses": 8,
         "gamesWon": 30,
-        "gamesLost": 21,
+        "gamesLost": 23,
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.99
+        "slacs": 10.996
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 47,
-        "lifetimePoints": 469,
-        "matchWins": 5,
+        "balance": 51,
+        "lifetimePoints": 473,
+        "matchWins": 6,
         "matchLosses": 12,
-        "gamesWon": 17,
+        "gamesWon": 19,
         "gamesLost": 27,
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 6.147
+        "slacs": 6.788
       },
       {
         "name": "The Original Rough Cheddar",
@@ -28254,6 +28254,17 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 91,
+        "confirmedAt": "2026-10-12 16:27:54",
+        "replayUrl": "https://www.duelingbook.com/replay?id=862970-86108389",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "COMIC!",
+        "opponentArchetype": "Mosaic Refrain"
+      },
       {
         "id": 90,
         "confirmedAt": "2026-10-10 02:39:35",
@@ -28330,20 +28341,20 @@
         "opponentGames": 0,
         "reporterArchetype": "Street of Elms",
         "opponentArchetype": "Deciduous Descendants"
-      },
-      {
-        "id": 83,
-        "confirmedAt": "2026-10-05 17:08:49",
-        "replayUrl": null,
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "Edward Swissorhands",
-        "reporterGames": 1,
-        "opponentGames": 2,
-        "reporterArchetype": "Th'Underhiel",
-        "opponentArchetype": "GobMob"
       }
     ],
     "matchHistory": [
+      {
+        "id": 91,
+        "confirmedAt": "2026-10-12 16:27:54",
+        "replayUrl": "https://www.duelingbook.com/replay?id=862970-86108389",
+        "reporter": "Edward Swissorhands",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "COMIC!",
+        "opponentArchetype": "Mosaic Refrain"
+      },
       {
         "id": 90,
         "confirmedAt": "2026-10-10 02:39:35",
