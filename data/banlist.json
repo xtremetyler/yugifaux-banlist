@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:26:25.384Z",
+  "updatedAt": "2026-10-12T15:27:25.375Z",
   "cards": [
     {
       "id": 384,
@@ -28202,7 +28202,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 61,
+        "balance": 51,
         "lifetimePoints": 248,
         "matchWins": 6,
         "matchLosses": 3,
@@ -28211,7 +28211,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 5.93
+        "slacs": 5.977
       },
       {
         "name": "Brielieve In Cheesus",
