@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T14:54:42.826Z",
+  "updatedAt": "2026-10-12T14:55:12.826Z",
   "cards": [
     {
       "id": 384,
@@ -9037,6 +9037,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038102.jpg",
       "addedAt": "2026-09-09 19:29:07",
       "changedAt": "2026-09-11 01:03:47"
+    },
+    {
+      "id": 733,
+      "name": "Necroworld Banshee",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Zombie",
+      "attribute": "DARK",
+      "levelRankLink": "Level 4",
+      "atk": "1800",
+      "def": "200",
+      "text": "\"Zombie World\" in the Field Zone cannot be destroyed by card effects, also neither player can target it with card effects. (Quick Effect): You can banish this card from your field or GY; activate 1 \"Zombie World\" from your hand or Deck. You can only use this effect of \"Necroworld Banshee\" once per turn.",
+      "archetype": "Field Searcher",
+      "contributor": "Joules Tune Brie 2 Blue",
+      "passcode": "66570171",
+      "duelingbookId": 9624,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/66570171.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/necroworld-banshee-9696",
+      "addedAt": "2026-10-12 14:54:58",
+      "changedAt": "2026-10-12 14:54:58"
     },
     {
       "id": 504,
@@ -28014,7 +28035,7 @@
       },
       {
         "name": "Joules Tune Brie 2 Blue",
-        "balance": 45,
+        "balance": 38,
         "lifetimePoints": 113,
         "matchWins": 0,
         "matchLosses": 1,
