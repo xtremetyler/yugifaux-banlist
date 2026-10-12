@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T00:17:41.032Z",
+  "updatedAt": "2026-10-12T01:05:46.840Z",
   "cards": [
     {
       "id": 384,
@@ -8836,6 +8836,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975253.jpg",
       "addedAt": "2026-08-10 03:14:20",
       "changedAt": "2026-09-11 21:03:38"
+    },
+    {
+      "id": 729,
+      "name": "Mountain Hermit & Ungrateful Heir",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "EARTH",
+      "levelRankLink": "Level 5",
+      "atk": "1950",
+      "def": "1950",
+      "text": "During the Standby Phase or End Phase, when a card(s) are Set to your opponent's field or your opponent activates a Set card(s) they control (Quick Effect): You can reveal this card in your hand; immediately after this effect resolves, apply 1 of the following effects, if able.\n● If you control fewer cards than your opponent: Draw 2 cards.\n● If you have fewer cards in your hand than your opponent: Make your opponent discard their entire hand and draw that many cards.\n● If you have fewer cards in your GY than your opponent: Send 1 card your opponent controls to the GY.\nYou can only activate this effect of \"Mountain Hermit & Ungrateful Heir\" once per turn.",
+      "clauses": 3,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6090437,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090437.jpg",
+      "addedAt": "2026-10-12 01:05:33",
+      "changedAt": "2026-10-12 01:05:33"
     },
     {
       "id": 45,
@@ -27870,7 +27889,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 35,
+        "balance": 26,
         "lifetimePoints": 550,
         "matchWins": 13,
         "matchLosses": 7,
@@ -27879,7 +27898,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.718
+        "slacs": 10.809
       },
       {
         "name": "Edward Swissorhands",
