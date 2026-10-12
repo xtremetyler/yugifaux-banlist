@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T02:48:34.022Z",
+  "updatedAt": "2026-10-12T02:51:03.995Z",
   "cards": [
     {
       "id": 384,
@@ -1059,7 +1059,7 @@
       "id": 642,
       "botCardId": 257,
       "name": "Ancient Ritual Founder's Summoning",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Ritual",
@@ -1073,7 +1073,7 @@
       "duelingbookId": 6077859,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077859.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-11 13:34:23"
+      "changedAt": "2026-10-12 02:50:55"
     },
     {
       "id": 650,
@@ -4037,7 +4037,7 @@
     {
       "id": 730,
       "name": "Elder Sage & Grinning Assassin",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -8859,7 +8859,7 @@
     {
       "id": 729,
       "name": "Mountain Hermit & Ungrateful Heir",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -8873,7 +8873,7 @@
       "duelingbookId": 6090437,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090437.jpg",
       "addedAt": "2026-10-12 01:05:33",
-      "changedAt": "2026-10-12 01:05:33"
+      "changedAt": "2026-10-12 02:50:55"
     },
     {
       "id": 45,
@@ -16440,7 +16440,7 @@
           "id": 642,
           "botCardId": 257,
           "name": "Ancient Ritual Founder's Summoning",
-          "status": "semi-limeade",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Ritual",
@@ -16454,7 +16454,7 @@
           "duelingbookId": 6077859,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077859.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-11 13:34:23"
+          "changedAt": "2026-10-12 02:50:55"
         },
         {
           "id": 650,
@@ -27908,7 +27908,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 17,
+        "balance": 7,
         "lifetimePoints": 550,
         "matchWins": 13,
         "matchLosses": 7,
@@ -27917,7 +27917,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.899
+        "slacs": 10.99
       },
       {
         "name": "Edward Swissorhands",
