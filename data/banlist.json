@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T14:54:12.910Z",
+  "updatedAt": "2026-10-12T14:54:42.826Z",
   "cards": [
     {
       "id": 384,
@@ -4052,6 +4052,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090534.jpg",
       "addedAt": "2026-10-12 02:48:28",
       "changedAt": "2026-10-12 02:48:28"
+    },
+    {
+      "id": 731,
+      "name": "Eldlich the Golden Lord",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Zombie",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 10",
+      "atk": "2500",
+      "def": "2800",
+      "text": "You can send this card and 1 Spell/Trap from your hand to the GY, then target 1 card on the field; send it to the GY. If this card is in your GY: You can send 1 Spell/Trap you control to the GY; add this card to your hand, then you can Special Summon 1 Zombie monster from your hand, and if you do, until the end of your opponent's turn, it gains 1000 ATK/DEF and cannot be destroyed by card effects. You can only use each effect of \"Eldlich the Golden Lord\" once per turn.",
+      "archetype": "Eldlich",
+      "contributor": "Joules Tune Brie 2 Blue",
+      "passcode": "95440946",
+      "duelingbookId": 10694,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/95440946.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/eldlich-the-golden-lord-10885",
+      "addedAt": "2026-10-12 14:54:12",
+      "changedAt": "2026-10-12 14:54:12"
     },
     {
       "id": 466,
@@ -9118,6 +9139,26 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006959.jpg",
       "addedAt": "2026-08-22 00:34:48",
       "changedAt": "2026-08-24 01:33:50"
+    },
+    {
+      "id": 732,
+      "name": "Number 23: Lancelot, Dark Knight of the Underworld",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "XYZ Monster",
+      "monsterType": "Zombie",
+      "attribute": "DARK",
+      "levelRankLink": "Rank 8",
+      "atk": "2000",
+      "def": "1500",
+      "text": "2 Level 8 monsters\nThis card can attack your opponent directly while it has Xyz Material. When this card inflicts battle damage to your opponent: You can target 1 face-up monster your opponent controls; destroy it. Once per turn, during either player's turn, when a Spell/Trap Card, or another monster's effect, is activated: Detach 1 Xyz Material from this card; negate the activation.",
+      "contributor": "Joules Tune Brie 2 Blue",
+      "passcode": "66547759",
+      "duelingbookId": 6884,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/66547759.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/number-23-lancelot-dark-knight-of-the-underworld-5589",
+      "addedAt": "2026-10-12 14:54:41",
+      "changedAt": "2026-10-12 14:54:41"
     },
     {
       "id": 376,
@@ -27973,7 +28014,7 @@
       },
       {
         "name": "Joules Tune Brie 2 Blue",
-        "balance": 52,
+        "balance": 45,
         "lifetimePoints": 113,
         "matchWins": 0,
         "matchLosses": 1,
