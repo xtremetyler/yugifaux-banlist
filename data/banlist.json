@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:21:55.296Z",
+  "updatedAt": "2026-10-12T15:22:25.346Z",
   "cards": [
     {
       "id": 384,
@@ -27971,7 +27971,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -27999,6 +27999,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085354.jpg",
           "addedAt": "2026-10-12 15:21:25",
           "changedAt": "2026-10-12 15:21:25"
+        },
+        {
+          "id": 495,
+          "name": "Parcel-Tongue Post Courier",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Reptile",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 1",
+          "atk": "300",
+          "def": "500",
+          "text": "If a \"Package\" Spell is sent from either field to your GY: You can Special Summon this card (from your GY). You can only Special Summon \"Parcel-Tongue Post Courier\" this way once per turn. If this card is Normal or Special Summoned: You can Set 1 \"Parcel-Tongue Post Package\" Spell from your hand or Deck to your opponent's field. Once per turn, during the Main Phase (Quick Effect): You can make your opponent reveal 1 random face-down Spell/Trap they control, then, immediately after this Chain ends if they revealed a card you own this way, it can be activated during the same turn it was Set and they must activate it.",
+          "duelingbookId": 6082971,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082971.jpg",
+          "addedAt": "2026-10-12 15:22:04",
+          "changedAt": "2026-10-12 15:22:04"
         }
       ]
     }
@@ -28035,6 +28051,19 @@
         "slacs": 6.147
       },
       {
+        "name": "The Original Rough Cheddar",
+        "balance": 61,
+        "lifetimePoints": 248,
+        "matchWins": 6,
+        "matchLosses": 3,
+        "gamesWon": 14,
+        "gamesLost": 9,
+        "gamesDrawn": 0,
+        "archetypeId": 44,
+        "archetypeName": "Parcel-Tongue Post",
+        "slacs": 5.151
+      },
+      {
         "name": "Brielieve In Cheesus",
         "balance": 94,
         "lifetimePoints": 129,
@@ -28046,19 +28075,6 @@
         "archetypeId": 40,
         "archetypeName": "WeyYu",
         "slacs": 5.111
-      },
-      {
-        "name": "The Original Rough Cheddar",
-        "balance": 61,
-        "lifetimePoints": 248,
-        "matchWins": 6,
-        "matchLosses": 3,
-        "gamesWon": 14,
-        "gamesLost": 9,
-        "gamesDrawn": 0,
-        "archetypeId": 44,
-        "archetypeName": "Parcel-Tongue Post",
-        "slacs": 5.058
       },
       {
         "name": "forgoudaboutit",
