@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T17:10:55.663Z",
+  "updatedAt": "2026-10-12T17:12:25.674Z",
   "cards": [
     {
       "id": 384,
@@ -28176,7 +28176,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 8,
+        "balance": 3,
         "lifetimePoints": 551,
         "matchWins": 13,
         "matchLosses": 8,
@@ -28185,7 +28185,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.996
+        "slacs": 11.079
       },
       {
         "name": "Edward Swissorhands",
