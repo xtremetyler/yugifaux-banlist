@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-12T15:23:55.367Z",
+  "updatedAt": "2026-10-12T15:24:25.313Z",
   "cards": [
     {
       "id": 384,
@@ -27971,7 +27971,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28075,6 +28075,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085327.jpg",
           "addedAt": "2026-10-12 15:23:51",
           "changedAt": "2026-10-12 15:23:51"
+        },
+        {
+          "id": 500,
+          "name": "Parcel-Tongue Post Package - SIGNATURE REQUIRED",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "For the rest of this turn, banish each card added to your hand from your Deck until the End Phase, except by drawing. Once per Duel, during either player's turn: You can attach this card in your GY to a face-up \"Parcel-Tongue Post\" Xyz Monster you control as material; make your opponent send 1 card from their hand or field to the GY.",
+          "duelingbookId": 6085334,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085334.jpg",
+          "addedAt": "2026-10-12 15:24:13",
+          "changedAt": "2026-10-12 15:24:13"
         }
       ]
     }
@@ -28121,7 +28136,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 5.493
+        "slacs": 5.572
       },
       {
         "name": "Brielieve In Cheesus",
