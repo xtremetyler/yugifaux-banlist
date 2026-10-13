@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:10:34.045Z",
+  "updatedAt": "2026-10-13T19:11:33.962Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 13,
+      "registeredCardCount": 14,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28573,6 +28573,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091725.jpg",
           "addedAt": "2026-10-13 19:10:28",
           "changedAt": "2026-10-13 19:10:28"
+        },
+        {
+          "id": 522,
+          "name": "Opening Day at Whenfare",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Place 1 \"Whenfare\" Normal Pendulum Monster from your Deck in an empty Pendulum Zone, then, if you control a \"Whenfare\" Normal Monster, you can add 1 face-up \"Whenfare\" Normal Pendulum Monster from your Extra Deck to your hand. You can only activate 1 \"Opening Day at Whenfare\" per turn.",
+          "duelingbookId": 6091742,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091742.jpg",
+          "addedAt": "2026-10-13 19:11:10",
+          "changedAt": "2026-10-13 19:11:10"
         }
       ]
     }
@@ -28645,7 +28660,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.44
+        "slacs": 4.452
       },
       {
         "name": "Joules Tune Brie 2 Blue",
