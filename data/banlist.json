@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:05:33.941Z",
+  "updatedAt": "2026-10-13T19:06:04.005Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28384,6 +28384,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090572.jpg",
           "addedAt": "2026-10-13 19:05:26",
           "changedAt": "2026-10-13 19:05:26"
+        },
+        {
+          "id": 512,
+          "name": "Morrow, Keeper of Whenfare's Crypts",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Zombie",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "600",
+          "def": "2100",
+          "pendulumScale": "8",
+          "pendulumEffect": "While you control a \"Whenfare\" Normal Monster, neither player can Special Summon monsters from the GY.",
+          "text": "A defeated knight demanded that the festival's spirits resurrect him for a rematch. Morrow calmly chained the crypt gates shut and rattled his enormous keys. \"The dead don't get a second entry,\" he croaked. \"Read the rules.\"",
+          "duelingbookId": 6090575,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090575.jpg",
+          "addedAt": "2026-10-13 19:05:58",
+          "changedAt": "2026-10-13 19:05:58"
         }
       ]
     }
@@ -28456,7 +28477,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.234
+        "slacs": 4.265
       },
       {
         "name": "Joules Tune Brie 2 Blue",
