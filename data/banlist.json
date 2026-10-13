@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T01:45:01.086Z",
+  "updatedAt": "2026-10-13T01:47:01.163Z",
   "cards": [
     {
       "id": 384,
@@ -10084,6 +10084,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002865.jpg",
       "addedAt": "2026-08-19 15:23:58",
       "changedAt": "2026-08-22 10:24:41"
+    },
+    {
+      "id": 735,
+      "name": "Primite Dragon Ether Beryl",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Dragon",
+      "attribute": "EARTH",
+      "levelRankLink": "Level 4",
+      "atk": "1600",
+      "def": "0",
+      "text": "If this card is Normal Summoned: You can Set 1 \"Primite\" Spell/Trap from your Deck. You can only use each of the following effects of \"Primite Dragon Ether Beryl\" once per turn. You can Tribute this card; send 1 Normal Monster from your Deck to the GY. During your Standby Phase, if you have a Normal Monster in your field or GY: You can add this card from the GY to your hand.",
+      "archetype": "Primite",
+      "contributor": "forgoudaboutit",
+      "passcode": "63198739",
+      "duelingbookId": 15994,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/63198739.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/primite-dragon-ether-beryl-14781",
+      "addedAt": "2026-10-13 01:46:52",
+      "changedAt": "2026-10-13 01:46:52"
     },
     {
       "id": 734,
@@ -28246,7 +28267,7 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 77,
+        "balance": 70,
         "lifetimePoints": 114,
         "matchWins": 2,
         "matchLosses": 4,
@@ -28255,7 +28276,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 2.886
+        "slacs": 2.915
       },
       {
         "name": "Joules Tune Brie 2 Blue",
