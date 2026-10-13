@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T14:59:04.017Z",
+  "updatedAt": "2026-10-13T15:35:33.943Z",
   "cards": [
     {
       "id": 384,
@@ -8893,6 +8893,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5975253.jpg",
       "addedAt": "2026-08-10 03:14:20",
       "changedAt": "2026-09-11 21:03:38"
+    },
+    {
+      "id": 737,
+      "name": "Moonwell Ferrymaiden",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Pendulum Effect Monster",
+      "monsterType": "Illusion",
+      "attribute": "WATER",
+      "levelRankLink": "Level 3",
+      "atk": "1200",
+      "def": "1200",
+      "pendulumScale": "1",
+      "pendulumEffect": "Once per turn: You can banish 1 card from your GY, then target 1 of your banished cards; send it to the GY.",
+      "text": "If this card is Special Summoned: You can discard 1 card, then target 1 of your banished cards; add it to your hand. You can only use each monster effect of \"Moonwell Ferrymaiden\" twice per turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6092980,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092980.jpg",
+      "addedAt": "2026-10-13 15:35:31",
+      "changedAt": "2026-10-13 15:35:31"
     },
     {
       "id": 729,
@@ -28320,7 +28341,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 55,
+        "balance": 46,
         "lifetimePoints": 477,
         "matchWins": 7,
         "matchLosses": 12,
@@ -28329,7 +28350,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 7.2
+        "slacs": 7.228
       },
       {
         "name": "The Original Rough Cheddar",
