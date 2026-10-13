@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:13:03.996Z",
+  "updatedAt": "2026-10-13T19:13:34.945Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 17,
+      "registeredCardCount": 18,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28633,6 +28633,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091749.jpg",
           "addedAt": "2026-10-13 19:12:44",
           "changedAt": "2026-10-13 19:12:44"
+        },
+        {
+          "id": 526,
+          "name": "The King's Decree Over Whenfare",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "While you control 2 or more \"Whenfare\" Normal Monsters with different names, your opponent cannot activate monster effects during the Main Phase 1 or Battle Phase. Once per turn, at the start of the Damage Step, if a \"Whenfare\" Normal Monster you control battles an opponent's monster: You can make that opponent's monster lose 1000 ATK until the end of the Damage Step.",
+          "duelingbookId": 6092298,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092298.jpg",
+          "addedAt": "2026-10-13 19:13:16",
+          "changedAt": "2026-10-13 19:13:16"
         }
       ]
     }
@@ -28705,7 +28720,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.484
+        "slacs": 4.493
       },
       {
         "name": "Joules Tune Brie 2 Blue",
