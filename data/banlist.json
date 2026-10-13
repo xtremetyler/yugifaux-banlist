@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:05:04.032Z",
+  "updatedAt": "2026-10-13T19:05:33.941Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28363,6 +28363,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090570.jpg",
           "addedAt": "2026-10-13 19:05:01",
           "changedAt": "2026-10-13 19:05:01"
+        },
+        {
+          "id": 511,
+          "name": "Bruna, the Blacksmith of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 4",
+          "atk": "1800",
+          "def": "1500",
+          "pendulumScale": "1",
+          "pendulumEffect": "During your Main Phase: You can activate this effect; immediately after this effect resolves, Normal Summon 1 \"Whenfare\" Normal Monster from your hand, Pendulum Zone or Face-up Extra Deck, then Special Summon this card. You can only use this effect of \"Bruna, the Blacksmith of Whenfare\" once per turn.",
+          "text": "When the newcomer complained that he had no weapon, Bruna fashioned him a sturdy oak sword. \"Tournament regulation,\" she declared, admiring her craftsmanship. She then examined his cooking-pot shield, sighed, and added, \"The rest is your problem.\"",
+          "duelingbookId": 6090572,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090572.jpg",
+          "addedAt": "2026-10-13 19:05:26",
+          "changedAt": "2026-10-13 19:05:26"
         }
       ]
     }
@@ -28435,7 +28456,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.199
+        "slacs": 4.234
       },
       {
         "name": "Joules Tune Brie 2 Blue",
