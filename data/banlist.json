@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T01:47:01.163Z",
+  "updatedAt": "2026-10-13T01:47:31.134Z",
   "cards": [
     {
       "id": 384,
@@ -6120,6 +6120,23 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6004328.jpg",
       "addedAt": "2026-08-20 13:46:32",
       "changedAt": "2026-09-11 23:27:14"
+    },
+    {
+      "id": 736,
+      "name": "Heat Wave",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "At the start of your Main Phase 1: Neither player can Normal or Special Summon Effect Monsters, until your next Draw Phase.",
+      "contributor": "forgoudaboutit",
+      "passcode": "45141013",
+      "duelingbookId": 2113,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/45141013.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/heat-wave-3848",
+      "addedAt": "2026-10-13 01:47:26",
+      "changedAt": "2026-10-13 01:47:26"
     },
     {
       "id": 39,
@@ -28267,7 +28284,7 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 70,
+        "balance": 63,
         "lifetimePoints": 114,
         "matchWins": 2,
         "matchLosses": 4,
@@ -28276,7 +28293,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 2.915
+        "slacs": 2.945
       },
       {
         "name": "Joules Tune Brie 2 Blue",
