@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T01:41:01.085Z",
+  "updatedAt": "2026-10-13T01:45:01.086Z",
   "cards": [
     {
       "id": 384,
@@ -10084,6 +10084,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6002865.jpg",
       "addedAt": "2026-08-19 15:23:58",
       "changedAt": "2026-08-22 10:24:41"
+    },
+    {
+      "id": 734,
+      "name": "Primite Drillbeam",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Quick-Play",
+      "spellTrapType": "Quick-Play",
+      "text": "Reveal 1 \"Primite\" card, or 1 Normal Monster, in your hand, except \"Primite Drillbeam\" (or if you control a Normal Monster or a Level 5 or higher \"Primite\" monster, except a Token, you can activate this effect without revealing a card), then target 1 face-up card on the field; negate its effects, and if you do, banish it. During your Main Phase, if you control a \"Primite\" monster: You can Set this card from your GY. You can only use each effect of \"Primite Drillbeam\" once per turn.",
+      "archetype": "Primite",
+      "contributor": "forgoudaboutit",
+      "passcode": "29095457",
+      "duelingbookId": 15758,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/29095457.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/primite-drillbeam-14550",
+      "addedAt": "2026-10-13 01:44:34",
+      "changedAt": "2026-10-13 01:44:34"
     },
     {
       "id": 357,
@@ -28176,8 +28194,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 3,
-        "lifetimePoints": 551,
+        "balance": 4,
+        "lifetimePoints": 552,
         "matchWins": 13,
         "matchLosses": 8,
         "gamesWon": 30,
@@ -28228,7 +28246,7 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 84,
+        "balance": 77,
         "lifetimePoints": 114,
         "matchWins": 2,
         "matchLosses": 4,
@@ -28237,7 +28255,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 2.857
+        "slacs": 2.886
       },
       {
         "name": "Joules Tune Brie 2 Blue",
