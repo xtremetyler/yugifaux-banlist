@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:07:03.945Z",
+  "updatedAt": "2026-10-13T19:08:04.019Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28447,6 +28447,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090573.jpg",
           "addedAt": "2026-10-13 19:07:02",
           "changedAt": "2026-10-13 19:07:02"
+        },
+        {
+          "id": 515,
+          "name": "The Warden of Whenfare's Stocks",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "1700",
+          "def": "1900",
+          "pendulumScale": "8",
+          "pendulumEffect": "If your opponent Special Summons a monster(s), while you control a \"Whenfare\" Normal Monster: You can target 1 of those monsters; change it to face-down Defense Position, then Special Summon this card.",
+          "text": "When a visiting wizard attempted to improve the newcomer's odds with a forbidden incantation, the Warden made an example of him. The spell fizzled, the stocks slammed shut, and the crowd cheered louder than it had for the joust.",
+          "duelingbookId": 6090582,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090582.jpg",
+          "addedAt": "2026-10-13 19:07:36",
+          "changedAt": "2026-10-13 19:07:36"
         }
       ]
     }
@@ -28519,7 +28540,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.318
+        "slacs": 4.34
       },
       {
         "name": "Joules Tune Brie 2 Blue",
