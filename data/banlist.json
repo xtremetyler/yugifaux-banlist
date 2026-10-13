@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T03:08:04.810Z",
+  "updatedAt": "2026-10-13T03:08:34.768Z",
   "cards": [
     {
       "id": 384,
@@ -26808,8 +26808,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 14,
-      "totalClauses": 59,
+      "addedClauses": 13,
+      "totalClauses": 58,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
