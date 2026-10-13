@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:09:04.037Z",
+  "updatedAt": "2026-10-13T19:09:34.070Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28522,6 +28522,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091713.jpg",
           "addedAt": "2026-10-13 19:08:55",
           "changedAt": "2026-10-13 19:08:55"
+        },
+        {
+          "id": 519,
+          "name": "The Magistrate of Whenfare's Common Folk",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 7",
+          "atk": "800",
+          "def": "2700",
+          "pendulumScale": "1",
+          "pendulumEffect": "While you control a \"Whenfare\" non-Effect Fusion or Link Monster and a \"Whenfare\" Normal Monster, neither player can Special Summon Effect Monsters from the hand or Deck.",
+          "text": "The nobles protested when a nameless peasant reached the tournament's final round. The Magistrate silenced them with one tremendous strike of his gavel. \"A stamped ticket is a stamped ticket!\" Nobody appreciated his ruling more than Tilda.",
+          "duelingbookId": 6091717,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091717.jpg",
+          "addedAt": "2026-10-13 19:09:21",
+          "changedAt": "2026-10-13 19:09:21"
         }
       ]
     }
@@ -28594,7 +28612,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.396
+        "slacs": 4.412
       },
       {
         "name": "Joules Tune Brie 2 Blue",
