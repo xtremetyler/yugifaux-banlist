@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:06:33.956Z",
+  "updatedAt": "2026-10-13T19:07:03.945Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28426,6 +28426,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090579.jpg",
           "addedAt": "2026-10-13 19:06:32",
           "changedAt": "2026-10-13 19:06:32"
+        },
+        {
+          "id": 514,
+          "name": "Sir Lancelittle, the Jousting Marshal of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 4",
+          "atk": "1900",
+          "def": "1000",
+          "pendulumScale": "1",
+          "pendulumEffect": "While you control 2 or more \"Whenfare\" Normal Monsters with different names, neither player can Special Summon more than 1 Effect Monster from the Extra Deck per turn.",
+          "text": "Sir Lancelittle challenged the newcomer to the tournament's opening joust. Unfortunately, his pony spotted a nearby meat-pie stall and abandoned the charge. The crowd called it an incredible upset. Lancelittle called it sabotage.",
+          "duelingbookId": 6090573,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090573.jpg",
+          "addedAt": "2026-10-13 19:07:02",
+          "changedAt": "2026-10-13 19:07:02"
         }
       ]
     }
@@ -28498,7 +28519,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.293
+        "slacs": 4.318
       },
       {
         "name": "Joules Tune Brie 2 Blue",
