@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:14:03.995Z",
+  "updatedAt": "2026-10-13T19:15:05.148Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 19,
+      "registeredCardCount": 21,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28666,6 +28666,44 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092314.jpg",
           "addedAt": "2026-10-13 19:13:55",
           "changedAt": "2026-10-13 19:13:55"
+        },
+        {
+          "id": 528,
+          "name": "The Grand Joust Champion of Whenfare",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 7",
+          "atk": "3100",
+          "def": "2500",
+          "pendulumScale": "8",
+          "pendulumEffect": "During your Main Phase: You can Special Summon 1 \"Whenfare\" Normal Monster from your Deck or face-up Extra Deck. You can only use this effect of \"The Grand Joust Champion of Whenfare\" once per turn. If a \"Whenfare\" Normal Monster you control attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
+          "text": "2 non-effect monsters and/or monsters that have their effects negated",
+          "duelingbookId": 6092291,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092291.jpg",
+          "addedAt": "2026-10-13 19:14:36",
+          "changedAt": "2026-10-13 19:14:36"
+        },
+        {
+          "id": 529,
+          "name": "The Grand Procession of Whenfare",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Machine",
+          "attribute": "EARTH",
+          "levelRankLink": "Link 3",
+          "atk": "2500",
+          "linkMarkers": [
+            "Bottom-Right",
+            "Bottom",
+            "Bottom-Left"
+          ],
+          "text": "1+ non-effect monster",
+          "duelingbookId": 6092319,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092319.jpg",
+          "addedAt": "2026-10-13 19:14:56",
+          "changedAt": "2026-10-13 19:14:56"
         }
       ]
     }
@@ -28738,7 +28776,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.502
+        "slacs": 4.518
       },
       {
         "name": "Joules Tune Brie 2 Blue",
