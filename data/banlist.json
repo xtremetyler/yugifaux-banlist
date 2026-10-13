@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T01:47:31.134Z",
+  "updatedAt": "2026-10-13T01:54:01.105Z",
   "cards": [
     {
       "id": 384,
@@ -28027,7 +28027,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28221,6 +28221,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085256.jpg",
           "addedAt": "2026-10-12 15:26:12",
           "changedAt": "2026-10-12 15:26:12"
+        },
+        {
+          "id": 506,
+          "name": "Parcel-Tongue Post Scale Mail Dispatcher",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Reptile",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "EARTH",
+          "levelRankLink": "Level 1",
+          "atk": "0",
+          "def": "400",
+          "text": "If you have Set a card(s) to your opponent's field this turn: You can Special Summon this card (from your hand). You can only special summon this card once per turn this way. During the Main Phase (Quick Effect): You can send this card you control to your GY; add 1 \"Parcel-Tongue Post Courier\" and 1 \"Parcel-Tongue Post Package\" Spell from your Deck to your hand, but if you activate this effect in response to the activation of your opponent's card or effect, you can only add 1 or the other of those cards instead. During your Main Phase, while this card is in your GY: You can attach it to 1 face-up Reptile Xyz Monster you control as material; add 1 \"Parcel-Tongue Post\" card from your GY to your hand, except \"Parcel-Tongue Post Scale Mail Dispatcher\", or Set 1 \"Package\" Spell from your GY to your opponent's field.",
+          "duelingbookId": 6092335,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092335.jpg",
+          "addedAt": "2026-10-13 01:53:45",
+          "changedAt": "2026-10-13 01:53:45"
         }
       ]
     }
@@ -28267,7 +28286,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 6.073
+        "slacs": 6.142
       },
       {
         "name": "Brielieve In Cheesus",
