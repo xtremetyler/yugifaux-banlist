@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T02:33:22.154Z",
+  "updatedAt": "2026-10-13T02:38:52.680Z",
   "cards": [
     {
       "id": 384,
@@ -28278,6 +28278,26 @@
           "changedAt": "2026-10-13 01:56:04"
         }
       ]
+    },
+    {
+      "id": 45,
+      "name": "Whenfare",
+      "creator": "forgoudaboutit",
+      "status": "active",
+      "description": "Welcome to the Whenfare, the most even handed fare you'll ever visit! No carnival scams here, just good clean family fun.",
+      "submittedAt": "2026-10-13 02:38:42",
+      "activatedAt": "2026-10-13 02:38:42",
+      "declaredCardCount": 21,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 3,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -28346,9 +28366,9 @@
         "gamesWon": 7,
         "gamesLost": 9,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null,
-        "slacs": 2.945
+        "archetypeId": 45,
+        "archetypeName": "Whenfare",
+        "slacs": 3.358
       },
       {
         "name": "Joules Tune Brie 2 Blue",
