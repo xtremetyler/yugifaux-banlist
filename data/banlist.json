@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T01:54:01.105Z",
+  "updatedAt": "2026-10-13T01:55:31.093Z",
   "cards": [
     {
       "id": 384,
@@ -28027,7 +28027,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 13,
+      "registeredCardCount": 14,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28240,6 +28240,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092335.jpg",
           "addedAt": "2026-10-13 01:53:45",
           "changedAt": "2026-10-13 01:53:45"
+        },
+        {
+          "id": 507,
+          "name": "Parcel-Tongue Post - 1-Day Air",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Reptile",
+          "attribute": "EARTH",
+          "levelRankLink": "Link 1",
+          "atk": "1900",
+          "linkMarkers": [
+            "Bottom"
+          ],
+          "text": "1 Parcel-Tongue Post Monster\nIf this card was link summoned: You can Set up to 2 \"Parcel-Tongue Post Package\" Spells from your hand or Deck to your opponent's field. Then, if your opponent controls at least 4 Set cards in their Spell & Trap Zone; Special Summon a “Parcel Tongue Post” monster from your GY or Banishment. This Link Summoned card you control can't be destroyed by battle.",
+          "duelingbookId": 6092327,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092327.jpg",
+          "addedAt": "2026-10-13 01:55:11",
+          "changedAt": "2026-10-13 01:55:11"
         }
       ]
     }
@@ -28286,7 +28304,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 6.142
+        "slacs": 6.209
       },
       {
         "name": "Brielieve In Cheesus",
