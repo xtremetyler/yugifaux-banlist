@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T03:08:34.768Z",
+  "updatedAt": "2026-10-13T03:34:34.965Z",
   "cards": [
     {
       "id": 384,
@@ -26808,8 +26808,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 13,
-      "totalClauses": 58,
+      "addedClauses": 14,
+      "totalClauses": 59,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -26859,11 +26859,11 @@
           "levelRankLink": "Level 7",
           "atk": "2300",
           "def": "2400",
-          "text": "During your Main Phase: You can return 1 \"Mosaic Refrain\" Normal Monster you control to your hand; Special Summon this card (from your hand). You can only Special Summon \"Gray Lady of Mosaic Refrain\" this way once per turn. You can send this card from your hand or field to the GY; Set 1 Trap Card from your Deck with an effect that Special Summons itself as a Monster. This is a Quick Effect while this card is face-up on the field. You can activate a Trap Card Set by either of this card's effects during the same turn it was Set.",
+          "text": "During your Main Phase: You can return 1 \"Mosaic Refrain\" Normal Monster you control to your hand; Special Summon this card (from your hand). You can only Special Summon \"Gray Lady of Mosaic Refrain\" this way once per turn. You can send this card from your hand or field to the GY; Set 1 Trap Card from your Deck with an effect that Special Summons itself as a Monster. This is a Quick Effect while this card is face-up on the field. While this card is in your GY (Quick Effect): You can target up to 2 Trap Cards in your Banishment (min. 1); place those targets on the bottom of your Deck, and if you do, each Monster you control that is also a Trap gains 1000 ATK. If each of those targets was a \"Mosaic Refrain\" Trap, you can Set 1 of them instead. You can activate a Trap Card Set by either of this card's effects during the same turn it was Set.",
           "duelingbookId": 6077023,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077023.jpg",
           "addedAt": "2026-10-06 14:48:13",
-          "changedAt": "2026-10-07 20:26:19"
+          "changedAt": "2026-10-13 03:34:18"
         },
         {
           "id": 469,
