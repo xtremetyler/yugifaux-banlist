@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:09:34.070Z",
+  "updatedAt": "2026-10-13T19:10:04.068Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28540,6 +28540,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091717.jpg",
           "addedAt": "2026-10-13 19:09:21",
           "changedAt": "2026-10-13 19:09:21"
+        },
+        {
+          "id": 520,
+          "name": "Fairgoer of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 1",
+          "atk": "500",
+          "def": "500",
+          "pendulumScale": "4",
+          "pendulumEffect": "During your Main Phase: You can activate this effect; until the start of your next turn, you can treat each of Spell & Trap Zones as a Pendulum Zone, but you may not place or activate Monster Cards to them, except \"Whenfare\" Pendulum Monster Cards, then Special Summon this card.",
+          "text": "He came to Whenfare for a turkey leg, not a tournament. A mistakenly stamped ticket, a wooden sword, and a cooking-pot shield carried him through battles against knights and champions alike. By sunset, the entire kingdom cheered his name, and an ordinary peasant had become a legend. He still hadn't found the food stalls.",
+          "duelingbookId": 6091729,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091729.jpg",
+          "addedAt": "2026-10-13 19:09:49",
+          "changedAt": "2026-10-13 19:09:49"
         }
       ]
     }
@@ -28612,7 +28630,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.412
+        "slacs": 4.426
       },
       {
         "name": "Joules Tune Brie 2 Blue",
