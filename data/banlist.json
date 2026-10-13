@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:08:04.019Z",
+  "updatedAt": "2026-10-13T19:08:34.013Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 7,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28468,6 +28468,42 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090582.jpg",
           "addedAt": "2026-10-13 19:07:36",
           "changedAt": "2026-10-13 19:07:36"
+        },
+        {
+          "id": 516,
+          "name": "Folly, the Court Jester of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 3",
+          "atk": "1300",
+          "def": "800",
+          "pendulumScale": "8",
+          "pendulumEffect": "During your Main Phase: You can add 1 face-up \"Whenfare\" Normal Pendulum Monster from your Extra Deck to your hand, then Special Summon this card. You can only use this effect of \"Folly, the Court Jester of Whenfare\" once per turn.",
+          "text": "With a delighted laugh, Folly dropped the jousting curtains and opened the next attraction. The audience roared as the entire stage transformed. Our accidental contestant discovered that an intermission at Whenfare meant another competition, not a rest.",
+          "duelingbookId": 6091691,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091691.jpg",
+          "addedAt": "2026-10-13 19:08:05",
+          "changedAt": "2026-10-13 19:08:05"
+        },
+        {
+          "id": 517,
+          "name": "Sir Bonksalot, Tournament Champion of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 7",
+          "atk": "2600",
+          "def": "2100",
+          "pendulumScale": "1",
+          "pendulumEffect": "All \"Whenfare\" non-Effect Monsters you control gain 500 ATK. If a \"Whenfare\" non-Effect Monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.",
+          "text": "Sir Bonksalot entered the next match carrying a wooden mallet larger than his opponent. The peasant raised his cooking-pot shield anyway. When the first mighty blow failed to knock him down, the champion grinned. Finally, a worthy challenger!",
+          "duelingbookId": 6091700,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091700.jpg",
+          "addedAt": "2026-10-13 19:08:27",
+          "changedAt": "2026-10-13 19:08:27"
         }
       ]
     }
@@ -28540,7 +28576,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.34
+        "slacs": 4.379
       },
       {
         "name": "Joules Tune Brie 2 Blue",
