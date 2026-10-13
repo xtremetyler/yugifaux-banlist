@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T18:58:04.026Z",
+  "updatedAt": "2026-10-13T19:05:04.032Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 0,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28318,7 +28318,53 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 509,
+      "featuredCardName": "Tilda, the Ticket Taker of Whenfare",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090566.jpg",
+      "cards": [
+        {
+          "id": 509,
+          "name": "Tilda, the Ticket Taker of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 3",
+          "atk": "1400",
+          "def": "1200",
+          "pendulumScale": "1",
+          "pendulumEffect": "If this card is activated: You can add 1 \"Whenfare\" card from your Deck to your hand, except \"Whenfare – Tilda the Ticket Taker\", then Special Summon this card. You can only use this effect of \"Whenfare – Tilda the Ticket Taker\" once per turn.",
+          "text": "The lad arrived at Whenfare with a cooking-pot lid for a shield and asked where the spectators sat. Tilda stamped his ticket, handed him a contestant's ribbon, and pointed him toward the jousting gates. She has never admitted to the mix-up.",
+          "duelingbookId": 6090566,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090566.jpg",
+          "addedAt": "2026-10-13 19:04:39",
+          "changedAt": "2026-10-13 19:04:39"
+        },
+        {
+          "id": 510,
+          "name": "Leopold, the Royal Herald of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 3",
+          "atk": "1600",
+          "def": "1400",
+          "pendulumScale": "8",
+          "pendulumEffect": "During your Main Phase, if you control no monsters: You can add 1 \"Whenfare\" Normal Pendulum Monster from your Deck to your hand, except \"Leopold, the Royal Herald of Whenfare\", then Special Summon this card. You can only use this effect of \"Leopold, the Royal Herald of Whenfare\" once per turn.",
+          "text": "Leopold's opening proclamation promised a tournament decided by courage, not sorcery. No shortcuts, no second chances, and absolutely no cheating! The crowd erupted in applause, while one confused visitor realized his admission ticket had entered him into the competition.",
+          "duelingbookId": 6090570,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090570.jpg",
+          "addedAt": "2026-10-13 19:05:01",
+          "changedAt": "2026-10-13 19:05:01"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -28389,7 +28435,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.114
+        "slacs": 4.199
       },
       {
         "name": "Joules Tune Brie 2 Blue",
