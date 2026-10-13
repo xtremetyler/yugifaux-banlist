@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:10:04.068Z",
+  "updatedAt": "2026-10-13T19:10:34.045Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28558,6 +28558,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091729.jpg",
           "addedAt": "2026-10-13 19:09:49",
           "changedAt": "2026-10-13 19:09:49"
+        },
+        {
+          "id": 521,
+          "name": "The Grand Faregrounds of Whenfare",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When this card is activated: You can add 1 \"Whenfare\" Normal Pendulum Monster from your Deck to your hand. During your Main Phase, you can Normal Summon 1 \"Whenfare\" Normal Monster in addition to your Normal Summon/Set. (You can only gain this effect once per turn.) If you Normal Summon a \"Whenfare\" Normal Monster: You can Special Summon 1 \"Fairgoer of Whenfare\" from your hand, Deck, GY, or Banishment. Once per turn, during your Main Phase: You can destroy 1 \"Whenfare\" card in your Pendulum Zone, and if you do, place 1 \"Whenfare\" Normal Pendulum Monster with a different name from your Deck or face-up Extra Deck in that Pendulum Zone.",
+          "duelingbookId": 6091725,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091725.jpg",
+          "addedAt": "2026-10-13 19:10:28",
+          "changedAt": "2026-10-13 19:10:28"
         }
       ]
     }
@@ -28630,7 +28645,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.426
+        "slacs": 4.44
       },
       {
         "name": "Joules Tune Brie 2 Blue",
