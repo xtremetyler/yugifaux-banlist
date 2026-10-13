@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:12:03.955Z",
+  "updatedAt": "2026-10-13T19:12:33.949Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 15,
+      "registeredCardCount": 16,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28603,6 +28603,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092118.jpg",
           "addedAt": "2026-10-13 19:11:40",
           "changedAt": "2026-10-13 19:11:40"
+        },
+        {
+          "id": 524,
+          "name": "Intermission at Whenfare!",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Target 1 \"Whenfare\" card in your Pendulum Zone; destroy it, and if you do, place 1 \"Whenfare\" Normal Pendulum Monster with a different name from your Deck or face-up Extra Deck in that Pendulum Zone, then, if you control a \"Whenfare\" Normal Monster, you can change 1 face-up monster your opponent controls to face-down Defense Position. You can only activate 1 \"Intermission at Whenfare!\" per turn.",
+          "duelingbookId": 6091748,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091748.jpg",
+          "addedAt": "2026-10-13 19:12:09",
+          "changedAt": "2026-10-13 19:12:09"
         }
       ]
     }
@@ -28675,7 +28690,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.463
+        "slacs": 4.474
       },
       {
         "name": "Joules Tune Brie 2 Blue",
