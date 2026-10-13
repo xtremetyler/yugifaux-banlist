@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:13:34.945Z",
+  "updatedAt": "2026-10-13T19:14:03.995Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 18,
+      "registeredCardCount": 19,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28648,6 +28648,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092298.jpg",
           "addedAt": "2026-10-13 19:13:16",
           "changedAt": "2026-10-13 19:13:16"
+        },
+        {
+          "id": 527,
+          "name": "The Ticket Gate of Whenfare",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Machine",
+          "attribute": "EARTH",
+          "levelRankLink": "Link 1",
+          "atk": "800",
+          "linkMarkers": [
+            "Bottom"
+          ],
+          "text": "1 non-effect monster",
+          "duelingbookId": 6092314,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092314.jpg",
+          "addedAt": "2026-10-13 19:13:55",
+          "changedAt": "2026-10-13 19:13:55"
         }
       ]
     }
@@ -28720,7 +28738,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.493
+        "slacs": 4.502
       },
       {
         "name": "Joules Tune Brie 2 Blue",
