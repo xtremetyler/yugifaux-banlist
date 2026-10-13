@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:11:33.962Z",
+  "updatedAt": "2026-10-13T19:12:03.955Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 14,
+      "registeredCardCount": 15,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28588,6 +28588,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091742.jpg",
           "addedAt": "2026-10-13 19:11:10",
           "changedAt": "2026-10-13 19:11:10"
+        },
+        {
+          "id": 523,
+          "name": "Trial by Combat at Whenfare",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Fusion Summon 1 Fusion Monster from your Extra Deck, using Normal Monsters from your hand or field as material. If you control \"The Grand Fairgrounds of Whenfare\", you can also use 1 face-up \"Whenfare\" Pendulum Monster from your Extra Deck and/or 1 monster your opponent controls that has its effects negated as material by shuffling it into the Deck.",
+          "duelingbookId": 6092118,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092118.jpg",
+          "addedAt": "2026-10-13 19:11:40",
+          "changedAt": "2026-10-13 19:11:40"
         }
       ]
     }
@@ -28660,7 +28675,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.452
+        "slacs": 4.463
       },
       {
         "name": "Joules Tune Brie 2 Blue",
