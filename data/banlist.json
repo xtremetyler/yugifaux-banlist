@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T17:17:34.054Z",
+  "updatedAt": "2026-10-13T17:25:33.973Z",
   "cards": [
     {
       "id": 384,
@@ -28341,7 +28341,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 46,
+        "balance": 40,
         "lifetimePoints": 477,
         "matchWins": 7,
         "matchLosses": 12,
@@ -28350,7 +28350,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 7.228
+        "slacs": 7.257
       },
       {
         "name": "The Original Rough Cheddar",
