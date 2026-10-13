@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T01:55:31.093Z",
+  "updatedAt": "2026-10-13T01:56:31.101Z",
   "cards": [
     {
       "id": 384,
@@ -28027,7 +28027,7 @@
       "submittedAt": "2026-10-12 15:13:27",
       "activatedAt": "2026-10-12 15:13:27",
       "declaredCardCount": 12,
-      "registeredCardCount": 14,
+      "registeredCardCount": 15,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -28258,6 +28258,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092327.jpg",
           "addedAt": "2026-10-13 01:55:11",
           "changedAt": "2026-10-13 01:55:11"
+        },
+        {
+          "id": 508,
+          "name": "Parcel-Tongue Post - Secret Insurance",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Reptile",
+          "attribute": "EARTH",
+          "levelRankLink": "Link 1",
+          "atk": "1000",
+          "linkMarkers": [
+            "Bottom"
+          ],
+          "text": "1 Parcel-Tongue Post Monster\n\"Parcel-Tongue\" Monsters this card points to are unaffected by your opponent's card effects. If this card was link summoned: you may discard a card from your Hand; if you do Banish 1 Monster your opponent controls, then shuffle up to 3 “Parcel Tongue Post Package” cards in your GY or Banishment into your deck.",
+          "duelingbookId": 6092330,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092330.jpg",
+          "addedAt": "2026-10-13 01:56:04",
+          "changedAt": "2026-10-13 01:56:04"
         }
       ]
     }
@@ -28304,7 +28322,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 6.209
+        "slacs": 6.274
       },
       {
         "name": "Brielieve In Cheesus",
