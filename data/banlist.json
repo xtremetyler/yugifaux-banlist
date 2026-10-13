@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:08:34.013Z",
+  "updatedAt": "2026-10-13T19:09:04.037Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28504,6 +28504,24 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091700.jpg",
           "addedAt": "2026-10-13 19:08:27",
           "changedAt": "2026-10-13 19:08:27"
+        },
+        {
+          "id": 518,
+          "name": "Rowan, the Archer of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Warrior",
+          "attribute": "WIND",
+          "levelRankLink": "Level 4",
+          "atk": "1800",
+          "def": "1600",
+          "pendulumScale": "1",
+          "pendulumEffect": "Once per turn, during the Battle Phase, if you control a “Whenfare” Normal Monster: You can make all face-up effect monsters your opponent controls lose 1200 ATK, then Special Summon this card during the End Phase.",
+          "text": "Between rounds, Rowan noticed the peasant's trembling sword hand and offered some advice. \"Watch your opponent's feet, not the size of his weapon.\" One carefully aimed practice arrow later, even mighty Bonksalot found himself stumbling.",
+          "duelingbookId": 6091713,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091713.jpg",
+          "addedAt": "2026-10-13 19:08:55",
+          "changedAt": "2026-10-13 19:08:55"
         }
       ]
     }
@@ -28576,7 +28594,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.379
+        "slacs": 4.396
       },
       {
         "name": "Joules Tune Brie 2 Blue",
