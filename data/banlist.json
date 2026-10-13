@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-13T19:06:04.005Z",
+  "updatedAt": "2026-10-13T19:06:33.956Z",
   "cards": [
     {
       "id": 384,
@@ -28309,7 +28309,7 @@
       "submittedAt": "2026-10-13 02:38:42",
       "activatedAt": "2026-10-13 02:38:42",
       "declaredCardCount": 21,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -28405,6 +28405,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090575.jpg",
           "addedAt": "2026-10-13 19:05:58",
           "changedAt": "2026-10-13 19:05:58"
+        },
+        {
+          "id": 513,
+          "name": "Madame Maybe, the Fortune Teller of Whenfare",
+          "source": "custom",
+          "cardType": "Normal Monster",
+          "monsterType": "Spellcaster",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "900",
+          "def": "2000",
+          "pendulumScale": "8",
+          "pendulumEffect": "While you control 2 or more \"Whenfare\" Normal Monsters with different names, neither player can draw more than 1 card per turn.",
+          "text": "Madame Maybe turned a single card and saw the nameless fairgoer standing beneath the tournament's victory banner. Before anyone could ask how, she locked the rest of her deck inside an ornate chest. At Whenfare, even prophecy has a daily limit.",
+          "duelingbookId": 6090579,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090579.jpg",
+          "addedAt": "2026-10-13 19:06:32",
+          "changedAt": "2026-10-13 19:06:32"
         }
       ]
     }
@@ -28477,7 +28498,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.265
+        "slacs": 4.293
       },
       {
         "name": "Joules Tune Brie 2 Blue",
