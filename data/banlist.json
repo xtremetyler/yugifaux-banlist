@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:34:12.808Z",
+  "updatedAt": "2026-10-14T19:34:42.794Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29674,6 +29674,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051765.jpg",
           "addedAt": "2026-10-14 19:33:56",
           "changedAt": "2026-10-14 19:33:56"
+        },
+        {
+          "id": 541,
+          "name": "Re:B00t Captain Keybeard of the S.S.-D.",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Cyberse",
+          "attribute": "DARK",
+          "levelRankLink": "Level 8",
+          "atk": "3200",
+          "def": "1600",
+          "text": "1 Tuner + 1 non-Tuner, including \"Re:B00t Freebooter\"\nWhile you control this Synchro Summoned card, Continuous Traps you control cannot be destroyed or banished by your opponent's card effects. You can only activate each of the following effects of \"Re:B00t Captain Keybeard of the S.S.-D.\" once per turn. If this card is Special Summoned: You can return up to 2 cards on the field to the hand. When your opponent activates a Spell/Trap Card or effect: You can banish 1 Spell/Trap you control or 1 \"Re:B00t Pirate Bay\" from your hand, Deck, or GY: negate that activation, and if you do, you can Set that card to either field.",
+          "duelingbookId": 6051770,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051770.jpg",
+          "addedAt": "2026-10-14 19:34:25",
+          "changedAt": "2026-10-14 19:34:25"
         }
       ]
     }
@@ -29694,7 +29710,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.756
+        "slacs": 10.789
       },
       {
         "name": "Edward Swissorhands",
