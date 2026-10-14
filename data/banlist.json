@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:33:42.840Z",
+  "updatedAt": "2026-10-14T19:34:12.808Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29658,6 +29658,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051760.jpg",
           "addedAt": "2026-10-14 19:33:36",
           "changedAt": "2026-10-14 19:33:36"
+        },
+        {
+          "id": 540,
+          "name": "Re:B00t Crash Corsair",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Cyberse",
+          "attribute": "DARK",
+          "levelRankLink": "Level 7",
+          "atk": "2800",
+          "def": "1600",
+          "text": "1 Tuner + 1 non-Tuner, including \"Re:B00t Freebooter\"\nIf this card is Synchro Summoned: You can add 1 of its Materials from your GY to your hand. When your opponent activates a Spell/Trap Card or effect from their hand or in their GY: You can send 1 \"Re:B00t Pirate Bay\" from your hand, field, or Deck to the GY; negate that activation, and if you do, you can Set that card to either field. You can only activate each effect of \"Re:B00t Crash Corsair\" once per turn.",
+          "duelingbookId": 6051765,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051765.jpg",
+          "addedAt": "2026-10-14 19:33:56",
+          "changedAt": "2026-10-14 19:33:56"
         }
       ]
     }
@@ -29678,7 +29694,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.722
+        "slacs": 10.756
       },
       {
         "name": "Edward Swissorhands",
