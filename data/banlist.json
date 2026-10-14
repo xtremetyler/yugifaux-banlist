@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:24:12.760Z",
+  "updatedAt": "2026-10-14T19:24:42.788Z",
   "cards": [
     {
       "id": 384,
@@ -29469,6 +29469,26 @@
           "changedAt": "2026-10-13 19:14:56"
         }
       ]
+    },
+    {
+      "id": 46,
+      "name": "Re:B00t",
+      "creator": "Left Parm of the Forbitten One",
+      "status": "active",
+      "description": "Avast, ye scallywags and set sail across the Great Wide Web. Be ye wary, tho', sailor; there argh pirates out there in the Pirate Bay. Ye never know what it is they be up(loadin') to...",
+      "submittedAt": "2026-10-14 19:24:17",
+      "activatedAt": "2026-10-14 19:24:17",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 3,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -29485,9 +29505,9 @@
         "gamesWon": 33,
         "gamesLost": 29,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null,
-        "slacs": 9.852
+        "archetypeId": 46,
+        "archetypeName": "Re:B00t",
+        "slacs": 10.312
       },
       {
         "name": "Edward Swissorhands",
