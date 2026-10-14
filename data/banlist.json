@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:29:12.836Z",
+  "updatedAt": "2026-10-14T19:30:12.870Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29582,6 +29582,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051733.jpg",
           "addedAt": "2026-10-14 19:29:00",
           "changedAt": "2026-10-14 19:29:00"
+        },
+        {
+          "id": 535,
+          "name": "Re:B00t Port Access",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "You may only activate this card during your Main Phase 1, unless you control \"Re:B00t Pirate Bay\". Activate 1 of the following effects.\n● Once per Duel, you can add 1 Continuous Trap or 1 Level 4 or lower Tuner Monster from your Deck to your hand, but if you did not add a \"Re:B00t\" card this way, skip the rest of this Phase (including the rest of this Chain).\n● Excavate the top 4 cards of your Deck and add 1 excavated \"Re:B00t\" card to your hand, then send the rest to the GY. If you did not add a \"Re:B00t\" card this way, shuffle the rest into your Deck instead.\nYou can only activate 1 \"Re:B00t Port Access\" effect per turn and only once per turn.",
+          "duelingbookId": 6051777,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051777.jpg",
+          "addedAt": "2026-10-14 19:29:47",
+          "changedAt": "2026-10-14 19:29:47"
         }
       ]
     }
@@ -29602,7 +29617,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.534
+        "slacs": 10.574
       },
       {
         "name": "Edward Swissorhands",
