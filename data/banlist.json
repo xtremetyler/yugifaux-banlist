@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T00:49:04.848Z",
+  "updatedAt": "2026-10-14T01:00:51.919Z",
   "cards": [
     {
       "id": 384,
@@ -29282,6 +29282,17 @@
     ]
   },
   "events": [
+    {
+      "id": 2,
+      "name": "⚔️ DUEL MONSTERS REFORGED! ⚔️",
+      "description": "⚔️ DUEL MONSTERS REFORGED! ⚔️\n\n📅 Friday, October 23, 2026\n⏰ 9:00 AM – 11:59 PM CT\n\nThe classics are getting a modern makeover!\n\nWe're going back to the original Yu-Gi-Oh! Duel Monsters era and giving some of its most iconic cards a second life!\n\n🃏 EVENT RULES\n\nEach participant may select 1 iconic Duel Monsters-era card to retrain.\n\nYour chosen card must not already have an existing retrain.\n\nYou may transform your chosen card into ANY card type — Monster, Spell, Trap, Fusion, Synchro, Xyz, Link, or Pendulum!\n\nYour retrain must preserve the original card's identity, theme, or mechanics while introducing a creative modern interpretation.\n\nEach original card can only be claimed by one participant. First come, first served!\n\nNormal YugiFaux custom card creation restrictions apply.\n\n💡 EXAMPLE\n\nEnemy Controller → Union Controller\n\nYour retrain doesn't have to be the same card type as the original. Get creative and reinvent a classic in an entirely new way!\n\n🔥 BRING BACK THE LEGENDS!",
+      "location": "YugiFaux Discord Server",
+      "startAt": "2026-10-23T14:00:00.000Z",
+      "endAt": "2026-10-24T04:59:00.000Z",
+      "imageUrl": "https://cdn.discordapp.com/guild-events/1559732687353413713/6e4ea84f1525db918e0a602d61287724.webp?size=1024",
+      "discordUrl": "https://discord.com/events/884532137359978557/1559732687353413713",
+      "status": "scheduled"
+    },
     {
       "id": 1,
       "name": "Advent of Falsehood - Draft Night!",
