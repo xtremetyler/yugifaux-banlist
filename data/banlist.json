@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:28:12.812Z",
+  "updatedAt": "2026-10-14T19:29:12.836Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29567,6 +29567,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051754.jpg",
           "addedAt": "2026-10-14 19:28:05",
           "changedAt": "2026-10-14 19:28:05"
+        },
+        {
+          "id": 534,
+          "name": "Re:B00t Pirate Bay",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "You can activate this card from your GY by returning 1 Level 4 or lower Tuner Monster you control to your hand. You can only activate \"Re:B00t Pirate Bay\" this way once per turn. If a Cyberse Tuner Monster would be used as Synchro Material, you can treat it as a non-Tuner instead.",
+          "duelingbookId": 6051733,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051733.jpg",
+          "addedAt": "2026-10-14 19:29:00",
+          "changedAt": "2026-10-14 19:29:00"
         }
       ]
     }
@@ -29587,7 +29602,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.493
+        "slacs": 10.534
       },
       {
         "name": "Edward Swissorhands",
