@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:25:42.879Z",
+  "updatedAt": "2026-10-14T19:26:42.883Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29510,6 +29510,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051315.jpg",
           "addedAt": "2026-10-14 19:25:37",
           "changedAt": "2026-10-14 19:25:37"
+        },
+        {
+          "id": 531,
+          "name": "Re:B00t Argh Drive",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Cyberse",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "FIRE",
+          "levelRankLink": "Level 1",
+          "atk": "400",
+          "def": "800",
+          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it; add 1 card from your Banishment to your hand, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. You can only activate this effect of \"Re:B00t Argh Drive\" once per turn. While you control this face-up card (or a Monster Synchro Summoned using this card as Material) and \"Re:B00t Pirate Bay\", apply the following effect.\n● Each player can only activate the Quick Effects of Monster Cards they own during their turn.",
+          "duelingbookId": 6051756,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051756.jpg",
+          "addedAt": "2026-10-14 19:26:37",
+          "changedAt": "2026-10-14 19:26:37"
         }
       ]
     }
@@ -29530,7 +29549,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.36
+        "slacs": 10.406
       },
       {
         "name": "Edward Swissorhands",
