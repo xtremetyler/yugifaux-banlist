@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T18:31:26.852Z",
+  "updatedAt": "2026-10-14T18:31:56.855Z",
   "cards": [
     {
       "id": 384,
@@ -6114,7 +6114,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "If a face-down card in your Spell & Trap Zone would leave the field by your opponent's card effect, reveal it to your opponent instead. Your opponent cannot activate Monster effects in response to the activation of \"Mosaic Refrain\" Traps you control.",
+      "text": "If a face-down card in your Spell & Trap Zone would leave the field by your opponent's card effect, reveal it to your opponent instead. Your opponent cannot activate Monster effects in response to the activation of \"Mosaic Refrain\" Traps you control. Once per turn, during your Standby Phase, while a Thunder Monster is face-up on your field or in your GY: You can place 1 \"Mosaic Refrain\" Trap from your GY on the bottom of your Deck; draw 1 card.",
       "archetype": "Mosaic Refrain",
       "archetypeId": 42,
       "contributor": "Left Parm of the Forbitten One",
@@ -9191,7 +9191,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Destroy 1 face-up Monster on the field with the highest total ATK plus DEF, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1600/DEF 300) (this card is also still a Trap). If Summoned by its own effect, this card cannot be destroyed by your opponent's card effects. When your opponent activates a card or effect by Tributing or destroying a card(s) in their hand and/or field, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to destroy as many face-up cards in Field Zones as possible, except \"Hallowed Palace of All-Glass\". You can only use this effect of \"Mosaic Refrain - Patchwork Rebellion\" once per turn.",
+      "text": "Destroy 1 face-up Monster on the field with the highest total ATK plus DEF, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1600/DEF 300) (this card is also still a Trap). If Summoned by its own effect, this card cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Mosaic Refrain - Patchwork Rebellion\" once per turn. When your opponent activates a card or effect by Tributing or destroying a card(s) in their hand and/or field, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to destroy as many face-up cards in Field Zones as possible, except \"Hallowed Palace of All-Glass\". While this card is in your GY: You can banish it; Gain 1000 LP, then you can banish 1 face-up Spell your opponent controls.",
       "archetype": "Mosaic Refrain",
       "archetypeId": 42,
       "contributor": "Left Parm of the Forbitten One",
@@ -15933,7 +15933,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "If a face-down card in your Spell & Trap Zone would leave the field by your opponent's card effect, reveal it to your opponent instead. Your opponent cannot activate Monster effects in response to the activation of \"Mosaic Refrain\" Traps you control.",
+          "text": "If a face-down card in your Spell & Trap Zone would leave the field by your opponent's card effect, reveal it to your opponent instead. Your opponent cannot activate Monster effects in response to the activation of \"Mosaic Refrain\" Traps you control. Once per turn, during your Standby Phase, while a Thunder Monster is face-up on your field or in your GY: You can place 1 \"Mosaic Refrain\" Trap from your GY on the bottom of your Deck; draw 1 card.",
           "archetype": "Mosaic Refrain",
           "archetypeId": 42,
           "contributor": "Left Parm of the Forbitten One",
@@ -16094,7 +16094,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Destroy 1 face-up Monster on the field with the highest total ATK plus DEF, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1600/DEF 300) (this card is also still a Trap). If Summoned by its own effect, this card cannot be destroyed by your opponent's card effects. When your opponent activates a card or effect by Tributing or destroying a card(s) in their hand and/or field, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to destroy as many face-up cards in Field Zones as possible, except \"Hallowed Palace of All-Glass\". You can only use this effect of \"Mosaic Refrain - Patchwork Rebellion\" once per turn.",
+          "text": "Destroy 1 face-up Monster on the field with the highest total ATK plus DEF, then you can Special Summon this card as a Normal Tuner Monster (Illusion/LIGHT/Level 3/ATK 1600/DEF 300) (this card is also still a Trap). If Summoned by its own effect, this card cannot be destroyed by your opponent's card effects. You can only use each of the following effects of \"Mosaic Refrain - Patchwork Rebellion\" once per turn. When your opponent activates a card or effect by Tributing or destroying a card(s) in their hand and/or field, while this card is in your GY and you control a \"Mosaic Refrain\" Effect Monster: You can place this card on the bottom of your Deck to destroy as many face-up cards in Field Zones as possible, except \"Hallowed Palace of All-Glass\". While this card is in your GY: You can banish it; Gain 1000 LP, then you can banish 1 face-up Spell your opponent controls.",
           "archetype": "Mosaic Refrain",
           "archetypeId": 42,
           "contributor": "Left Parm of the Forbitten One",
