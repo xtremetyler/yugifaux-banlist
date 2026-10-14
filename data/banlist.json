@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:26:42.883Z",
+  "updatedAt": "2026-10-14T19:27:42.879Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29529,6 +29529,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051756.jpg",
           "addedAt": "2026-10-14 19:26:37",
           "changedAt": "2026-10-14 19:26:37"
+        },
+        {
+          "id": 532,
+          "name": "Re:B00t D.L. Sea",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Cyberse",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "WATER",
+          "levelRankLink": "Level 2",
+          "atk": "800",
+          "def": "800",
+          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it; Special Summon it. During your Main Phase, while this card is in your GY: You can Special Summon it, but banish it when it leaves the field, unless it was returned to your hand to activate \"Re:B00t Pirate Bay\", also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. You can only activate each effect of \"Re:B00t D.L. Sea\" once per turn.",
+          "duelingbookId": 6051751,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051751.jpg",
+          "addedAt": "2026-10-14 19:27:21",
+          "changedAt": "2026-10-14 19:27:21"
         }
       ]
     }
@@ -29549,7 +29568,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.406
+        "slacs": 10.45
       },
       {
         "name": "Edward Swissorhands",
