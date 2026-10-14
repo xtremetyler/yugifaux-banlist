@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:32:12.806Z",
+  "updatedAt": "2026-10-14T19:33:42.840Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29642,6 +29642,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051779.jpg",
           "addedAt": "2026-10-14 19:32:07",
           "changedAt": "2026-10-14 19:32:07"
+        },
+        {
+          "id": 539,
+          "name": "Re:B00t Bandit Width",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Cyberse",
+          "attribute": "DARK",
+          "levelRankLink": "Level 6",
+          "atk": "2400",
+          "def": "1600",
+          "text": "1 Tuner + 1 non-Tuner, including \"Re:B00t Freebooter\"\nDuring either player's Standby Phase: You can place \"Re:B00t Pirate Bay\" face-up in your Field Zone from your hand, Deck, or Banishment. Once per turn, while you control this Synchro Summoned card: You can target 1 Tuner in either field or GY; return it to its owner's hand, and if you do, you can look at 1 random card in your opponent's hand, then if it is a Spell/Trap, you can Set it to your field.",
+          "duelingbookId": 6051760,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051760.jpg",
+          "addedAt": "2026-10-14 19:33:36",
+          "changedAt": "2026-10-14 19:33:36"
         }
       ]
     }
@@ -29662,7 +29678,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.686
+        "slacs": 10.722
       },
       {
         "name": "Edward Swissorhands",
