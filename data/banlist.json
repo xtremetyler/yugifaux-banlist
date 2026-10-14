@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T10:59:56.468Z",
+  "updatedAt": "2026-10-14T15:47:58.072Z",
   "cards": [
     {
       "id": 384,
@@ -29939,6 +29939,17 @@
         "achievementId": "run-it-back",
         "earnedAt": "2026-10-13 18:49:49"
       }
-    ]
+    ],
+    "lifetimeCatalog": [
+      {
+        "id": "money-bags",
+        "name": "Money Bags",
+        "description": "Purchase the permanent Money Bags achievement from the Point Shop.",
+        "image": "money-bags.png",
+        "reward": 10,
+        "imageUrl": "assets/achievements/money-bags.png"
+      }
+    ],
+    "lifetimeAwards": []
   }
 }
