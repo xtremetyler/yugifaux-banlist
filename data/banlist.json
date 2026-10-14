@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T17:57:56.870Z",
+  "updatedAt": "2026-10-14T18:26:26.865Z",
   "cards": [
     {
       "id": 384,
@@ -27399,7 +27399,7 @@
       "totalClauses": 63,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
-      "retirementRequired": false,
+      "retirementRequired": true,
       "featuredCardId": 435,
       "featuredCardName": "All-Glass Listener in Mosaic Refrain",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081644.jpg",
@@ -29049,33 +29049,33 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 36,
+    "confirmedMatchCount": 37,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 5,
-        "lifetimePoints": 560,
+        "balance": 6,
+        "lifetimePoints": 561,
         "matchWins": 14,
-        "matchLosses": 10,
+        "matchLosses": 11,
         "gamesWon": 33,
-        "gamesLost": 27,
+        "gamesLost": 29,
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.95
+        "slacs": 10.656
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 40,
-        "lifetimePoints": 477,
-        "matchWins": 7,
+        "balance": 44,
+        "lifetimePoints": 481,
+        "matchWins": 8,
         "matchLosses": 12,
-        "gamesWon": 21,
+        "gamesWon": 23,
         "gamesLost": 27,
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 7.257
+        "slacs": 7.668
       },
       {
         "name": "The Original Rough Cheddar",
@@ -29131,6 +29131,17 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 100,
+        "confirmedAt": "2026-10-14 18:26:05",
+        "replayUrl": "https://www.duelingbook.com/replay?id=1301874-86177500",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Mosaic Refrain",
+        "opponentArchetype": "COMIC!"
+      },
       {
         "id": 99,
         "confirmedAt": "2026-10-13 23:50:03",
@@ -29207,20 +29218,20 @@
         "opponentGames": 2,
         "reporterArchetype": "WeyYu",
         "opponentArchetype": "Mosaic Refrain"
-      },
-      {
-        "id": 89,
-        "confirmedAt": "2026-10-09 18:54:44",
-        "replayUrl": null,
-        "reporter": "The Original Rough Cheddar",
-        "opponent": "Brielieve In Cheesus",
-        "reporterGames": 1,
-        "opponentGames": 2,
-        "reporterArchetype": "Afterthought",
-        "opponentArchetype": "WeyYu"
       }
     ],
     "matchHistory": [
+      {
+        "id": 100,
+        "confirmedAt": "2026-10-14 18:26:05",
+        "replayUrl": "https://www.duelingbook.com/replay?id=1301874-86177500",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Mosaic Refrain",
+        "opponentArchetype": "COMIC!"
+      },
       {
         "id": 99,
         "confirmedAt": "2026-10-13 23:50:03",
