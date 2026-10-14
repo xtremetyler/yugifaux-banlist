@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:24:42.788Z",
+  "updatedAt": "2026-10-14T19:25:42.879Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29488,7 +29488,30 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 530,
+      "featuredCardName": "Re:B00t Freebooter",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051315.jpg",
+      "cards": [
+        {
+          "id": 530,
+          "name": "Re:B00t Freebooter",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Cyberse",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 4",
+          "atk": "1600",
+          "def": "2000",
+          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it and declare a number from 1, 2, or 3; Special Summon it or 1 \"Plug-In Token\" (Cyberse/EARTH/0 ATK/0 DEF) to either field whose original Level is equal to the number declared to activate this effect, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. You can only activate this effect of \"Re:B00t Freebooter\" once per turn. If this card would be used either to Ritual Summon a Monster or as Synchro Material, you can treat this card as a Level 5 or 6 Monster instead.",
+          "duelingbookId": 6051315,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051315.jpg",
+          "addedAt": "2026-10-14 19:25:37",
+          "changedAt": "2026-10-14 19:25:37"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -29507,7 +29530,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.312
+        "slacs": 10.36
       },
       {
         "name": "Edward Swissorhands",
