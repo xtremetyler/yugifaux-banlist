@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:31:42.802Z",
+  "updatedAt": "2026-10-14T19:32:12.806Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 7,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29612,6 +29612,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051791.jpg",
           "addedAt": "2026-10-14 19:31:29",
           "changedAt": "2026-10-14 19:31:29"
+        },
+        {
+          "id": 537,
+          "name": "Web Hook Hand Re:B00t Sequence",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If your opponent goes first, you can also activate this card from your hand during the Standby Phase of either player's first turn by sending 1 Cyberse Monster from your Extra Deck to your GY. At the start of your Main Phase 1: Activate as many of the following effects as possible, in sequence, based on the number of your Standby Phases that have passed after this card's activation.\n● 0: Banish 1 Level 4 or lower Tuner Monster from your Deck.\n● 1+: Special Summon 1 \"Plug-In Token\" (Cyberse/EARTH/0 ATK/0 DEF) to either field whose original Level is equal to the Level of a Tuner Monster in your Banishment, and if you do, send that Monster to your GY.\n● 2+: Destroy this card, unless \"Re:B00t Pirate Bay\" is in your Banishment and you only control 1 face-up \"Web Hook Hand Re:B00t Sequence\".",
+          "duelingbookId": 6051803,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051803.jpg",
+          "addedAt": "2026-10-14 19:31:51",
+          "changedAt": "2026-10-14 19:31:51"
+        },
+        {
+          "id": 538,
+          "name": "Key Boarding Party Re:B00t Sequence",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If your opponent goes first, you can also activate this card from your hand during the Standby Phase of either player's first turn by discarding 1 other \"Re:B00t\" card. At the start of your Main Phase 1: Activate as many of the following effects as possible, in sequence, based on the number of your Standby Phases that have passed since this card's activation.\n● 0: Excavate the top 4 cards of your Deck and add 1 excavated \"Re:B00t\" card to your hand, then send the rest to the GY.\n● 1+: You can banish up to 1 \"Re:B00t\" card from your GY; add 1 card from your Deck to your hand with the same name as the card banished to activate this effect.\n● 2+: Destroy this card, unless \"Re:B00t Pirate Bay\" is in your GY and you only control 1 face-up \"Key Boarding Party Re:B00t Sequence\".",
+          "duelingbookId": 6051779,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051779.jpg",
+          "addedAt": "2026-10-14 19:32:07",
+          "changedAt": "2026-10-14 19:32:07"
         }
       ]
     }
@@ -29632,7 +29662,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.613
+        "slacs": 10.686
       },
       {
         "name": "Edward Swissorhands",
