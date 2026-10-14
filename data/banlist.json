@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T04:30:09.153Z",
+  "updatedAt": "2026-10-14T05:22:53.459Z",
   "cards": [
     {
       "id": 384,
@@ -29640,6 +29640,17 @@
       "endAt": "2026-10-27T04:59:00.000Z",
       "imageUrl": "https://cdn.discordapp.com/guild-events/1558997045141049464/dc893b60e48af3c3dc35a4f5f29b71e1.webp?size=1024",
       "discordUrl": "https://discord.com/events/884532137359978557/1558997045141049464",
+      "status": "scheduled"
+    },
+    {
+      "id": 3,
+      "name": "⚖️ YUGIFAUX — BAN LIST REVISION",
+      "description": "⚖️ **YUGIFAUX — BAN LIST REVISION** 🔓\n\n📅 Sunday, November 1 - Saturday, November 7\n⏰ **9:00 AM – 11:00 PM CT**\n\nIt's time to give some forbidden cards a second chance!\n\nWe'll be reviewing the YugiFaux Forbidden List and discussing which cards deserve to return to the format.\n\n**🔥 WHAT TO EXPECT:**\n- 🔓 Review banned cards for possible unbans.\n- ✏️ Discuss potential erratas to balance problematic effects.\n- ⚖️ Evaluate how returning cards could impact the format.\n- 🗣️ Share your opinions and make your case for your favorites!\n\n**Some cards will return. Others may need a rewrite.**\n\nWhich banned card deserves another chance?",
+      "location": "YugiFaux Discord Server - Banlist Revision thread",
+      "startAt": "2026-11-01T15:00:00.000Z",
+      "endAt": "2026-11-08T05:00:00.000Z",
+      "imageUrl": "https://cdn.discordapp.com/guild-events/1559798628502216784/d9938834d6d18b154c989b9f4c9958c3.webp?size=1024",
+      "discordUrl": "https://discord.com/events/884532137359978557/1559798628502216784",
       "status": "scheduled"
     }
   ],
