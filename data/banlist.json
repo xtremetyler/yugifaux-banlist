@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T18:28:56.830Z",
+  "updatedAt": "2026-10-14T18:29:26.850Z",
   "cards": [
     {
       "id": 384,
@@ -27395,8 +27395,8 @@
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
-      "addedClauses": 18,
-      "totalClauses": 63,
+      "addedClauses": 22,
+      "totalClauses": 67,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": true,
@@ -27660,11 +27660,11 @@
           "levelRankLink": "Level 7",
           "atk": "2350",
           "def": "2350",
-          "text": "During your Main Phase: You can send 2 Trap Cards with an effect that Special Summons itself as a Monster from your Deck to your GY; Special Summon this card (from your hand), and if you do, you can Set 1 of those sent cards to your field. You can only Special Summon \"Apricot Prioress of Mosaic Refrain\" this way once per turn. During your Main Phase (Quick Effect): You can place 1 \"Mosaic Refrain\" Monster from your hand or GY on the bottom of your Deck, except \"Apricot Prioress of Mosaic Refrain\"; you can have this card either gain that placed Monster's original effects until the end of this turn or have it treated as a Normal Monster until the end of this turn. You can activate a Trap Card Set by this card's effect during the same turn it was Set.",
+          "text": "During your Main Phase: You can send 2 Trap Cards each with an effect that Special Summons itself as a Monster from your Deck to your GY; Special Summon this card (from your hand), and if you do, you can Set 1 of those sent cards to your field. You can only Special Summon \"Apricot Prioress of Mosaic Refrain\" this way once per turn. During your Main Phase (Quick Effect): You can place 1 \"Mosaic Refrain\" Monster from your hand or GY on the bottom of your Deck, except \"Apricot Prioress of Mosaic Refrain\"; you can have this card either gain that placed Monster's original effects until the end of this turn or have it treated as a Normal Monster until the end of this turn. Once per turn: You can banish 1 Trap card from your hand or GY, then target 1 card on the field; destroy that target. You can activate a Trap Card Set by this card's effect during the same turn it was Set.",
           "duelingbookId": 6085208,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085208.jpg",
           "addedAt": "2026-10-08 14:03:41",
-          "changedAt": "2026-10-12 17:05:10"
+          "changedAt": "2026-10-14 18:28:58"
         }
       ]
     },
