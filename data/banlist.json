@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T19:30:12.870Z",
+  "updatedAt": "2026-10-14T19:31:42.802Z",
   "cards": [
     {
       "id": 384,
@@ -29479,7 +29479,7 @@
       "submittedAt": "2026-10-14 19:24:17",
       "activatedAt": "2026-10-14 19:24:17",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -29597,6 +29597,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051777.jpg",
           "addedAt": "2026-10-14 19:29:47",
           "changedAt": "2026-10-14 19:29:47"
+        },
+        {
+          "id": 536,
+          "name": "Up Loading Dock Re:B00t Sequence",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If your opponent goes first, you can also activate this card from your hand during the Standby Phase of either player's first turn by sending 1 Level 4 or lower Tuner Monster from your Deck to your GY. At the start of your Main Phase 1: Activate as many of the following effects as possible, in sequence, based on the number of your Standby Phases have passed after this card's activation.\n● 0+: Add 1 Level 4 or lower Cyberse Tuner Monster from your Deck to your hand, and if you do, shuffle 1 card from your hand into your Deck during the End Phase.\n● 2+: Destroy this card, unless you control \"Re:B00t Pirate Bay\" and you only control 1 face-up \"Up Loading Dock Re:B00t Sequence\".",
+          "duelingbookId": 6051791,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051791.jpg",
+          "addedAt": "2026-10-14 19:31:29",
+          "changedAt": "2026-10-14 19:31:29"
         }
       ]
     }
@@ -29617,7 +29632,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.574
+        "slacs": 10.613
       },
       {
         "name": "Edward Swissorhands",
