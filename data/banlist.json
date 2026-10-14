@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T03:50:53.842Z",
+  "updatedAt": "2026-10-14T04:10:38.551Z",
   "cards": [
     {
       "id": 384,
@@ -15466,7 +15466,7 @@
       "finalAddedClauses": 14,
       "notes": "\"In space, nobody can heaw you scweam, pwincess!\"",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 742,
       "featuredCardName": "WeyYu Deep Space Hunter",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093975.jpg",
