@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T03:21:53.801Z",
+  "updatedAt": "2026-10-14T03:50:53.842Z",
   "cards": [
     {
       "id": 384,
@@ -10614,6 +10614,27 @@
       "officialUrl": "https://ygoprodeck.com/card/rahamu-envoy-of-the-sacred-tome-15483",
       "addedAt": "2026-10-10 03:03:39",
       "changedAt": "2026-10-10 03:03:39"
+    },
+    {
+      "id": 750,
+      "name": "Raijin the Breakbolt Star",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Fusion Monster",
+      "monsterType": "Warrior",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 10",
+      "atk": "3000",
+      "def": "2200",
+      "text": "1 Level 5 or higher LIGHT Warrior monster + 1 EARTH Warrior monster\r\nIf this card attacks a Defense Position monster, inflict piercing battle damage. If this card battles a monster without a Level, any battle damage this card inflicts to your opponent is doubled. During the End Phase, if this card is in the GY because it was destroyed by battle or card effect and sent there this turn: You can target 2 Level 7 or lower Warrior monsters in your GY; Special Summon them. You can only use this effect of \"Raijin the Breakbolt Star\" once per turn.",
+      "archetype": "Star",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "99991455",
+      "duelingbookId": 13221,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/99991455.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/raijin-the-breakbolt-star-13347",
+      "addedAt": "2026-10-14 03:50:36",
+      "changedAt": "2026-10-14 03:50:36"
     },
     {
       "id": 213,
@@ -29032,7 +29053,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 12,
+        "balance": 5,
         "lifetimePoints": 560,
         "matchWins": 14,
         "matchLosses": 10,
@@ -29041,7 +29062,7 @@
         "gamesDrawn": 0,
         "archetypeId": 42,
         "archetypeName": "Mosaic Refrain",
-        "slacs": 10.874
+        "slacs": 10.95
       },
       {
         "name": "Edward Swissorhands",
