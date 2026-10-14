@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-14T17:13:08.040Z",
+  "updatedAt": "2026-10-14T17:18:08.098Z",
   "cards": [
     {
       "id": 384,
@@ -29092,8 +29092,8 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 105,
-        "lifetimePoints": 140,
+        "balance": 15,
+        "lifetimePoints": 150,
         "matchWins": 5,
         "matchLosses": 5,
         "gamesWon": 11,
@@ -29101,7 +29101,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 4.611
+        "slacs": 4.657
       },
       {
         "name": "forgoudaboutit",
@@ -29950,6 +29950,12 @@
         "imageUrl": "assets/achievements/money-bags.png"
       }
     ],
-    "lifetimeAwards": []
+    "lifetimeAwards": [
+      {
+        "player": "Brielieve In Cheesus",
+        "achievementId": "money-bags",
+        "earnedAt": "2026-10-14 17:17:50"
+      }
+    ]
   }
 }
