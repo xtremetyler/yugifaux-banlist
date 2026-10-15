@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T14:12:58.352Z",
+  "updatedAt": "2026-10-15T15:04:58.559Z",
   "cards": [
     {
       "id": 384,
@@ -11041,8 +11041,8 @@
       "archetype": "Mosaic Refrain",
       "archetypeId": 42,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6076976,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076976.jpg",
+      "duelingbookId": 6095852,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095852.jpg",
       "addedAt": "2026-10-14 18:31:14",
       "changedAt": "2026-10-14 18:31:14"
     },
@@ -16199,8 +16199,8 @@
           "archetype": "Mosaic Refrain",
           "archetypeId": 42,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6076976,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076976.jpg",
+          "duelingbookId": 6095852,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095852.jpg",
           "addedAt": "2026-10-14 18:31:14",
           "changedAt": "2026-10-14 18:31:14"
         }
