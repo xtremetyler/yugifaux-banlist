@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T19:41:03.746Z",
+  "updatedAt": "2026-10-15T21:19:03.526Z",
   "cards": [
     {
       "id": 384,
@@ -9278,6 +9278,29 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090437.jpg",
       "addedAt": "2026-10-12 01:05:33",
       "changedAt": "2026-10-12 02:50:55"
+    },
+    {
+      "id": 772,
+      "name": "Mournhorn the Undying, the Blighted Root of a Thousand Graves",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Link Monster",
+      "monsterType": "Plant",
+      "attribute": "DARK",
+      "levelRankLink": "Link 3",
+      "atk": "2200",
+      "linkMarkers": [
+        "Top-Left",
+        "Top",
+        "Top-Right"
+      ],
+      "text": "2+ monsters, including a Plant monster\nIf this card is Link Summoned: You can target 1 face-up monster your opponent controls; move it to one of their Main Monster Zones this card points to. During the Main Phase (Quick Effect): You can target 1 face-up monster your opponent controls in a zone this card points to; place it face-up in its owner’s Spell & Trap Zone as a Continuous Spell. You can only use each activated effect of “Mournhorn the Undying, the Blighted Root of a Thousand Graves” once per turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6096174,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6096174.jpg",
+      "addedAt": "2026-10-15 21:18:58",
+      "changedAt": "2026-10-15 21:18:58"
     },
     {
       "id": 45,
@@ -29791,7 +29814,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 40,
+        "balance": 31,
         "lifetimePoints": 495,
         "matchWins": 8,
         "matchLosses": 12,
@@ -29800,7 +29823,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 7.733
+        "slacs": 7.765
       },
       {
         "name": "The Original Rough Cheddar",
