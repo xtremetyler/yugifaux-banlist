@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T15:36:35.041Z",
+  "updatedAt": "2026-10-15T15:42:05.109Z",
   "cards": [
     {
       "id": 384,
@@ -14485,6 +14485,25 @@
       "changedAt": "2026-07-29 04:56:45"
     },
     {
+      "id": 771,
+      "name": "Vela, the Stormcrowned",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Thunder",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 6",
+      "atk": "2400",
+      "def": "1200",
+      "text": "You can banish 1 LIGHT or Thunder monster from your hand or GY, except this card; Special Summon this card from your hand or GY (but if Summoned from the GY, banish it face-down when it leaves the field), then you can add 1 LIGHT or Thunder monster from your Deck to your hand. You can discard this card and 1 other LIGHT or Thunder monster; send 1 LIGHT or Thunder monster from your Deck to the GY. You can banish this card from your GY; Special Summon 1 LIGHT or Thunder monster from your hand. You can only use 1 “Vela, the Stormcrowned” effect per turn, and only once that turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6095913,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095913.jpg",
+      "addedAt": "2026-10-15 15:42:03",
+      "changedAt": "2026-10-15 15:42:03"
+    },
+    {
       "id": 487,
       "botCardId": 233,
       "name": "VeloCity - Amy Rose",
@@ -15350,7 +15369,7 @@
       "duelingbookId": 6093981,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093981.jpg",
       "addedAt": "2026-10-14 03:19:49",
-      "changedAt": "2026-10-15 13:28:37"
+      "changedAt": "2026-10-15 15:42:03"
     },
     {
       "id": 749,
@@ -16440,7 +16459,7 @@
           "duelingbookId": 6093981,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093981.jpg",
           "addedAt": "2026-10-14 03:19:49",
-          "changedAt": "2026-10-15 13:28:37"
+          "changedAt": "2026-10-15 15:42:03"
         },
         {
           "id": 749,
@@ -29772,7 +29791,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 45,
+        "balance": 36,
         "lifetimePoints": 491,
         "matchWins": 8,
         "matchLosses": 12,
@@ -29781,7 +29800,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 7.7
+        "slacs": 7.733
       },
       {
         "name": "The Original Rough Cheddar",
