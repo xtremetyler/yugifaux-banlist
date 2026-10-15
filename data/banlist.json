@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T05:59:08.759Z",
+  "updatedAt": "2026-10-15T06:29:38.490Z",
   "cards": [
     {
       "id": 384,
@@ -755,6 +755,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6071264.jpg",
       "addedAt": "2026-09-28 19:36:18",
       "changedAt": "2026-10-02 13:05:10"
+    },
+    {
+      "id": 768,
+      "name": "Akasuna the Battle Ashtra",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Fiend",
+      "attribute": "FIRE",
+      "levelRankLink": "Level 8",
+      "atk": "3000",
+      "def": "300",
+      "text": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand or Extra Deck. You can only Special Summon \"Akasuna the Battle Ashtra\" once per turn this way. You can only use each of the following effects of \"Akasuna the Battle Ashtra\" once per turn. During the Main Phase (Quick Effect): You can send 1 Trap from your hand or face-down field to the GY; change all face-up monsters your opponent controls to face-down Defense Position. During your End Phase: You can Set 1 \"Ashtra\" Trap from your Deck.",
+      "archetype": "Ashtra",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "38331244",
+      "duelingbookId": 18123,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/38331244.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/akasuna-the-battle-ashtra-15793",
+      "addedAt": "2026-10-15 06:29:34",
+      "changedAt": "2026-10-15 06:29:34"
     },
     {
       "id": 532,
@@ -29701,7 +29722,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 16,
+        "balance": 9,
         "lifetimePoints": 571,
         "matchWins": 14,
         "matchLosses": 12,
@@ -29710,7 +29731,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.537
+        "slacs": 10.599
       },
       {
         "name": "Edward Swissorhands",
