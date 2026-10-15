@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T13:27:24.660Z",
+  "updatedAt": "2026-10-15T13:27:54.656Z",
   "cards": [
     {
       "id": 384,
@@ -15160,7 +15160,7 @@
       "id": 744,
       "botCardId": 429,
       "name": "WeyYu Deep Space Living Mask",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -15174,7 +15174,7 @@
       "duelingbookId": 6093977,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093977.jpg",
       "addedAt": "2026-10-14 03:19:49",
-      "changedAt": "2026-10-14 03:19:49"
+      "changedAt": "2026-10-15 13:27:35"
     },
     {
       "id": 739,
@@ -15293,7 +15293,7 @@
       "id": 743,
       "botCardId": 428,
       "name": "WeyYu Mysterious Alien Slime",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Continuous",
@@ -15307,7 +15307,7 @@
       "duelingbookId": 6093976,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093976.jpg",
       "addedAt": "2026-10-14 03:19:49",
-      "changedAt": "2026-10-14 03:19:49"
+      "changedAt": "2026-10-15 13:27:33"
     },
     {
       "id": 748,
@@ -15358,7 +15358,7 @@
       "id": 745,
       "botCardId": 430,
       "name": "WeyYu Shadowy Science Facility",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -15372,7 +15372,7 @@
       "duelingbookId": 6093978,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093978.jpg",
       "addedAt": "2026-10-14 03:19:49",
-      "changedAt": "2026-10-14 03:19:49"
+      "changedAt": "2026-10-15 13:27:47"
     },
     {
       "id": 738,
@@ -16250,7 +16250,7 @@
           "id": 744,
           "botCardId": 429,
           "name": "WeyYu Deep Space Living Mask",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Equip",
@@ -16264,7 +16264,7 @@
           "duelingbookId": 6093977,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093977.jpg",
           "addedAt": "2026-10-14 03:19:49",
-          "changedAt": "2026-10-14 03:19:49"
+          "changedAt": "2026-10-15 13:27:35"
         },
         {
           "id": 739,
@@ -16383,7 +16383,7 @@
           "id": 743,
           "botCardId": 428,
           "name": "WeyYu Mysterious Alien Slime",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Continuous",
@@ -16397,7 +16397,7 @@
           "duelingbookId": 6093976,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093976.jpg",
           "addedAt": "2026-10-14 03:19:49",
-          "changedAt": "2026-10-14 03:19:49"
+          "changedAt": "2026-10-15 13:27:33"
         },
         {
           "id": 748,
@@ -16448,7 +16448,7 @@
           "id": 745,
           "botCardId": 430,
           "name": "WeyYu Shadowy Science Facility",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -16462,7 +16462,7 @@
           "duelingbookId": 6093978,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6093978.jpg",
           "addedAt": "2026-10-14 03:19:49",
-          "changedAt": "2026-10-14 03:19:49"
+          "changedAt": "2026-10-15 13:27:47"
         },
         {
           "id": 738,
