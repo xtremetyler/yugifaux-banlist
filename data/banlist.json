@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T07:01:50.967Z",
+  "updatedAt": "2026-10-15T07:07:50.814Z",
   "cards": [
     {
       "id": 384,
@@ -14096,6 +14096,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6024547.jpg",
       "addedAt": "2026-09-01 04:29:36",
       "changedAt": "2026-09-01 14:05:56"
+    },
+    {
+      "id": 769,
+      "name": "Trigger-Happy Tripwire",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Trap Card",
+      "spellTrapType": "Normal",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "If your opponent controls a card(s) and you control no face-up monsters: You can activate this card from your hand. Send 1 Trap Card from your hand or face-down field to the GY; apply 1 of the following effects, based on the zone from which that card was sent.\n● Hand: Set 1 Normal Trap with the same name as the card sent to activate this effect from your hand, Deck, or Banishment.\n● Face-down field: Set 1 Normal Trap with a different name than the card sent to activate this effect from your hand, Deck, or Banishment.\nA card(s) Set this way can be activated this turn.",
+      "clauses": 4,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6095547,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095547.jpg",
+      "addedAt": "2026-10-15 07:07:50",
+      "changedAt": "2026-10-15 07:07:50"
     },
     {
       "id": 77,
@@ -29722,7 +29740,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 9,
+        "balance": 0,
         "lifetimePoints": 571,
         "matchWins": 14,
         "matchLosses": 12,
@@ -29731,7 +29749,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.599
+        "slacs": 10.66
       },
       {
         "name": "Edward Swissorhands",
