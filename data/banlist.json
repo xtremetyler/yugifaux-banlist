@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T15:04:58.559Z",
+  "updatedAt": "2026-10-15T15:05:58.435Z",
   "cards": [
     {
       "id": 384,
@@ -814,8 +814,8 @@
       "archetype": "Mosaic Refrain",
       "archetypeId": 42,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6081644,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081644.jpg",
+      "duelingbookId": 6095853,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095853.jpg",
       "addedAt": "2026-10-14 18:31:14",
       "changedAt": "2026-10-14 18:31:14"
     },
@@ -15855,7 +15855,7 @@
       "cardListComplete": true,
       "featuredCardId": 751,
       "featuredCardName": "All-Glass Listener in Mosaic Refrain",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081644.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095853.jpg",
       "cards": [
         {
           "id": 751,
@@ -15873,8 +15873,8 @@
           "archetype": "Mosaic Refrain",
           "archetypeId": 42,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6081644,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6081644.jpg",
+          "duelingbookId": 6095853,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095853.jpg",
           "addedAt": "2026-10-14 18:31:14",
           "changedAt": "2026-10-14 18:31:14"
         },
