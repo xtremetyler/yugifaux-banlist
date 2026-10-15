@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T00:47:38.763Z",
+  "updatedAt": "2026-10-15T04:54:32.709Z",
   "cards": [
     {
       "id": 384,
@@ -30321,6 +30321,17 @@
       "endAt": "2026-11-08T05:00:00.000Z",
       "imageUrl": "https://cdn.discordapp.com/guild-events/1559798628502216784/d9938834d6d18b154c989b9f4c9958c3.webp?size=1024",
       "discordUrl": "https://discord.com/events/884532137359978557/1559798628502216784",
+      "status": "scheduled"
+    },
+    {
+      "id": 4,
+      "name": "🌊 CHRONICLES OF THE ABYSS 🌊",
+      "description": "🌊 **CHRONICLES OF THE ABYSS** 🌊\n\n📅 **November 15–21, 2026**\n\n**One character. Countless stories. One connected universe.**\n\nEvery league member creates a unique archetype connected to **The Face in the Abyss**, expanding our own shared storyline inspired by Fallen of Albaz!\n\n**📜 EVENT RULES**\n- Create an original archetype connected to The Face in the Abyss.\n- Follow standard YugiFaux creation rules, including the 45-clause limit.\n- Archetypes will **not be registered as active** during the event.\n- Duel using these archetypes as separate, event-only decks.\n- **Both players earn 4 points per duel**, regardless of who wins!\n- After the event concludes, all created cards enter the **shared YugiFaux card pool**.\n\n**⚔️ ONE WEEK. COUNTLESS BATTLES.**\n\nDiscover new strategies, explore interconnected stories, and help shape the future of the Abyss!",
+      "location": "YugiFaux Discord Server",
+      "startAt": "2026-11-15T06:00:00.000Z",
+      "endAt": "2026-11-22T05:59:00.000Z",
+      "imageUrl": "https://cdn.discordapp.com/guild-events/1560153880413737002/4e9710e7433b38ab8a037325d49576b9.webp?size=1024",
+      "discordUrl": "https://discord.com/events/884532137359978557/1560153880413737002",
       "status": "scheduled"
     }
   ],
