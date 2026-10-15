@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T13:28:54.628Z",
+  "updatedAt": "2026-10-15T14:03:54.765Z",
   "cards": [
     {
       "id": 384,
@@ -29740,8 +29740,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 0,
-        "lifetimePoints": 571,
+        "balance": 5,
+        "lifetimePoints": 576,
         "matchWins": 14,
         "matchLosses": 12,
         "gamesWon": 33,
