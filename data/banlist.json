@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T17:31:19.481Z",
+  "updatedAt": "2026-10-15T17:48:12.074Z",
   "cards": [
     {
       "id": 384,
@@ -29778,8 +29778,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 5,
-        "lifetimePoints": 576,
+        "balance": 9,
+        "lifetimePoints": 580,
         "matchWins": 14,
         "matchLosses": 12,
         "gamesWon": 33,
@@ -29791,8 +29791,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 36,
-        "lifetimePoints": 491,
+        "balance": 40,
+        "lifetimePoints": 495,
         "matchWins": 8,
         "matchLosses": 12,
         "gamesWon": 23,
@@ -29804,8 +29804,8 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 43,
-        "lifetimePoints": 256,
+        "balance": 47,
+        "lifetimePoints": 260,
         "matchWins": 8,
         "matchLosses": 3,
         "gamesWon": 18,
@@ -29817,8 +29817,8 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 15,
-        "lifetimePoints": 150,
+        "balance": 19,
+        "lifetimePoints": 154,
         "matchWins": 5,
         "matchLosses": 5,
         "gamesWon": 11,
@@ -29830,8 +29830,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 72,
-        "lifetimePoints": 123,
+        "balance": 76,
+        "lifetimePoints": 127,
         "matchWins": 3,
         "matchLosses": 5,
         "gamesWon": 9,
@@ -29843,8 +29843,8 @@
       },
       {
         "name": "Joules Tune Brie 2 Blue",
-        "balance": 38,
-        "lifetimePoints": 113,
+        "balance": 42,
+        "lifetimePoints": 117,
         "matchWins": 0,
         "matchLosses": 1,
         "gamesWon": 0,
@@ -30706,9 +30706,47 @@
         "image": "money-bags.png",
         "reward": 10,
         "imageUrl": "assets/achievements/money-bags.png"
+      },
+      {
+        "id": "season-1-platinum",
+        "name": "Season 1 Platinum",
+        "description": "Played at least one match during YugiFAUX Season 1. A permanent Founder achievement.",
+        "image": "season-1-platinum.png",
+        "reward": 4,
+        "imageUrl": "assets/achievements/season-1-platinum.png"
       }
     ],
     "lifetimeAwards": [
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "season-1-platinum",
+        "earnedAt": "2026-07-31 06:13:47"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "season-1-platinum",
+        "earnedAt": "2026-07-31 06:13:47"
+      },
+      {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "season-1-platinum",
+        "earnedAt": "2026-08-03 18:21:49"
+      },
+      {
+        "player": "Joules Tune Brie 2 Blue",
+        "achievementId": "season-1-platinum",
+        "earnedAt": "2026-08-11 01:50:23"
+      },
+      {
+        "player": "Brielieve In Cheesus",
+        "achievementId": "season-1-platinum",
+        "earnedAt": "2026-09-01 04:07:02"
+      },
+      {
+        "player": "forgoudaboutit",
+        "achievementId": "season-1-platinum",
+        "earnedAt": "2026-10-01 06:04:39"
+      },
       {
         "player": "Brielieve In Cheesus",
         "achievementId": "money-bags",
