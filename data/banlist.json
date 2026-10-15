@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-15T15:09:58.394Z",
+  "updatedAt": "2026-10-15T15:35:28.475Z",
   "cards": [
     {
       "id": 384,
@@ -9080,6 +9080,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092980.jpg",
       "addedAt": "2026-10-13 15:35:31",
       "changedAt": "2026-10-13 15:35:31"
+    },
+    {
+      "id": 770,
+      "name": "Morrow, the Hollow Grasp",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Plant",
+      "attribute": "DARK",
+      "levelRankLink": "Level 6",
+      "atk": "2400",
+      "def": "1200",
+      "text": "You can banish 1 DARK or Plant monster from your hand or GY, except this card; Special Summon this card from your hand or GY (but if Summoned from the GY, banish it face-down when it leaves the field), then you can add 1 DARK or Plant monster from your Deck to your hand. You can discard this card and 1 other DARK or Plant monster; send 1 DARK or Plant monster from your Deck to the GY. You can banish this card from your GY; Special Summon 1 DARK or Plant monster from your hand. You can only use 1 “Morrow, the Hollow Grasp” effect per turn, and only once that turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6095906,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095906.jpg",
+      "addedAt": "2026-10-15 15:35:09",
+      "changedAt": "2026-10-15 15:35:09"
     },
     {
       "id": 757,
@@ -29753,7 +29772,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 54,
+        "balance": 45,
         "lifetimePoints": 491,
         "matchWins": 8,
         "matchLosses": 12,
@@ -29762,7 +29781,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 7.668
+        "slacs": 7.7
       },
       {
         "name": "The Original Rough Cheddar",
