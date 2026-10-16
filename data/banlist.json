@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T18:46:47.264Z",
+  "updatedAt": "2026-10-16T18:47:17.272Z",
   "cards": [
     {
       "id": 384,
@@ -802,7 +802,7 @@
       "id": 751,
       "botCardId": 435,
       "name": "All-Glass Listener in Mosaic Refrain",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Winged Beast",
@@ -817,7 +817,7 @@
       "duelingbookId": 6095853,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095853.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:47:04"
     },
     {
       "id": 302,
@@ -5784,7 +5784,7 @@
       "id": 753,
       "botCardId": 468,
       "name": "Gray Lady of Mosaic Refrain",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Thunder",
@@ -5799,7 +5799,7 @@
       "duelingbookId": 6094744,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094744.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:49"
     },
     {
       "id": 122,
@@ -11131,7 +11131,7 @@
       "id": 752,
       "botCardId": 467,
       "name": "Red Sister of Mosaic Refrain",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Thunder",
@@ -11146,7 +11146,7 @@
       "duelingbookId": 6095852,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095852.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:58"
     },
     {
       "id": 573,
@@ -16038,7 +16038,7 @@
           "id": 751,
           "botCardId": 435,
           "name": "All-Glass Listener in Mosaic Refrain",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Synchro Monster",
           "monsterType": "Winged Beast",
@@ -16053,7 +16053,7 @@
           "duelingbookId": 6095853,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095853.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:47:04"
         },
         {
           "id": 767,
@@ -16121,7 +16121,7 @@
           "id": 753,
           "botCardId": 468,
           "name": "Gray Lady of Mosaic Refrain",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Thunder",
@@ -16136,7 +16136,7 @@
           "duelingbookId": 6094744,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094744.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:49"
         },
         {
           "id": 756,
@@ -16364,7 +16364,7 @@
           "id": 752,
           "botCardId": 467,
           "name": "Red Sister of Mosaic Refrain",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Thunder",
@@ -16379,7 +16379,7 @@
           "duelingbookId": 6095852,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095852.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:58"
         }
       ]
     },
