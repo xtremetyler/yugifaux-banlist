@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T15:12:33.905Z",
+  "updatedAt": "2026-10-16T16:01:04.079Z",
   "cards": [
     {
       "id": 384,
@@ -12246,6 +12246,23 @@
       "officialUrl": "https://ygoprodeck.com/card/small-world-12507",
       "addedAt": "2026-07-29 04:52:18",
       "changedAt": "2026-07-29 04:52:18"
+    },
+    {
+      "id": 773,
+      "name": "Snake Rain",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Discard 1 card. Select 4 Reptile-Type monsters from your Deck and send them to the Graveyard.",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "17189677",
+      "duelingbookId": 3898,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/17189677.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/snake-rain-1485",
+      "addedAt": "2026-10-16 16:00:43",
+      "changedAt": "2026-10-16 16:00:43"
     },
     {
       "id": 1,
@@ -29827,7 +29844,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 49,
+        "balance": 42,
         "lifetimePoints": 262,
         "matchWins": 8,
         "matchLosses": 4,
@@ -29836,7 +29853,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 7.01
+        "slacs": 7.064
       },
       {
         "name": "Brielieve In Cheesus",
