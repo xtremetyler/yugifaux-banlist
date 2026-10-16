@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T16:01:04.079Z",
+  "updatedAt": "2026-10-16T16:01:33.980Z",
   "cards": [
     {
       "id": 384,
@@ -9504,6 +9504,26 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006952.jpg",
       "addedAt": "2026-08-22 00:34:48",
       "changedAt": "2026-08-24 00:48:59"
+    },
+    {
+      "id": 774,
+      "name": "Night Sword Serpent",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Reptile",
+      "attribute": "WATER",
+      "levelRankLink": "Level 4",
+      "atk": "500",
+      "def": "600",
+      "text": "If this card is sent to the GY by a card effect: You can Special Summon this card, but banish it when it leaves the field. You can only use this effect of \"Night Sword Serpent\" once per turn.",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "20295753",
+      "duelingbookId": 12525,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/20295753.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/night-sword-serpent-12901",
+      "addedAt": "2026-10-16 16:01:22",
+      "changedAt": "2026-10-16 16:01:22"
     },
     {
       "id": 165,
@@ -29844,7 +29864,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 42,
+        "balance": 35,
         "lifetimePoints": 262,
         "matchWins": 8,
         "matchLosses": 4,
@@ -29853,7 +29873,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 7.064
+        "slacs": 7.118
       },
       {
         "name": "Brielieve In Cheesus",
