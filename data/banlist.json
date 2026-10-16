@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T18:46:17.335Z",
+  "updatedAt": "2026-10-16T18:46:47.264Z",
   "cards": [
     {
       "id": 384,
@@ -6128,7 +6128,7 @@
       "id": 756,
       "botCardId": 471,
       "name": "Hallowed Palace of All-Glass",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -6142,7 +6142,7 @@
       "duelingbookId": 6094747,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094747.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:30"
     },
     {
       "id": 502,
@@ -6205,7 +6205,7 @@
       "id": 754,
       "botCardId": 469,
       "name": "Harmonious Madame of Mosaic Refrain",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Thunder",
@@ -6220,7 +6220,7 @@
       "duelingbookId": 6094745,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094745.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:42"
     },
     {
       "id": 224,
@@ -9104,7 +9104,7 @@
       "id": 757,
       "botCardId": 472,
       "name": "Mosaic Refrain - Careless Emissary",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -9118,7 +9118,7 @@
       "duelingbookId": 6094748,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094748.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:20"
     },
     {
       "id": 758,
@@ -9838,7 +9838,7 @@
       "id": 755,
       "botCardId": 470,
       "name": "Orchestral Maiden of Mosaic Refrain",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Thunder",
@@ -9853,7 +9853,7 @@
       "duelingbookId": 6094746,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094746.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:36"
     },
     {
       "id": 250,
@@ -16142,7 +16142,7 @@
           "id": 756,
           "botCardId": 471,
           "name": "Hallowed Palace of All-Glass",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -16156,13 +16156,13 @@
           "duelingbookId": 6094747,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094747.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:30"
         },
         {
           "id": 754,
           "botCardId": 469,
           "name": "Harmonious Madame of Mosaic Refrain",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Thunder",
@@ -16177,13 +16177,13 @@
           "duelingbookId": 6094745,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094745.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:42"
         },
         {
           "id": 757,
           "botCardId": 472,
           "name": "Mosaic Refrain - Careless Emissary",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -16197,7 +16197,7 @@
           "duelingbookId": 6094748,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094748.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:20"
         },
         {
           "id": 758,
@@ -16343,7 +16343,7 @@
           "id": 755,
           "botCardId": 470,
           "name": "Orchestral Maiden of Mosaic Refrain",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Thunder",
@@ -16358,7 +16358,7 @@
           "duelingbookId": 6094746,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094746.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:36"
         },
         {
           "id": 752,
