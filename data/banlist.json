@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T18:45:47.309Z",
+  "updatedAt": "2026-10-16T18:46:17.335Z",
   "cards": [
     {
       "id": 384,
@@ -9124,7 +9124,7 @@
       "id": 758,
       "botCardId": 473,
       "name": "Mosaic Refrain - Dutiful Ruin",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -9138,7 +9138,7 @@
       "duelingbookId": 6094749,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094749.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:16"
     },
     {
       "id": 763,
@@ -9164,7 +9164,7 @@
       "id": 762,
       "botCardId": 477,
       "name": "Mosaic Refrain - Glaring Seraph",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -9178,7 +9178,7 @@
       "duelingbookId": 6094755,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094755.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:45:49"
     },
     {
       "id": 765,
@@ -9204,7 +9204,7 @@
       "id": 761,
       "botCardId": 476,
       "name": "Mosaic Refrain - Mercurial Fool",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -9218,13 +9218,13 @@
       "duelingbookId": 6094753,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094753.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:45:59"
     },
     {
       "id": 760,
       "botCardId": 475,
       "name": "Mosaic Refrain - Patchwork Rebellion",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -9238,13 +9238,13 @@
       "duelingbookId": 6094751,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094751.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:04"
     },
     {
       "id": 759,
       "botCardId": 474,
       "name": "Mosaic Refrain - Ravenous Pack",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -9258,7 +9258,7 @@
       "duelingbookId": 6094750,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094750.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:46:11"
     },
     {
       "id": 729,
@@ -16203,7 +16203,7 @@
           "id": 758,
           "botCardId": 473,
           "name": "Mosaic Refrain - Dutiful Ruin",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -16217,7 +16217,7 @@
           "duelingbookId": 6094749,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094749.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:16"
         },
         {
           "id": 763,
@@ -16243,7 +16243,7 @@
           "id": 762,
           "botCardId": 477,
           "name": "Mosaic Refrain - Glaring Seraph",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -16257,7 +16257,7 @@
           "duelingbookId": 6094755,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094755.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:45:49"
         },
         {
           "id": 765,
@@ -16283,7 +16283,7 @@
           "id": 761,
           "botCardId": 476,
           "name": "Mosaic Refrain - Mercurial Fool",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -16297,13 +16297,13 @@
           "duelingbookId": 6094753,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094753.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:45:59"
         },
         {
           "id": 760,
           "botCardId": 475,
           "name": "Mosaic Refrain - Patchwork Rebellion",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -16317,13 +16317,13 @@
           "duelingbookId": 6094751,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094751.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:04"
         },
         {
           "id": 759,
           "botCardId": 474,
           "name": "Mosaic Refrain - Ravenous Pack",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -16337,7 +16337,7 @@
           "duelingbookId": 6094750,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094750.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:46:11"
         },
         {
           "id": 755,
@@ -29699,8 +29699,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 11,
-      "totalClauses": 56,
+      "addedClauses": 12,
+      "totalClauses": 57,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -29740,11 +29740,11 @@
           "levelRankLink": "Level 1",
           "atk": "400",
           "def": "800",
-          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it; add 1 card from your Banishment to your hand, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. You can only activate this effect of \"Re:B00t Argh Drive\" once per turn. While you control this face-up card (or a Monster Synchro Summoned using this card as Material) and \"Re:B00t Pirate Bay\", apply the following effect.\n● Each player can only activate the Quick Effects of Monster Cards they own during their turn.",
+          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it; add 1 card from your Banishment to your hand, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. You can only activate this effect of \"Re:B00t Argh Drive\" once per turn. While you control this face-up card (or a Monster Synchro Summoned using this card as Material) and \"Re:B00t Pirate Bay\", each player can only activate the Quick Effects of Monster Cards they own during their turn. Once per Duel, while this card is in your GY (Quick Effect): You can return this card to your hand.",
           "duelingbookId": 6051756,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051756.jpg",
           "addedAt": "2026-10-14 19:26:37",
-          "changedAt": "2026-10-14 20:53:00"
+          "changedAt": "2026-10-16 18:46:05"
         },
         {
           "id": 532,
