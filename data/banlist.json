@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T18:54:47.313Z",
+  "updatedAt": "2026-10-16T18:55:17.280Z",
   "cards": [
     {
       "id": 384,
@@ -802,7 +802,7 @@
       "id": 751,
       "botCardId": 435,
       "name": "All-Glass Listener in Mosaic Refrain",
-      "status": "limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Winged Beast",
@@ -817,7 +817,7 @@
       "duelingbookId": 6095853,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095853.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-16 18:47:04"
+      "changedAt": "2026-10-16 18:55:07"
     },
     {
       "id": 302,
@@ -16038,7 +16038,7 @@
           "id": 751,
           "botCardId": 435,
           "name": "All-Glass Listener in Mosaic Refrain",
-          "status": "limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Synchro Monster",
           "monsterType": "Winged Beast",
@@ -16053,7 +16053,7 @@
           "duelingbookId": 6095853,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095853.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-16 18:47:04"
+          "changedAt": "2026-10-16 18:55:07"
         },
         {
           "id": 767,
