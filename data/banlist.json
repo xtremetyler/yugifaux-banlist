@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T02:02:25.453Z",
+  "updatedAt": "2026-10-16T03:02:25.460Z",
   "cards": [
     {
       "id": 384,
@@ -29863,19 +29863,6 @@
         "archetypeId": 45,
         "archetypeName": "Whenfare",
         "slacs": 4.288
-      },
-      {
-        "name": "Joules Tune Brie 2 Blue",
-        "balance": 42,
-        "lifetimePoints": 117,
-        "matchWins": 0,
-        "matchLosses": 1,
-        "gamesWon": 0,
-        "gamesLost": 2,
-        "gamesDrawn": 0,
-        "archetypeId": 41,
-        "archetypeName": "Deciduous Descendants",
-        "slacs": 2.1
       }
     ],
     "recentMatches": [
