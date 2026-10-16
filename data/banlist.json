@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T18:40:17.322Z",
+  "updatedAt": "2026-10-16T18:45:17.381Z",
   "cards": [
     {
       "id": 384,
@@ -1609,7 +1609,7 @@
       "id": 767,
       "botCardId": 487,
       "name": "Apricot Prioress of Mosaic Refrain",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Thunder",
@@ -1624,7 +1624,7 @@
       "duelingbookId": 6094761,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094761.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:45:01"
     },
     {
       "id": 33,
@@ -2490,7 +2490,7 @@
       "id": 766,
       "botCardId": 482,
       "name": "Broken Shards Mosaic Fusion",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -2504,7 +2504,7 @@
       "duelingbookId": 6094760,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094760.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:45:07"
     },
     {
       "id": 168,
@@ -16059,7 +16059,7 @@
           "id": 767,
           "botCardId": 487,
           "name": "Apricot Prioress of Mosaic Refrain",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Thunder",
@@ -16074,13 +16074,13 @@
           "duelingbookId": 6094761,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094761.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:45:01"
         },
         {
           "id": 766,
           "botCardId": 482,
           "name": "Broken Shards Mosaic Fusion",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -16094,7 +16094,7 @@
           "duelingbookId": 6094760,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094760.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:45:07"
         },
         {
           "id": 764,
@@ -29699,8 +29699,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 9,
-      "totalClauses": 54,
+      "addedClauses": 11,
+      "totalClauses": 56,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -29793,11 +29793,11 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "You can activate this card from your GY by returning 1 Level 4 or lower Tuner Monster you control to your hand. You can only activate \"Re:B00t Pirate Bay\" this way once per turn. If a Cyberse Tuner Monster would be used as Synchro Material, you can treat it as a non-Tuner instead.",
+          "text": "You can activate this card from your GY by returning 1 Level 4 or lower Tuner Monster you control to your hand. You can only activate \"Re:B00t Pirate Bay\" this way once per turn. If a Cyberse Tuner Monster would be used as Synchro Material, you can treat it as a non-Tuner instead. The first time a Cyberse Monster(s) is sent to your GY as Material to Synchro Summon a Monster each turn: You can pay 500 LP; Special Summon 1 Cyberse Tuner Monster used as Material this way, but banish it when it leaves the field.",
           "duelingbookId": 6051733,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051733.jpg",
           "addedAt": "2026-10-14 19:29:00",
-          "changedAt": "2026-10-14 20:51:01"
+          "changedAt": "2026-10-16 18:45:01"
         },
         {
           "id": 535,
