@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T03:02:25.460Z",
+  "updatedAt": "2026-10-16T08:31:52.950Z",
   "cards": [
     {
       "id": 384,
@@ -29801,8 +29801,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 17,
-        "lifetimePoints": 588,
+        "balance": 25,
+        "lifetimePoints": 596,
         "matchWins": 15,
         "matchLosses": 12,
         "gamesWon": 35,
@@ -29814,8 +29814,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 31,
-        "lifetimePoints": 495,
+        "balance": 35,
+        "lifetimePoints": 499,
         "matchWins": 8,
         "matchLosses": 12,
         "gamesWon": 23,
@@ -29840,8 +29840,8 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 19,
-        "lifetimePoints": 154,
+        "balance": 23,
+        "lifetimePoints": 158,
         "matchWins": 5,
         "matchLosses": 5,
         "gamesWon": 11,
@@ -30719,8 +30719,28 @@
         "earnedAt": "2026-10-13 18:49:49"
       },
       {
+        "player": "Brielieve In Cheesus",
+        "achievementId": "making-the-rounds",
+        "earnedAt": "2026-10-13 23:50:03"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "making-the-rounds",
+        "earnedAt": "2026-10-14 18:26:05"
+      },
+      {
         "player": "Left Parm of the Forbitten One",
         "achievementId": "proven-duelist",
+        "earnedAt": "2026-10-15 18:48:14"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "making-the-rounds",
+        "earnedAt": "2026-10-15 18:48:14"
+      },
+      {
+        "player": "Left Parm of the Forbitten One",
+        "achievementId": "equal-opportunity-duelist",
         "earnedAt": "2026-10-15 18:48:14"
       }
     ],
