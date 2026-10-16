@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T18:45:17.381Z",
+  "updatedAt": "2026-10-16T18:45:47.309Z",
   "cards": [
     {
       "id": 384,
@@ -4656,7 +4656,7 @@
       "id": 764,
       "botCardId": 480,
       "name": "Forgotten Glass Appraiser in Mosaic Refrain",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Xyz Monster",
       "monsterType": "Wyrm",
@@ -4671,7 +4671,7 @@
       "duelingbookId": 6094757,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094757.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:45:30"
     },
     {
       "id": 277,
@@ -9144,7 +9144,7 @@
       "id": 763,
       "botCardId": 478,
       "name": "Mosaic Refrain - Exiled King",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -9158,7 +9158,7 @@
       "duelingbookId": 6094756,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094756.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:45:37"
     },
     {
       "id": 762,
@@ -9184,7 +9184,7 @@
       "id": 765,
       "botCardId": 481,
       "name": "Mosaic Refrain - Hallowed Prominence",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -9198,7 +9198,7 @@
       "duelingbookId": 6094759,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094759.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-14 18:31:14"
+      "changedAt": "2026-10-16 18:45:18"
     },
     {
       "id": 761,
@@ -16100,7 +16100,7 @@
           "id": 764,
           "botCardId": 480,
           "name": "Forgotten Glass Appraiser in Mosaic Refrain",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Xyz Monster",
           "monsterType": "Wyrm",
@@ -16115,7 +16115,7 @@
           "duelingbookId": 6094757,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094757.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:45:30"
         },
         {
           "id": 753,
@@ -16223,7 +16223,7 @@
           "id": 763,
           "botCardId": 478,
           "name": "Mosaic Refrain - Exiled King",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -16237,7 +16237,7 @@
           "duelingbookId": 6094756,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094756.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:45:37"
         },
         {
           "id": 762,
@@ -16263,7 +16263,7 @@
           "id": 765,
           "botCardId": 481,
           "name": "Mosaic Refrain - Hallowed Prominence",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -16277,7 +16277,7 @@
           "duelingbookId": 6094759,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094759.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-14 18:31:14"
+          "changedAt": "2026-10-16 18:45:18"
         },
         {
           "id": 761,
