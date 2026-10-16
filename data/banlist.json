@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T18:03:17.287Z",
+  "updatedAt": "2026-10-16T18:35:47.287Z",
   "cards": [
     {
       "id": 384,
@@ -29699,8 +29699,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 6,
-      "totalClauses": 51,
+      "addedClauses": 7,
+      "totalClauses": 52,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -29721,11 +29721,11 @@
           "levelRankLink": "Level 4",
           "atk": "1600",
           "def": "2000",
-          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it and declare a number from 1, 2, or 3; Special Summon it or 1 \"Plug-In Token\" (Cyberse/EARTH/0 ATK/0 DEF) to either field whose original Level is equal to the number declared to activate this effect, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. You can only activate this effect of \"Re:B00t Freebooter\" once per turn. If this card would be used either to Ritual Summon a Monster or as Synchro Material, you can treat this card as a Level 5 or 6 Monster instead.",
+          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it and declare a number from 1, 2, or 3; Special Summon it or 1 \"Plug-In Token\" (Cyberse/EARTH/0 ATK/0 DEF) to either field whose original Level is equal to the number declared to activate this effect, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. Once per Duel, while this card is in your GY (Quick Effect): You can return this card to your hand. You can only activate each of the preceding effects of \"Re:B00t Freebooter\" once per turn. If this card would be used either to Ritual Summon a Monster or as Synchro Material, you can treat this card as a Level 5 or 6 Monster instead.",
           "duelingbookId": 6051315,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051315.jpg",
           "addedAt": "2026-10-14 19:25:37",
-          "changedAt": "2026-10-15 18:49:27"
+          "changedAt": "2026-10-16 18:35:36"
         },
         {
           "id": 531,
@@ -29913,33 +29913,33 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 40,
+    "confirmedMatchCount": 41,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 26,
-        "lifetimePoints": 597,
+        "balance": 27,
+        "lifetimePoints": 598,
         "matchWins": 15,
-        "matchLosses": 13,
+        "matchLosses": 14,
         "gamesWon": 35,
-        "gamesLost": 34,
+        "gamesLost": 36,
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.756
+        "slacs": 10.56
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 21,
-        "lifetimePoints": 503,
-        "matchWins": 9,
+        "balance": 25,
+        "lifetimePoints": 507,
+        "matchWins": 10,
         "matchLosses": 12,
-        "gamesWon": 25,
+        "gamesWon": 27,
         "gamesLost": 27,
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 8.25
+        "slacs": 8.658
       },
       {
         "name": "The Original Rough Cheddar",
@@ -29982,6 +29982,17 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 104,
+        "confirmedAt": "2026-10-16 18:35:37",
+        "replayUrl": null,
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Re:B00t",
+        "opponentArchetype": "COMIC!"
+      },
       {
         "id": 103,
         "confirmedAt": "2026-10-16 18:03:16",
@@ -30058,20 +30069,20 @@
         "opponentGames": 0,
         "reporterArchetype": "Mosaic Refrain",
         "opponentArchetype": "WeyYu"
-      },
-      {
-        "id": 95,
-        "confirmedAt": "2026-10-13 03:38:13",
-        "replayUrl": "https://www.duelingbook.com/replay?id=1382785-86127169",
-        "reporter": "The Original Rough Cheddar",
-        "opponent": "Brielieve In Cheesus",
-        "reporterGames": 2,
-        "opponentGames": 0,
-        "reporterArchetype": "Parcel-Tongue Post",
-        "opponentArchetype": "WeyYu"
       }
     ],
     "matchHistory": [
+      {
+        "id": 104,
+        "confirmedAt": "2026-10-16 18:35:37",
+        "replayUrl": null,
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Edward Swissorhands",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Re:B00t",
+        "opponentArchetype": "COMIC!"
+      },
       {
         "id": 103,
         "confirmedAt": "2026-10-16 18:03:16",
