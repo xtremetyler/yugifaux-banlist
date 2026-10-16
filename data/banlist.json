@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T16:01:33.980Z",
+  "updatedAt": "2026-10-16T16:04:04.012Z",
   "cards": [
     {
       "id": 384,
@@ -9504,6 +9504,27 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006952.jpg",
       "addedAt": "2026-08-22 00:34:48",
       "changedAt": "2026-08-24 00:48:59"
+    },
+    {
+      "id": 775,
+      "name": "Nephilabyss, the Ogdoadic Overlord",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Reptile",
+      "attribute": "DARK",
+      "levelRankLink": "Level 10",
+      "atk": "2200",
+      "def": "3100",
+      "text": "If a monster(s) is sent from the hand or Deck to the GY, while this card is in your GY (except during the Damage Step): You can Special Summon this card, also you cannot Special Summon monsters until the end of the next turn, except Reptile monsters. If you control this card that was Special Summoned from the GY: You can target 1 monster in your GY, except \"Nephilabyss, the Ogdoadic Overlord\"; Special Summon it. You can only use each effect of \"Nephilabyss, the Ogdoadic Overlord\" once per turn.",
+      "archetype": "Abyss-",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "46518210",
+      "duelingbookId": 14421,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/46518210.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/nephilabyss-the-ogdoadic-overlord-14010",
+      "addedAt": "2026-10-16 16:04:02",
+      "changedAt": "2026-10-16 16:04:02"
     },
     {
       "id": 774,
@@ -29864,7 +29885,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 35,
+        "balance": 28,
         "lifetimePoints": 262,
         "matchWins": 8,
         "matchLosses": 4,
@@ -29873,7 +29894,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 7.118
+        "slacs": 7.172
       },
       {
         "name": "Brielieve In Cheesus",
