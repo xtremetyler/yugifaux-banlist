@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T16:04:04.012Z",
+  "updatedAt": "2026-10-16T16:05:04.134Z",
   "cards": [
     {
       "id": 384,
@@ -15758,6 +15758,26 @@
       "changedAt": "2026-08-24 15:11:20"
     },
     {
+      "id": 776,
+      "name": "Yamorimori",
+      "status": "semi-limeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Reptile",
+      "attribute": "WATER",
+      "levelRankLink": "Level 2",
+      "atk": "0",
+      "def": "0",
+      "text": "You can banish this card from your GY, then target 1 Reptile monster you control and 1 face-up monster your opponent controls, to activate 1 of these effects;\r\n● Change those monsters to face-down Defense Position.\r\n● Destroy that monster you control, and if you do, change the ATK of the other monster to 0 until the end of this turn.\r\nYou can only use this effect of \"Yamorimori\" once per turn.",
+      "contributor": "The Original Rough Cheddar",
+      "passcode": "51474037",
+      "duelingbookId": 11539,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/51474037.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/yamorimori-11923",
+      "addedAt": "2026-10-16 16:04:36",
+      "changedAt": "2026-10-16 16:04:36"
+    },
+    {
       "id": 505,
       "name": "Yana Vailo, Sol Forger",
       "status": "unlimeade",
@@ -29885,7 +29905,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 28,
+        "balance": 21,
         "lifetimePoints": 262,
         "matchWins": 8,
         "matchLosses": 4,
@@ -29894,7 +29914,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 7.172
+        "slacs": 7.226
       },
       {
         "name": "Brielieve In Cheesus",
