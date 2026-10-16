@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T16:13:47.066Z",
+  "updatedAt": "2026-10-16T16:15:47.084Z",
   "cards": [
     {
       "id": 384,
@@ -13973,6 +13973,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5995213.jpg",
       "addedAt": "2026-08-15 01:23:13",
       "changedAt": "2026-09-16 18:34:55"
+    },
+    {
+      "id": 777,
+      "name": "Torren, the Faultbreaker",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Rock",
+      "attribute": "EARTH",
+      "levelRankLink": "Level 6",
+      "atk": "2400",
+      "def": "1200",
+      "text": "You can banish 1 EARTH or Rock monster from your hand or GY, except this card; Special Summon this card from your hand or GY (but if Summoned from the GY, banish it face-down when it leaves the field), then you can add 1 EARTH or Rock monster from your Deck to your hand. You can discard this card and 1 other EARTH or Rock monster; send 1 EARTH or Rock monster from your Deck to the GY. You can banish this card from your GY; Special Summon 1 EARTH or Rock monster from your hand. You can only use 1 “Torren, the Faultbreaker” effect per turn, and only once that turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6097192,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6097192.jpg",
+      "addedAt": "2026-10-16 16:15:42",
+      "changedAt": "2026-10-16 16:15:42"
     },
     {
       "id": 29,
@@ -29892,7 +29911,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 35,
+        "balance": 26,
         "lifetimePoints": 499,
         "matchWins": 8,
         "matchLosses": 12,
@@ -29901,7 +29920,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 7.765
+        "slacs": 7.798
       },
       {
         "name": "The Original Rough Cheddar",
