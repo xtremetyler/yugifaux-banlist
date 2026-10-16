@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T16:09:17.283Z",
+  "updatedAt": "2026-10-16T16:13:47.066Z",
   "cards": [
     {
       "id": 384,
@@ -3436,7 +3436,7 @@
     {
       "id": 725,
       "name": "Cynet Mining",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -3448,7 +3448,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/57160136.jpg",
       "officialUrl": "https://ygoprodeck.com/card/cynet-mining-10014",
       "addedAt": "2026-10-10 03:01:50",
-      "changedAt": "2026-10-10 03:01:50"
+      "changedAt": "2026-10-16 16:13:27"
     },
     {
       "id": 235,
@@ -7656,7 +7656,7 @@
     {
       "id": 237,
       "name": "Juraishin, the Cursed Thunder God",
-      "status": "limeade",
+      "status": "banned",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Psychic",
@@ -7671,7 +7671,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/78693036.jpg",
       "officialUrl": "https://ygoprodeck.com/card/juraishin-the-cursed-thunder-god-14934",
       "addedAt": "2026-08-16 23:38:03",
-      "changedAt": "2026-08-25 04:05:06"
+      "changedAt": "2026-10-16 16:13:27"
     },
     {
       "id": 585,
@@ -12291,7 +12291,7 @@
     {
       "id": 773,
       "name": "Snake Rain",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -12303,7 +12303,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/17189677.jpg",
       "officialUrl": "https://ygoprodeck.com/card/snake-rain-1485",
       "addedAt": "2026-10-16 16:00:43",
-      "changedAt": "2026-10-16 16:00:43"
+      "changedAt": "2026-10-16 16:13:27"
     },
     {
       "id": 1,
@@ -29905,7 +29905,7 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 21,
+        "balance": 11,
         "lifetimePoints": 262,
         "matchWins": 8,
         "matchLosses": 4,
@@ -29914,7 +29914,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 7.226
+        "slacs": 7.281
       },
       {
         "name": "Brielieve In Cheesus",
