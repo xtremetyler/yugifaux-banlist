@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-16T18:38:47.281Z",
+  "updatedAt": "2026-10-16T18:40:17.322Z",
   "cards": [
     {
       "id": 384,
@@ -29699,8 +29699,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 8,
-      "totalClauses": 53,
+      "addedClauses": 9,
+      "totalClauses": 54,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -29778,11 +29778,11 @@
           "levelRankLink": "Level 3",
           "atk": "1600",
           "def": "800",
-          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it; send 1 \"Re:B00t\" card from your Deck to the GY, except a WIND Monster, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. You can only activate this effect of \"Re:B00t Net Surfer\" once per turn. If this card would be used to Synchro Summon a Monster while you control \"Re:B00t Pirate Bay\", 1 Level 4 or lower Monster in your hand can be used as 1 of the other Materials.",
+          "text": "If this card is returned or added to the hand (except by drawing it): You can reveal it; send 1 \"Re:B00t\" card from your Deck to the GY, except a WIND Monster, also for the rest of this turn you cannot Special Summon Monsters from the Extra Deck, except Synchro Monsters. You can only activate this effect of \"Re:B00t Net Surfer\" once per turn. If this card would be used to Synchro Summon a Monster while you control \"Re:B00t Pirate Bay\", 1 Level 4 or lower Monster in your hand can be used as 1 of the other Materials. Once per Duel, while this card is in your GY (Quick Effect): You can return this card to your hand.",
           "duelingbookId": 6051754,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051754.jpg",
           "addedAt": "2026-10-14 19:28:05",
-          "changedAt": "2026-10-14 20:53:37"
+          "changedAt": "2026-10-16 18:40:11"
         },
         {
           "id": 534,
