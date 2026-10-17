@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-17T02:10:50.479Z",
+  "updatedAt": "2026-10-17T04:00:50.663Z",
   "cards": [
     {
       "id": 384,
@@ -8097,6 +8097,30 @@
       "officialUrl": "https://ygoprodeck.com/card/lyrilusc-ensemblue-robin-12217",
       "addedAt": "2026-08-11 17:57:51",
       "changedAt": "2026-09-16 18:34:03"
+    },
+    {
+      "id": 779,
+      "name": "Mad Botanist - Vera E. Guthing",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Pendulum Synchro Monster",
+      "monsterType": "Spellcaster",
+      "abilities": [
+        "Tuner"
+      ],
+      "attribute": "WIND",
+      "levelRankLink": "Level 10",
+      "atk": "2200",
+      "def": "2200",
+      "pendulumScale": "10",
+      "pendulumEffect": "Once per turn: You can add 1 face-up card from your Extra Deck to your hand, and if you do, discard 1 card, unless you added a Plant Pendulum Monster Card to your hand with this effect.",
+      "text": "1+ Tuner Monster(s) + 1 non-Tuner Monster\nIf this card is Synchro Summoned: For each Monster that was originally a Tuner sent to the GY as Material for this card's Synchro Summon, you can send 1 card from your Deck or Extra Deck to the GY, then, after this effect resolves, you cannot activate this effect of \"Mad Botanist - Vera E. Guthing\" for the rest of this Duel. Once per turn: You can activate this effect; Special Summon 1 Plant Pendulum Monster Card from your face-up Extra Deck, GY, or Pendulum Zone.",
+      "clauses": 4,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6098092,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6098092.jpg",
+      "addedAt": "2026-10-17 04:00:45",
+      "changedAt": "2026-10-17 04:00:45"
     },
     {
       "id": 248,
@@ -29917,7 +29941,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 27,
+        "balance": 18,
         "lifetimePoints": 598,
         "matchWins": 15,
         "matchLosses": 14,
@@ -29926,7 +29950,7 @@
         "gamesDrawn": 0,
         "archetypeId": 46,
         "archetypeName": "Re:B00t",
-        "slacs": 10.56
+        "slacs": 10.616
       },
       {
         "name": "Edward Swissorhands",
