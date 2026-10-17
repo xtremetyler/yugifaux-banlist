@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-17T04:00:50.663Z",
+  "updatedAt": "2026-10-17T04:10:50.734Z",
   "cards": [
     {
       "id": 384,
@@ -15803,6 +15803,30 @@
       "changedAt": "2026-08-25 04:05:39"
     },
     {
+      "id": 780,
+      "name": "Xylophlora, the Blooming Ouroboros",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Pendulum Fusion Monster",
+      "monsterType": "Plant",
+      "abilities": [
+        "Tuner"
+      ],
+      "attribute": "WIND",
+      "levelRankLink": "Level 5",
+      "atk": "?",
+      "def": "?",
+      "pendulumScale": "1",
+      "pendulumEffect": "No Pendulum Effect.",
+      "text": "1 Plant monster + 1 WIND monster\nThe original ATK/DEF of this card become the combined original ATK/DEF of the Fusion Materials used for its Fusion Summon. Once per turn, when your opponent activates a Spell card or effect (Quick Effect): You can Tribute 1 Plant monster; negate the activation. If this card is sent to the GY: You can Special Summon 1 “Bloom Token” (Plant/WIND/Level 2/ATK 0/DEF 0) in Defense Position.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6098099,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6098099.jpg",
+      "addedAt": "2026-10-17 04:10:26",
+      "changedAt": "2026-10-17 04:10:26"
+    },
+    {
       "id": 176,
       "name": "Xyz Territory",
       "status": "unlimeade",
@@ -29954,7 +29978,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 25,
+        "balance": 16,
         "lifetimePoints": 507,
         "matchWins": 10,
         "matchLosses": 12,
@@ -29963,7 +29987,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 8.658
+        "slacs": 8.698
       },
       {
         "name": "The Original Rough Cheddar",
