@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0d1018" />
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
+    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="manifest" href="site.webmanifest" />
+    <meta name="description" content="Nominate YugiFaux Limeade List cards for review and vote on official review ballots." />
+    <title>YugiFaux Banlist Review</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css?v=2" />
+    <link rel="stylesheet" href="draft-styles.css" />
+    <link rel="stylesheet" href="review.css?v=1" />
+  </head>
+  <body class="review-page">
+    <header class="hero review-hero">
+      <div class="hero__glow"></div>
+      <div class="shell hero__content">
+        <nav class="site-nav" aria-label="YugiFaux pages">
+          <a href="index.html">Home</a>
+          <a href="dashboard.html">Dashboard</a>
+          <a href="profiles.html">Players</a>
+          <a href="archetypes.html">Active Archetypes</a>
+          <a href="banlist.html">Limeade List</a>
+          <a href="review.html" aria-current="page">Banlist Review</a>
+          <a href="rules.html">League Rules</a>
+          <a href="events.html">Events</a>
+          <a href="draft.html">Draft Night</a>
+          <a href="archive.html">Archive</a>
+          <a href="companion.html">Companion</a>
+        </nav>
+        <p class="eyebrow">Participants shape the format</p>
+        <h1>Banlist Review</h1>
+        <p class="hero__intro">Flag cards that deserve another look, explain what is happening in actual play, and vote when an official review ballot opens.</p>
+        <div class="review-hero__facts" aria-label="How review works">
+          <span><b>1</b> Nominate</span><span><b>2</b> Review</span><span><b>3</b> Vote</span><span><b>4</b> Admin decision</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="shell review-main">
+      <section id="review-setup" class="review-notice review-notice--warning" hidden>
+        <div><p class="eyebrow">Configuration required</p><h2>Voting is not connected yet</h2><p>The review interface is ready, but an administrator must connect its secure vote database before participants can sign in.</p></div>
+      </section>
+
+      <section id="review-auth" class="review-auth">
+        <div>
+          <p class="eyebrow">League access</p>
+          <h2 id="auth-title">Sign in to participate</h2>
+          <p id="auth-copy">Discord sign-in verifies one vote per participant. No votes are posted to Discord.</p>
+        </div>
+        <div class="review-auth__actions">
+          <button id="sign-in" class="review-primary" type="button">Sign in with Discord</button>
+          <button id="sign-out" class="review-secondary" type="button" hidden>Sign out</button>
+        </div>
+      </section>
+
+      <section id="participant-status" class="review-notice" hidden aria-live="polite"></section>
+
+      <div id="review-app" hidden>
+        <section class="review-status-grid" aria-label="Review status">
+          <article><span>Nomination period</span><strong id="nomination-status">—</strong><small id="nomination-detail">Loading…</small></article>
+          <article><span>Official ballot</span><strong id="ballot-status">—</strong><small id="ballot-detail">Loading…</small></article>
+          <article><span>Your nominations</span><strong id="my-nomination-count">0</strong><small>Editable while nominations are open</small></article>
+          <article><span>Your ballot votes</span><strong id="my-ballot-count">0</strong><small>Advisory until an admin decision</small></article>
+        </section>
+
+        <section class="review-toolbar" aria-label="Review filters">
+          <label class="review-search"><span>Find a card</span><input id="review-search" type="search" placeholder="Search by card name, archetype, or text…" autocomplete="off" /></label>
+          <label><span>Current status</span><select id="review-status-filter"><option value="all">All statuses</option><option value="banned">Banned · 0</option><option value="limeade">Limeade · 1</option><option value="semi-limeade">Semi-Limeade · 2</option><option value="unlimeade">Un-Limeade · 3</option></select></label>
+          <label><span>Card pool</span><select id="review-source-filter"><option value="all">Official + custom</option><option value="official">Official</option><option value="custom">Custom</option></select></label>
+        </section>
+
+        <div class="review-tabs" role="tablist" aria-label="Banlist review views">
+          <button type="button" role="tab" data-review-view="cards" aria-selected="true">Nominate cards</button>
+          <button type="button" role="tab" data-review-view="ballot" aria-selected="false">Official ballot <span id="ballot-card-count">0</span></button>
+          <button type="button" role="tab" data-review-view="mine" aria-selected="false">My submissions</button>
+          <button id="admin-tab" type="button" role="tab" data-review-view="admin" aria-selected="false" hidden>Admin review</button>
+        </div>
+
+        <section id="cards-view" class="review-view" data-view-panel="cards">
+          <div class="review-heading"><div><p class="eyebrow">The complete shared pool</p><h2>Cards available for nomination</h2><p id="review-result-count">Loading cards…</p></div></div>
+          <div id="review-card-grid" class="review-card-grid" aria-live="polite"></div>
+          <button id="review-load-more" class="review-secondary review-load-more" type="button" hidden>Load more cards</button>
+        </section>
+
+        <section id="ballot-view" class="review-view" data-view-panel="ballot" hidden>
+          <div class="review-heading"><div><p class="eyebrow">Formal participant vote</p><h2>Official review ballot</h2><p>Choose the copy limit you recommend. An administrator makes the final decision after voting closes.</p></div></div>
+          <div id="ballot-grid" class="review-card-grid"></div>
+          <div id="ballot-empty" class="review-empty" hidden><h3>No cards are on the ballot yet.</h3><p>Nominated cards appear here after an administrator opens them for formal review.</p></div>
+        </section>
+
+        <section id="mine-view" class="review-view" data-view-panel="mine" hidden>
+          <div class="review-heading"><div><p class="eyebrow">Your review record</p><h2>My submissions</h2><p>You can update or withdraw submissions while their corresponding stage is open.</p></div></div>
+          <div id="my-submissions" class="review-submissions"></div>
+        </section>
+
+        <section id="admin-view" class="review-view" data-view-panel="admin" hidden>
+          <div class="review-heading"><div><p class="eyebrow">League Admin</p><h2>Review control room</h2><p>Manage voting windows and move nominated cards onto the official ballot. Nothing here changes the live Limeade List.</p></div></div>
+          <div id="admin-controls" class="admin-controls"></div>
+          <div id="admin-participants" class="admin-participants"></div>
+          <div id="admin-queue" class="admin-queue"></div>
+        </section>
+      </div>
+
+      <section id="review-error" class="error-state" hidden><h2>The review system could not be loaded</h2><p id="review-error-copy">Refresh the page in a moment or let a league administrator know.</p></section>
+    </main>
+
+    <dialog id="nomination-dialog" class="review-dialog">
+      <button class="dialog-close" type="button" data-close-dialog aria-label="Close nomination form">×</button>
+      <form id="nomination-form" method="dialog">
+        <div id="nomination-card" class="dialog-card-summary"></div>
+        <p class="eyebrow">Participant nomination</p><h2>Why should this card be reviewed?</h2>
+        <input id="nomination-card-id" type="hidden" />
+        <label><span>Main concern</span><select id="nomination-concern" required><option value="">Choose a reason…</option><option value="too-powerful">Too powerful</option><option value="too-weak">Too weak</option><option value="unhealthy">Unhealthy or frustrating</option><option value="needs-discussion">Needs discussion</option></select></label>
+        <label><span>Suggested status</span><select id="nomination-suggestion" required><option value="banned">Banned · 0</option><option value="limeade">Limeade · 1</option><option value="semi-limeade">Semi-Limeade · 2</option><option value="unlimeade">Un-Limeade · 3</option></select></label>
+        <label><span>Explanation <small>optional, 600 characters</small></span><textarea id="nomination-explanation" maxlength="600" rows="5" placeholder="Describe what you have seen in games or why the current status should change."></textarea></label>
+        <div class="review-dialog__actions"><button id="withdraw-nomination" class="review-danger" type="button" hidden>Withdraw nomination</button><span></span><button class="review-secondary" type="button" data-close-dialog>Cancel</button><button class="review-primary" type="submit">Save nomination</button></div>
+      </form>
+    </dialog>
+
+    <dialog id="ballot-dialog" class="review-dialog">
+      <button class="dialog-close" type="button" data-close-dialog aria-label="Close ballot form">×</button>
+      <form id="ballot-form" method="dialog">
+        <div id="ballot-card" class="dialog-card-summary"></div>
+        <p class="eyebrow">Official review ballot</p><h2>What should its copy limit be?</h2>
+        <input id="ballot-card-id" type="hidden" />
+        <label><span>Your recommendation</span><select id="ballot-choice" required><option value="">Choose a status…</option><option value="banned">Banned · 0</option><option value="limeade">Limeade · 1</option><option value="semi-limeade">Semi-Limeade · 2</option><option value="unlimeade">Un-Limeade · 3</option><option value="abstain">Abstain</option></select></label>
+        <label><span>Comment <small>optional, 600 characters</small></span><textarea id="ballot-comment" maxlength="600" rows="5" placeholder="Add context for the administrators reviewing the result."></textarea></label>
+        <div class="review-dialog__actions"><button id="withdraw-ballot" class="review-danger" type="button" hidden>Withdraw vote</button><span></span><button class="review-secondary" type="button" data-close-dialog>Cancel</button><button class="review-primary" type="submit">Save vote</button></div>
+      </form>
+    </dialog>
+
+    <div id="review-toast" class="review-toast" role="status" aria-live="polite" hidden></div>
+    <footer><div class="shell footer__content"><span>YugiFaux Banlist Review</span><span>Participant votes are advisory until approved by a League Admin</span></div></footer>
+    <script src="review-config.js?v=1"></script>
+    <script type="module" src="review.js?v=1"></script>
+  </body>
+</html>
