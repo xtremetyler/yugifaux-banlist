@@ -13,7 +13,7 @@ const state = {cards:[],session:null,participant:null,participants:[],settings:n
 
 const $ = selector => document.querySelector(selector);
 const elements = {
-  setup:$("#review-setup"),auth:$("#review-auth"),authTitle:$("#auth-title"),authCopy:$("#auth-copy"),signIn:$("#sign-in"),signOut:$("#sign-out"),
+  setup:$("#review-setup"),auth:$("#review-auth"),authTitle:$("#auth-title"),authCopy:$("#auth-copy"),profileLink:$("#my-profile-link"),signIn:$("#sign-in"),signOut:$("#sign-out"),
   participantStatus:$("#participant-status"),app:$("#review-app"),error:$("#review-error"),errorCopy:$("#review-error-copy"),
   nominationStatus:$("#nomination-status"),nominationDetail:$("#nomination-detail"),ballotStatus:$("#ballot-status"),ballotDetail:$("#ballot-detail"),
   myNominationCount:$("#my-nomination-count"),myBallotCount:$("#my-ballot-count"),ballotCardCount:$("#ballot-card-count"),
@@ -154,11 +154,15 @@ async function loadReviewData() {
 }
 async function applySession(session) {
   state.session=session;elements.signIn.hidden=Boolean(session);elements.signOut.hidden=!session;
-  if(!session){elements.authTitle.textContent="Sign in to participate";elements.authCopy.textContent="Discord sign-in verifies one vote per participant. No votes are posted to Discord.";elements.participantStatus.hidden=true;elements.app.hidden=true;return;}
+  if(!session){elements.authTitle.textContent="Sign in to participate";elements.authCopy.textContent="Discord sign-in verifies one vote per participant. No votes are posted to Discord.";elements.profileLink.hidden=true;elements.participantStatus.hidden=true;elements.app.hidden=true;return;}
   elements.authTitle.textContent=session.user.user_metadata?.full_name||session.user.user_metadata?.name||"Signed in";elements.authCopy.textContent="Your votes are private from other participants and visible to League Admins.";
   const {data:participant,error}=await supabase.from("review_participants").select("*").eq("user_id",session.user.id).maybeSingle();
   if(error)throw error;state.participant=participant;
   if(!participant){elements.participantStatus.innerHTML="<div><h2>Finishing your participant record</h2><p>Sign out and sign back in once. If this continues, ask a League Admin to check your review access.</p></div>";elements.participantStatus.hidden=false;elements.app.hidden=true;return;}
+  const {data:profile,error:profileError}=await supabase.from("league_profiles").select("profile_name,active").eq("discord_id",participant.discord_id).maybeSingle();
+  if(profileError)console.warn("League profile link is not available yet.",profileError.message);
+  elements.profileLink.hidden=!profile;
+  if(profile){elements.profileLink.href=`profiles.html?player=${encodeURIComponent(profile.profile_name)}`;elements.authCopy.textContent=`Linked automatically to the ${profile.profile_name} league profile through Discord.`;}
   if(!participant.approved){elements.participantStatus.innerHTML="<div><p class=\"eyebrow\">Approval pending</p><h2>Your Discord identity is connected</h2><p>A League Admin must approve your participant record before you can nominate or vote.</p></div>";elements.participantStatus.hidden=false;elements.app.hidden=true;return;}
   if(!participant.active){elements.participantStatus.innerHTML="<div><p class=\"eyebrow\">Participant inactive</p><h2>Voting access is paused</h2><p>Your submissions are preserved, but inactive participants cannot nominate or vote.</p></div>";elements.participantStatus.hidden=false;elements.app.hidden=true;return;}
   elements.participantStatus.hidden=true;elements.app.hidden=false;elements.adminTab.hidden=!participant.is_admin;await loadReviewData();

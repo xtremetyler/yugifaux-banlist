@@ -14,6 +14,14 @@ create table if not exists public.review_participants (
   updated_at timestamptz not null default now()
 );
 
+-- Private bot-maintained roster. Discord IDs never enter the public website data.
+create table if not exists public.league_profiles (
+  discord_id text primary key,
+  profile_name text not null,
+  active boolean not null default true,
+  updated_at timestamptz not null default now()
+);
+
 create table if not exists public.review_settings (
   id smallint primary key default 1 check (id = 1),
   title text not null default 'YugiFAUX Banlist Review',
@@ -91,6 +99,7 @@ create trigger on_auth_user_created_review after insert or update of raw_user_me
 for each row execute procedure public.handle_review_signup();
 
 alter table public.review_participants enable row level security;
+alter table public.league_profiles enable row level security;
 alter table public.review_settings enable row level security;
 alter table public.card_nominations enable row level security;
 alter table public.review_cards enable row level security;
@@ -98,8 +107,17 @@ alter table public.card_ballots enable row level security;
 
 create policy "participants read themselves or admins" on public.review_participants for select
 using (user_id = auth.uid() or public.is_review_admin());
+create policy "participants read their linked league profile or admins read all" on public.league_profiles for select
+using (exists (
+  select 1 from public.review_participants p
+  where p.user_id = auth.uid()
+    and (p.discord_id = league_profiles.discord_id or public.is_review_admin())
+));
 create policy "admins manage participant access" on public.review_participants for update
 using (public.is_review_admin()) with check (public.is_review_admin());
+
+grant select on public.league_profiles to authenticated;
+grant all on public.league_profiles to service_role;
 create policy "approved participants read settings" on public.review_settings for select
 using (public.is_review_participant(false));
 create policy "admins update settings" on public.review_settings for update
