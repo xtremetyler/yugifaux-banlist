@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:30:17.459Z",
+  "updatedAt": "2026-10-20T04:31:47.475Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 4,
+      "registeredCardCount": 5,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30047,6 +30047,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045366.jpg",
           "addedAt": "2026-10-20 04:29:48",
           "changedAt": "2026-10-20 04:29:48"
+        },
+        {
+          "id": 546,
+          "name": "NetWRM Cybersecurity Algorithm WNGBLST",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Send 1 random monster from your Extra Deck to the GY; return 1 card your opponent controls to its owner's hand, then you can place a Pendulum Monster from your GY or face-up Extra Deck in 1 of your Pendulum Zones (even if it isn't currently empty).",
+          "duelingbookId": 6045401,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045401.jpg",
+          "addedAt": "2026-10-20 04:31:45",
+          "changedAt": "2026-10-20 04:31:45"
         }
       ]
     }
@@ -30106,7 +30121,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.312
+        "slacs": 5.351
       },
       {
         "name": "forgoudaboutit",
