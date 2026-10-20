@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T18:17:02.697Z",
+  "updatedAt": "2026-10-20T18:17:32.690Z",
   "cards": [
     {
       "id": 384,
@@ -30537,7 +30537,7 @@
       "submittedAt": "2026-10-20 18:13:42",
       "activatedAt": "2026-10-20 18:13:42",
       "declaredCardCount": 12,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30677,6 +30677,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008935.jpg",
           "addedAt": "2026-10-20 18:16:58",
           "changedAt": "2026-10-20 18:16:58"
+        },
+        {
+          "id": 562,
+          "name": "Kimer Agate - Celestial of Malevolence",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Pyro",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 12",
+          "atk": "3400",
+          "def": "2300",
+          "text": "1 Fusion Monster + 1+ Rock Monster(s) + 1+ FIRE Monster(s) with different names\nThis card is unaffected by the effects of cards with the same original name as a card equipped to it. Once per turn: You can target 1 other Monster on either field; equip that target to this card as an Equip Spell, then if a FIRE or Rock Monster was equipped by this effect, you can destroy it. During either player's Main Phase, while this card is a Continuous Spell: You can send 1 Monster Card from your hand or field to the GY; you can Fusion Summon this card by banishing the above Materials from your hand or GY (up to 2 \"Kimer Agate\" Monsters from your Deck can be used as well, but are sent to the GY instead of being banished), and if you do, equip 1 card from either GY or Banishment to this card as an Equip Spell, also you cannot Synchro Summon, Xyz Summon, or Link Summon for the rest of the turn after this effect resolves. You can only activate this effect of \"Kimer Agate - Celestial of Malevolence\" once per turn.",
+          "duelingbookId": 6008937,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008937.jpg",
+          "addedAt": "2026-10-20 18:17:18",
+          "changedAt": "2026-10-20 18:17:18"
         }
       ]
     }
@@ -30697,7 +30713,7 @@
         "gamesDrawn": 0,
         "archetypeId": 48,
         "archetypeName": "Kimer Agate",
-        "slacs": 11.304
+        "slacs": 11.333
       },
       {
         "name": "Edward Swissorhands",
