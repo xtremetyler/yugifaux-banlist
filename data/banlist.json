@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T16:47:57.866Z",
+  "updatedAt": "2026-10-20T16:48:27.895Z",
   "cards": [
     {
       "id": 384,
@@ -7790,8 +7790,8 @@
       "archetype": "Re:B00t",
       "archetypeId": 46,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6051779,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051779.jpg",
+      "duelingbookId": 6103267,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103267.jpg",
       "addedAt": "2026-10-20 16:45:50",
       "changedAt": "2026-10-20 16:45:50"
     },
@@ -15566,8 +15566,8 @@
       "archetype": "Re:B00t",
       "archetypeId": 46,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6051803,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051803.jpg",
+      "duelingbookId": 6103265,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103265.jpg",
       "addedAt": "2026-10-20 16:45:50",
       "changedAt": "2026-10-20 16:45:50"
     },
@@ -16339,7 +16339,7 @@
       "cardListComplete": false,
       "featuredCardId": 789,
       "featuredCardName": "Key Boarding Party Re:B00t Sequence",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051779.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103267.jpg",
       "cards": [
         {
           "id": 789,
@@ -16356,8 +16356,8 @@
           "archetype": "Re:B00t",
           "archetypeId": 46,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6051779,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051779.jpg",
+          "duelingbookId": 6103267,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103267.jpg",
           "addedAt": "2026-10-20 16:45:50",
           "changedAt": "2026-10-20 16:45:50"
         },
@@ -16595,8 +16595,8 @@
           "archetype": "Re:B00t",
           "archetypeId": 46,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6051803,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051803.jpg",
+          "duelingbookId": 6103265,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103265.jpg",
           "addedAt": "2026-10-20 16:45:50",
           "changedAt": "2026-10-20 16:45:50"
         }
