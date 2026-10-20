@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T16:48:57.908Z",
+  "updatedAt": "2026-10-20T17:01:57.897Z",
   "cards": [
     {
       "id": 384,
@@ -7753,6 +7753,25 @@
       "officialUrl": "https://ygoprodeck.com/card/kerzebs-the-gaoled-glutton-15211",
       "addedAt": "2026-08-17 02:58:04",
       "changedAt": "2026-08-24 14:08:17"
+    },
+    {
+      "id": 793,
+      "name": "Kest, the Cinderhand",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Pyro",
+      "attribute": "FIRE",
+      "levelRankLink": "Level 6",
+      "atk": "2400",
+      "def": "1200",
+      "text": "You can banish 1 FIRE or Pyro monster from your hand or GY, except this card; Special Summon this card from your hand or GY (but if Summoned from the GY, banish it face-down when it leaves the field), then you can add 1 FIRE or Pyro monster from your Deck to your hand.\nYou can discard this card and 1 other FIRE or Pyro monster; send 1 FIRE or Pyro monster from your Deck to the GY.\nYou can banish this card from your GY; Special Summon 1 FIRE or Pyro monster from your hand.\nYou can only use 1 “Kest, the Cinderhand” effect per turn, and only once that turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6103281,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103281.jpg",
+      "addedAt": "2026-10-20 17:01:44",
+      "changedAt": "2026-10-20 17:01:44"
     },
     {
       "id": 175,
@@ -30511,7 +30530,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 22,
+        "balance": 13,
         "lifetimePoints": 513,
         "matchWins": 11,
         "matchLosses": 13,
@@ -30520,7 +30539,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 9.261
+        "slacs": 9.302
       },
       {
         "name": "The Original Rough Cheddar",
