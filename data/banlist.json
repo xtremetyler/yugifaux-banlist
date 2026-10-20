@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:29:47.495Z",
+  "updatedAt": "2026-10-20T04:30:17.459Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30032,6 +30032,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045417.jpg",
           "addedAt": "2026-10-20 04:29:31",
           "changedAt": "2026-10-20 04:29:31"
+        },
+        {
+          "id": 545,
+          "name": "NetWRM Illegally Modified Cyberdeck MNDDRGN",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During your Main Phase, if you control \"NetWRM Tagteam Cyberattack Engineer\" and \"NetWRM Tagteam Cyberdwelling H@x0R\": You can activate this card (from your Deck).\nWhen this card is activated, send the top 2 cards of your Deck to your GY. \nIf a \"NetWRM\" card(s) are sent to your GY, except from the field: Send the top card of your opponent's Deck to the GY, unless they discard 1 card. \nDuring your Main Phase: You can banish 1 \"NetWRM\" card from your GY; send the top 2 cards of your opponent's Deck to the GY. You can only activate each effect of \"NetWRM Illegally Modified Cyberdeck MNDDRGN\" once per turn.",
+          "duelingbookId": 6045366,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045366.jpg",
+          "addedAt": "2026-10-20 04:29:48",
+          "changedAt": "2026-10-20 04:29:48"
         }
       ]
     }
@@ -30091,7 +30106,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.269
+        "slacs": 5.312
       },
       {
         "name": "forgoudaboutit",
