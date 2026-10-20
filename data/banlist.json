@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T18:16:02.777Z",
+  "updatedAt": "2026-10-20T18:16:32.713Z",
   "cards": [
     {
       "id": 384,
@@ -30537,7 +30537,7 @@
       "submittedAt": "2026-10-20 18:13:42",
       "activatedAt": "2026-10-20 18:13:42",
       "declaredCardCount": 12,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30629,6 +30629,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008891.jpg",
           "addedAt": "2026-10-20 18:15:55",
           "changedAt": "2026-10-20 18:15:55"
+        },
+        {
+          "id": 559,
+          "name": "Kimer Agate Heavenly Margin",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 7",
+          "atk": "1900",
+          "def": "2600",
+          "text": "You can place this card from your hand or Banishment on top of your Deck; reveal the bottom card of your Deck and add it to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except EARTH or FIRE Monsters. If this card is sent to the GY by a card effect or to activate a card effect: You can target 1 Monster on the field; place this card in a Spell & Trap Zone on the field of that target's controller & equip this card to it as an Equip Spell that gives the equipped Monster 500 ATK/DEF. You can only activate each effect of \"Kimer Agate Heavenly Margin\" once per turn.",
+          "duelingbookId": 6008929,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008929.jpg",
+          "addedAt": "2026-10-20 18:16:09",
+          "changedAt": "2026-10-20 18:16:09"
         }
       ]
     }
@@ -30649,7 +30665,7 @@
         "gamesDrawn": 0,
         "archetypeId": 48,
         "archetypeName": "Kimer Agate",
-        "slacs": 11.21
+        "slacs": 11.242
       },
       {
         "name": "Edward Swissorhands",
