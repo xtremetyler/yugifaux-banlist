@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:34:17.499Z",
+  "updatedAt": "2026-10-20T04:34:47.504Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30141,6 +30141,23 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045431.jpg",
           "addedAt": "2026-10-20 04:34:00",
           "changedAt": "2026-10-20 04:34:00"
+        },
+        {
+          "id": 552,
+          "name": "NetWRM - Offensive FLM DRK",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Dragon",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 3",
+          "atk": "1500",
+          "def": "1500",
+          "pendulumScale": "3",
+          "text": "1 Tuner + 0+ Non-Tuner monsters\nCannot be Synchro Summoned, unless a player has 10 or more cards in their GY. \nDuring the Main Phase (Quick Effect): You can discard 1 card; send the top 3 cards of your opponent's Deck to the GY. You can only activate this effect of \"NetWRM - Offensive FLM DRK\" once per turn.\nWhile there are 10 or more cards in your GY, Monsters you control gain ATK equal to 100 x the number of cards in your opponent's GY.\nIf this card is sent from your Extra Deck to the GY: Each player sends the top 3 cards of their Deck to the GY, then place this card face-up in your Extra Deck.",
+          "duelingbookId": 6045447,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045447.jpg",
+          "addedAt": "2026-10-20 04:34:32",
+          "changedAt": "2026-10-20 04:34:32"
         }
       ]
     }
@@ -30200,7 +30217,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.496
+        "slacs": 5.518
       },
       {
         "name": "forgoudaboutit",
