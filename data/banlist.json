@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:37:24.205Z",
+  "updatedAt": "2026-10-20T23:37:54.124Z",
   "cards": [
     {
       "id": 384,
@@ -3338,7 +3338,7 @@
       "levelRankLink": "Level 5",
       "atk": "1400",
       "def": "1000",
-      "text": "\"COMIC! HERO Bubbleman\" or \"COMIC! HERO Avian\" + 1 \"COMIC!\" monster\nWhile you have 2 or more cards in your hand, this card can attack directly. At the end of the Damage Step, if this card inflicted battle damage to your opponent: You can target 1 “COMIC! HERO” monster in your GY; Special Summon it. During your opponent’s turn (Quick Effect): You can banish 1 random card from your opponent’s hand, face-up, until the End Phase. You can only use each effect of “COMIC! HERO Mariner” once per turn.",
+      "text": "\"COMIC! HERO Bubbleman\" or \"COMIC! HERO Avian\" + 1 \"COMIC!\" monster\nIf this card is revealed from the Extra Deck by a card effect or to activate a card effect: You can Special Summon 1 Level 4 Warrior or Toon monster from your hand or Deck. While you have 2 or more cards in your hand, this card can attack directly. At the end of the Damage Step, if this card inflicted battle damage to your opponent: You can target 1 “COMIC! HERO” monster in your GY; Special Summon it. During your opponent’s turn (Quick Effect): You can banish 1 random card from your opponent’s hand, face-up, until the End Phase. You can only use each effect of “COMIC! HERO Mariner” once per turn.",
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
@@ -3434,7 +3434,7 @@
       "levelRankLink": "Level 7",
       "atk": "2500",
       "def": "2000",
-      "text": "You can reveal a COMIC! Fusion monster in your extra deck; add 1 “COMIC!” Spell/Trap from your Deck to your hand, and if you do, Special Summon this card as an as an Effect Monster that gains its effects (from your hand). This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn (Quick Effect): You can reveal 1 “COMIC! HERO” Fusion Monster in your Extra Deck; Fusion Summon 1 “COMIC! HERO” Fusion Monster from your Extra Deck, using monsters from your hand or field as material. For this Fusion Summon, you can treat this card as 1 “COMIC!” monster specifically listed as material on the revealed Fusion Monster.\n●A Fusion Monster that was Fusion Summoned using this card as material can make a second attack during each Battle Phase this turn.",
+      "text": "During your Main Phase: You can reveal a \"COMIC!\" Fusion Monster in your Extra Deck; you can add 1 \"COMIC!\" Spell/Trap from your Deck to your hand or Special Summon this card (from your hand), treating it as an effect monster that gains each of the effects listed below. You can only activate this effect of \"COMIC! HERO Neos\" once per turn.This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with each of the following effects.\n● While Fusion Summoning a Toon or Warrior Fusion Monster, you can treat this card as the name of any 1 monster specifically listed as Fusion Material on the Summoned monster, but all other materials must be correct.\n● Once per turn, during the Main Phase (Quick Effect): You can reveal 1 \"COMIC!\" Fusion Monster in your Extra Deck; Fusion Summon the revealed monster using monsters from your hand or field as Fusion Material.\n● A Fusion Monster that was Fusion Summoned using this card as material can make a second attack during each of your Battle Phases, and if that monster was Fusion Summoned while treating this card as its original name, its battle position cannot be changed by the effects of face-up cards your opponent controls.",
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
@@ -17142,7 +17142,7 @@
           "levelRankLink": "Level 5",
           "atk": "1400",
           "def": "1000",
-          "text": "\"COMIC! HERO Bubbleman\" or \"COMIC! HERO Avian\" + 1 \"COMIC!\" monster\nWhile you have 2 or more cards in your hand, this card can attack directly. At the end of the Damage Step, if this card inflicted battle damage to your opponent: You can target 1 “COMIC! HERO” monster in your GY; Special Summon it. During your opponent’s turn (Quick Effect): You can banish 1 random card from your opponent’s hand, face-up, until the End Phase. You can only use each effect of “COMIC! HERO Mariner” once per turn.",
+          "text": "\"COMIC! HERO Bubbleman\" or \"COMIC! HERO Avian\" + 1 \"COMIC!\" monster\nIf this card is revealed from the Extra Deck by a card effect or to activate a card effect: You can Special Summon 1 Level 4 Warrior or Toon monster from your hand or Deck. While you have 2 or more cards in your hand, this card can attack directly. At the end of the Damage Step, if this card inflicted battle damage to your opponent: You can target 1 “COMIC! HERO” monster in your GY; Special Summon it. During your opponent’s turn (Quick Effect): You can banish 1 random card from your opponent’s hand, face-up, until the End Phase. You can only use each effect of “COMIC! HERO Mariner” once per turn.",
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
@@ -17238,7 +17238,7 @@
           "levelRankLink": "Level 7",
           "atk": "2500",
           "def": "2000",
-          "text": "You can reveal a COMIC! Fusion monster in your extra deck; add 1 “COMIC!” Spell/Trap from your Deck to your hand, and if you do, Special Summon this card as an as an Effect Monster that gains its effects (from your hand). This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.\n● Once per turn (Quick Effect): You can reveal 1 “COMIC! HERO” Fusion Monster in your Extra Deck; Fusion Summon 1 “COMIC! HERO” Fusion Monster from your Extra Deck, using monsters from your hand or field as material. For this Fusion Summon, you can treat this card as 1 “COMIC!” monster specifically listed as material on the revealed Fusion Monster.\n●A Fusion Monster that was Fusion Summoned using this card as material can make a second attack during each Battle Phase this turn.",
+          "text": "During your Main Phase: You can reveal a \"COMIC!\" Fusion Monster in your Extra Deck; you can add 1 \"COMIC!\" Spell/Trap from your Deck to your hand or Special Summon this card (from your hand), treating it as an effect monster that gains each of the effects listed below. You can only activate this effect of \"COMIC! HERO Neos\" once per turn.This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with each of the following effects.\n● While Fusion Summoning a Toon or Warrior Fusion Monster, you can treat this card as the name of any 1 monster specifically listed as Fusion Material on the Summoned monster, but all other materials must be correct.\n● Once per turn, during the Main Phase (Quick Effect): You can reveal 1 \"COMIC!\" Fusion Monster in your Extra Deck; Fusion Summon the revealed monster using monsters from your hand or field as Fusion Material.\n● A Fusion Monster that was Fusion Summoned using this card as material can make a second attack during each of your Battle Phases, and if that monster was Fusion Summoned while treating this card as its original name, its battle position cannot be changed by the effects of face-up cards your opponent controls.",
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
