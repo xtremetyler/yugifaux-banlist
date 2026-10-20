@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T18:16:32.713Z",
+  "updatedAt": "2026-10-20T18:17:02.697Z",
   "cards": [
     {
       "id": 384,
@@ -30537,7 +30537,7 @@
       "submittedAt": "2026-10-20 18:13:42",
       "activatedAt": "2026-10-20 18:13:42",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 8,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30645,6 +30645,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008929.jpg",
           "addedAt": "2026-10-20 18:16:09",
           "changedAt": "2026-10-20 18:16:09"
+        },
+        {
+          "id": 560,
+          "name": "Kimer Agate Grand-Red-Tide",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Rock",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 10",
+          "atk": "2300",
+          "def": "2900",
+          "text": "1 EARTH Monster + 1 Pyro Monster + 1+ Effect Monster(s) with different names\nOnce per turn: You can destroy the top card of your Deck; your opponent destroys 1 card from their hand and/or field, except an Equip Card, then if an EARTH or Pyro Monster was destroyed either to activate this effect or by this effect, inflict 700 damage to your opponent. During either player's Main Phase, while this card is a Continuous Spell: You can destroy the top card of your Deck; you can Fusion Summon this card by banishing the above Materials from your hand or GY (up to 1 \"Kimer Agate\" Monster from your Deck can be used as well, but is sent to the GY instead of being banished), and if you do, you can place 1 Level 12 \"Kimer Agate\" Fusion Monster from your Extra Deck to your Spell & Trap Zone as a face-up Continuous Spell, also you cannot Synchro Summon, Xyz Summon, or Link Summon for the rest of the turn after this effect resolves. You can only activate this effect of \"Kimer Agate Grand-Red-Tide\" once per turn.",
+          "duelingbookId": 6008932,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008932.jpg",
+          "addedAt": "2026-10-20 18:16:44",
+          "changedAt": "2026-10-20 18:16:44"
+        },
+        {
+          "id": 561,
+          "name": "Kimer Agate Ash-Laden-Winds",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Pyro",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 10",
+          "atk": "2900",
+          "def": "2200",
+          "text": "1 Rock Monster + 1 FIRE Monster + 1+ Effect Monster(s), with different names\nOnce per turn: You can destroy either the top card of your Deck or 1 card equipped to this card; inflict 300 damage to your opponent for each FIRE and/or Rock Monster in your GY and/or Banishment. During either player's Main Phase, while this card is a Continuous Spell: You can destroy the top card of your Deck; you can Fusion Summon this card by banishing the above Materials from your hand or GY (up to 1 \"Kimer Agate\" Monster from your Deck can be used as well, but is sent to the GY instead of being banished), and if you do, you can place 1 Level 12 \"Kimer Agate\" Fusion Monster from your Extra Deck to your Spell & Trap Zone as a face-up Continuous Spell, also you cannot Synchro Summon, Xyz Summon, or Link Summon for the rest of the turn after this effect resolves. You can only activate this effect of \"Kimer Agate Ash-Laden-Winds\" once per turn.",
+          "duelingbookId": 6008935,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008935.jpg",
+          "addedAt": "2026-10-20 18:16:58",
+          "changedAt": "2026-10-20 18:16:58"
         }
       ]
     }
@@ -30665,7 +30697,7 @@
         "gamesDrawn": 0,
         "archetypeId": 48,
         "archetypeName": "Kimer Agate",
-        "slacs": 11.242
+        "slacs": 11.304
       },
       {
         "name": "Edward Swissorhands",
