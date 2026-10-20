@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T17:01:57.897Z",
+  "updatedAt": "2026-10-20T17:02:27.993Z",
   "cards": [
     {
       "id": 384,
@@ -11756,6 +11756,25 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5939438.jpg",
       "addedAt": "2026-08-07 03:14:16",
       "changedAt": "2026-09-09 14:21:36"
+    },
+    {
+      "id": 794,
+      "name": "Sair, the Skycarver",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Psychic",
+      "attribute": "WIND",
+      "levelRankLink": "Level 6",
+      "atk": "2400",
+      "def": "1200",
+      "text": "You can banish 1 WIND or Psychic monster from your hand or GY, except this card; Special Summon this card from your hand or GY (but if Summoned from the GY, banish it face-down when it leaves the field), then you can add 1 WIND or Psychic monster from your Deck to your hand. You can discard this card and 1 other WIND or Psychic monster; send 1 WIND or Psychic monster from your Deck to the GY. You can banish this card from your GY; Special Summon 1 WIND or Psychic monster from your hand. You can only use 1 “Sair, the Skycarver” effect per turn, and only once that turn.",
+      "clauses": 4,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6103283,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103283.jpg",
+      "addedAt": "2026-10-20 17:02:24",
+      "changedAt": "2026-10-20 17:02:24"
     },
     {
       "id": 218,
@@ -30530,7 +30549,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 13,
+        "balance": 4,
         "lifetimePoints": 513,
         "matchWins": 11,
         "matchLosses": 13,
@@ -30539,7 +30558,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 9.302
+        "slacs": 9.343
       },
       {
         "name": "The Original Rough Cheddar",
