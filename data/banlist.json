@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:42:23.995Z",
+  "updatedAt": "2026-10-20T23:45:24.038Z",
   "cards": [
     {
       "id": 384,
@@ -31453,8 +31453,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 9,
-        "lifetimePoints": 518,
+        "balance": 13,
+        "lifetimePoints": 522,
         "matchWins": 11,
         "matchLosses": 13,
         "gamesWon": 30,
@@ -32425,6 +32425,11 @@
         "player": "Left Parm of the Forbitten One",
         "achievementId": "equal-opportunity-duelist",
         "earnedAt": "2026-10-15 18:48:14"
+      },
+      {
+        "player": "Edward Swissorhands",
+        "achievementId": "ascension",
+        "earnedAt": "2026-10-20 23:36:10"
       }
     ],
     "lifetimeCatalog": [
