@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:31:47.475Z",
+  "updatedAt": "2026-10-20T04:32:17.525Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 5,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30062,6 +30062,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045401.jpg",
           "addedAt": "2026-10-20 04:31:45",
           "changedAt": "2026-10-20 04:31:45"
+        },
+        {
+          "id": 547,
+          "name": "NetWRM Cyberattack Algorithm SNCSCRM",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Send 1 random monster from Extra Deck to GY and target 3 cards with different names in your either player's GY; shuffle them into the Deck, and if you do, skip the rest of this Phase (including the rest of this Chain).\n\nYou can only activate 1 \"NetWRM Cyberattack Algorithm SNCSCRM\" per turn.",
+          "duelingbookId": 6045390,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045390.jpg",
+          "addedAt": "2026-10-20 04:32:11",
+          "changedAt": "2026-10-20 04:32:11"
         }
       ]
     }
@@ -30121,7 +30136,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.351
+        "slacs": 5.386
       },
       {
         "name": "forgoudaboutit",
