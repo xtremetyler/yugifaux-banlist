@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:33:17.501Z",
+  "updatedAt": "2026-10-20T04:33:47.495Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30107,6 +30107,23 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045379.jpg",
           "addedAt": "2026-10-20 04:33:09",
           "changedAt": "2026-10-20 04:33:09"
+        },
+        {
+          "id": 550,
+          "name": "NetWRM - TeRRiZR LVTHN \"G@M30V3R\"",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Dragon",
+          "attribute": "DARK",
+          "levelRankLink": "Level 3",
+          "atk": "1500",
+          "def": "1500",
+          "pendulumScale": "3",
+          "text": "2 Pendulum Monsters\nOnce per Duel, during your Main Phase: Apply each of the following effects, in sequence. Neither player can activate cards or effects in response to this effect's activation.\n● For each player with 12 or more cards in their Deck, send the top 10 cards of their Deck to the GY.\n● For each player with 11 or fewer cards in their Deck, they choose 10 cards from their GY to shuffle into their Deck.\nIf this card is sent from your Extra Deck to the GY, or Fusion Summoned: Send the top 5 cards of your opponent's Deck to the GY, unless they discard a card, then you can place this card face-up in your Extra Deck. You can only activate this effect of \"NetWRM - TeRRiZR LVTHn \"G@M30V3R\"\" once per turn.",
+          "duelingbookId": 6045457,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045457.jpg",
+          "addedAt": "2026-10-20 04:33:41",
+          "changedAt": "2026-10-20 04:33:41"
         }
       ]
     }
@@ -30166,7 +30183,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.446
+        "slacs": 5.472
       },
       {
         "name": "forgoudaboutit",
