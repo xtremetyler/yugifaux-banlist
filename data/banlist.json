@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T18:14:02.771Z",
+  "updatedAt": "2026-10-20T18:14:32.699Z",
   "cards": [
     {
       "id": 384,
@@ -30537,7 +30537,7 @@
       "submittedAt": "2026-10-20 18:13:42",
       "activatedAt": "2026-10-20 18:13:42",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30546,7 +30546,27 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 554,
+      "featuredCardName": "Kimer Agate Somber Moon",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008842.jpg",
+      "cards": [
+        {
+          "id": 554,
+          "name": "Kimer Agate Somber Moon",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Pyro",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 3",
+          "atk": "1500",
+          "def": "900",
+          "text": "You can send this card from your hand or field to the GY to reveal 1 Level 7 FIRE Monster from your Deck; shuffle your Deck and place the revealed Monster on top of your Deck, then if you revealed a \"Kimer Agate\" Monster this way, you can place 1 Level 10 \"Kimer Agate\" Fusion Monster from your Extra Deck to your Spell & Trap Zone as a face-up Continuous Spell. You can only activate this effect of \"Kimer Agate Somber Moon\" once per turn. A Fusion Monster that used this card as Material is unaffected by the activated effects of your opponent's cards that were Set before its effect was activated.",
+          "duelingbookId": 6008842,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008842.jpg",
+          "addedAt": "2026-10-20 18:14:26",
+          "changedAt": "2026-10-20 18:14:26"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -30565,7 +30585,7 @@
         "gamesDrawn": 0,
         "archetypeId": 48,
         "archetypeName": "Kimer Agate",
-        "slacs": 11.037
+        "slacs": 11.074
       },
       {
         "name": "Edward Swissorhands",
