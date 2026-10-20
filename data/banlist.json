@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T17:50:01.828Z",
+  "updatedAt": "2026-10-20T18:14:02.771Z",
   "cards": [
     {
       "id": 384,
@@ -30527,6 +30527,26 @@
           "changedAt": "2026-10-20 04:34:55"
         }
       ]
+    },
+    {
+      "id": 48,
+      "name": "Kimer Agate",
+      "creator": "Left Parm of the Forbitten One",
+      "status": "active",
+      "description": "THEY'RE HERE! THEY'RE FINALLY HERE!! I can finally play these silly volcano fusion chimeras and get them out of my DB account........FIIIIIIIIINNNNNNAAAAAAAALLLLLLLLLYYYYYYYY.\n\nRock-Pyro-FIRE-EARTH\nQuestion what your life is worth.\n\nHot, hot lion, lava burst!\nTrapping this was just the worst.\n\nFu-Fu-Fusion, Fusion-HA\nThe weird'st mechanics you e'er saw.",
+      "submittedAt": "2026-10-20 18:13:42",
+      "activatedAt": "2026-10-20 18:13:42",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 2,
+      "extraCount": 4,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -30543,9 +30563,9 @@
         "gamesWon": 37,
         "gamesLost": 39,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null,
-        "slacs": 10.638
+        "archetypeId": 48,
+        "archetypeName": "Kimer Agate",
+        "slacs": 11.037
       },
       {
         "name": "Edward Swissorhands",
