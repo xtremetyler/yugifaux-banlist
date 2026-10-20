@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:34:47.504Z",
+  "updatedAt": "2026-10-20T04:35:17.545Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30158,6 +30158,23 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045447.jpg",
           "addedAt": "2026-10-20 04:34:32",
           "changedAt": "2026-10-20 04:34:32"
+        },
+        {
+          "id": 553,
+          "name": "NetWRM - Defensive ICE WVRN",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Dragon",
+          "attribute": "WATER",
+          "levelRankLink": "Level 3",
+          "atk": "1500",
+          "def": "1500",
+          "pendulumScale": "3",
+          "text": "1 Tuner + 0+ Non-Tuner monsters\nCannot be Synchro Summoned, unless a player has 10 or more cards in their GY. \nNegate the first effect your opponent activates each turn that targets a face-up card(s) you control as it resolves, and if you do, send the top 3 cards of each player's Deck to the GY.\nWhile there are 10 or more cards in your GY, Monster Cards in your Spell & Trap Zones are unaffected by your opponent's activated effects.\nIf this card is sent from your Extra Deck to the GY: You can shuffle up to 3 other cards from your GY into your Deck (min. 1); place this card face-up in your Extra Deck.",
+          "duelingbookId": 6045425,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045425.jpg",
+          "addedAt": "2026-10-20 04:34:55",
+          "changedAt": "2026-10-20 04:34:55"
         }
       ]
     }
@@ -30217,7 +30234,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.518
+        "slacs": 5.538
       },
       {
         "name": "forgoudaboutit",
