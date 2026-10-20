@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:32:47.457Z",
+  "updatedAt": "2026-10-20T04:33:17.501Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 7,
+      "registeredCardCount": 8,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30092,6 +30092,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045381.jpg",
           "addedAt": "2026-10-20 04:32:39",
           "changedAt": "2026-10-20 04:32:39"
+        },
+        {
+          "id": 549,
+          "name": "NetWRM Cyberattack Algorithm DRGNBRTH",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During your Main Phase, while this card is in your hand: You can discard it; add 1 \"NetWRM Illegally Modified Cyberdeck MNDDRGN\" from your Deck to your hand.\n\nDestroy 1 random monster in your Extra Deck, then target 1 face-up monster with a Level your opponent controls; return it to the hand, and if you do, you can make each player send cards from the top of their Deck to the GY equal to that target's original Level.",
+          "duelingbookId": 6045379,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045379.jpg",
+          "addedAt": "2026-10-20 04:33:09",
+          "changedAt": "2026-10-20 04:33:09"
         }
       ]
     }
@@ -30151,7 +30166,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.417
+        "slacs": 5.446
       },
       {
         "name": "forgoudaboutit",
