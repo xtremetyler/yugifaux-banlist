@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-19T22:37:45.628Z",
+  "updatedAt": "2026-10-20T04:28:17.466Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -29975,7 +29975,29 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 542,
+      "featuredCardName": "NetWRM Tagteam Cyberdwelling H@x0R",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045374.jpg",
+      "cards": [
+        {
+          "id": 542,
+          "name": "NetWRM Tagteam Cyberdwelling H@x0R",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 3",
+          "atk": "0",
+          "def": "0",
+          "pendulumScale": "7",
+          "pendulumEffect": "During your Main Phase: You can banish 1 Spell Card from your GY, then, if a \"NetWRM\" Spell was banished this way, you can apply that card's activated effect as this effect. You can only activate this effect of \"NetWRM Tagteam Cyberdwelling H@x0R\" once per turn.",
+          "text": "May not be normal or special summoned to a Monster Field Zone.",
+          "duelingbookId": 6045374,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045374.jpg",
+          "addedAt": "2026-10-20 04:27:57",
+          "changedAt": "2026-10-20 04:27:57"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -30033,7 +30055,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.099
+        "slacs": 5.164
       },
       {
         "name": "forgoudaboutit",
