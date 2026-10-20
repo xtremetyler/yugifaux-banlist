@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:28:17.466Z",
+  "updatedAt": "2026-10-20T04:29:17.503Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -29996,6 +29996,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045374.jpg",
           "addedAt": "2026-10-20 04:27:57",
           "changedAt": "2026-10-20 04:27:57"
+        },
+        {
+          "id": 543,
+          "name": "NetWRM Tagteam Cyberattack NGNR",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Spellcaster",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 3",
+          "atk": "1500",
+          "def": "1500",
+          "pendulumScale": "1",
+          "pendulumEffect": "During your Main Phase: You can banish 1 Spell Card from your GY, then, if a \"NetWRM\" Spell was banished this way, you can apply that card's activated effect as this effect. You can only activate this effect \"NetWRM Tagteam Cyberattack Engineer\".",
+          "text": "You can return this card you control to your hand; add 1 \"NetWRM\" card from your Deck to your hand. You can only activate this effect of \"NetWRM Tagteam Cyberattack Engineer\" once per turn.",
+          "duelingbookId": 6045370,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045370.jpg",
+          "addedAt": "2026-10-20 04:29:09",
+          "changedAt": "2026-10-20 04:29:09"
         }
       ]
     }
@@ -30055,7 +30076,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.164
+        "slacs": 5.219
       },
       {
         "name": "forgoudaboutit",
