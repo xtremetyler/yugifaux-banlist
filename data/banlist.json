@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T18:14:32.699Z",
+  "updatedAt": "2026-10-20T18:15:03.110Z",
   "cards": [
     {
       "id": 384,
@@ -30537,7 +30537,7 @@
       "submittedAt": "2026-10-20 18:13:42",
       "activatedAt": "2026-10-20 18:13:42",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 3,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30565,6 +30565,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008842.jpg",
           "addedAt": "2026-10-20 18:14:26",
           "changedAt": "2026-10-20 18:14:26"
+        },
+        {
+          "id": 555,
+          "name": "Kimer Agate Ruinous Embrace",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Pyro",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 3",
+          "atk": "1700",
+          "def": "300",
+          "text": "You can send this card from your hand or field to the GY; destroy 1 EARTH or Rock Monster from your Deck, except “Kimer Agate Ruinous Embrace”, then if you sent a “Kimer Agate” Monster this way, you can place 1 Level 10 \"Kimer Agate\" Fusion Monster from your Extra Deck to your Spell & Trap Zone as a face-up Continuous Spell. If this card is used as Fusion Material: You can activate 1 \"Kimer Agate\" Spell Card from your Deck or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except EARTH or FIRE Monsters. You can only activate each effect of \"Kimer Agate Ruinous Embrace\" once per turn.",
+          "duelingbookId": 6008874,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008874.jpg",
+          "addedAt": "2026-10-20 18:14:42",
+          "changedAt": "2026-10-20 18:14:42"
+        },
+        {
+          "id": 556,
+          "name": "Kimer Agate Vehement Aspect",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Pyro",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 3",
+          "atk": "1600",
+          "def": "600",
+          "text": "You can send this card from your hand or field to the GY; you can add 1 Level 3 or lower Pyro Monster from your Deck to your hand, except “Kimer Agate Vehement Aspect”, then if you added a “Kimer Agate” Monster this way, you can place 1 Level 10 \"Kimer Agate\" Fusion Monster from your Extra Deck to your Spell & Trap Zone as a face-up Continuous Spell. You can only activate this effect of \"Kimer Agate Vehement Aspect\" once per turn. You can equip this card from your hand or Banishment to a face-up Fusion Monster on either field as an Equip Spell that gives the equipped Monster 500 ATK/DEF.",
+          "duelingbookId": 6008882,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008882.jpg",
+          "addedAt": "2026-10-20 18:15:00",
+          "changedAt": "2026-10-20 18:15:00"
         }
       ]
     }
@@ -30585,7 +30617,7 @@
         "gamesDrawn": 0,
         "archetypeId": 48,
         "archetypeName": "Kimer Agate",
-        "slacs": 11.074
+        "slacs": 11.144
       },
       {
         "name": "Edward Swissorhands",
