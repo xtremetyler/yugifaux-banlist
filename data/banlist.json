@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T18:15:03.110Z",
+  "updatedAt": "2026-10-20T18:16:02.777Z",
   "cards": [
     {
       "id": 384,
@@ -30537,7 +30537,7 @@
       "submittedAt": "2026-10-20 18:13:42",
       "activatedAt": "2026-10-20 18:13:42",
       "declaredCardCount": 12,
-      "registeredCardCount": 3,
+      "registeredCardCount": 5,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30597,6 +30597,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008882.jpg",
           "addedAt": "2026-10-20 18:15:00",
           "changedAt": "2026-10-20 18:15:00"
+        },
+        {
+          "id": 557,
+          "name": "Kimer Agate Final Kindness",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 7",
+          "atk": "1700",
+          "def": "2700",
+          "text": "You can equip this card from your hand or Banishment to a face-up Fusion Monster on either field as an Equip Spell that gives the equipped Monster 500 ATK/DEF. If this card is sent to the GY by a card effect or to activate a card effect: You can Special Summon 1 Monster with a different Type and Attribute from your GY or Banishment, but destroy it during the End Phase. You can only activate each effect of \"Kimer Agate Final Kindness\" once per turn.",
+          "duelingbookId": 6008886,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008886.jpg",
+          "addedAt": "2026-10-20 18:15:38",
+          "changedAt": "2026-10-20 18:15:38"
+        },
+        {
+          "id": 558,
+          "name": "Kimer Agate Earnest Judgment",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Rock",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 7",
+          "atk": "2100",
+          "def": "2500",
+          "text": "A Fusion Monster that used this card as Material can attack an additional time in a row during each Battle Phase. If this card is sent to the GY by a card effect or to activate a card effect: Your opponent destroys 1 card from their hand and/or field, except an Equip Card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except EARTH or FIRE Monsters. You can only activate this effect of \"Kimer Agate Earnest Judgment\" once per turn.",
+          "duelingbookId": 6008891,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008891.jpg",
+          "addedAt": "2026-10-20 18:15:55",
+          "changedAt": "2026-10-20 18:15:55"
         }
       ]
     }
@@ -30617,7 +30649,7 @@
         "gamesDrawn": 0,
         "archetypeId": 48,
         "archetypeName": "Kimer Agate",
-        "slacs": 11.144
+        "slacs": 11.21
       },
       {
         "name": "Edward Swissorhands",
