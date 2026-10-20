@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T14:53:32.011Z",
+  "updatedAt": "2026-10-20T15:04:01.823Z",
   "cards": [
     {
       "id": 384,
@@ -28370,8 +28370,8 @@
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
-      "addedClauses": 8,
-      "totalClauses": 53,
+      "addedClauses": 10,
+      "totalClauses": 55,
       "retirementsSeen": 1,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -28836,11 +28836,11 @@
           "levelRankLink": "Level 8",
           "atk": "3100",
           "def": "2500",
-          "text": "\"COMIC! Hero Neos\" or \"COMIC! HERO Shining Flare Wingman\" + 1 \"COMIC!\" Monster\nMust first be Fusion Summoned. If this card is Fusion Summoned: You can activate this effect; for the rest of this turn, your opponent cannot activate cards or effects on the field, except Trap Cards and Trap effects. This card gains 300 ATK for each monster in your GY, and cannot be destroyed by card effects.",
+          "text": "\"COMIC! Hero Neos\" or \"COMIC! HERO Shining Flare Wingman\" + 1 \"COMIC!\" Monster\nMust first be Fusion Summoned during your turn. If this card is Fusion Summoned: You can activate this effect; for the rest of this turn, your opponent cannot activate cards or effects on the field, except Trap Cards and Trap effects. This card gains 300 ATK for each monster in your GY, and cannot be destroyed by card effects.",
           "duelingbookId": 6085715,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6085715.jpg",
           "addedAt": "2026-10-11 14:01:46",
-          "changedAt": "2026-10-11 14:01:46"
+          "changedAt": "2026-10-20 15:03:58"
         }
       ]
     },
