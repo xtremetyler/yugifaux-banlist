@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:35:22.975Z",
+  "updatedAt": "2026-10-20T23:35:47.359Z",
   "cards": [
     {
       "id": 384,
@@ -28938,8 +28938,8 @@
       "description": "## COMIC! HERO — Every Hero Deserves Their Own Issue!\n\n**POW! WHAM! FUSION SUMMON!** The Elemental HEROes are back—but this time, they’ve traded the silver screen for the colorful pages of their very own comic book!\n\nWithin the pages of **Favorite COMIC! Vol. 1 – Skyscraper!**, Avian, Burstinatrix, Bubbleman, Sparkman, and Clayman spring to life as pint-sized Toon versions of their classic selves. Every HERO has their specialty, but the real action begins when two stories collide! Fuse them into **COMIC! HERO Flame Wingman, Thunder Giant, Tempest**, and more, then use **Tag-Team!** to split them right back into their starring characters before assembling the next crossover.\n\nAnd what superhero story would be complete without a little **Plot Armor?** When the script calls for a HERO you don’t have, simply rewrite the casting and turn an opponent’s monster into exactly the character the story needs!\n\nCOMIC! HERO is a Fusion strategy that treats every Duel like a stack of comic books—introducing its cast, recycling its heroes, and constantly swapping between individual characters and their iconic combinations.\n\nSo crack open Toon World, turn to Page 1, and get ready for the newest adventures of the Elemental HEROes. **Same legendary heroes. Brand-new continuity.**",
       "submittedAt": "2026-10-06 02:01:23",
       "activatedAt": "2026-10-06 02:01:23",
-      "declaredCardCount": 13,
-      "registeredCardCount": 26,
+      "declaredCardCount": 12,
+      "registeredCardCount": 25,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -28970,14 +28970,6 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6082206.jpg",
           "addedAt": "2026-10-06 03:28:13",
           "changedAt": "2026-10-06 04:39:48"
-        },
-        {
-          "id": 450,
-          "name": "OMIC! HERO Wildheart",
-          "source": "custom",
-          "text": "You can Special Summon this card (from your hand or GY) by sending 1 other card from your hand or field to the GY that mentions a Fusion Summon, but if this card was Summoned from the GY this way, banish it when it leaves the field. You can only Special Summon \"COMIC! HERO Wildheart\" this way once per turn. If a Fusion Monster that was Fusion Summoned using this monster as material is destroyed and sent to the GY: Destroy all Spell/Trap Cards on the field, except \"Toon World\".\n\n**Commissioned clauses:** 3\n**Created by:** <@484079309955399691>\n**For:** <@487278554355073026>'s **COMIC!**\n\n**Review:** Approved by <@487278554355073026>",
-          "addedAt": "2026-10-06 03:28:13",
-          "changedAt": "2026-10-06 03:28:13"
         },
         {
           "id": 451,
@@ -30772,7 +30764,7 @@
         "gamesDrawn": 0,
         "archetypeId": 43,
         "archetypeName": "COMIC!",
-        "slacs": 9.343
+        "slacs": 9.307
       },
       {
         "name": "The Original Rough Cheddar",
