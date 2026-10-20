@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:37:54.124Z",
+  "updatedAt": "2026-10-20T23:38:23.950Z",
   "cards": [
     {
       "id": 384,
@@ -4933,7 +4933,7 @@
       "levelRankLink": "Level 8",
       "atk": "3100",
       "def": "2500",
-      "text": "\"COMIC! Hero Neos\" or \"COMIC! HERO Shining Flare Wingman\" + 1 \"COMIC!\" Monster\nMust first be Fusion Summoned during your turn. If this card is Fusion Summoned: You can activate this effect; for the rest of this turn, your opponent cannot activate cards or effects on the field, except Trap Cards and Trap effects. This card gains 300 ATK for each monster in your GY, and cannot be destroyed by card effects.",
+      "text": "\"COMIC! Hero Neos\" or \"COMIC! HERO Shining Flare Wingman\" + 1 \"COMIC!\" Monster\nMust first be Fusion Summoned. This card gains 300 ATK for each Toon or Warrior monster in your GY. If this card is Fusion Summoned: You can activate this effect: for the rest of this turn, apply the following effects, based on who is the turn player.\n● You: Your opponent cannot activate the effects of face-up cards on the field, except Trap Cards or cards that were Set when this effect was activated.\n● Your opponnet; This face-up card you control cannot be destroyed by card effects.\nIf this card is banished from your field or GY: You can target 1 Fusion Monster in your GY that specifically mentions a monster(s) as Fusion Material; Special Summon 1 monster mentioned as material on that card from your Deck or GY.",
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
@@ -17490,7 +17490,7 @@
           "levelRankLink": "Level 8",
           "atk": "3100",
           "def": "2500",
-          "text": "\"COMIC! Hero Neos\" or \"COMIC! HERO Shining Flare Wingman\" + 1 \"COMIC!\" Monster\nMust first be Fusion Summoned during your turn. If this card is Fusion Summoned: You can activate this effect; for the rest of this turn, your opponent cannot activate cards or effects on the field, except Trap Cards and Trap effects. This card gains 300 ATK for each monster in your GY, and cannot be destroyed by card effects.",
+          "text": "\"COMIC! Hero Neos\" or \"COMIC! HERO Shining Flare Wingman\" + 1 \"COMIC!\" Monster\nMust first be Fusion Summoned. This card gains 300 ATK for each Toon or Warrior monster in your GY. If this card is Fusion Summoned: You can activate this effect: for the rest of this turn, apply the following effects, based on who is the turn player.\n● You: Your opponent cannot activate the effects of face-up cards on the field, except Trap Cards or cards that were Set when this effect was activated.\n● Your opponnet; This face-up card you control cannot be destroyed by card effects.\nIf this card is banished from your field or GY: You can target 1 Fusion Monster in your GY that specifically mentions a monster(s) as Fusion Material; Special Summon 1 monster mentioned as material on that card from your Deck or GY.",
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
