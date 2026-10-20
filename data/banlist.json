@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T16:46:27.866Z",
+  "updatedAt": "2026-10-20T16:46:57.909Z",
   "cards": [
     {
       "id": 384,
@@ -11279,8 +11279,8 @@
       "archetype": "Re:B00t",
       "archetypeId": 46,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6051315,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051315.jpg",
+      "duelingbookId": 6103256,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103256.jpg",
       "addedAt": "2026-10-20 16:45:50",
       "changedAt": "2026-10-20 16:45:50"
     },
@@ -16491,8 +16491,8 @@
           "archetype": "Re:B00t",
           "archetypeId": 46,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6051315,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6051315.jpg",
+          "duelingbookId": 6103256,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103256.jpg",
           "addedAt": "2026-10-20 16:45:50",
           "changedAt": "2026-10-20 16:45:50"
         },
