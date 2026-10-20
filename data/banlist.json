@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T18:17:32.690Z",
+  "updatedAt": "2026-10-20T18:18:02.710Z",
   "cards": [
     {
       "id": 384,
@@ -30537,7 +30537,7 @@
       "submittedAt": "2026-10-20 18:13:42",
       "activatedAt": "2026-10-20 18:13:42",
       "declaredCardCount": 12,
-      "registeredCardCount": 9,
+      "registeredCardCount": 11,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30693,6 +30693,37 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008937.jpg",
           "addedAt": "2026-10-20 18:17:18",
           "changedAt": "2026-10-20 18:17:18"
+        },
+        {
+          "id": 563,
+          "name": "Kimer Agate - Celestial of Havoc",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Rock",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 12",
+          "atk": "2500",
+          "def": "3400",
+          "text": "1 Fusion Monster + 1+ EARTH Monster(s) + 1+ Pyro Monster(s) with different names\nThis card is unaffected by the effects of your opponent's cards in the same column as a card equipped to it. Once per turn: You can destroy 1 Equip Card from your field; your opponent destroys 2 cards from their hand and/or field, except an Equip Card(s). During either player's Main Phase, while this card is a Continuous Spell: You can send 1 Monster Card from your hand or field to the GY; you can Fusion Summon this card by banishing the above Materials from your hand or GY (up to 2 \"Kimer Agate\" Monsters from your Deck can be used as well, but are sent to the GY instead of being banished), and if you do, equip 1 Monster from either field to this card as an Equip Spell, also you cannot Synchro Summon, Xyz Summon, or Link Summon for the rest of the turn after this effect resolves. You can only activate this effect of \"Kimer Agate - Celestial of Havoc\" once per turn.",
+          "duelingbookId": 6008938,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008938.jpg",
+          "addedAt": "2026-10-20 18:17:35",
+          "changedAt": "2026-10-20 18:17:35"
+        },
+        {
+          "id": 564,
+          "name": "Discovered Deposit of Kimer Agate",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Activate this card by placing 1 Level 10 \"Kimer Agate\" Fusion Monster from your Extra Deck to your Spell & Trap Zone as a face-up Continuous Spell. Face-up \"Kimer Agate\" cards in Monster Zones and/or Spell & Trap Zones adjacent to this card are unaffected by your opponent's Spell/Trap effects. If you are Fusion Summoning a Monster from the Spell & Trap Zone, while this card is in the GY: You can also use this card as 1 of the Fusion Materials (treat it as a Effect Monster of any Type, Attribute, and Level).",
+          "duelingbookId": 6008942,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008942.jpg",
+          "addedAt": "2026-10-20 18:17:56",
+          "changedAt": "2026-10-20 18:17:56"
         }
       ]
     }
@@ -30713,7 +30744,7 @@
         "gamesDrawn": 0,
         "archetypeId": 48,
         "archetypeName": "Kimer Agate",
-        "slacs": 11.333
+        "slacs": 11.39
       },
       {
         "name": "Edward Swissorhands",
