@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:36:54.027Z",
+  "updatedAt": "2026-10-20T23:37:24.205Z",
   "cards": [
     {
       "id": 384,
@@ -3642,7 +3642,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "If you control “Toon World”: Reveal 1 “COMIC! HERO” Fusion Monster in your Extra Deck; Special Summon 1 “COMIC! HERO” monster from your hand or Deck whose name is mentioned as material on that revealed monster.",
+      "text": "Activate 1 of these effects.\n● If you do not control “Toon World”: Activate 1 “Favorite COMIC! Vol. 1 - Skyscraper” from your Deck.\n● If you control “Toon World”: Reveal 1 “COMIC! HERO” Fusion Monster in your Extra Deck; Special Summon 1 “COMIC! HERO” monster from your hand or Deck whose name is mentioned as material on that revealed monster.",
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
@@ -4953,7 +4953,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "This card’s name becomes “Toon World” while in the Field Zone. When this card is activated: You can add 1 “COMIC!” card from your Deck to your hand, except “Favorite COMIC! Vol. 1 - Skyscraper!”. During either players Main Phase: You can Fusion Summon 1 “COMIC! HERO” Fusion Monster from your Extra Deck, using monsters from your hand or field as material. Once per turn, if this face-up card in the Field Zone would be destroyed by an opponent’s card effect, you can banish 1 “COMIC!” card from your GY instead. You can only use each effect of “Favorite COMIC! Vol. 1 - Skyscraper!” once per turn.",
+      "text": "This card’s name becomes “Toon World” while in the Field Zone. When this card is activated: You can add 1 “COMIC!” card from your Deck to your hand, except “Favorite COMIC! Vol. 1 - Skyscraper!”. During the Main Phase (Quick Effect): You can Fusion Summon 1 “COMIC! HERO” Fusion Monster from your Extra Deck, using monsters from your hand or field as material. Once per turn, if this face-up card in the Field Zone would be destroyed by an opponent’s card effect, you can banish 1 “COMIC!” card from your GY instead. If this card is in your GY: You can banish 1 other “COMIC!” card from your GY; add this card to your hand. You can only use each effect of “Favorite COMIC! Vol. 1 - Skyscraper!” once per turn.",
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
@@ -17446,7 +17446,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "If you control “Toon World”: Reveal 1 “COMIC! HERO” Fusion Monster in your Extra Deck; Special Summon 1 “COMIC! HERO” monster from your hand or Deck whose name is mentioned as material on that revealed monster.",
+          "text": "Activate 1 of these effects.\n● If you do not control “Toon World”: Activate 1 “Favorite COMIC! Vol. 1 - Skyscraper” from your Deck.\n● If you control “Toon World”: Reveal 1 “COMIC! HERO” Fusion Monster in your Extra Deck; Special Summon 1 “COMIC! HERO” monster from your hand or Deck whose name is mentioned as material on that revealed monster.",
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
@@ -17510,7 +17510,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "This card’s name becomes “Toon World” while in the Field Zone. When this card is activated: You can add 1 “COMIC!” card from your Deck to your hand, except “Favorite COMIC! Vol. 1 - Skyscraper!”. During either players Main Phase: You can Fusion Summon 1 “COMIC! HERO” Fusion Monster from your Extra Deck, using monsters from your hand or field as material. Once per turn, if this face-up card in the Field Zone would be destroyed by an opponent’s card effect, you can banish 1 “COMIC!” card from your GY instead. You can only use each effect of “Favorite COMIC! Vol. 1 - Skyscraper!” once per turn.",
+          "text": "This card’s name becomes “Toon World” while in the Field Zone. When this card is activated: You can add 1 “COMIC!” card from your Deck to your hand, except “Favorite COMIC! Vol. 1 - Skyscraper!”. During the Main Phase (Quick Effect): You can Fusion Summon 1 “COMIC! HERO” Fusion Monster from your Extra Deck, using monsters from your hand or field as material. Once per turn, if this face-up card in the Field Zone would be destroyed by an opponent’s card effect, you can banish 1 “COMIC!” card from your GY instead. If this card is in your GY: You can banish 1 other “COMIC!” card from your GY; add this card to your hand. You can only use each effect of “Favorite COMIC! Vol. 1 - Skyscraper!” once per turn.",
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
