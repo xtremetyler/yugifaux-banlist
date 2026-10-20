@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:39:54.089Z",
+  "updatedAt": "2026-10-20T23:40:23.939Z",
   "cards": [
     {
       "id": 384,
@@ -3486,8 +3486,8 @@
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6047041,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047041.jpg",
+      "duelingbookId": 6103851,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103851.jpg",
       "addedAt": "2026-10-20 23:36:10",
       "changedAt": "2026-10-20 23:36:10"
     },
@@ -3534,8 +3534,8 @@
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6047024,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047024.jpg",
+      "duelingbookId": 6103853,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103853.jpg",
       "addedAt": "2026-10-20 23:36:10",
       "changedAt": "2026-10-20 23:36:10"
     },
@@ -3558,8 +3558,8 @@
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6047008,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047008.jpg",
+      "duelingbookId": 6103852,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103852.jpg",
       "addedAt": "2026-10-20 23:36:10",
       "changedAt": "2026-10-20 23:36:10"
     },
@@ -3646,8 +3646,8 @@
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6046472,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046472.jpg",
+      "duelingbookId": 6103854,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103854.jpg",
       "addedAt": "2026-10-20 23:36:10",
       "changedAt": "2026-10-20 23:36:10"
     },
@@ -16957,7 +16957,7 @@
       "cardListComplete": false,
       "featuredCardId": 804,
       "featuredCardName": "COMIC! HERO Shining Flare Wingman",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047041.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103851.jpg",
       "cards": [
         {
           "id": 796,
@@ -17290,8 +17290,8 @@
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6047041,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047041.jpg",
+          "duelingbookId": 6103851,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103851.jpg",
           "addedAt": "2026-10-20 23:36:10",
           "changedAt": "2026-10-20 23:36:10"
         },
@@ -17338,8 +17338,8 @@
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6047024,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047024.jpg",
+          "duelingbookId": 6103853,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103853.jpg",
           "addedAt": "2026-10-20 23:36:10",
           "changedAt": "2026-10-20 23:36:10"
         },
@@ -17362,8 +17362,8 @@
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6047008,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6047008.jpg",
+          "duelingbookId": 6103852,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103852.jpg",
           "addedAt": "2026-10-20 23:36:10",
           "changedAt": "2026-10-20 23:36:10"
         },
@@ -17450,8 +17450,8 @@
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6046472,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046472.jpg",
+          "duelingbookId": 6103854,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103854.jpg",
           "addedAt": "2026-10-20 23:36:10",
           "changedAt": "2026-10-20 23:36:10"
         },
