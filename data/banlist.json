@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:32:17.525Z",
+  "updatedAt": "2026-10-20T04:32:47.457Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30077,6 +30077,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045390.jpg",
           "addedAt": "2026-10-20 04:32:11",
           "changedAt": "2026-10-20 04:32:11"
+        },
+        {
+          "id": 548,
+          "name": "NetWRM Cyberattack Algorithm MNDBRN",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Send 3 cards from the top of each player's Deck to the GY, then draw 1 card. If your opponent has 20 or fewer cards in their Deck, draw 2 cards instead. \nOnce per turn, during your Main Phase, while this card is in your GY: You can place it on the bottom of your Deck; add 1 “NetWRM” monster from your Deck or GY to your hand.\n\nYou may activate each effect of \"NetWRM Cyberattack Algorithm MNDBRN\" once each turn.",
+          "duelingbookId": 6045381,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045381.jpg",
+          "addedAt": "2026-10-20 04:32:39",
+          "changedAt": "2026-10-20 04:32:39"
         }
       ]
     }
@@ -30136,7 +30151,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.386
+        "slacs": 5.417
       },
       {
         "name": "forgoudaboutit",
