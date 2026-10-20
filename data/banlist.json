@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T18:18:02.710Z",
+  "updatedAt": "2026-10-20T18:18:33.269Z",
   "cards": [
     {
       "id": 384,
@@ -30537,7 +30537,7 @@
       "submittedAt": "2026-10-20 18:13:42",
       "activatedAt": "2026-10-20 18:13:42",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 2,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30724,6 +30724,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008942.jpg",
           "addedAt": "2026-10-20 18:17:56",
           "changedAt": "2026-10-20 18:17:56"
+        },
+        {
+          "id": 565,
+          "name": "Bonded by Kimer Agate",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Special Summon 1 Level 10 or higher Fusion Monster from either GY or Banishment, then equip it with this card. If the equipped Monster is a FIRE Rock or EARTH Pyro Monster, you can activate each of its activated effects as a Quick Effect. For the rest of this turn after this card resolves, you cannot Special Summon from the Extra Deck, except EARTH or FIRE Monsters.",
+          "duelingbookId": 6008944,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008944.jpg",
+          "addedAt": "2026-10-20 18:18:09",
+          "changedAt": "2026-10-20 18:18:09"
         }
       ]
     }
@@ -30744,7 +30759,7 @@
         "gamesDrawn": 0,
         "archetypeId": 48,
         "archetypeName": "Kimer Agate",
-        "slacs": 11.39
+        "slacs": 11.417
       },
       {
         "name": "Edward Swissorhands",
