@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:33:47.495Z",
+  "updatedAt": "2026-10-20T04:34:17.499Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30124,6 +30124,23 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045457.jpg",
           "addedAt": "2026-10-20 04:33:41",
           "changedAt": "2026-10-20 04:33:41"
+        },
+        {
+          "id": 551,
+          "name": "NetWRM - Supportive eRTH LNDWRM",
+          "source": "custom",
+          "cardType": "Synchro Monster",
+          "monsterType": "Dragon",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 3",
+          "atk": "1500",
+          "def": "1500",
+          "pendulumScale": "3",
+          "text": "1 Tuner + 0+ Non-Tuner monsters\nCannot be Synchro Summoned, unless a player has 10 or more cards in their GY. \nDuring the Main Phase (Quick Effect): You can discard 1 card to target up to 3 cards in your opponent's GY; banish them. You can only activate this effect of \"NetWRM - Supportive eRTH LNDWRM\" once per turn.\nYour opponent cannot activate the effects of cards in their GY.\nIf this card is sent from your Extra Deck to the GY: Place this card face-up in your Extra Deck, and if you do, you can place up to 1 Pendulum Monster from your GY or face-up Extra Deck in 1 of your Pendulum Zones (even if it isn't currently empty).",
+          "duelingbookId": 6045431,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045431.jpg",
+          "addedAt": "2026-10-20 04:34:00",
+          "changedAt": "2026-10-20 04:34:00"
         }
       ]
     }
@@ -30183,7 +30200,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.472
+        "slacs": 5.496
       },
       {
         "name": "forgoudaboutit",
