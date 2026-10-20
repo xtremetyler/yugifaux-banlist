@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:38:54.113Z",
+  "updatedAt": "2026-10-20T23:39:24.039Z",
   "cards": [
     {
       "id": 384,
@@ -3222,8 +3222,8 @@
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6046340,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046340.jpg",
+      "duelingbookId": 6103844,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103844.jpg",
       "addedAt": "2026-10-20 23:36:10",
       "changedAt": "2026-10-20 23:36:10"
     },
@@ -3270,8 +3270,8 @@
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6046450,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046450.jpg",
+      "duelingbookId": 6103846,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103846.jpg",
       "addedAt": "2026-10-20 23:36:10",
       "changedAt": "2026-10-20 23:36:10"
     },
@@ -3510,8 +3510,8 @@
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
-      "duelingbookId": 6046345,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046345.jpg",
+      "duelingbookId": 6103843,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103843.jpg",
       "addedAt": "2026-10-20 23:36:10",
       "changedAt": "2026-10-20 23:36:10"
     },
@@ -17026,8 +17026,8 @@
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6046340,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046340.jpg",
+          "duelingbookId": 6103844,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103844.jpg",
           "addedAt": "2026-10-20 23:36:10",
           "changedAt": "2026-10-20 23:36:10"
         },
@@ -17074,8 +17074,8 @@
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6046450,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046450.jpg",
+          "duelingbookId": 6103846,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103846.jpg",
           "addedAt": "2026-10-20 23:36:10",
           "changedAt": "2026-10-20 23:36:10"
         },
@@ -17314,8 +17314,8 @@
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
-          "duelingbookId": 6046345,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6046345.jpg",
+          "duelingbookId": 6103843,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103843.jpg",
           "addedAt": "2026-10-20 23:36:10",
           "changedAt": "2026-10-20 23:36:10"
         },
