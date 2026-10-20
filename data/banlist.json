@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T17:02:27.993Z",
+  "updatedAt": "2026-10-20T17:50:01.828Z",
   "cards": [
     {
       "id": 384,
@@ -16374,7 +16374,7 @@
       "finalAddedClauses": 20,
       "notes": "Avast, ye scallywags and set sail across the Great Wide Web. Be ye wary, tho', sailor; there argh pirates out there in the Pirate Bay. Ye never know what it is they be up(loadin') to...",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 789,
       "featuredCardName": "Key Boarding Party Re:B00t Sequence",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103267.jpg",
