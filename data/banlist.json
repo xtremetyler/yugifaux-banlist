@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T04:29:17.503Z",
+  "updatedAt": "2026-10-20T04:29:47.495Z",
   "cards": [
     {
       "id": 384,
@@ -29966,7 +29966,7 @@
       "submittedAt": "2026-10-19 22:37:44",
       "activatedAt": "2026-10-19 22:37:44",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -30017,6 +30017,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045370.jpg",
           "addedAt": "2026-10-20 04:29:09",
           "changedAt": "2026-10-20 04:29:09"
+        },
+        {
+          "id": 544,
+          "name": "NetWRM Quickhack DDoS",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Quick-Play",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Send 1 random monster from your Extra Deck to GY: each player sends the top 3 cards of their Deck to the GY, then, if a Pendulum Monster was sent to activate this card, you can add 1 \"NetWRM\" card from your GY to your hand, except \"NetWRM Quickhack DDoS\".\nDuring your Main Phase, while this card is in your GY: You can banish it; place 1 \"NetWRM Cyberdwelling H@x0R\" from your Deck or GY in 1 of your empty Pendulum Zones.",
+          "duelingbookId": 6045417,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6045417.jpg",
+          "addedAt": "2026-10-20 04:29:31",
+          "changedAt": "2026-10-20 04:29:31"
         }
       ]
     }
@@ -30076,7 +30091,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 5.219
+        "slacs": 5.269
       },
       {
         "name": "forgoudaboutit",
