@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-20T23:36:24.100Z",
+  "updatedAt": "2026-10-20T23:36:54.027Z",
   "cards": [
     {
       "id": 384,
@@ -3266,7 +3266,7 @@
       "levelRankLink": "Level 4",
       "atk": "800",
       "def": "2000",
-      "text": "While this card is face-up on the field, your opponent cannot target \"COMIC!\" monsters for attacks or effects, except \"COMIC! HERO Clayman\". If this card is sent to the GY as material for the Fusion Summon of a “COMIC! HERO” monster while you control “Toon World”: That Fusion Summoned monster cannot be destroyed by battle or card effects until the end of the next turn. You can only use each effect of “COMIC! HERO Clayman” once per turn.",
+      "text": "If this card is Special Summoned by the effect of a Toon monster or \"COMIC\" Spell: You can immediately after this effect resolves, Fusion Summon 1 Fusion Monster from your Extra Deck that specifically mentions a monster as Fusion Material, by using monsters from your hand or field. While this card is face-up on the field, your opponent cannot target \"COMIC!\" monsters for attacks or effects, except \"COMIC! HERO Clayman\". If this card is sent to the GY as material for the Fusion Summon of a “COMIC! HERO” monster while you control “Toon World”: That Fusion Summoned monster cannot be destroyed by battle or card effects until the end of the next turn. You can only use each effect of “COMIC! HERO Clayman” once per turn.",
       "archetype": "COMIC!",
       "archetypeId": 43,
       "contributor": "Edward Swissorhands",
@@ -17070,7 +17070,7 @@
           "levelRankLink": "Level 4",
           "atk": "800",
           "def": "2000",
-          "text": "While this card is face-up on the field, your opponent cannot target \"COMIC!\" monsters for attacks or effects, except \"COMIC! HERO Clayman\". If this card is sent to the GY as material for the Fusion Summon of a “COMIC! HERO” monster while you control “Toon World”: That Fusion Summoned monster cannot be destroyed by battle or card effects until the end of the next turn. You can only use each effect of “COMIC! HERO Clayman” once per turn.",
+          "text": "If this card is Special Summoned by the effect of a Toon monster or \"COMIC\" Spell: You can immediately after this effect resolves, Fusion Summon 1 Fusion Monster from your Extra Deck that specifically mentions a monster as Fusion Material, by using monsters from your hand or field. While this card is face-up on the field, your opponent cannot target \"COMIC!\" monsters for attacks or effects, except \"COMIC! HERO Clayman\". If this card is sent to the GY as material for the Fusion Summon of a “COMIC! HERO” monster while you control “Toon World”: That Fusion Summoned monster cannot be destroyed by battle or card effects until the end of the next turn. You can only use each effect of “COMIC! HERO Clayman” once per turn.",
           "archetype": "COMIC!",
           "archetypeId": 43,
           "contributor": "Edward Swissorhands",
