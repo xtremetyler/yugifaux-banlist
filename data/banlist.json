@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:21:54.622Z",
+  "updatedAt": "2026-10-21T17:22:24.694Z",
   "cards": [
     {
       "id": 384,
@@ -2331,8 +2331,8 @@
       "archetype": "Kimer Agate",
       "archetypeId": 48,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6008944,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008944.jpg",
+      "duelingbookId": 6104840,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6104840.jpg",
       "addedAt": "2026-10-21 17:19:09",
       "changedAt": "2026-10-21 17:19:09"
     },
@@ -17207,7 +17207,7 @@
       "cardListComplete": false,
       "featuredCardId": 831,
       "featuredCardName": "Bonded by Kimer Agate",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008944.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6104840.jpg",
       "cards": [
         {
           "id": 831,
@@ -17224,8 +17224,8 @@
           "archetype": "Kimer Agate",
           "archetypeId": 48,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6008944,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6008944.jpg",
+          "duelingbookId": 6104840,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6104840.jpg",
           "addedAt": "2026-10-21 17:19:09",
           "changedAt": "2026-10-21 17:19:09"
         },
