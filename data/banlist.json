@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T18:04:25.027Z",
+  "updatedAt": "2026-10-21T18:04:54.722Z",
   "cards": [
     {
       "id": 384,
@@ -10017,7 +10017,7 @@
       "id": 763,
       "botCardId": 478,
       "name": "Mosaic Refrain - Exiled King",
-      "status": "unlimeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -10031,7 +10031,7 @@
       "duelingbookId": 6094756,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094756.jpg",
       "addedAt": "2026-10-14 18:31:14",
-      "changedAt": "2026-10-16 18:45:37"
+      "changedAt": "2026-10-21 18:04:43"
     },
     {
       "id": 762,
@@ -18538,7 +18538,7 @@
           "id": 763,
           "botCardId": 478,
           "name": "Mosaic Refrain - Exiled King",
-          "status": "unlimeade",
+          "status": "banned",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -18552,7 +18552,7 @@
           "duelingbookId": 6094756,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6094756.jpg",
           "addedAt": "2026-10-14 18:31:14",
-          "changedAt": "2026-10-16 18:45:37"
+          "changedAt": "2026-10-21 18:04:43"
         },
         {
           "id": 762,
