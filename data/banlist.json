@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T20:03:16.353Z",
+  "updatedAt": "2026-10-21T20:04:47.548Z",
   "cards": [
     {
       "id": 384,
@@ -7778,6 +7778,25 @@
       "officialUrl": "https://ygoprodeck.com/card/immortal-phoenix-gearfried-10517",
       "addedAt": "2026-07-29 04:48:03",
       "changedAt": "2026-07-29 04:48:03"
+    },
+    {
+      "id": 832,
+      "name": "Imp of the Fine Print",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Effect Monster",
+      "monsterType": "Fiend",
+      "attribute": "DARK",
+      "levelRankLink": "Level 3",
+      "atk": "0",
+      "def": "1800",
+      "text": "If a card(s) is added to your opponent’s hand, except by drawing it (Quick Effect): You can discard this card; declare the original name of 1 of those cards, and for the rest of this phase, your opponent cannot activate cards, or the effects of cards, with that original name. You can only use this effect of “Imp of the Fine Print” once per turn.",
+      "clauses": 3,
+      "contributor": "Edward Swissorhands",
+      "duelingbookId": 6105042,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6105042.jpg",
+      "addedAt": "2026-10-21 20:04:27",
+      "changedAt": "2026-10-21 20:04:27"
     },
     {
       "id": 230,
@@ -31981,7 +32000,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 23,
+        "balance": 14,
         "lifetimePoints": 532,
         "matchWins": 11,
         "matchLosses": 13,
@@ -31990,7 +32009,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 10.071
+        "slacs": 10.12
       },
       {
         "name": "The Original Rough Cheddar",
