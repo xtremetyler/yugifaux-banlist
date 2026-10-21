@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:22:24.694Z",
+  "updatedAt": "2026-10-21T17:37:24.786Z",
   "cards": [
     {
       "id": 384,
@@ -31734,6 +31734,26 @@
           "changedAt": "2026-10-20 04:34:55"
         }
       ]
+    },
+    {
+      "id": 49,
+      "name": "Watchful Sun",
+      "creator": "Left Parm of the Forbitten One",
+      "status": "active",
+      "description": "This one is near and dear to my heart. The Watchful Sun archetype focuses around a small aspect of the lore for the larger TTRPG setting that I have been co-creating with <@238904006066307072> for over 2 years now. \n\nIt tells the story of the aftermath following a valiant soldier guard being forced to ascend to an unwanted position of divinity, and his actions inspiring regular, beleaguered citizens to transform themselves into a vigilante police force in the name of keeping unwanted pirates from hounding their island community--all while the paranoid king of the island sits cowering in his tower fortress, too scared to put a stop to any of it.\n\nIt focuses around the idea of transformation of ego, utilizing Metamorphosis and LIGHT/DARK alternate versions of the same character in different imagined personas of themselves.\n\nAlso, Traps cuz I like 'em.",
+      "submittedAt": "2026-10-21 17:37:11",
+      "activatedAt": "2026-10-21 17:37:11",
+      "declaredCardCount": 12,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 3,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -31741,6 +31761,19 @@
     "seasonStart": "2026-09-21",
     "confirmedMatchCount": 44,
     "standings": [
+      {
+        "name": "Left Parm of the Forbitten One",
+        "balance": 36,
+        "lifetimePoints": 616,
+        "matchWins": 16,
+        "matchLosses": 16,
+        "gamesWon": 38,
+        "gamesLost": 41,
+        "gamesDrawn": 0,
+        "archetypeId": 49,
+        "archetypeName": "Watchful Sun",
+        "slacs": 10.267
+      },
       {
         "name": "Edward Swissorhands",
         "balance": 23,
@@ -31753,19 +31786,6 @@
         "archetypeId": null,
         "archetypeName": null,
         "slacs": 10.071
-      },
-      {
-        "name": "Left Parm of the Forbitten One",
-        "balance": 36,
-        "lifetimePoints": 616,
-        "matchWins": 16,
-        "matchLosses": 16,
-        "gamesWon": 38,
-        "gamesLost": 41,
-        "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null,
-        "slacs": 9.942
       },
       {
         "name": "The Original Rough Cheddar",
