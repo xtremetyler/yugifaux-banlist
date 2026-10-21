@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:40:54.705Z",
+  "updatedAt": "2026-10-21T17:41:54.838Z",
   "cards": [
     {
       "id": 384,
@@ -31744,7 +31744,7 @@
       "submittedAt": "2026-10-21 17:37:11",
       "activatedAt": "2026-10-21 17:37:11",
       "declaredCardCount": 12,
-      "registeredCardCount": 8,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -31882,6 +31882,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095520.jpg",
           "addedAt": "2026-10-21 17:40:41",
           "changedAt": "2026-10-21 17:40:41"
+        },
+        {
+          "id": 574,
+          "name": "Desperate Ascension",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Tribute 1 LIGHT or DARK Monster with an even original Level from your hand or field; Special Summon 1 LIGHT or DARK Warrior Monster with the same original Level from your Extra Deck or GY, except a Monster with the same Attribute as the Tributed Monster, then, if you Tributed a Monster that mentions \"Watchful Sun\" to activate this card, you can activate 1 banished Normal Trap, except \"Desperate Ascension\". You can banish this card and 1 Normal Trap in your GY; Set 1 Normal Trap from your Banishment, except a card banished to activate this effect. You can only use this effect of \"Desperate Ascension\" once per turn.",
+          "duelingbookId": 6095511,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095511.jpg",
+          "addedAt": "2026-10-21 17:41:25",
+          "changedAt": "2026-10-21 17:41:25"
+        },
+        {
+          "id": 575,
+          "name": "Devoted and Despised",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Banish any number of cards that mention \"Watchful Sun\" from your hand and/or GY, and if you do, Special Summon 1 LIGHT or DARK Warrior Monster from your Deck or GY whose original Level is equal to twice the number of cards banished this way. You can banish this card from your GY; Set 1 Normal Trap from your Banishment, except \"Devoted and Despised\". You can only use each effect of \"Devoted and Despised\" once per turn.",
+          "duelingbookId": 6095512,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095512.jpg",
+          "addedAt": "2026-10-21 17:41:49",
+          "changedAt": "2026-10-21 17:41:49"
         }
       ]
     }
@@ -31902,7 +31932,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.57
+        "slacs": 10.639
       },
       {
         "name": "Edward Swissorhands",
