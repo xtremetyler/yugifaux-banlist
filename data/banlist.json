@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:38:54.727Z",
+  "updatedAt": "2026-10-21T17:39:54.664Z",
   "cards": [
     {
       "id": 384,
@@ -31744,7 +31744,7 @@
       "submittedAt": "2026-10-21 17:37:11",
       "activatedAt": "2026-10-21 17:37:11",
       "declaredCardCount": 12,
-      "registeredCardCount": 4,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -31820,6 +31820,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095505.jpg",
           "addedAt": "2026-10-21 17:38:45",
           "changedAt": "2026-10-21 17:38:45"
+        },
+        {
+          "id": 570,
+          "name": "Desmond Vorhess, Once",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 8",
+          "atk": "2800",
+          "def": "2000",
+          "text": "If this card is Special Summoned or Tributed to activate a Spell/Trap or the effect of a Spell/Trap you control: You can add 1 card that mentions \"Watchful Sun\" from your Deck to your hand, also for the rest of this turn you cannot Special Summon Monsters from your Extra Deck, except LIGHT or DARK Monsters. You can only activate this effect of \"Desmond Vorhess, Once\" twice per turn. While this card is face-up on your field or you control \"Watchful Sun in Gilded Sorrow\" (while this card is in your GY), your opponent cannot activate cards or effects in response to your Normal or Special Summons.",
+          "duelingbookId": 6095501,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095501.jpg",
+          "addedAt": "2026-10-21 17:39:27",
+          "changedAt": "2026-10-21 17:39:27"
+        },
+        {
+          "id": 571,
+          "name": "Watchful Sun in Gilded Sorrow",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "attribute": "DARK",
+          "levelRankLink": "Level 8",
+          "atk": "2900",
+          "def": "2800",
+          "text": "1 Level 8 Warrior Monster + 1 LIGHT or DARK Monster, with different Levels\nThis card's Summon and its effects cannot be negated. Your opponent must keep their hand revealed. While \"Desmond Vorhess, Once\" is on your field or in your GY, this Fusion Summoned card you control is unaffected by the activated effects of other Monsters and Spell Cards that were already face-up on the field. You can activate 1 Trap Card the turn it was Set. You can only use this effect of \"Watchful Sun in Gilded Sorrow\" once per turn.",
+          "duelingbookId": 6095504,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095504.jpg",
+          "addedAt": "2026-10-21 17:39:51",
+          "changedAt": "2026-10-21 17:39:51"
         }
       ]
     }
@@ -31840,7 +31872,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.425
+        "slacs": 10.499
       },
       {
         "name": "Edward Swissorhands",
