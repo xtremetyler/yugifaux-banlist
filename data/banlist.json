@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:43:24.796Z",
+  "updatedAt": "2026-10-21T17:43:54.895Z",
   "cards": [
     {
       "id": 384,
@@ -31744,7 +31744,7 @@
       "submittedAt": "2026-10-21 17:37:11",
       "activatedAt": "2026-10-21 17:37:11",
       "declaredCardCount": 12,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -31942,6 +31942,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095514.jpg",
           "addedAt": "2026-10-21 17:42:54",
           "changedAt": "2026-10-21 17:42:54"
+        },
+        {
+          "id": 578,
+          "name": "Under the Eye of the King",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "During your turn, if you control \"Dyaman, the Watching Crown\" and this card is in your banishment: You can activate this card. For the rest of the turn after you activate this card this way, you cannot activate \"Under the Eye of the King\". Tribute 1 LIGHT or DARK Monster with an even original Level from your hand or field, then declare 1 card name; for the rest of this turn after this effect resolves, negate the activated effects of cards with the same original name as the declared name as they resolve, also for the rest of this turn you cannot Special Summon Monsters from your Extra Deck, except Fusion Monsters.",
+          "duelingbookId": 6095517,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095517.jpg",
+          "addedAt": "2026-10-21 17:43:44",
+          "changedAt": "2026-10-21 17:43:44"
         }
       ]
     }
@@ -31962,7 +31977,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.704
+        "slacs": 10.736
       },
       {
         "name": "Edward Swissorhands",
