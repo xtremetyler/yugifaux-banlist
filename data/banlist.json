@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:42:24.758Z",
+  "updatedAt": "2026-10-21T17:43:24.796Z",
   "cards": [
     {
       "id": 384,
@@ -31744,7 +31744,7 @@
       "submittedAt": "2026-10-21 17:37:11",
       "activatedAt": "2026-10-21 17:37:11",
       "declaredCardCount": 12,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -31927,6 +31927,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095521.jpg",
           "addedAt": "2026-10-21 17:42:13",
           "changedAt": "2026-10-21 17:42:13"
+        },
+        {
+          "id": 577,
+          "name": "Ironwood Cage",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If you control \"Dyaman, the Watching Crown\" and this card is in your banishment: You can Set this card. You can only Set \"Ironwood Cage\" from your Banishment this way once per turn. If 2 or more Monsters with different names that each mention \"Watchful Sun\" are on your field or in your GY: Target any number of face-up Monsters (min. 1), up to the number of Monsters that were Special Summoned this turn; change those targets to face-down Defense Position, then you can equip this card to a LIGHT or DARK Warrior Monster you control, and if you do, the battle position of cards flipped face-down by this card's effect cannot change for as long as you control the equipped Monster, except during the Battle Phase. If you would activate this card during a Phase following Main Phase 1, you must also Tribute a Monster to do so.",
+          "duelingbookId": 6095514,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095514.jpg",
+          "addedAt": "2026-10-21 17:42:54",
+          "changedAt": "2026-10-21 17:42:54"
         }
       ]
     }
@@ -31947,7 +31962,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.672
+        "slacs": 10.704
       },
       {
         "name": "Edward Swissorhands",
