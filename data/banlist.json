@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:37:24.786Z",
+  "updatedAt": "2026-10-21T17:37:54.653Z",
   "cards": [
     {
       "id": 384,
@@ -31744,7 +31744,7 @@
       "submittedAt": "2026-10-21 17:37:11",
       "activatedAt": "2026-10-21 17:37:11",
       "declaredCardCount": 12,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -31753,7 +31753,27 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 566,
+      "featuredCardName": "Citizen Osip",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095497.jpg",
+      "cards": [
+        {
+          "id": 566,
+          "name": "Citizen Osip",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 2",
+          "atk": "500",
+          "def": "700",
+          "text": "You can Special Summon this card and up to 1 other Monster that mentions \"Watchful Sun\" (from your hand) by banishing a number of cards from your GY and/or the top of your Deck equal to the number of Monsters Summoned this way. You can only Special Summon \"Citizen Osip\" this way once per turn. Your opponent cannot activate cards or effects in response to the activation of a Spell/Trap Card or the effect of a Spell/Trap you control that was activated by Tributing this card.",
+          "duelingbookId": 6095497,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095497.jpg",
+          "addedAt": "2026-10-21 17:37:43",
+          "changedAt": "2026-10-21 17:37:43"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -31772,7 +31792,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.267
+        "slacs": 10.308
       },
       {
         "name": "Edward Swissorhands",
