@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:38:24.837Z",
+  "updatedAt": "2026-10-21T17:38:54.727Z",
   "cards": [
     {
       "id": 384,
@@ -31744,7 +31744,7 @@
       "submittedAt": "2026-10-21 17:37:11",
       "activatedAt": "2026-10-21 17:37:11",
       "declaredCardCount": 12,
-      "registeredCardCount": 2,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -31788,6 +31788,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095508.jpg",
           "addedAt": "2026-10-21 17:38:01",
           "changedAt": "2026-10-21 17:38:01"
+        },
+        {
+          "id": 568,
+          "name": "Native of Highwall",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "DARK",
+          "levelRankLink": "Level 2",
+          "atk": "600",
+          "def": "300",
+          "text": "During the Main Phase, while this card is in your hand (Quick Effect): You can reveal this card, then banish 1 card that mentions \"Dyaman, the Watching Crown\" from your hand, except a Field Spell; activate 1 \"Dyaman, the Watching Crown\" from your Deck or Banishment, also for the rest of this turn you cannot Special Summon Monsters from your Extra Deck, except Fusion Monsters. If this card is Tributed to activate a Spell/Trap card or effect: You can banish a card from your GY or the top card of your Deck; Special Summon 1 Monster that mentions \"Watchful Sun\" from your hand or GY. You can only use this effect of \"Native of Highwall\" once per turn.",
+          "duelingbookId": 6095498,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095498.jpg",
+          "addedAt": "2026-10-21 17:38:26",
+          "changedAt": "2026-10-21 17:38:26"
+        },
+        {
+          "id": 569,
+          "name": "Pale Imitation of the Articled",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 2",
+          "atk": "1600",
+          "def": "800",
+          "text": "1 Level 2 Warrior Monster + 1 LIGHT or DARK Monster, with different Levels\nIf this card is Special Summoned and \"Native of Highwall\" is on your field or in your GY: You can Set 1 Normal Trap from your Banishment that mentions \"Watchful Sun\". If this card is Tributed: You can Special Summon 1 Level 8 or lower LIGHT or DARK Warrior Monster from your Deck in face-up Defense Position. You can only use each effect of \"Pale Imitation of the Articled\" once per turn.",
+          "duelingbookId": 6095505,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095505.jpg",
+          "addedAt": "2026-10-21 17:38:45",
+          "changedAt": "2026-10-21 17:38:45"
         }
       ]
     }
@@ -31808,7 +31840,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.348
+        "slacs": 10.425
       },
       {
         "name": "Edward Swissorhands",
