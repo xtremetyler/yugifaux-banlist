@@ -2,6 +2,9 @@
 .site-nav a { padding:8px 12px; color:var(--muted); border:1px solid var(--line); border-radius:999px; background:rgba(9,11,17,.55); text-decoration:none; font-size:.75rem; font-weight:700; }
 .site-nav a:hover { color:var(--text); border-color:var(--gold-soft); }
 .site-nav a[aria-current="page"] { color:#0a0c11; border-color:var(--gold); background:var(--gold); }
+.site-nav .site-auth-link { margin-left:auto; color:#0a0c11; border-color:var(--gold); background:linear-gradient(135deg,#f5cb5c,#dba62f); box-shadow:0 4px 16px rgba(219,166,47,.14); }
+.site-nav .site-auth-link:hover { color:#0a0c11; border-color:#ffe394; filter:brightness(1.06); }
+.site-nav .site-auth-link[aria-disabled="true"] { color:var(--muted); border-color:var(--line); background:rgba(9,11,17,.55); box-shadow:none; pointer-events:none; }
 .draft-main { padding-top:30px; }
 .draft-pack-picker { display:grid; grid-template-columns:minmax(190px,.55fr) minmax(0,1.45fr); align-items:center; gap:24px; margin-bottom:16px; padding:20px 24px; border:1px solid var(--line); border-radius:16px; background:linear-gradient(120deg,rgba(20,25,38,.92),rgba(37,22,53,.86)); }
 .draft-pack-picker h2 { margin:3px 0 0; font-size:1.15rem; }
@@ -106,6 +109,6 @@
 .draft-pick:hover .draft-pick__name,.draft-pick:focus-visible .draft-pick__name { opacity:1; }
 @media (max-width:950px) { .pack-stage { grid-template-columns:repeat(3,minmax(0,1fr)); } }
 @media (max-width:760px) { .draft-pack-picker { grid-template-columns:1fr; }.draft-mode-picker { align-items:stretch; flex-direction:column; }.draft-mode-tabs { width:100%; } }
-@media (max-width:650px) { .site-nav { margin-bottom:20px; }.draft-controls { align-items:stretch; flex-direction:column; }.draft-actions { width:100%; flex-wrap:wrap; }.draft-actions button { flex:1 1 42%; }.deck-progress { grid-template-columns:1fr; }.pack-stage { grid-template-columns:repeat(2,minmax(0,1fr)); }.draft-card-slot,.draft-card { min-height:300px; }.draft-card__image { height:195px; }.draft-zone { grid-template-columns:40px minmax(0,1fr); }.draft-zone__heading { padding:6px 3px; }.draft-zone__heading h3 { font-size:.62rem; }.draft-zone__heading span { font-size:.8rem; } }
+@media (max-width:650px) { .site-nav { margin-bottom:20px; }.site-nav .site-auth-link { margin-left:0; }.draft-controls { align-items:stretch; flex-direction:column; }.draft-actions { width:100%; flex-wrap:wrap; }.draft-actions button { flex:1 1 42%; }.deck-progress { grid-template-columns:1fr; }.pack-stage { grid-template-columns:repeat(2,minmax(0,1fr)); }.draft-card-slot,.draft-card { min-height:300px; }.draft-card__image { height:195px; }.draft-zone { grid-template-columns:40px minmax(0,1fr); }.draft-zone__heading { padding:6px 3px; }.draft-zone__heading h3 { font-size:.62rem; }.draft-zone__heading span { font-size:.8rem; } }
 @media (max-width:480px) { .draft-pack-options,.draft-mode-tabs { grid-template-columns:1fr; } }
 @media (max-width:420px) { .pack-stage { grid-template-columns:1fr; }.draft-card { min-height:390px; }.draft-card__image { height:285px; } }

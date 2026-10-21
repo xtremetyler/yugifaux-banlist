@@ -6,7 +6,7 @@
     <meta name="description" content="YugiFaux player profiles with league records, points, active archetypes, retired legacies, and match history." />
     <title>Player Profiles · YugiFaux</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /><link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="styles.css?v=2" /><link rel="stylesheet" href="draft-styles.css" /><link rel="stylesheet" href="league.css?v=4" />
+    <link rel="stylesheet" href="styles.css?v=2" /><link rel="stylesheet" href="draft-styles.css?v=4" /><link rel="stylesheet" href="league.css?v=5" />
   </head>
   <body class="league-page profiles-page">
     <header class="hero league-hero"><div class="hero__glow"></div><div class="shell hero__content">
@@ -15,11 +15,14 @@
       <div class="hero__meta"><span id="profiles-updated">Loading player records…</span><span class="hero__dot" aria-hidden="true"></span><span id="profiles-total">0 players</span></div>
     </div></header>
     <main class="shell profiles-main">
+      <section id="profile-account-status" class="profile-account-status" hidden aria-live="polite"></section>
       <section id="profile-detail" class="profile-detail" hidden></section>
       <section class="profiles-roster" aria-labelledby="roster-title"><div class="profiles-tools"><div><p class="eyebrow">League roster</p><h2 id="roster-title">Choose a player</h2></div><label class="archive-search"><span>Search players</span><input id="profiles-search" type="search" placeholder="Player or archetype…" autocomplete="off" /></label></div><div id="profiles-grid" class="profiles-grid"></div></section>
       <section class="error-state" id="profiles-error" hidden><h2>Player profiles could not be loaded</h2><p>Refresh in a moment or let a league administrator know.</p></section>
     </main>
     <footer><div class="shell footer__content"><span>YugiFaux Player Profiles</span><span>Maintained automatically by The Fauxbidden One</span></div></footer>
-    <script src="profiles.js?v=9" defer></script>
+    <script src="review-config.js?v=1"></script>
+    <script src="profiles.js?v=10" defer></script>
+    <script type="module" src="site-auth.js?v=1"></script>
   </body>
 </html>
