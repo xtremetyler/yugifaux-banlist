@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:37:54.653Z",
+  "updatedAt": "2026-10-21T17:38:24.837Z",
   "cards": [
     {
       "id": 384,
@@ -31744,7 +31744,7 @@
       "submittedAt": "2026-10-21 17:37:11",
       "activatedAt": "2026-10-21 17:37:11",
       "declaredCardCount": 12,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -31772,6 +31772,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095497.jpg",
           "addedAt": "2026-10-21 17:37:43",
           "changedAt": "2026-10-21 17:37:43"
+        },
+        {
+          "id": 567,
+          "name": "Stroud, the Scorned Sentry",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "attribute": "DARK",
+          "levelRankLink": "Level 2",
+          "atk": "1500",
+          "def": "1200",
+          "text": "1 Level 2 Warrior Monster + 1 LIGHT or DARK Monster, with different Levels\nIf this card is Special Summoned, while \"Citizen Osip\" is on your field or in your GY: You can add 1 card that mentions \"Watchful Sun\" from your Deck to your hand, then you can Set 1 Spell/Trap from your hand. If this card would be sent from the field to the GY by your opponent's card, return it to the Extra Deck instead, and if you do, you can add 1 \"Citizen Osip\" from your Deck or GY to your hand, also for the rest of this turn you cannot Special Summon Monsters, except Warrior Monsters. You can only use each effect of \"Stroud, the Scorned Sentry\" once per turn.",
+          "duelingbookId": 6095508,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095508.jpg",
+          "addedAt": "2026-10-21 17:38:01",
+          "changedAt": "2026-10-21 17:38:01"
         }
       ]
     }
@@ -31792,7 +31808,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.308
+        "slacs": 10.348
       },
       {
         "name": "Edward Swissorhands",
