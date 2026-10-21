@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T18:03:54.851Z",
+  "updatedAt": "2026-10-21T18:04:25.027Z",
   "cards": [
     {
       "id": 384,
@@ -9034,7 +9034,7 @@
     {
       "id": 565,
       "name": "Magicians' Souls",
-      "status": "limeade",
+      "status": "banned",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -9050,7 +9050,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/97631303.jpg",
       "officialUrl": "https://ygoprodeck.com/card/magicians-souls-10601",
       "addedAt": "2026-09-25 15:54:59",
-      "changedAt": "2026-10-02 13:05:09"
+      "changedAt": "2026-10-21 18:04:17"
     },
     {
       "id": 387,
