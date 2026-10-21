@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-21T17:41:54.838Z",
+  "updatedAt": "2026-10-21T17:42:24.758Z",
   "cards": [
     {
       "id": 384,
@@ -31744,7 +31744,7 @@
       "submittedAt": "2026-10-21 17:37:11",
       "activatedAt": "2026-10-21 17:37:11",
       "declaredCardCount": 12,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
@@ -31912,6 +31912,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095512.jpg",
           "addedAt": "2026-10-21 17:41:49",
           "changedAt": "2026-10-21 17:41:49"
+        },
+        {
+          "id": 576,
+          "name": "Fraudulent Deaconry of the Watchful Sun",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If you control no face-up Continuous Traps: You can banish 1 Normal Trap from your Deck or GY that mentions \"Watchful Sun\", then reveal this card in your hand; place it face-up on your field. You can banish the top card of your Deck; Special Summon 1 \"Deaconry Initiate Token\" (Warrior/DARK/Level 2/200/500), then you can add 1 \"Dyaman, the Watching Crown\" or a card that mentions it from your Deck to your hand. You can only use each effect of \"Fraudulent Deaconry of the Watchful Sun\" once per turn.",
+          "duelingbookId": 6095521,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095521.jpg",
+          "addedAt": "2026-10-21 17:42:13",
+          "changedAt": "2026-10-21 17:42:13"
         }
       ]
     }
@@ -31932,7 +31947,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.639
+        "slacs": 10.672
       },
       {
         "name": "Edward Swissorhands",
