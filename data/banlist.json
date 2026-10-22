@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T15:36:51.319Z",
+  "updatedAt": "2026-10-22T15:37:21.297Z",
   "cards": [
     {
       "id": 384,
@@ -32002,20 +32002,20 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 44,
+    "confirmedMatchCount": 45,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 36,
-        "lifetimePoints": 616,
+        "balance": 38,
+        "lifetimePoints": 618,
         "matchWins": 16,
-        "matchLosses": 16,
-        "gamesWon": 38,
-        "gamesLost": 41,
+        "matchLosses": 17,
+        "gamesWon": 39,
+        "gamesLost": 43,
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.736
+        "slacs": 10.674
       },
       {
         "name": "Edward Swissorhands",
@@ -32032,16 +32032,16 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 16,
-        "lifetimePoints": 267,
-        "matchWins": 8,
+        "balance": 20,
+        "lifetimePoints": 271,
+        "matchWins": 9,
         "matchLosses": 4,
-        "gamesWon": 19,
-        "gamesLost": 11,
+        "gamesWon": 21,
+        "gamesLost": 12,
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 7.281
+        "slacs": 7.514
       },
       {
         "name": "Brielieve In Cheesus",
@@ -32071,6 +32071,17 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 109,
+        "confirmedAt": "2026-10-22 15:36:54",
+        "replayUrl": null,
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Parcel-Tongue Post",
+        "opponentArchetype": "Watchful Sun"
+      },
       {
         "id": 108,
         "confirmedAt": "2026-10-21 17:17:04",
@@ -32147,20 +32158,20 @@
         "opponentGames": 2,
         "reporterArchetype": "Re:B00t",
         "opponentArchetype": "Parcel-Tongue Post"
-      },
-      {
-        "id": 100,
-        "confirmedAt": "2026-10-14 18:26:05",
-        "replayUrl": "https://www.duelingbook.com/replay?id=1301874-86177500",
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "Edward Swissorhands",
-        "reporterGames": 0,
-        "opponentGames": 2,
-        "reporterArchetype": "Mosaic Refrain",
-        "opponentArchetype": "COMIC!"
       }
     ],
     "matchHistory": [
+      {
+        "id": 109,
+        "confirmedAt": "2026-10-22 15:36:54",
+        "replayUrl": null,
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 2,
+        "opponentGames": 1,
+        "reporterArchetype": "Parcel-Tongue Post",
+        "opponentArchetype": "Watchful Sun"
+      },
       {
         "id": 108,
         "confirmedAt": "2026-10-21 17:17:04",
