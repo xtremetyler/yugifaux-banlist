@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T16:34:53.556Z",
+  "updatedAt": "2026-10-22T16:36:53.510Z",
   "cards": [
     {
       "id": 384,
@@ -2232,6 +2232,26 @@
       "officialUrl": "https://ygoprodeck.com/card/blackwing-zephyros-the-elite-1269",
       "addedAt": "2026-07-29 04:28:40",
       "changedAt": "2026-07-29 04:28:40"
+    },
+    {
+      "id": 834,
+      "name": "Blazing Bombardment Beast",
+      "status": "limeade",
+      "source": "official",
+      "cardType": "Fusion Monster",
+      "monsterType": "Machine",
+      "attribute": "FIRE",
+      "levelRankLink": "Level 6",
+      "atk": "1900",
+      "def": "2400",
+      "text": "1 Machine monster + 1 Pyro monster\r\nIf this card is Special Summoned: You can destroy all monsters your opponent controls with 1900 or less ATK. If this card is sent to the GY: You can target 1 monster your opponent controls with 1900 or less ATK; destroy that monster, and if you do, inflict damage to your opponent equal to its original ATK. You can only use each effect of \"Blazing Bombardment Beast\" once per turn.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "70117791",
+      "duelingbookId": 15327,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/70117791.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/blazing-bombardment-beast-14406",
+      "addedAt": "2026-10-22 16:36:44",
+      "changedAt": "2026-10-22 16:36:44"
     },
     {
       "id": 476,
@@ -32006,7 +32026,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 38,
+        "balance": 31,
         "lifetimePoints": 618,
         "matchWins": 16,
         "matchLosses": 17,
@@ -32015,7 +32035,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.674
+        "slacs": 10.714
       },
       {
         "name": "Edward Swissorhands",
