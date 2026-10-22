@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T16:38:23.639Z",
+  "updatedAt": "2026-10-22T16:40:23.377Z",
   "cards": [
     {
       "id": 384,
@@ -3136,6 +3136,26 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6053707.jpg",
       "addedAt": "2026-09-18 22:32:42",
       "changedAt": "2026-09-21 15:33:42"
+    },
+    {
+      "id": 836,
+      "name": "Centaur Mina",
+      "status": "limeade",
+      "source": "official",
+      "cardType": "Fusion Monster",
+      "monsterType": "Beast-Warrior",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 6",
+      "atk": "2200",
+      "def": "1600",
+      "text": "1 LIGHT Warrior monster + 1 Beast monster\r\nOnce per turn, during your turn, when your opponent activates a Trap Card (Quick Effect): You can negate the activation, and if you do, Set that card. You can only use each of the following effects of \"Centaur Mina\" once per turn. During your Main Phase: You can Special Summon 1 Level 2 or lower monster from your hand or GY. If this card is sent to the GY as Synchro Material for a WIND Warrior monster: You can destroy 1 face-up monster on the field.",
+      "contributor": "Left Parm of the Forbitten One",
+      "passcode": "33129626",
+      "duelingbookId": 12009,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/33129626.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/centaur-mina-12264",
+      "addedAt": "2026-10-22 16:39:54",
+      "changedAt": "2026-10-22 16:39:54"
     },
     {
       "id": 5,
@@ -32046,7 +32066,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 24,
+        "balance": 17,
         "lifetimePoints": 618,
         "matchWins": 16,
         "matchLosses": 17,
@@ -32055,7 +32075,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.754
+        "slacs": 10.794
       },
       {
         "name": "Edward Swissorhands",
