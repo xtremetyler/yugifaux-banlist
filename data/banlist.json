@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T18:05:23.641Z",
+  "updatedAt": "2026-10-22T18:05:53.641Z",
   "cards": [
     {
       "id": 384,
@@ -12084,7 +12084,7 @@
       "id": 790,
       "botCardId": 539,
       "name": "Re:B00t Bandit Width",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Cyberse",
@@ -12099,13 +12099,13 @@
       "duelingbookId": 6103268,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103268.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:24"
     },
     {
       "id": 792,
       "botCardId": 541,
       "name": "Re:B00t Captain Keybeard of the S.S.-D.",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Cyberse",
@@ -12120,13 +12120,13 @@
       "duelingbookId": 6103270,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103270.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:29"
     },
     {
       "id": 791,
       "botCardId": 540,
       "name": "Re:B00t Crash Corsair",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Synchro Monster",
       "monsterType": "Cyberse",
@@ -12141,7 +12141,7 @@
       "duelingbookId": 6103269,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103269.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:27"
     },
     {
       "id": 783,
@@ -18219,7 +18219,7 @@
           "id": 790,
           "botCardId": 539,
           "name": "Re:B00t Bandit Width",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Synchro Monster",
           "monsterType": "Cyberse",
@@ -18234,13 +18234,13 @@
           "duelingbookId": 6103268,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103268.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:24"
         },
         {
           "id": 792,
           "botCardId": 541,
           "name": "Re:B00t Captain Keybeard of the S.S.-D.",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Synchro Monster",
           "monsterType": "Cyberse",
@@ -18255,13 +18255,13 @@
           "duelingbookId": 6103270,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103270.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:29"
         },
         {
           "id": 791,
           "botCardId": 540,
           "name": "Re:B00t Crash Corsair",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Synchro Monster",
           "monsterType": "Cyberse",
@@ -18276,7 +18276,7 @@
           "duelingbookId": 6103269,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103269.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:27"
         },
         {
           "id": 783,
