@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-22T16:40:23.377Z",
+  "updatedAt": "2026-10-22T18:05:23.641Z",
   "cards": [
     {
       "id": 384,
@@ -8476,7 +8476,7 @@
       "id": 789,
       "botCardId": 538,
       "name": "Key Boarding Party Re:B00t Sequence",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
@@ -8490,7 +8490,7 @@
       "duelingbookId": 6103267,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103267.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:19"
     },
     {
       "id": 829,
@@ -12060,7 +12060,7 @@
       "id": 782,
       "botCardId": 531,
       "name": "Re:B00t Argh Drive",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Cyberse",
@@ -12078,7 +12078,7 @@
       "duelingbookId": 6103257,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103257.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:04:57"
     },
     {
       "id": 790,
@@ -12147,7 +12147,7 @@
       "id": 783,
       "botCardId": 532,
       "name": "Re:B00t D.L. Sea",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Cyberse",
@@ -12165,13 +12165,13 @@
       "duelingbookId": 6103258,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103258.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:00"
     },
     {
       "id": 781,
       "botCardId": 530,
       "name": "Re:B00t Freebooter",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Cyberse",
@@ -12189,13 +12189,13 @@
       "duelingbookId": 6103256,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103256.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:04:55"
     },
     {
       "id": 784,
       "botCardId": 533,
       "name": "Re:B00t Net Surfer",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Cyberse",
@@ -12213,13 +12213,13 @@
       "duelingbookId": 6103260,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103260.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:03"
     },
     {
       "id": 785,
       "botCardId": 534,
       "name": "Re:B00t Pirate Bay",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -12233,13 +12233,13 @@
       "duelingbookId": 6103262,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103262.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:06"
     },
     {
       "id": 786,
       "botCardId": 535,
       "name": "Re:B00t Port Access",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -12253,7 +12253,7 @@
       "duelingbookId": 6103263,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103263.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:09"
     },
     {
       "id": 475,
@@ -15751,7 +15751,7 @@
       "id": 787,
       "botCardId": 536,
       "name": "Up Loading Dock Re:B00t Sequence",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
@@ -15765,7 +15765,7 @@
       "duelingbookId": 6103264,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103264.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:12"
     },
     {
       "id": 216,
@@ -16521,7 +16521,7 @@
       "id": 788,
       "botCardId": 537,
       "name": "Web Hook Hand Re:B00t Sequence",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Continuous",
@@ -16535,7 +16535,7 @@
       "duelingbookId": 6103265,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103265.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-20 16:45:50"
+      "changedAt": "2026-10-22 18:05:15"
     },
     {
       "id": 742,
@@ -18175,7 +18175,7 @@
           "id": 789,
           "botCardId": 538,
           "name": "Key Boarding Party Re:B00t Sequence",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Continuous",
@@ -18189,13 +18189,13 @@
           "duelingbookId": 6103267,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103267.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:19"
         },
         {
           "id": 782,
           "botCardId": 531,
           "name": "Re:B00t Argh Drive",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Cyberse",
@@ -18213,7 +18213,7 @@
           "duelingbookId": 6103257,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103257.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:04:57"
         },
         {
           "id": 790,
@@ -18282,7 +18282,7 @@
           "id": 783,
           "botCardId": 532,
           "name": "Re:B00t D.L. Sea",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Cyberse",
@@ -18300,13 +18300,13 @@
           "duelingbookId": 6103258,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103258.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:00"
         },
         {
           "id": 781,
           "botCardId": 530,
           "name": "Re:B00t Freebooter",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Cyberse",
@@ -18324,13 +18324,13 @@
           "duelingbookId": 6103256,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103256.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:04:55"
         },
         {
           "id": 784,
           "botCardId": 533,
           "name": "Re:B00t Net Surfer",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Cyberse",
@@ -18348,13 +18348,13 @@
           "duelingbookId": 6103260,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103260.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:03"
         },
         {
           "id": 785,
           "botCardId": 534,
           "name": "Re:B00t Pirate Bay",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -18368,13 +18368,13 @@
           "duelingbookId": 6103262,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103262.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:06"
         },
         {
           "id": 786,
           "botCardId": 535,
           "name": "Re:B00t Port Access",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -18388,13 +18388,13 @@
           "duelingbookId": 6103263,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103263.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:09"
         },
         {
           "id": 787,
           "botCardId": 536,
           "name": "Up Loading Dock Re:B00t Sequence",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Continuous",
@@ -18408,13 +18408,13 @@
           "duelingbookId": 6103264,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103264.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:12"
         },
         {
           "id": 788,
           "botCardId": 537,
           "name": "Web Hook Hand Re:B00t Sequence",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Continuous",
@@ -18428,7 +18428,7 @@
           "duelingbookId": 6103265,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103265.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-20 16:45:50"
+          "changedAt": "2026-10-22 18:05:15"
         }
       ]
     },
