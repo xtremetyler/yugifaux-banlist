@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T00:33:03.767Z",
+  "updatedAt": "2026-10-23T00:34:03.952Z",
   "cards": [
     {
       "id": 384,
@@ -5045,7 +5045,7 @@
       "id": 809,
       "botCardId": 465,
       "name": "Favorite COMIC! Vol. 1 - Skyscraper!",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -5059,7 +5059,7 @@
       "duelingbookId": 6103856,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103856.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:33:58"
     },
     {
       "id": 243,
@@ -18118,7 +18118,7 @@
           "id": 809,
           "botCardId": 465,
           "name": "Favorite COMIC! Vol. 1 - Skyscraper!",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -18132,7 +18132,7 @@
           "duelingbookId": 6103856,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103856.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:33:58"
         },
         {
           "id": 810,
