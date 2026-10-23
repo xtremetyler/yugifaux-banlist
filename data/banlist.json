@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T02:18:26.384Z",
+  "updatedAt": "2026-10-23T03:47:27.652Z",
   "cards": [
     {
       "id": 384,
@@ -12171,7 +12171,7 @@
       "id": 781,
       "botCardId": 530,
       "name": "Re:B00t Freebooter",
-      "status": "limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Cyberse",
@@ -12189,7 +12189,7 @@
       "duelingbookId": 6103256,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103256.jpg",
       "addedAt": "2026-10-20 16:45:50",
-      "changedAt": "2026-10-22 18:04:55"
+      "changedAt": "2026-10-23 03:47:19"
     },
     {
       "id": 784,
@@ -18306,7 +18306,7 @@
           "id": 781,
           "botCardId": 530,
           "name": "Re:B00t Freebooter",
-          "status": "limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Cyberse",
@@ -18324,7 +18324,7 @@
           "duelingbookId": 6103256,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103256.jpg",
           "addedAt": "2026-10-20 16:45:50",
-          "changedAt": "2026-10-22 18:04:55"
+          "changedAt": "2026-10-23 03:47:19"
         },
         {
           "id": 784,
