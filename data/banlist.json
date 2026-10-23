@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T00:34:33.757Z",
+  "updatedAt": "2026-10-23T00:35:03.918Z",
   "cards": [
     {
       "id": 384,
@@ -3219,7 +3219,7 @@
       "id": 796,
       "botCardId": 451,
       "name": "COMIC! HERO Avian",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3237,7 +3237,7 @@
       "duelingbookId": 6103841,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103841.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:46"
     },
     {
       "id": 818,
@@ -3267,7 +3267,7 @@
       "id": 799,
       "botCardId": 454,
       "name": "COMIC! HERO Bubbleman",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3285,13 +3285,13 @@
       "duelingbookId": 6103844,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103844.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:37"
     },
     {
       "id": 797,
       "botCardId": 452,
       "name": "COMIC! HERO Burstinatrix",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3309,13 +3309,13 @@
       "duelingbookId": 6103842,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103842.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:43"
     },
     {
       "id": 800,
       "botCardId": 455,
       "name": "COMIC! HERO Clayman",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3333,7 +3333,7 @@
       "duelingbookId": 6103846,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103846.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:33"
     },
     {
       "id": 817,
@@ -3459,7 +3459,7 @@
       "id": 795,
       "botCardId": 449,
       "name": "COMIC! HERO Necroshade",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3477,7 +3477,7 @@
       "duelingbookId": 6103840,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103840.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:49"
     },
     {
       "id": 812,
@@ -3555,7 +3555,7 @@
       "id": 798,
       "botCardId": 453,
       "name": "COMIC! HERO Sparkman",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3573,7 +3573,7 @@
       "duelingbookId": 6103843,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103843.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:40"
     },
     {
       "id": 833,
@@ -17578,7 +17578,7 @@
           "id": 796,
           "botCardId": 451,
           "name": "COMIC! HERO Avian",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -17596,7 +17596,7 @@
           "duelingbookId": 6103841,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103841.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:46"
         },
         {
           "id": 818,
@@ -17626,7 +17626,7 @@
           "id": 799,
           "botCardId": 454,
           "name": "COMIC! HERO Bubbleman",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -17644,13 +17644,13 @@
           "duelingbookId": 6103844,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103844.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:37"
         },
         {
           "id": 797,
           "botCardId": 452,
           "name": "COMIC! HERO Burstinatrix",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -17668,13 +17668,13 @@
           "duelingbookId": 6103842,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103842.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:43"
         },
         {
           "id": 800,
           "botCardId": 455,
           "name": "COMIC! HERO Clayman",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -17692,7 +17692,7 @@
           "duelingbookId": 6103846,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103846.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:33"
         },
         {
           "id": 817,
@@ -17818,7 +17818,7 @@
           "id": 795,
           "botCardId": 449,
           "name": "COMIC! HERO Necroshade",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -17836,7 +17836,7 @@
           "duelingbookId": 6103840,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103840.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:49"
         },
         {
           "id": 812,
@@ -17914,7 +17914,7 @@
           "id": 798,
           "botCardId": 453,
           "name": "COMIC! HERO Sparkman",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -17932,7 +17932,7 @@
           "duelingbookId": 6103843,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103843.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:40"
         },
         {
           "id": 806,
