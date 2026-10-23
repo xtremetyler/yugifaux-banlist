@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T00:02:03.255Z",
+  "updatedAt": "2026-10-23T00:32:33.870Z",
   "cards": [
     {
       "id": 384,
@@ -3243,7 +3243,7 @@
       "id": 818,
       "botCardId": 492,
       "name": "COMIC! HERO Bladedge",
-      "status": "voting",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3261,7 +3261,7 @@
       "duelingbookId": 6103865,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103865.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:20"
     },
     {
       "id": 799,
@@ -3339,7 +3339,7 @@
       "id": 817,
       "botCardId": 491,
       "name": "COMIC! HERO Darkbright",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3357,7 +3357,7 @@
       "duelingbookId": 6103864,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103864.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:24"
     },
     {
       "id": 803,
@@ -3646,7 +3646,7 @@
       "id": 816,
       "botCardId": 490,
       "name": "COMIC! HERO Wildege",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3664,7 +3664,7 @@
       "duelingbookId": 6103863,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103863.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:26"
     },
     {
       "id": 801,
@@ -3694,7 +3694,7 @@
       "id": 815,
       "botCardId": 489,
       "name": "COMIC! HEROs Assemble!",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -3708,7 +3708,7 @@
       "duelingbookId": 6103862,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103862.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:30"
     },
     {
       "id": 807,
@@ -5021,7 +5021,7 @@
       "id": 819,
       "botCardId": 493,
       "name": "Favorite COMIC! HERO Shining Neos Wingman",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -5039,7 +5039,7 @@
       "duelingbookId": 6103866,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103866.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:16"
     },
     {
       "id": 809,
@@ -17602,7 +17602,7 @@
           "id": 818,
           "botCardId": 492,
           "name": "COMIC! HERO Bladedge",
-          "status": "voting",
+          "status": "banned",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -17620,7 +17620,7 @@
           "duelingbookId": 6103865,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103865.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:20"
         },
         {
           "id": 799,
@@ -17698,7 +17698,7 @@
           "id": 817,
           "botCardId": 491,
           "name": "COMIC! HERO Darkbright",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17716,7 +17716,7 @@
           "duelingbookId": 6103864,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103864.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:24"
         },
         {
           "id": 803,
@@ -17986,7 +17986,7 @@
           "id": 816,
           "botCardId": 490,
           "name": "COMIC! HERO Wildege",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -18004,7 +18004,7 @@
           "duelingbookId": 6103863,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103863.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:26"
         },
         {
           "id": 801,
@@ -18034,7 +18034,7 @@
           "id": 815,
           "botCardId": 489,
           "name": "COMIC! HEROs Assemble!",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -18048,7 +18048,7 @@
           "duelingbookId": 6103862,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103862.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:30"
         },
         {
           "id": 807,
@@ -18094,7 +18094,7 @@
           "id": 819,
           "botCardId": 493,
           "name": "Favorite COMIC! HERO Shining Neos Wingman",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -18112,7 +18112,7 @@
           "duelingbookId": 6103866,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103866.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:16"
         },
         {
           "id": 809,
