@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T00:32:33.870Z",
+  "updatedAt": "2026-10-23T00:33:03.767Z",
   "cards": [
     {
       "id": 384,
@@ -3387,7 +3387,7 @@
       "id": 811,
       "botCardId": 484,
       "name": "COMIC! HERO Mariner",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3405,13 +3405,13 @@
       "duelingbookId": 6103858,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103858.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:50"
     },
     {
       "id": 813,
       "botCardId": 486,
       "name": "COMIC! HERO Mudballman",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3429,7 +3429,7 @@
       "duelingbookId": 6103860,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103860.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:40"
     },
     {
       "id": 802,
@@ -3483,7 +3483,7 @@
       "id": 812,
       "botCardId": 485,
       "name": "COMIC! HERO Neos",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3501,13 +3501,13 @@
       "duelingbookId": 6103859,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103859.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:46"
     },
     {
       "id": 814,
       "botCardId": 488,
       "name": "COMIC! HERO Rampart Blaster",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3525,7 +3525,7 @@
       "duelingbookId": 6103861,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103861.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:35"
     },
     {
       "id": 804,
@@ -14281,7 +14281,7 @@
       "id": 810,
       "botCardId": 466,
       "name": "Tag-Team!",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Quick-Play",
@@ -14295,7 +14295,7 @@
       "duelingbookId": 6103857,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103857.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:32:55"
     },
     {
       "id": 544,
@@ -17746,7 +17746,7 @@
           "id": 811,
           "botCardId": 484,
           "name": "COMIC! HERO Mariner",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17764,13 +17764,13 @@
           "duelingbookId": 6103858,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103858.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:50"
         },
         {
           "id": 813,
           "botCardId": 486,
           "name": "COMIC! HERO Mudballman",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17788,7 +17788,7 @@
           "duelingbookId": 6103860,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103860.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:40"
         },
         {
           "id": 802,
@@ -17842,7 +17842,7 @@
           "id": 812,
           "botCardId": 485,
           "name": "COMIC! HERO Neos",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -17860,13 +17860,13 @@
           "duelingbookId": 6103859,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103859.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:46"
         },
         {
           "id": 814,
           "botCardId": 488,
           "name": "COMIC! HERO Rampart Blaster",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17884,7 +17884,7 @@
           "duelingbookId": 6103861,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103861.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:35"
         },
         {
           "id": 804,
@@ -18138,7 +18138,7 @@
           "id": 810,
           "botCardId": 466,
           "name": "Tag-Team!",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Quick-Play",
@@ -18152,7 +18152,7 @@
           "duelingbookId": 6103857,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103857.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:32:55"
         }
       ]
     },
