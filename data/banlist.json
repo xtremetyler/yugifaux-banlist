@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-23T00:34:03.952Z",
+  "updatedAt": "2026-10-23T00:34:33.757Z",
   "cards": [
     {
       "id": 384,
@@ -3363,7 +3363,7 @@
       "id": 803,
       "botCardId": 459,
       "name": "COMIC! HERO Flame Wingman",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3381,7 +3381,7 @@
       "duelingbookId": 6103850,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103850.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:21"
     },
     {
       "id": 811,
@@ -3435,7 +3435,7 @@
       "id": 802,
       "botCardId": 458,
       "name": "COMIC! HERO Necroid Shaman",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3453,7 +3453,7 @@
       "duelingbookId": 6103849,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103849.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:24"
     },
     {
       "id": 795,
@@ -3531,7 +3531,7 @@
       "id": 804,
       "botCardId": 460,
       "name": "COMIC! HERO Shining Flare Wingman",
-      "status": "voting",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3549,7 +3549,7 @@
       "duelingbookId": 6103851,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103851.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:18"
     },
     {
       "id": 798,
@@ -3598,7 +3598,7 @@
       "id": 806,
       "botCardId": 462,
       "name": "COMIC! HERO Tempest",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3616,13 +3616,13 @@
       "duelingbookId": 6103853,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103853.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:07"
     },
     {
       "id": 805,
       "botCardId": 461,
       "name": "COMIC! HERO Thunder Giant",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Fusion Monster",
       "monsterType": "Warrior",
@@ -3640,7 +3640,7 @@
       "duelingbookId": 6103852,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103852.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:11"
     },
     {
       "id": 816,
@@ -3670,7 +3670,7 @@
       "id": 801,
       "botCardId": 456,
       "name": "COMIC! HERO Wildheart",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3688,7 +3688,7 @@
       "duelingbookId": 6103848,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103848.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:29"
     },
     {
       "id": 815,
@@ -3714,7 +3714,7 @@
       "id": 807,
       "botCardId": 463,
       "name": "COMIC! Origin Story",
-      "status": "voting",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -3728,13 +3728,13 @@
       "duelingbookId": 6103854,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103854.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:05"
     },
     {
       "id": 808,
       "botCardId": 464,
       "name": "COMIC! Plot Armor!",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -3748,7 +3748,7 @@
       "duelingbookId": 6103855,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103855.jpg",
       "addedAt": "2026-10-20 23:36:10",
-      "changedAt": "2026-10-20 23:36:10"
+      "changedAt": "2026-10-23 00:34:03"
     },
     {
       "id": 332,
@@ -17722,7 +17722,7 @@
           "id": 803,
           "botCardId": 459,
           "name": "COMIC! HERO Flame Wingman",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17740,7 +17740,7 @@
           "duelingbookId": 6103850,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103850.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:21"
         },
         {
           "id": 811,
@@ -17794,7 +17794,7 @@
           "id": 802,
           "botCardId": 458,
           "name": "COMIC! HERO Necroid Shaman",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17812,7 +17812,7 @@
           "duelingbookId": 6103849,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103849.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:24"
         },
         {
           "id": 795,
@@ -17890,7 +17890,7 @@
           "id": 804,
           "botCardId": 460,
           "name": "COMIC! HERO Shining Flare Wingman",
-          "status": "voting",
+          "status": "limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17908,7 +17908,7 @@
           "duelingbookId": 6103851,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103851.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:18"
         },
         {
           "id": 798,
@@ -17938,7 +17938,7 @@
           "id": 806,
           "botCardId": 462,
           "name": "COMIC! HERO Tempest",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17956,13 +17956,13 @@
           "duelingbookId": 6103853,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103853.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:07"
         },
         {
           "id": 805,
           "botCardId": 461,
           "name": "COMIC! HERO Thunder Giant",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Fusion Monster",
           "monsterType": "Warrior",
@@ -17980,7 +17980,7 @@
           "duelingbookId": 6103852,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103852.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:11"
         },
         {
           "id": 816,
@@ -18010,7 +18010,7 @@
           "id": 801,
           "botCardId": 456,
           "name": "COMIC! HERO Wildheart",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -18028,7 +18028,7 @@
           "duelingbookId": 6103848,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103848.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:29"
         },
         {
           "id": 815,
@@ -18054,7 +18054,7 @@
           "id": 807,
           "botCardId": 463,
           "name": "COMIC! Origin Story",
-          "status": "voting",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -18068,13 +18068,13 @@
           "duelingbookId": 6103854,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103854.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:05"
         },
         {
           "id": 808,
           "botCardId": 464,
           "name": "COMIC! Plot Armor!",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -18088,7 +18088,7 @@
           "duelingbookId": 6103855,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6103855.jpg",
           "addedAt": "2026-10-20 23:36:10",
-          "changedAt": "2026-10-20 23:36:10"
+          "changedAt": "2026-10-23 00:34:03"
         },
         {
           "id": 819,
