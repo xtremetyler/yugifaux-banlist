@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T14:59:56.315Z",
+  "updatedAt": "2026-10-24T16:01:08.124Z",
   "cards": [
     {
       "id": 384,
@@ -32150,7 +32150,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 10.728
+        "slacs": 11.168
       },
       {
         "name": "Edward Swissorhands",
