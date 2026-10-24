@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T04:41:14.753Z",
+  "updatedAt": "2026-10-24T04:46:53.065Z",
   "cards": [
     {
       "id": 384,
@@ -3981,6 +3981,24 @@
       "officialUrl": "https://ygoprodeck.com/card/curse-of-the-ancient-turtle-14866",
       "addedAt": "2026-08-18 13:08:49",
       "changedAt": "2026-08-18 13:08:49"
+    },
+    {
+      "id": 840,
+      "name": "Curse of the Man-Eater",
+      "status": "unlimeade",
+      "source": "custom",
+      "cardType": "Trap Card",
+      "spellTrapType": "Continuous",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "When your opponent's monster attacks a face-down monster you control: Your opponent's monster becomes an Insect Monster with 450 ATK. \nIf a face-down Insect Monster is flipped face-up: Destroy 1 random monster on the field, except that monster.",
+      "clauses": 3,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6108737,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6108737.jpg",
+      "addedAt": "2026-10-24 04:46:50",
+      "changedAt": "2026-10-24 04:46:50"
     },
     {
       "id": 479,
