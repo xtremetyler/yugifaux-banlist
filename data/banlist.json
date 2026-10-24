@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T16:01:08.124Z",
+  "updatedAt": "2026-10-24T16:01:20.720Z",
   "cards": [
     {
       "id": 384,
@@ -32163,7 +32163,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 10.12
+        "slacs": 10.663
       },
       {
         "name": "The Original Rough Cheddar",
