@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T16:01:20.720Z",
+  "updatedAt": "2026-10-24T16:01:45.909Z",
   "cards": [
     {
       "id": 384,
@@ -32176,7 +32176,7 @@
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 7.514
+        "slacs": 8.128
       },
       {
         "name": "Brielieve In Cheesus",
