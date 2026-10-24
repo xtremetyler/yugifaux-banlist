@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-24T04:28:51.251Z",
+  "updatedAt": "2026-10-24T04:30:22.023Z",
   "cards": [
     {
       "id": 384,
@@ -3578,7 +3578,7 @@
     {
       "id": 833,
       "name": "COMIC! HERO Stratos",
-      "status": "unlimeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -3592,7 +3592,7 @@
       "duelingbookId": 6105083,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6105083.jpg",
       "addedAt": "2026-10-21 20:21:48",
-      "changedAt": "2026-10-21 20:21:48"
+      "changedAt": "2026-10-24 04:30:10"
     },
     {
       "id": 806,
