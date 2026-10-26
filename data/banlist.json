@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-26T13:45:17.242Z",
+  "updatedAt": "2026-10-26T17:50:18.027Z",
   "cards": [
     {
       "id": 384,
@@ -32141,7 +32141,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 12,
+        "balance": 5,
         "lifetimePoints": 623,
         "matchWins": 16,
         "matchLosses": 18,
@@ -32150,7 +32150,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 11.168
+        "slacs": 11.206
       },
       {
         "name": "Edward Swissorhands",
