@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-26T17:50:48.088Z",
+  "updatedAt": "2026-10-26T17:51:48.209Z",
   "cards": [
     {
       "id": 384,
@@ -32201,7 +32201,7 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 48,
+        "balance": 43,
         "lifetimePoints": 191,
         "matchWins": 8,
         "matchLosses": 5,
@@ -32210,7 +32210,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 7.79
+        "slacs": 7.875
       },
       {
         "name": "forgoudaboutit",
