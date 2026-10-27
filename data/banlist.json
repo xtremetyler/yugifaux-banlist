@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-27T14:21:13.578Z",
+  "updatedAt": "2026-10-27T14:21:33.584Z",
   "cards": [
     {
       "id": 384,
@@ -32187,6 +32187,19 @@
         "slacs": 10.663
       },
       {
+        "name": "Brielieve In Cheesus",
+        "balance": 46,
+        "lifetimePoints": 194,
+        "matchWins": 8,
+        "matchLosses": 5,
+        "gamesWon": 17,
+        "gamesLost": 14,
+        "gamesDrawn": 0,
+        "archetypeId": 47,
+        "archetypeName": "NetWRM",
+        "slacs": 8.741
+      },
+      {
         "name": "The Original Rough Cheddar",
         "balance": 26,
         "lifetimePoints": 277,
@@ -32198,19 +32211,6 @@
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
         "slacs": 8.733
-      },
-      {
-        "name": "Brielieve In Cheesus",
-        "balance": 46,
-        "lifetimePoints": 194,
-        "matchWins": 8,
-        "matchLosses": 5,
-        "gamesWon": 17,
-        "gamesLost": 14,
-        "gamesDrawn": 0,
-        "archetypeId": 47,
-        "archetypeName": "NetWRM",
-        "slacs": 7.875
       },
       {
         "name": "forgoudaboutit",
