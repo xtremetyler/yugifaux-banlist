@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-26T22:24:47.241Z",
+  "updatedAt": "2026-10-27T02:40:48.005Z",
   "cards": [
     {
       "id": 384,
@@ -32201,8 +32201,8 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 43,
-        "lifetimePoints": 191,
+        "balance": 46,
+        "lifetimePoints": 194,
         "matchWins": 8,
         "matchLosses": 5,
         "gamesWon": 17,
@@ -32214,8 +32214,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 82,
-        "lifetimePoints": 133,
+        "balance": 86,
+        "lifetimePoints": 137,
         "matchWins": 3,
         "matchLosses": 6,
         "gamesWon": 9,
