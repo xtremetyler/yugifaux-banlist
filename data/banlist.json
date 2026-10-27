@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-27T14:20:56.380Z",
+  "updatedAt": "2026-10-27T14:21:13.578Z",
   "cards": [
     {
       "id": 384,
@@ -32223,7 +32223,7 @@
         "gamesDrawn": 0,
         "archetypeId": 45,
         "archetypeName": "Whenfare",
-        "slacs": 4.152
+        "slacs": 4.646
       }
     ],
     "recentMatches": [
