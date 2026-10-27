@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-27T14:21:33.584Z",
+  "updatedAt": "2026-10-27T14:22:46.703Z",
   "cards": [
     {
       "id": 384,
@@ -32162,8 +32162,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 6,
-        "lifetimePoints": 624,
+        "balance": 9,
+        "lifetimePoints": 627,
         "matchWins": 16,
         "matchLosses": 18,
         "gamesWon": 39,
@@ -32201,8 +32201,8 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 26,
-        "lifetimePoints": 277,
+        "balance": 29,
+        "lifetimePoints": 280,
         "matchWins": 9,
         "matchLosses": 4,
         "gamesWon": 21,
@@ -32214,8 +32214,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 86,
-        "lifetimePoints": 137,
+        "balance": 89,
+        "lifetimePoints": 140,
         "matchWins": 3,
         "matchLosses": 6,
         "gamesWon": 9,
