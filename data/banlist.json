@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-27T20:26:48.658Z",
+  "updatedAt": "2026-10-27T20:49:48.887Z",
   "cards": [
     {
       "id": 384,
@@ -4149,6 +4149,24 @@
       "officialUrl": "https://ygoprodeck.com/card/dante-traveler-of-the-burning-abyss-7010",
       "addedAt": "2026-10-05 18:29:23",
       "changedAt": "2026-10-05 18:29:23"
+    },
+    {
+      "id": 842,
+      "name": "Dark Forest of No Passage",
+      "status": "semi-limeade",
+      "source": "custom",
+      "cardType": "Spell Card",
+      "spellTrapType": "Field",
+      "levelRankLink": "Level 0",
+      "atk": "0",
+      "def": "0",
+      "text": "If a Monster is Set or Special Summoned face-down to your field: You can draw 2 cards, and if you do, discard 1 card. During each player's End Phase: You can target 1 Normal Trap in your Banishment; send it to your GY. You can only use each effect of \"Dark Forest of No Passage\" once per turn.",
+      "clauses": 4,
+      "contributor": "Left Parm of the Forbitten One",
+      "duelingbookId": 6113675,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6113675.jpg",
+      "addedAt": "2026-10-27 20:49:37",
+      "changedAt": "2026-10-27 20:49:37"
     },
     {
       "id": 199,
@@ -32162,7 +32180,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 17,
+        "balance": 8,
         "lifetimePoints": 635,
         "matchWins": 17,
         "matchLosses": 18,
@@ -32171,7 +32189,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 12.25
+        "slacs": 12.291
       },
       {
         "name": "Edward Swissorhands",
