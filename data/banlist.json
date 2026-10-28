@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-28T19:18:51.519Z",
+  "updatedAt": "2026-10-28T19:19:21.429Z",
   "cards": [
     {
       "id": 384,
@@ -14802,6 +14802,26 @@
       "officialUrl": "https://ygoprodeck.com/card/the-fabled-cerburrel-6961",
       "addedAt": "2026-09-25 16:04:05",
       "changedAt": "2026-09-25 16:04:05"
+    },
+    {
+      "id": 844,
+      "name": "The Great Gallant Bandit",
+      "status": "unlimeade",
+      "source": "official",
+      "cardType": "Effect Monster",
+      "monsterType": "Warrior",
+      "attribute": "WIND",
+      "levelRankLink": "Level 10",
+      "atk": "2500",
+      "def": "2000",
+      "text": "You can Tribute Summon this card face-up by Tributing monsters in your hand and/or your opponent's field, while you control no monsters. You can only use each of the following effects of \"The Great Gallant Bandit\" once per turn. When your opponent activates a card effect in the hand, GY, or banishment, and you control this Normal Summoned/Set card (Quick Effect): You can negate that effect, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can reveal your entire hand; change all monsters your opponent controls to Defense Position.",
+      "contributor": "Edward Swissorhands",
+      "passcode": "24203749",
+      "duelingbookId": 18141,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/24203749.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/the-great-gallant-bandit-15820",
+      "addedAt": "2026-10-28 19:18:58",
+      "changedAt": "2026-10-28 19:18:58"
     },
     {
       "id": 591,
