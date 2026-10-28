@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-28T11:42:43.948Z",
+  "updatedAt": "2026-10-28T13:46:45.321Z",
   "cards": [
     {
       "id": 384,
@@ -32193,8 +32193,8 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 18,
-        "lifetimePoints": 536,
+        "balance": 28,
+        "lifetimePoints": 546,
         "matchWins": 11,
         "matchLosses": 13,
         "gamesWon": 30,
@@ -32232,8 +32232,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 90,
-        "lifetimePoints": 141,
+        "balance": 100,
+        "lifetimePoints": 151,
         "matchWins": 3,
         "matchLosses": 7,
         "gamesWon": 9,
