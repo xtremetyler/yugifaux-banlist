@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-28T17:53:39.980Z",
+  "updatedAt": "2026-10-28T17:54:40.764Z",
   "cards": [
     {
       "id": 384,
@@ -4767,6 +4767,26 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6038098.jpg",
       "addedAt": "2026-09-09 19:29:06",
       "changedAt": "2026-09-11 01:03:17"
+    },
+    {
+      "id": 843,
+      "name": "Effect Veiler",
+      "status": "unlimeade",
+      "source": "official",
+      "cardType": "Tuner Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "LIGHT",
+      "levelRankLink": "Level 1",
+      "atk": "0",
+      "def": "0",
+      "text": "During your opponent's Main Phase (Quick Effect): You can send this card from your hand to the GY, then target 1 Effect Monster your opponent controls; negate the effects of that face-up monster your opponent controls, until the end of this turn.",
+      "contributor": "Edward Swissorhands",
+      "passcode": "97268402",
+      "duelingbookId": 1340,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/97268402.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/effect-veiler-8093",
+      "addedAt": "2026-10-28 17:54:38",
+      "changedAt": "2026-10-28 17:54:38"
     },
     {
       "id": 730,
@@ -32193,7 +32213,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 28,
+        "balance": 21,
         "lifetimePoints": 546,
         "matchWins": 11,
         "matchLosses": 13,
@@ -32202,7 +32222,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 10.663
+        "slacs": 10.713
       },
       {
         "name": "Brielieve In Cheesus",
