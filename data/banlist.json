@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-28T13:46:45.321Z",
+  "updatedAt": "2026-10-28T13:47:15.288Z",
   "cards": [
     {
       "id": 384,
@@ -32180,8 +32180,8 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 8,
-        "lifetimePoints": 635,
+        "balance": 18,
+        "lifetimePoints": 645,
         "matchWins": 17,
         "matchLosses": 18,
         "gamesWon": 41,
@@ -32206,8 +32206,8 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 46,
-        "lifetimePoints": 194,
+        "balance": 56,
+        "lifetimePoints": 204,
         "matchWins": 8,
         "matchLosses": 5,
         "gamesWon": 17,
@@ -32219,8 +32219,8 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 29,
-        "lifetimePoints": 280,
+        "balance": 39,
+        "lifetimePoints": 290,
         "matchWins": 9,
         "matchLosses": 4,
         "gamesWon": 21,
