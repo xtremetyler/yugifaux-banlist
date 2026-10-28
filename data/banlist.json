@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-28T18:06:21.289Z",
+  "updatedAt": "2026-10-28T19:18:51.519Z",
   "cards": [
     {
       "id": 384,
@@ -32213,7 +32213,7 @@
       },
       {
         "name": "Edward Swissorhands",
-        "balance": 21,
+        "balance": 14,
         "lifetimePoints": 546,
         "matchWins": 11,
         "matchLosses": 13,
@@ -32222,7 +32222,7 @@
         "gamesDrawn": 0,
         "archetypeId": null,
         "archetypeName": null,
-        "slacs": 10.713
+        "slacs": 10.762
       },
       {
         "name": "Brielieve In Cheesus",
