@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-29T17:23:18.169Z",
+  "updatedAt": "2026-10-29T18:06:19.125Z",
   "cards": [
     {
       "id": 384,
@@ -3041,7 +3041,7 @@
       "id": 305,
       "botCardId": 101,
       "name": "Card Wars Location - Useless Swamp",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -3055,7 +3055,7 @@
       "duelingbookId": 6012062,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012062.jpg",
       "addedAt": "2026-08-24 19:34:44",
-      "changedAt": "2026-08-25 04:05:37"
+      "changedAt": "2026-10-29 18:06:13"
     },
     {
       "id": 304,
@@ -13650,7 +13650,7 @@
     {
       "id": 1,
       "name": "Snatch Steal",
-      "status": "limeade",
+      "status": "banned",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Equip",
@@ -13662,7 +13662,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/45986603.jpg",
       "officialUrl": "https://ygoprodeck.com/card/snatch-steal-3918",
       "addedAt": "2026-07-29 04:15:05",
-      "changedAt": "2026-07-29 04:15:05"
+      "changedAt": "2026-10-29 18:05:54"
     },
     {
       "id": 37,
@@ -14806,7 +14806,7 @@
     {
       "id": 844,
       "name": "The Great Gallant Bandit",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -14821,7 +14821,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24203749.jpg",
       "officialUrl": "https://ygoprodeck.com/card/the-great-gallant-bandit-15820",
       "addedAt": "2026-10-28 19:18:58",
-      "changedAt": "2026-10-29 17:06:47"
+      "changedAt": "2026-10-29 18:05:54"
     },
     {
       "id": 591,
@@ -25986,7 +25986,7 @@
           "id": 305,
           "botCardId": 101,
           "name": "Card Wars Location - Useless Swamp",
-          "status": "limeade",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Field",
@@ -26000,7 +26000,7 @@
           "duelingbookId": 6012062,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012062.jpg",
           "addedAt": "2026-08-24 19:34:44",
-          "changedAt": "2026-08-25 04:05:37"
+          "changedAt": "2026-10-29 18:06:13"
         },
         {
           "id": 304,
@@ -32245,6 +32245,19 @@
         "slacs": 10.762
       },
       {
+        "name": "Brielieve In Cheesus",
+        "balance": 51,
+        "lifetimePoints": 209,
+        "matchWins": 8,
+        "matchLosses": 5,
+        "gamesWon": 17,
+        "gamesLost": 14,
+        "gamesDrawn": 0,
+        "archetypeId": 47,
+        "archetypeName": "NetWRM",
+        "slacs": 8.827
+      },
+      {
         "name": "The Original Rough Cheddar",
         "balance": 29,
         "lifetimePoints": 290,
@@ -32256,19 +32269,6 @@
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
         "slacs": 8.79
-      },
-      {
-        "name": "Brielieve In Cheesus",
-        "balance": 61,
-        "lifetimePoints": 209,
-        "matchWins": 8,
-        "matchLosses": 5,
-        "gamesWon": 17,
-        "gamesLost": 14,
-        "gamesDrawn": 0,
-        "archetypeId": 47,
-        "archetypeName": "NetWRM",
-        "slacs": 8.741
       },
       {
         "name": "forgoudaboutit",
