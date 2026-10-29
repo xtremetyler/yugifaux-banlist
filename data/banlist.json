@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-29T18:06:19.125Z",
+  "updatedAt": "2026-10-29T20:30:19.392Z",
   "cards": [
     {
       "id": 384,
@@ -865,7 +865,7 @@
       "id": 303,
       "botCardId": 138,
       "name": "Alsabea Leo - The Pride",
-      "status": "unlimeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast-Warrior",
@@ -880,7 +880,7 @@
       "duelingbookId": 6012059,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012059.jpg",
       "addedAt": "2026-08-24 19:34:44",
-      "changedAt": "2026-10-11 13:24:41"
+      "changedAt": "2026-10-29 20:29:58"
     },
     {
       "id": 299,
@@ -26086,7 +26086,7 @@
           "id": 303,
           "botCardId": 138,
           "name": "Alsabea Leo - The Pride",
-          "status": "unlimeade",
+          "status": "banned",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Beast-Warrior",
@@ -26101,7 +26101,7 @@
           "duelingbookId": 6012059,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6012059.jpg",
           "addedAt": "2026-08-24 19:34:44",
-          "changedAt": "2026-10-11 13:24:41"
+          "changedAt": "2026-10-29 20:29:58"
         },
         {
           "id": 299,
