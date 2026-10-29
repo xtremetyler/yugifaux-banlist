@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-29T15:47:42.069Z",
+  "updatedAt": "2026-10-29T17:07:11.854Z",
   "cards": [
     {
       "id": 384,
@@ -4307,7 +4307,7 @@
     {
       "id": 368,
       "name": "Dinomorphia Shell",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Trap Card",
       "monsterType": "Counter",
@@ -4320,7 +4320,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/25419323.jpg",
       "officialUrl": "https://ygoprodeck.com/card/dinomorphia-shell-12750",
       "addedAt": "2026-09-02 17:12:36",
-      "changedAt": "2026-09-02 17:12:36"
+      "changedAt": "2026-10-29 17:06:47"
     },
     {
       "id": 34,
@@ -12930,7 +12930,7 @@
       "id": 281,
       "botCardId": 93,
       "name": "Same Old Song",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Normal",
@@ -12944,7 +12944,7 @@
       "duelingbookId": 6006953,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006953.jpg",
       "addedAt": "2026-08-22 00:34:48",
-      "changedAt": "2026-08-24 00:49:11"
+      "changedAt": "2026-10-29 17:06:47"
     },
     {
       "id": 359,
@@ -14806,7 +14806,7 @@
     {
       "id": 844,
       "name": "The Great Gallant Bandit",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -14821,7 +14821,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24203749.jpg",
       "officialUrl": "https://ygoprodeck.com/card/the-great-gallant-bandit-15820",
       "addedAt": "2026-10-28 19:18:58",
-      "changedAt": "2026-10-29 02:08:58"
+      "changedAt": "2026-10-29 17:06:47"
     },
     {
       "id": 591,
@@ -26431,7 +26431,7 @@
           "id": 281,
           "botCardId": 93,
           "name": "Same Old Song",
-          "status": "semi-limeade",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Spell Card",
           "spellTrapType": "Normal",
@@ -26445,7 +26445,7 @@
           "duelingbookId": 6006953,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6006953.jpg",
           "addedAt": "2026-08-22 00:34:48",
-          "changedAt": "2026-08-24 00:49:11"
+          "changedAt": "2026-10-29 17:06:47"
         },
         {
           "id": 285,
@@ -32245,6 +32245,19 @@
         "slacs": 10.762
       },
       {
+        "name": "The Original Rough Cheddar",
+        "balance": 29,
+        "lifetimePoints": 290,
+        "matchWins": 9,
+        "matchLosses": 4,
+        "gamesWon": 21,
+        "gamesLost": 12,
+        "gamesDrawn": 0,
+        "archetypeId": 44,
+        "archetypeName": "Parcel-Tongue Post",
+        "slacs": 8.79
+      },
+      {
         "name": "Brielieve In Cheesus",
         "balance": 61,
         "lifetimePoints": 209,
@@ -32256,19 +32269,6 @@
         "archetypeId": 47,
         "archetypeName": "NetWRM",
         "slacs": 8.741
-      },
-      {
-        "name": "The Original Rough Cheddar",
-        "balance": 39,
-        "lifetimePoints": 290,
-        "matchWins": 9,
-        "matchLosses": 4,
-        "gamesWon": 21,
-        "gamesLost": 12,
-        "gamesDrawn": 0,
-        "archetypeId": 44,
-        "archetypeName": "Parcel-Tongue Post",
-        "slacs": 8.733
       },
       {
         "name": "forgoudaboutit",
