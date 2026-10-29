@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-28T22:33:27.579Z",
+  "updatedAt": "2026-10-29T02:09:29.318Z",
   "cards": [
     {
       "id": 384,
@@ -3081,7 +3081,7 @@
     {
       "id": 197,
       "name": "Casey Cooke - Questionably Innocent",
-      "status": "limeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Beast-Warrior",
@@ -3095,7 +3095,7 @@
       "duelingbookId": 5991456,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5991456.jpg",
       "addedAt": "2026-08-12 22:39:46",
-      "changedAt": "2026-09-29 18:28:10"
+      "changedAt": "2026-10-29 02:08:58"
     },
     {
       "id": 88,
@@ -4153,7 +4153,7 @@
     {
       "id": 842,
       "name": "Dark Forest of No Passage",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Field",
@@ -4166,7 +4166,7 @@
       "duelingbookId": 6113675,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6113675.jpg",
       "addedAt": "2026-10-27 20:49:37",
-      "changedAt": "2026-10-27 20:49:37"
+      "changedAt": "2026-10-29 02:08:58"
     },
     {
       "id": 199,
@@ -14806,7 +14806,7 @@
     {
       "id": 844,
       "name": "The Great Gallant Bandit",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -14821,7 +14821,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/24203749.jpg",
       "officialUrl": "https://ygoprodeck.com/card/the-great-gallant-bandit-15820",
       "addedAt": "2026-10-28 19:18:58",
-      "changedAt": "2026-10-28 19:18:58"
+      "changedAt": "2026-10-29 02:08:58"
     },
     {
       "id": 591,
@@ -32220,7 +32220,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 18,
+        "balance": 8,
         "lifetimePoints": 645,
         "matchWins": 17,
         "matchLosses": 18,
@@ -32229,7 +32229,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 12.291
+        "slacs": 12.331
       },
       {
         "name": "Edward Swissorhands",
