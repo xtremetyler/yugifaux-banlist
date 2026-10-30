@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T18:11:29.304Z",
+  "updatedAt": "2026-10-30T18:11:58.899Z",
   "cards": [
     {
       "id": 384,
@@ -32221,7 +32221,7 @@
       "submittedAt": "2026-10-30 18:06:17",
       "activatedAt": "2026-10-30 18:06:17",
       "declaredCardCount": 13,
-      "registeredCardCount": 1,
+      "registeredCardCount": 3,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -32249,6 +32249,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075511.jpg",
           "addedAt": "2026-10-30 18:11:17",
           "changedAt": "2026-10-30 18:11:17"
+        },
+        {
+          "id": 580,
+          "name": "Legendary Swordsman – Vaelis of the Glacier",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "WATER",
+          "levelRankLink": "Level 7",
+          "atk": "2300",
+          "def": "2000",
+          "text": "You can discard 1 card that mentions an Attribute, except WATER; Special Summon this card from your hand or GY, but Banish this card when it leaves the field, if it was summoned from the GY. Once while this card is Face-up on the field: You can add 1 \"Legendary Sword\" Equip Spell from your Deck to your hand, except \"Legendary Sword – Glacier\". While this card is equipped with an Equip Spell (Quick Effect): You can target 1 face-up monster your opponent controls; negate its effects until the end of this turn. If this card is equipped with \"Legendary Sword – Glacier\", you can target a Spell/Trap instead. You can only use each effect of \"Legendary Swordsman – Vaelis of the Glacier\" once per turn.",
+          "duelingbookId": 6075513,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075513.jpg",
+          "addedAt": "2026-10-30 18:11:31",
+          "changedAt": "2026-10-30 18:11:31"
+        },
+        {
+          "id": 581,
+          "name": "Legendary Swordsman – Garran of Terra",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "EARTH",
+          "levelRankLink": "Level 7",
+          "atk": "1600",
+          "def": "2700",
+          "text": "You can discard 1 card that mentions an Attribute, except EARTH; Special Summon this card from your hand or GY, but Banish this card when it leaves the field, if it was summoned from the GY. Once while this card is Face-up on the field: You can add 1 \"Legendary Sword\" Equip Spell from your Deck to your hand, except \"Legendary Sword – Terra\". While this card is equipped with an Equip Spell (Quick Effect): You can target 1 other face-up card you control; it cannot be destroyed by battle or card effect until the end of the turn. If this card is equipped with \"Legendary Sword – Terra\", that card also cannot be targeted by your opponent's card effects this turn. You can only use each effect of \"Legendary Swordsman – Garran of Terra\" once per turn.",
+          "duelingbookId": 6075519,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075519.jpg",
+          "addedAt": "2026-10-30 18:11:44",
+          "changedAt": "2026-10-30 18:11:44"
         }
       ]
     }
@@ -32282,7 +32314,7 @@
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.184
+        "slacs": 11.247
       },
       {
         "name": "Brielieve In Cheesus",
