@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T18:05:28.903Z",
+  "updatedAt": "2026-10-30T18:06:28.860Z",
   "cards": [
     {
       "id": 384,
@@ -32211,6 +32211,26 @@
           "changedAt": "2026-10-21 17:43:44"
         }
       ]
+    },
+    {
+      "id": 50,
+      "name": "Legendary Swordsman",
+      "creator": "Ewok A.K.A. Larte Nugs",
+      "status": "active",
+      "description": "Just had baby - is this broken or is it bad? Lets find out.",
+      "submittedAt": "2026-10-30 18:06:17",
+      "activatedAt": "2026-10-30 18:06:17",
+      "declaredCardCount": 13,
+      "registeredCardCount": 0,
+      "mainTypes": 2,
+      "extraCount": 1,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -32240,9 +32260,9 @@
         "gamesWon": 30,
         "gamesLost": 29,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null,
-        "slacs": 10.762
+        "archetypeId": 50,
+        "archetypeName": "Legendary Swordsman",
+        "slacs": 11.151
       },
       {
         "name": "Brielieve In Cheesus",
