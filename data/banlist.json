@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T14:50:27.338Z",
+  "updatedAt": "2026-10-30T16:50:28.618Z",
   "cards": [
     {
       "id": 384,
@@ -32230,19 +32230,6 @@
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
         "slacs": 12.331
-      },
-      {
-        "name": "Edward Swissorhands",
-        "balance": 14,
-        "lifetimePoints": 546,
-        "matchWins": 11,
-        "matchLosses": 13,
-        "gamesWon": 30,
-        "gamesLost": 29,
-        "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null,
-        "slacs": 10.762
       },
       {
         "name": "Brielieve In Cheesus",
