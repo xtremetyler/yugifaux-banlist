@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T18:15:28.899Z",
+  "updatedAt": "2026-10-30T19:04:59.151Z",
   "cards": [
     {
       "id": 384,
@@ -32443,20 +32443,20 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 49,
+    "confirmedMatchCount": 50,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 12,
-        "lifetimePoints": 649,
-        "matchWins": 18,
+        "balance": 16,
+        "lifetimePoints": 653,
+        "matchWins": 19,
         "matchLosses": 18,
-        "gamesWon": 43,
+        "gamesWon": 45,
         "gamesLost": 45,
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 12.697
+        "slacs": 13.057
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
@@ -32486,16 +32486,16 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 29,
-        "lifetimePoints": 290,
+        "balance": 30,
+        "lifetimePoints": 291,
         "matchWins": 9,
-        "matchLosses": 4,
+        "matchLosses": 5,
         "gamesWon": 21,
-        "gamesLost": 12,
+        "gamesLost": 14,
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 8.79
+        "slacs": 8.37
       },
       {
         "name": "forgoudaboutit",
@@ -32512,6 +32512,17 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 114,
+        "confirmedAt": "2026-10-30 19:04:32",
+        "replayUrl": null,
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Parcel-Tongue Post",
+        "opponentArchetype": "Watchful Sun"
+      },
       {
         "id": 113,
         "confirmedAt": "2026-10-30 18:15:20",
@@ -32588,20 +32599,20 @@
         "opponentGames": 2,
         "reporterArchetype": "Re:B00t",
         "opponentArchetype": "COMIC!"
-      },
-      {
-        "id": 106,
-        "confirmedAt": "2026-10-20 13:55:15",
-        "replayUrl": null,
-        "reporter": "Ewok A.K.A. Larte Nugs",
-        "opponent": "Left Parm of the Forbitten One",
-        "reporterGames": 1,
-        "opponentGames": 2,
-        "reporterArchetype": "COMIC!",
-        "opponentArchetype": "Re:B00t"
       }
     ],
     "matchHistory": [
+      {
+        "id": 114,
+        "confirmedAt": "2026-10-30 19:04:32",
+        "replayUrl": null,
+        "reporter": "The Original Rough Cheddar",
+        "opponent": "Left Parm of the Forbitten One",
+        "reporterGames": 0,
+        "opponentGames": 2,
+        "reporterArchetype": "Parcel-Tongue Post",
+        "opponentArchetype": "Watchful Sun"
+      },
       {
         "id": 113,
         "confirmedAt": "2026-10-30 18:15:20",
