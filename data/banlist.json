@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T18:06:28.860Z",
+  "updatedAt": "2026-10-30T18:11:29.304Z",
   "cards": [
     {
       "id": 384,
@@ -32221,7 +32221,7 @@
       "submittedAt": "2026-10-30 18:06:17",
       "activatedAt": "2026-10-30 18:06:17",
       "declaredCardCount": 13,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -32230,7 +32230,27 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 579,
+      "featuredCardName": "Legendary Swordsman – Ignar of the Inferno",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075511.jpg",
+      "cards": [
+        {
+          "id": 579,
+          "name": "Legendary Swordsman – Ignar of the Inferno",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "FIRE",
+          "levelRankLink": "Level 7",
+          "atk": "2500",
+          "def": "1800",
+          "text": "You can discard 1 card that mentions an Attribute, except FIRE; Special Summon this card from your hand or GY, but Banish this card when it leaves the field, if it was summoned from the GY. Once while this card is Face-up on the field: You can add 1 \"Legendary Sword\" Equip Spell from your Deck to your hand, except \"Legendary Sword – Inferno\". While this card is equipped with an Equip Spell (Quick Effect): You can target 1 face-up card your opponent controls; destroy it. If this card is equipped with \"Legendary Sword – Inferno\", you can target up to 2 cards instead. You can only use each effect of \"Legendary Swordsman – Ignar of the Inferno\" once per turn.",
+          "duelingbookId": 6075511,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075511.jpg",
+          "addedAt": "2026-10-30 18:11:17",
+          "changedAt": "2026-10-30 18:11:17"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -32262,7 +32282,7 @@
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.151
+        "slacs": 11.184
       },
       {
         "name": "Brielieve In Cheesus",
