@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T18:12:58.875Z",
+  "updatedAt": "2026-10-30T18:13:28.888Z",
   "cards": [
     {
       "id": 384,
@@ -32221,7 +32221,7 @@
       "submittedAt": "2026-10-30 18:06:17",
       "activatedAt": "2026-10-30 18:06:17",
       "declaredCardCount": 13,
-      "registeredCardCount": 8,
+      "registeredCardCount": 10,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -32359,6 +32359,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075608.jpg",
           "addedAt": "2026-10-30 18:12:52",
           "changedAt": "2026-10-30 18:12:52"
+        },
+        {
+          "id": 587,
+          "name": "Legendary Sword – Tempest",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "The equipped monster gains 500 ATK. If the equipped monster is WIND, it can attack directly, but any battle damage it inflicts this way is halved. If this card is in your GY: You can target 1 WIND monster you control; equip this card to it. You can discard this card; add 1 \"Legendary Swordsman – Zephryn of the Tempest\" from your Deck to your hand. You can only use this effect of \"Legendary Sword – Tempest\" once per turn.",
+          "duelingbookId": 6075660,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075660.jpg",
+          "addedAt": "2026-10-30 18:13:08",
+          "changedAt": "2026-10-30 18:13:08"
+        },
+        {
+          "id": 588,
+          "name": "Legendary Sword – Abyss",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "The equipped monster gains 500 ATK. If the equipped monster is DARK, it gains 200 ATK for each Equip Spell on the field and in the GYs. If this card is in your GY: You can target 1 DARK monster you control; equip this card to it. You can discard this card; add 1 \"Legendary Swordsman – Nocthar of the Abyss\" from your Deck to your hand. You can only use this effect of \"Legendary Sword – Abyss\" once per turn.",
+          "duelingbookId": 6075795,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075795.jpg",
+          "addedAt": "2026-10-30 18:13:21",
+          "changedAt": "2026-10-30 18:13:21"
         }
       ]
     }
@@ -32392,7 +32422,7 @@
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.391
+        "slacs": 11.444
       },
       {
         "name": "Brielieve In Cheesus",
