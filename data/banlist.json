@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T18:11:58.899Z",
+  "updatedAt": "2026-10-30T18:12:28.894Z",
   "cards": [
     {
       "id": 384,
@@ -32221,7 +32221,7 @@
       "submittedAt": "2026-10-30 18:06:17",
       "activatedAt": "2026-10-30 18:06:17",
       "declaredCardCount": 13,
-      "registeredCardCount": 3,
+      "registeredCardCount": 6,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -32281,6 +32281,54 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075519.jpg",
           "addedAt": "2026-10-30 18:11:44",
           "changedAt": "2026-10-30 18:11:44"
+        },
+        {
+          "id": 582,
+          "name": "Legendary Swordsman – Zephryn of the Tempest",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "WIND",
+          "levelRankLink": "Level 7",
+          "atk": "2100",
+          "def": "2200",
+          "text": "You can discard 1 card that mentions an Attribute, except WIND; Special Summon this card from your hand or GY, but Banish this card when it leaves the field, if it was summoned from the GY. Once while this card is Face-up on the field: You can add 1 \"Legendary Sword\" Equip Spell from your Deck to your hand, except \"Legendary Sword – Tempest\". While this card is equipped with an Equip Spell (Quick Effect): You can target 1 face-up card your opponent controls; return it to the hand. If this card is equipped with \"Legendary Sword – Tempest\", you can also return 1 Spell/Trap your opponent controls to the top of their deck. You can only use each effect of \"Legendary Swordsman – Zephryn of the Tempest\" once per turn.",
+          "duelingbookId": 6075526,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075526.jpg",
+          "addedAt": "2026-10-30 18:11:59",
+          "changedAt": "2026-10-30 18:11:59"
+        },
+        {
+          "id": 583,
+          "name": "Legendary Swordsman – Aurelis of Radiance",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 7",
+          "atk": "2700",
+          "def": "1600",
+          "text": "You can discard 1 card that mentions an Attribute, except LIGHT; Special Summon this card from your hand or GY, but Banish this card when it leaves the field, if it was summoned from the GY. If this card is Special Summoned by its own effect: You can add 1 \"Legendary Sword\" Equip Spell from your Deck to your hand, except \"Legendary Sword – Radiance\". While this card is equipped with an Equip Spell (Quick Effect): You can target 1 card in either GY; banish it. If this card is equipped with \"Legendary Sword – Radiance\", you can target 1 face-up card on the field instead. You can only use each effect of \"Legendary Swordsman – Aurelis of Radiance\" once per turn.",
+          "duelingbookId": 6075530,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075530.jpg",
+          "addedAt": "2026-10-30 18:12:12",
+          "changedAt": "2026-10-30 18:12:12"
+        },
+        {
+          "id": 584,
+          "name": "Legendary Swordsman – Nocthar of the Abyss",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Warrior",
+          "attribute": "DARK",
+          "levelRankLink": "Level 7",
+          "atk": "2400",
+          "def": "1900",
+          "text": "You can discard 1 card that mentions an Attribute, except DARK; Special Summon this card from your hand or GY, but Banish this card when it leaves the field, if it was summoned from the GY. Once while this card is Face-up on the field: You can add 1 \"Legendary Sword\" Equip Spell from your Deck to your hand, except \"Legendary Sword – Abyss\". While this card is equipped with an Equip Spell (Quick Effect): You can target 1 face-up monster your opponent controls; halve its ATK/DEF until the end of this turn. If this card is equipped with \"Legendary Sword – Abyss\", that monster also cannot be used as material for a Fusion, Synchro, or Xyz Summon this turn. You can only use each effect of \"Legendary Swordsman – Nocthar of the Abyss\" once per turn.",
+          "duelingbookId": 6075541,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075541.jpg",
+          "addedAt": "2026-10-30 18:12:26",
+          "changedAt": "2026-10-30 18:12:26"
         }
       ]
     }
@@ -32314,7 +32362,7 @@
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.247
+        "slacs": 11.336
       },
       {
         "name": "Brielieve In Cheesus",
