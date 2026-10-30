@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T18:13:58.883Z",
+  "updatedAt": "2026-10-30T18:14:28.794Z",
   "cards": [
     {
       "id": 384,
@@ -32221,7 +32221,7 @@
       "submittedAt": "2026-10-30 18:06:17",
       "activatedAt": "2026-10-30 18:06:17",
       "declaredCardCount": 13,
-      "registeredCardCount": 11,
+      "registeredCardCount": 13,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -32404,6 +32404,38 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076332.jpg",
           "addedAt": "2026-10-30 18:13:35",
           "changedAt": "2026-10-30 18:13:35"
+        },
+        {
+          "id": 590,
+          "name": "Legendary Sword – Terra",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "The equipped monster gains 500 ATK. If the equipped monster is EARTH, the first time it would be destroyed by battle or card effect each turn, it is not destroyed. If this card is in your GY: You can target 1 EARTH monster you control; equip this card to it. You can discard this card; add 1 \"Legendary Swordsman – Garran of Terra\" from your Deck to your hand. You can only use this effect of \"Legendary Sword – Terra\" once per turn.",
+          "duelingbookId": 6076335,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076335.jpg",
+          "addedAt": "2026-10-30 18:14:01",
+          "changedAt": "2026-10-30 18:14:01"
+        },
+        {
+          "id": 591,
+          "name": "Spirit of the Legendary Swordsman",
+          "source": "custom",
+          "cardType": "Fusion Monster",
+          "monsterType": "Warrior",
+          "attribute": "DIVINE",
+          "levelRankLink": "Level 12",
+          "atk": "3000",
+          "def": "3000",
+          "pendulumScale": "0",
+          "text": "2+ Level 7 monsters with different Attributes\nMust first be Fusion Summoned, or Special Summoned from your Extra Deck by shuffling the above cards you control into the Deck. While face-up on the field, this card is also DARK, EARTH, WATER, FIRE, and WIND-Attribute. (Quick Effect): You can send 1 \"Legendary Swordsman\" monster from your Deck to the GY; this effect becomes that monster's Quick Effect that can be activated while it is equipped with an Equip Spell. You can only use this effect of \"Spirit of the Legendary Swordsman\" once per turn.",
+          "duelingbookId": 6076457,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076457.jpg",
+          "addedAt": "2026-10-30 18:14:18",
+          "changedAt": "2026-10-30 18:14:18"
         }
       ]
     }
@@ -32437,7 +32469,7 @@
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.47
+        "slacs": 11.519
       },
       {
         "name": "Brielieve In Cheesus",
