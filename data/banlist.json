@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T18:12:28.894Z",
+  "updatedAt": "2026-10-30T18:12:58.875Z",
   "cards": [
     {
       "id": 384,
@@ -32221,7 +32221,7 @@
       "submittedAt": "2026-10-30 18:06:17",
       "activatedAt": "2026-10-30 18:06:17",
       "declaredCardCount": 13,
-      "registeredCardCount": 6,
+      "registeredCardCount": 8,
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
@@ -32329,6 +32329,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075541.jpg",
           "addedAt": "2026-10-30 18:12:26",
           "changedAt": "2026-10-30 18:12:26"
+        },
+        {
+          "id": 585,
+          "name": "Legendary Sword – Inferno",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "The equipped monster gains 500 ATK. If the equipped monster is FIRE, it can make a second attack on monsters during each Battle Phase. If this card is in your GY: You can target 1 FIRE monster you control; equip this card to it. You can discard this card; add 1 \"Legendary Swordsman – Ignar of the Inferno\" from your Deck to your hand. You can only use this effect of \"Legendary Sword – Inferno\" once per turn.",
+          "duelingbookId": 6075604,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075604.jpg",
+          "addedAt": "2026-10-30 18:12:38",
+          "changedAt": "2026-10-30 18:12:38"
+        },
+        {
+          "id": 586,
+          "name": "Legendary Sword – Glacier",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Equip",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "The equipped monster gains 500 ATK. If the equipped monster is WATER, the first time it would be destroyed by battle or card effect each turn, it is not destroyed. If this card is in your GY: You can target 1 WATER monster you control; equip this card to it. You can discard this card; add 1 \"Legendary Swordsman – Vaelis of the Glacier\" from your Deck to your hand. You can only use this effect of \"Legendary Sword – Glacier\" once per turn.",
+          "duelingbookId": 6075608,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075608.jpg",
+          "addedAt": "2026-10-30 18:12:52",
+          "changedAt": "2026-10-30 18:12:52"
         }
       ]
     }
@@ -32362,7 +32392,7 @@
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.336
+        "slacs": 11.391
       },
       {
         "name": "Brielieve In Cheesus",
