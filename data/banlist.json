@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-30T19:31:29.167Z",
+  "updatedAt": "2026-10-30T22:28:59.743Z",
   "cards": [
     {
       "id": 384,
@@ -759,7 +759,7 @@
     {
       "id": 768,
       "name": "Akasuna the Battle Ashtra",
-      "status": "semi-limeade",
+      "status": "unlimeade",
       "source": "official",
       "cardType": "Effect Monster",
       "monsterType": "Fiend",
@@ -775,7 +775,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/38331244.jpg",
       "officialUrl": "https://ygoprodeck.com/card/akasuna-the-battle-ashtra-15793",
       "addedAt": "2026-10-15 06:29:34",
-      "changedAt": "2026-10-15 06:29:34"
+      "changedAt": "2026-10-30 22:28:36"
     },
     {
       "id": 532,
@@ -10169,7 +10169,7 @@
     {
       "id": 770,
       "name": "Morrow, the Hollow Grasp",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Plant",
@@ -10183,7 +10183,7 @@
       "duelingbookId": 6095906,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095906.jpg",
       "addedAt": "2026-10-15 15:35:09",
-      "changedAt": "2026-10-15 15:35:09"
+      "changedAt": "2026-10-30 22:28:36"
     },
     {
       "id": 757,
@@ -15359,7 +15359,7 @@
     {
       "id": 777,
       "name": "Torren, the Faultbreaker",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -15373,7 +15373,7 @@
       "duelingbookId": 6097192,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6097192.jpg",
       "addedAt": "2026-10-16 16:15:42",
-      "changedAt": "2026-10-16 16:15:42"
+      "changedAt": "2026-10-30 22:28:36"
     },
     {
       "id": 29,
@@ -32447,7 +32447,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 16,
+        "balance": 6,
         "lifetimePoints": 653,
         "matchWins": 19,
         "matchLosses": 18,
@@ -32456,7 +32456,7 @@
         "gamesDrawn": 0,
         "archetypeId": 49,
         "archetypeName": "Watchful Sun",
-        "slacs": 13.057
+        "slacs": 13.101
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
