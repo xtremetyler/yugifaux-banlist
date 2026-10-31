@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-10-31T10:49:13.712Z",
+  "updatedAt": "2026-10-31T12:25:44.849Z",
   "cards": [
     {
       "id": 384,
@@ -993,7 +993,7 @@
     {
       "id": 73,
       "name": "Ancient Fairy Dragon",
-      "status": "semi-limeade",
+      "status": "limeade",
       "source": "official",
       "cardType": "Synchro Monster",
       "monsterType": "Dragon",
@@ -1008,7 +1008,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/25862681.jpg",
       "officialUrl": "https://ygoprodeck.com/card/ancient-fairy-dragon-2229",
       "addedAt": "2026-07-31 16:50:45",
-      "changedAt": "2026-07-31 16:50:45"
+      "changedAt": "2026-10-31 12:25:38"
     },
     {
       "id": 533,
@@ -10169,7 +10169,7 @@
     {
       "id": 770,
       "name": "Morrow, the Hollow Grasp",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Plant",
@@ -10183,7 +10183,7 @@
       "duelingbookId": 6095906,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095906.jpg",
       "addedAt": "2026-10-15 15:35:09",
-      "changedAt": "2026-10-30 22:28:36"
+      "changedAt": "2026-10-31 12:25:38"
     },
     {
       "id": 757,
@@ -15359,7 +15359,7 @@
     {
       "id": 777,
       "name": "Torren, the Faultbreaker",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Rock",
@@ -15373,7 +15373,7 @@
       "duelingbookId": 6097192,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6097192.jpg",
       "addedAt": "2026-10-16 16:15:42",
-      "changedAt": "2026-10-30 22:28:36"
+      "changedAt": "2026-10-31 12:25:38"
     },
     {
       "id": 29,
@@ -32460,7 +32460,7 @@
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
-        "balance": 15,
+        "balance": 5,
         "lifetimePoints": 547,
         "matchWins": 11,
         "matchLosses": 14,
@@ -32469,7 +32469,7 @@
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.225
+        "slacs": 11.274
       },
       {
         "name": "Brielieve In Cheesus",
