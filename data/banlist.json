@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-01T08:03:42.264Z",
+  "updatedAt": "2026-11-01T08:04:12.229Z",
   "cards": [
     {
       "id": 384,
@@ -8928,8 +8928,8 @@
       "archetype": "Legendary Swordsman",
       "archetypeId": 50,
       "contributor": "Ewok A.K.A. Larte Nugs",
-      "duelingbookId": 6075795,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075795.jpg",
+      "duelingbookId": 6120141,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120141.jpg",
       "addedAt": "2026-11-01 08:01:08",
       "changedAt": "2026-11-01 08:01:08"
     },
@@ -8988,8 +8988,8 @@
       "archetype": "Legendary Swordsman",
       "archetypeId": 50,
       "contributor": "Ewok A.K.A. Larte Nugs",
-      "duelingbookId": 6076332,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076332.jpg",
+      "duelingbookId": 6120142,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120142.jpg",
       "addedAt": "2026-11-01 08:01:08",
       "changedAt": "2026-11-01 08:01:08"
     },
@@ -9028,8 +9028,8 @@
       "archetype": "Legendary Swordsman",
       "archetypeId": 50,
       "contributor": "Ewok A.K.A. Larte Nugs",
-      "duelingbookId": 6076335,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076335.jpg",
+      "duelingbookId": 6120143,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120143.jpg",
       "addedAt": "2026-11-01 08:01:08",
       "changedAt": "2026-11-01 08:01:08"
     },
@@ -17727,7 +17727,7 @@
       "cardListComplete": false,
       "featuredCardId": 854,
       "featuredCardName": "Legendary Sword – Abyss",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075795.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120141.jpg",
       "cards": [
         {
           "id": 854,
@@ -17744,8 +17744,8 @@
           "archetype": "Legendary Swordsman",
           "archetypeId": 50,
           "contributor": "Ewok A.K.A. Larte Nugs",
-          "duelingbookId": 6075795,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6075795.jpg",
+          "duelingbookId": 6120141,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120141.jpg",
           "addedAt": "2026-11-01 08:01:08",
           "changedAt": "2026-11-01 08:01:08"
         },
@@ -17804,8 +17804,8 @@
           "archetype": "Legendary Swordsman",
           "archetypeId": 50,
           "contributor": "Ewok A.K.A. Larte Nugs",
-          "duelingbookId": 6076332,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076332.jpg",
+          "duelingbookId": 6120142,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120142.jpg",
           "addedAt": "2026-11-01 08:01:08",
           "changedAt": "2026-11-01 08:01:08"
         },
@@ -17844,8 +17844,8 @@
           "archetype": "Legendary Swordsman",
           "archetypeId": 50,
           "contributor": "Ewok A.K.A. Larte Nugs",
-          "duelingbookId": 6076335,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6076335.jpg",
+          "duelingbookId": 6120143,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120143.jpg",
           "addedAt": "2026-11-01 08:01:08",
           "changedAt": "2026-11-01 08:01:08"
         },
