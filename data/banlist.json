@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-01T08:04:42.594Z",
+  "updatedAt": "2026-11-01T08:29:41.241Z",
   "cards": [
     {
       "id": 384,
@@ -17724,7 +17724,7 @@
       "finalAddedClauses": 4,
       "notes": "Just had baby - is this broken or is it bad? Lets find out.",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 854,
       "featuredCardName": "Legendary Sword – Abyss",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120141.jpg",
