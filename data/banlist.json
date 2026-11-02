@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-02T19:42:04.279Z",
+  "updatedAt": "2026-11-02T23:42:05.888Z",
   "cards": [
     {
       "id": 384,
@@ -32738,19 +32738,6 @@
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
         "slacs": 11.274
-      },
-      {
-        "name": "Brielieve In Cheesus",
-        "balance": 51,
-        "lifetimePoints": 209,
-        "matchWins": 8,
-        "matchLosses": 5,
-        "gamesWon": 17,
-        "gamesLost": 14,
-        "gamesDrawn": 0,
-        "archetypeId": 47,
-        "archetypeName": "NetWRM",
-        "slacs": 8.827
       },
       {
         "name": "The Original Rough Cheddar",
