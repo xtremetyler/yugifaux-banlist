@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T02:53:30.282Z",
+  "updatedAt": "2026-11-03T02:54:00.142Z",
   "cards": [
     {
       "id": 384,
@@ -2652,8 +2652,8 @@
       "archetype": "Whenfare",
       "archetypeId": 45,
       "contributor": "forgoudaboutit",
-      "duelingbookId": 6090572,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090572.jpg",
+      "duelingbookId": 6122453,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122453.jpg",
       "addedAt": "2026-11-03 02:51:42",
       "changedAt": "2026-11-03 02:51:42"
     },
@@ -9293,8 +9293,8 @@
       "archetype": "Whenfare",
       "archetypeId": 45,
       "contributor": "forgoudaboutit",
-      "duelingbookId": 6090570,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090570.jpg",
+      "duelingbookId": 6122451,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122451.jpg",
       "addedAt": "2026-11-03 02:51:42",
       "changedAt": "2026-11-03 02:51:42"
     },
@@ -15972,8 +15972,8 @@
       "archetype": "Whenfare",
       "archetypeId": 45,
       "contributor": "forgoudaboutit",
-      "duelingbookId": 6090566,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090566.jpg",
+      "duelingbookId": 6122449,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122449.jpg",
       "addedAt": "2026-11-03 02:51:42",
       "changedAt": "2026-11-03 02:51:42"
     },
@@ -18218,7 +18218,7 @@
       "cardListComplete": false,
       "featuredCardId": 860,
       "featuredCardName": "Bruna, the Blacksmith of Whenfare",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090572.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122453.jpg",
       "cards": [
         {
           "id": 860,
@@ -18241,8 +18241,8 @@
           "archetype": "Whenfare",
           "archetypeId": 45,
           "contributor": "forgoudaboutit",
-          "duelingbookId": 6090572,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090572.jpg",
+          "duelingbookId": 6122453,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122453.jpg",
           "addedAt": "2026-11-03 02:51:42",
           "changedAt": "2026-11-03 02:51:42"
         },
@@ -18333,8 +18333,8 @@
           "archetype": "Whenfare",
           "archetypeId": 45,
           "contributor": "forgoudaboutit",
-          "duelingbookId": 6090570,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090570.jpg",
+          "duelingbookId": 6122451,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122451.jpg",
           "addedAt": "2026-11-03 02:51:42",
           "changedAt": "2026-11-03 02:51:42"
         },
@@ -18686,8 +18686,8 @@
           "archetype": "Whenfare",
           "archetypeId": 45,
           "contributor": "forgoudaboutit",
-          "duelingbookId": 6090566,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6090566.jpg",
+          "duelingbookId": 6122449,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122449.jpg",
           "addedAt": "2026-11-03 02:51:42",
           "changedAt": "2026-11-03 02:51:42"
         },
