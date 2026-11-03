@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:47:00.348Z",
+  "updatedAt": "2026-11-03T04:51:30.683Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33641,7 +33641,30 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 592,
+      "featuredCardName": "Graypelt Ambuskin",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106474.jpg",
+      "cards": [
+        {
+          "id": 592,
+          "name": "Graypelt Ambuskin",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast",
+          "abilities": [
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 1",
+          "atk": "700",
+          "def": "0",
+          "text": "FLIP: You can return this card to your hand; Special Summon up to 1 Monster from your hand in face-down Defense Position, except a Level 1 Monster, unless your opponent banishes 2 cards from their GY.\nDuring the Main Phase, if this card is in your hand (Quick Effect): You can discard it; Special Summon 1 Monster from your hand in face-down Defense Position, then you can send 1 \"Graypelt\" Trap from your Deck to your GY, and if you do, for the rest of this turn you cannot Special Summon Monsters, except DARK or Beast Monsters. You can only use this effect of \"Graypelt Ambuskin\" once per turn.",
+          "duelingbookId": 6106474,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106474.jpg",
+          "addedAt": "2026-11-03 04:51:25",
+          "changedAt": "2026-11-03 04:51:25"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -33660,7 +33683,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.008
+        "slacs": 13.053
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
