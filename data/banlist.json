@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:59:30.276Z",
+  "updatedAt": "2026-11-03T05:11:30.391Z",
   "cards": [
     {
       "id": 384,
@@ -18391,7 +18391,7 @@
     {
       "id": 506,
       "name": "Yuno Vailo, Seeker of the Elements",
-      "status": "unlimeade",
+      "status": "banned",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Spellcaster",
@@ -18405,7 +18405,7 @@
       "duelingbookId": 5948257,
       "imageUrl": "https://images.duelingbook.com/custom-pics/5900000/5948257.jpg",
       "addedAt": "2026-09-10 00:49:12",
-      "changedAt": "2026-09-10 00:49:12"
+      "changedAt": "2026-11-03 05:11:10"
     },
     {
       "id": 159,
