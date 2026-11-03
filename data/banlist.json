@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:43:00.409Z",
+  "updatedAt": "2026-11-03T04:43:30.338Z",
   "cards": [
     {
       "id": 384,
@@ -3239,8 +3239,8 @@
       "archetype": "Watchful Sun",
       "archetypeId": 49,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6095497,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095497.jpg",
+      "duelingbookId": 6122549,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122549.jpg",
       "addedAt": "2026-11-03 04:42:02",
       "changedAt": "2026-11-03 04:42:02"
     },
@@ -11061,8 +11061,8 @@
       "archetype": "Watchful Sun",
       "archetypeId": 49,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6095498,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095498.jpg",
+      "duelingbookId": 6122551,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122551.jpg",
       "addedAt": "2026-11-03 04:42:02",
       "changedAt": "2026-11-03 04:42:02"
     },
@@ -14979,8 +14979,8 @@
       "archetype": "Watchful Sun",
       "archetypeId": 49,
       "contributor": "Left Parm of the Forbitten One",
-      "duelingbookId": 6095508,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095508.jpg",
+      "duelingbookId": 6122550,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122550.jpg",
       "addedAt": "2026-11-03 04:42:02",
       "changedAt": "2026-11-03 04:42:02"
     },
@@ -16850,7 +16850,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "During your turn, if you control \"Dyaman, the Watching Crown\" and this card is in your banishment: You can activate this card. For the rest of the turn after you activate this card this way, you cannot activate \"Under the Eye of the King\". Tribute 1 LIGHT or DARK Monster with an even original Level from your hand or field, then declare 1 card name; for the rest of this turn after this effect resolves, negate the activated effects of cards with the same original name as the declared name as they resolve, also for the rest of this turn you cannot Special Summon Monsters from your Extra Deck, except Fusion Monsters.",
+      "text": "During your turn, if you control \"Dyaman, the Watching Crown\" and this card is in your banishment: You can activate this card. Tribute 1 LIGHT or DARK Monster with an even original Level from your hand or field, then declare 1 card name; for the rest of this turn after this effect resolves, negate the activated effects of cards with the same original name as the declared name as they resolve, then, if you control \"Watchful Sun in Gilded Sorrow\", your opponent reveals their hand and discards each card with the declared card name from their hand, also for the rest of this turn you cannot Special Summon Monsters from your Extra Deck, except Fusion Monsters. You can only activate 1 \"Under the Eye of the King\" per turn.",
       "archetype": "Watchful Sun",
       "archetypeId": 49,
       "contributor": "Left Parm of the Forbitten One",
@@ -18484,7 +18484,7 @@
       "cardListComplete": false,
       "featuredCardId": 879,
       "featuredCardName": "Citizen Osip",
-      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095497.jpg",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122549.jpg",
       "cards": [
         {
           "id": 879,
@@ -18502,8 +18502,8 @@
           "archetype": "Watchful Sun",
           "archetypeId": 49,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6095497,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095497.jpg",
+          "duelingbookId": 6122549,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122549.jpg",
           "addedAt": "2026-11-03 04:42:02",
           "changedAt": "2026-11-03 04:42:02"
         },
@@ -18644,8 +18644,8 @@
           "archetype": "Watchful Sun",
           "archetypeId": 49,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6095498,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095498.jpg",
+          "duelingbookId": 6122551,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122551.jpg",
           "addedAt": "2026-11-03 04:42:02",
           "changedAt": "2026-11-03 04:42:02"
         },
@@ -18706,8 +18706,8 @@
           "archetype": "Watchful Sun",
           "archetypeId": 49,
           "contributor": "Left Parm of the Forbitten One",
-          "duelingbookId": 6095508,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6095508.jpg",
+          "duelingbookId": 6122550,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122550.jpg",
           "addedAt": "2026-11-03 04:42:02",
           "changedAt": "2026-11-03 04:42:02"
         },
@@ -18722,7 +18722,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "During your turn, if you control \"Dyaman, the Watching Crown\" and this card is in your banishment: You can activate this card. For the rest of the turn after you activate this card this way, you cannot activate \"Under the Eye of the King\". Tribute 1 LIGHT or DARK Monster with an even original Level from your hand or field, then declare 1 card name; for the rest of this turn after this effect resolves, negate the activated effects of cards with the same original name as the declared name as they resolve, also for the rest of this turn you cannot Special Summon Monsters from your Extra Deck, except Fusion Monsters.",
+          "text": "During your turn, if you control \"Dyaman, the Watching Crown\" and this card is in your banishment: You can activate this card. Tribute 1 LIGHT or DARK Monster with an even original Level from your hand or field, then declare 1 card name; for the rest of this turn after this effect resolves, negate the activated effects of cards with the same original name as the declared name as they resolve, then, if you control \"Watchful Sun in Gilded Sorrow\", your opponent reveals their hand and discards each card with the declared card name from their hand, also for the rest of this turn you cannot Special Summon Monsters from your Extra Deck, except Fusion Monsters. You can only activate 1 \"Under the Eye of the King\" per turn.",
           "archetype": "Watchful Sun",
           "archetypeId": 49,
           "contributor": "Left Parm of the Forbitten One",
