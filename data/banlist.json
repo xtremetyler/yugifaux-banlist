@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:51:30.683Z",
+  "updatedAt": "2026-11-03T04:52:30.441Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 1,
+      "registeredCardCount": 2,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33663,6 +33663,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106474.jpg",
           "addedAt": "2026-11-03 04:51:25",
           "changedAt": "2026-11-03 04:51:25"
+        },
+        {
+          "id": 593,
+          "name": "Graypelt Scavenger Brute",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast",
+          "abilities": [
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 2",
+          "atk": "800",
+          "def": "700",
+          "text": "FLIP: Your opponent banishes 1 card from their Extra Deck, unless they banish 2 cards from their GY.\nYou can Special Summon this card (from your hand) by flipping 1 face-up Flip Monster you control to face-down Defense Position, except a Level 2 Monster. You can only Special Summon \"Graypelt Scavenger Brute\" this way once per turn. This card cannot be destroyed by battle, except by a Level 3 or higher DARK Beast Monster.",
+          "duelingbookId": 6106469,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106469.jpg",
+          "addedAt": "2026-11-03 04:52:17",
+          "changedAt": "2026-11-03 04:52:17"
         }
       ]
     }
@@ -33683,7 +33702,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.053
+        "slacs": 13.098
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
