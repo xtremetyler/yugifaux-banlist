@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T02:56:30.570Z",
+  "updatedAt": "2026-11-03T02:57:00.368Z",
   "cards": [
     {
       "id": 384,
@@ -15394,8 +15394,8 @@
       "archetype": "Whenfare",
       "archetypeId": 45,
       "contributor": "forgoudaboutit",
-      "duelingbookId": 6092291,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092291.jpg",
+      "duelingbookId": 6122472,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122472.jpg",
       "addedAt": "2026-11-03 02:51:42",
       "changedAt": "2026-11-03 02:51:42"
     },
@@ -15419,8 +15419,8 @@
       "archetype": "Whenfare",
       "archetypeId": 45,
       "contributor": "forgoudaboutit",
-      "duelingbookId": 6092319,
-      "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092319.jpg",
+      "duelingbookId": 6122473,
+      "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122473.jpg",
       "addedAt": "2026-11-03 02:51:42",
       "changedAt": "2026-11-03 02:51:42"
     },
@@ -18543,8 +18543,8 @@
           "archetype": "Whenfare",
           "archetypeId": 45,
           "contributor": "forgoudaboutit",
-          "duelingbookId": 6092291,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092291.jpg",
+          "duelingbookId": 6122472,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122472.jpg",
           "addedAt": "2026-11-03 02:51:42",
           "changedAt": "2026-11-03 02:51:42"
         },
@@ -18568,8 +18568,8 @@
           "archetype": "Whenfare",
           "archetypeId": 45,
           "contributor": "forgoudaboutit",
-          "duelingbookId": 6092319,
-          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092319.jpg",
+          "duelingbookId": 6122473,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122473.jpg",
           "addedAt": "2026-11-03 02:51:42",
           "changedAt": "2026-11-03 02:51:42"
         },
