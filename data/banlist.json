@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T02:53:00.121Z",
+  "updatedAt": "2026-11-03T02:53:30.282Z",
   "cards": [
     {
       "id": 384,
@@ -15381,13 +15381,16 @@
       "source": "custom",
       "cardType": "Pendulum Fusion Monster",
       "monsterType": "Warrior",
+      "abilities": [
+        "Gemini"
+      ],
       "attribute": "EARTH",
       "levelRankLink": "Level 7",
       "atk": "3100",
       "def": "2500",
       "pendulumScale": "8",
       "pendulumEffect": "During your Main Phase: You can Special Summon 1 \"Whenfare\" Normal Monster from your Deck or face-up Extra Deck. You can only use this effect of \"The Grand Joust Champion of Whenfare\" once per turn. If a \"Whenfare\" Normal Monster you control attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
-      "text": "2 non-effect monsters and/or monsters that have their effects negated",
+      "text": "2 non-Effect Monsters and/or monsters that have their effects negated\nIf you control \"The Grand Faregrounds of Whenfare\": You can reveal this face-down card in your Extra Deck, then return 2 Normal Monster Cards from your field and/or GY to your hand; Special Summon this card. You can only Special Summon \"The Grand Joust Champion of Whenfare\" this way once per turn.This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with each of the following effects. \n● If this card would be destroyed by battle, it gains 300 ATK and is not destroyed instead.\n● Once per turn: You can Tribute 1 \"Whenfare\" Monster Card you control; place a \"Whenfare\" Monster Card(s) from your field or face-up Extra Deck in any number of your empty Pendulum Zones.",
       "archetype": "Whenfare",
       "archetypeId": 45,
       "contributor": "forgoudaboutit",
@@ -15855,7 +15858,7 @@
       "linkMarkers": [
         "Bottom"
       ],
-      "text": "1 non-effect monster",
+      "text": "1 non-Effect Monster\nThis card cannot be destroyed by battle. While you control this face-up card, your opponent cannot target other monsters you control for an attack. When this card is attacked, while it points to a non-Effect monster: This card gains ATK equal to that monster's ATK until the end of this turn. Face-up cards you control in your Spell & Trap Zones are unaffected by the activated effects of your opponent's cards, except a card in the same column as this card.",
       "archetype": "Whenfare",
       "archetypeId": 45,
       "contributor": "forgoudaboutit",
@@ -18527,13 +18530,16 @@
           "source": "custom",
           "cardType": "Pendulum Fusion Monster",
           "monsterType": "Warrior",
+          "abilities": [
+            "Gemini"
+          ],
           "attribute": "EARTH",
           "levelRankLink": "Level 7",
           "atk": "3100",
           "def": "2500",
           "pendulumScale": "8",
           "pendulumEffect": "During your Main Phase: You can Special Summon 1 \"Whenfare\" Normal Monster from your Deck or face-up Extra Deck. You can only use this effect of \"The Grand Joust Champion of Whenfare\" once per turn. If a \"Whenfare\" Normal Monster you control attacks, your opponent cannot activate cards or effects until the end of the Damage Step.",
-          "text": "2 non-effect monsters and/or monsters that have their effects negated",
+          "text": "2 non-Effect Monsters and/or monsters that have their effects negated\nIf you control \"The Grand Faregrounds of Whenfare\": You can reveal this face-down card in your Extra Deck, then return 2 Normal Monster Cards from your field and/or GY to your hand; Special Summon this card. You can only Special Summon \"The Grand Joust Champion of Whenfare\" this way once per turn.This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with each of the following effects. \n● If this card would be destroyed by battle, it gains 300 ATK and is not destroyed instead.\n● Once per turn: You can Tribute 1 \"Whenfare\" Monster Card you control; place a \"Whenfare\" Monster Card(s) from your field or face-up Extra Deck in any number of your empty Pendulum Zones.",
           "archetype": "Whenfare",
           "archetypeId": 45,
           "contributor": "forgoudaboutit",
@@ -18624,7 +18630,7 @@
           "linkMarkers": [
             "Bottom"
           ],
-          "text": "1 non-effect monster",
+          "text": "1 non-Effect Monster\nThis card cannot be destroyed by battle. While you control this face-up card, your opponent cannot target other monsters you control for an attack. When this card is attacked, while it points to a non-Effect monster: This card gains ATK equal to that monster's ATK until the end of this turn. Face-up cards you control in your Spell & Trap Zones are unaffected by the activated effects of your opponent's cards, except a card in the same column as this card.",
           "archetype": "Whenfare",
           "archetypeId": 45,
           "contributor": "forgoudaboutit",
