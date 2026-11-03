@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T13:36:32.158Z",
+  "updatedAt": "2026-11-03T15:31:37.568Z",
   "cards": [
     {
       "id": 384,
@@ -18499,7 +18499,7 @@
       "finalAddedClauses": 16,
       "notes": "This one is near and dear to my heart. The Watchful Sun archetype focuses around a small aspect of the lore for the larger TTRPG setting that I have been co-creating with <@238904006066307072> for over 2 years now. \n\nIt tells the story of the aftermath following a valiant soldier guard being forced to ascend to an unwanted position of divinity, and his actions inspiring regular, beleaguered citizens to transform themselves into a vigilante police force in the name of keeping unwanted pirates from hounding their island community--all while the paranoid king of the island sits cowering in his tower fortress, too scared to put a stop to any of it.\n\nIt focuses around the idea of transformation of ego, utilizing Metamorphosis and LIGHT/DARK alternate versions of the same character in different imagined personas of themselves.\n\nAlso, Traps cuz I like 'em.",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 879,
       "featuredCardName": "Citizen Osip",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122549.jpg",
@@ -18782,7 +18782,7 @@
       "finalAddedClauses": 18,
       "notes": "Welcome to the Whenfare, the most even handed fare you'll ever visit! No carnival scams here, just good clean family fun.",
       "historySource": "bot",
-      "cardListComplete": false,
+      "cardListComplete": true,
       "featuredCardId": 860,
       "featuredCardName": "Bruna, the Blacksmith of Whenfare",
       "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122453.jpg",
