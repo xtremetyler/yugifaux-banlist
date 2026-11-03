@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:59:00.408Z",
+  "updatedAt": "2026-11-03T04:59:30.276Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33858,6 +33858,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106563.jpg",
           "addedAt": "2026-11-03 04:58:46",
           "changedAt": "2026-11-03 04:58:46"
+        },
+        {
+          "id": 604,
+          "name": "Graypelt Emergence",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Activate only by revealing each face-down Monster you control (min. 1). Apply the Flip Effect of 1 of the Monsters revealed to activate this card as this effect. If you control a Monster in Defense Position, while this card is in your GY: You can banish it; change 1 Defense Position Monster you control to Attack Position, also for the rest of this turn you cannot Special Summon Monsters, except DARK or Beast Monsters. You can only use this effect of \"Graypelt Emergence\" once per turn.",
+          "duelingbookId": 6106551,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106551.jpg",
+          "addedAt": "2026-11-03 04:59:17",
+          "changedAt": "2026-11-03 04:59:17"
         }
       ]
     }
@@ -33878,7 +33893,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.499
+        "slacs": 13.536
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
