@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T02:48:30.040Z",
+  "updatedAt": "2026-11-03T02:50:30.055Z",
   "cards": [
     {
       "id": 384,
@@ -31157,8 +31157,8 @@
       "mainTypes": 3,
       "extraCount": 3,
       "baseClauses": 45,
-      "addedClauses": 14,
-      "totalClauses": 59,
+      "addedClauses": 18,
+      "totalClauses": 63,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": true,
@@ -31365,7 +31365,7 @@
           "duelingbookId": 6091713,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6091713.jpg",
           "addedAt": "2026-10-13 19:08:55",
-          "changedAt": "2026-10-13 19:08:55"
+          "changedAt": "2026-11-03 02:50:14"
         },
         {
           "id": 519,
@@ -32767,8 +32767,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 102,
-        "lifetimePoints": 153,
+        "balance": 106,
+        "lifetimePoints": 157,
         "matchWins": 3,
         "matchLosses": 8,
         "gamesWon": 9,
