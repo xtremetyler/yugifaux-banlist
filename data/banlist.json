@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:56:30.367Z",
+  "updatedAt": "2026-11-03T04:58:00.384Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 9,
+      "registeredCardCount": 10,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33813,6 +33813,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106485.jpg",
           "addedAt": "2026-11-03 04:56:17",
           "changedAt": "2026-11-03 04:56:17"
+        },
+        {
+          "id": 601,
+          "name": "Graypelt Rain",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "If a DARK or Beast Monster(s)'s battle position is changed to Attack Position: Excavate the top card of your Deck and add up to 1 excavated \"Graypelt\" card to your hand, then shuffle the rest into your Deck. Once per turn: You can activate 1 of these effects.\n● Change the battle position of 1 Defense Position Monster you control to Attack Position.\n● Change the battle position of 1 face-up Flip Monster you control to face-down Defense Position.",
+          "duelingbookId": 6106549,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106549.jpg",
+          "addedAt": "2026-11-03 04:57:36",
+          "changedAt": "2026-11-03 04:57:36"
         }
       ]
     }
@@ -33833,7 +33848,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.386
+        "slacs": 13.424
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
