@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:53:32.679Z",
+  "updatedAt": "2026-11-03T04:54:00.415Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 4,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33720,6 +33720,44 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106468.jpg",
           "addedAt": "2026-11-03 04:53:06",
           "changedAt": "2026-11-03 04:53:06"
+        },
+        {
+          "id": 596,
+          "name": "Graypelt Bull Prowler",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast",
+          "abilities": [
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 5",
+          "atk": "2100",
+          "def": "1800",
+          "text": "FLIP: Send 1 \"Graypelt\" Trap from your hand or Deck to the GY; apply the Flip Effect of a Flip Monster on your field or in your GY as this effect, except a Level 5 Monster.\nYou can Special Summon this card (from your hand) by flipping 1 face-up Flip Monster you control to face-down Defense Position, except a Level 5 Monster. You can only Special Summon \"Graypelt Bull Prowler\" this way once per turn. During the Battle Phase: Flip Effects of Monsters you control resolve at the start of damage calculation instead.",
+          "duelingbookId": 6106471,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106471.jpg",
+          "addedAt": "2026-11-03 04:53:41",
+          "changedAt": "2026-11-03 04:53:41"
+        },
+        {
+          "id": 597,
+          "name": "Graypelt Bloodseeker",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast",
+          "abilities": [
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 6",
+          "atk": "2400",
+          "def": "2100",
+          "text": "FLIP: Send 1 \"Graypelt\" Trap from your hand or Deck to the GY; look at your opponent's Extra Deck and banish a card from it.\nYou can Special Summon this card (from your hand) by flipping 1 face-up Flip Monster you control to face-down Defense Position, except a Level 6 Monster. You can only Special Summon \"Graypelt Bloodseeker\" this way once per turn. Flip Monsters you control gain 500 ATK/DEF during the turn they are flipped face-up.",
+          "duelingbookId": 6106477,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106477.jpg",
+          "addedAt": "2026-11-03 04:53:58",
+          "changedAt": "2026-11-03 04:53:58"
         }
       ]
     }
@@ -33740,7 +33778,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.184
+        "slacs": 13.267
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
