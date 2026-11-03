@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T02:52:00.067Z",
+  "updatedAt": "2026-11-03T02:53:00.121Z",
   "cards": [
     {
       "id": 384,
@@ -11346,7 +11346,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "Place 1 \"Whenfare\" Normal Pendulum Monster from your Deck in an empty Pendulum Zone, then, if you control a \"Whenfare\" Normal Monster, you can add 1 face-up \"Whenfare\" Normal Pendulum Monster from your Extra Deck to your hand. You can only activate 1 \"Opening Day at Whenfare\" per turn.",
+      "text": "Activate 1 of these effects.\n● Place 1 “Whenfare” Normal Pendulum Monster from your Deck in your Pendulum Zone, then, if you control a “Whenfare” Normal Monster, you can add 1 face-up “Whenfare” Normal Pendulum Monster from your Extra Deck to your hand, and if you do, you can place it in your Pendulum Zone, replacing 1 card in your Pendulum Zone if necessary.\n● If you control exactly 7 “Whenfare” Monster Cards: Destroy all “Whenfare” Monster Cards you control, then send any number of “Whenfare” Monster Cards with different names from your Deck to your face-up Extra Deck, that do not share an original name with any monster destroyed by this effect, then place 2 face-up Pendulum Monsters from your Extra Deck in your Pendulum Zones, then, immediately after this effect resolves, Pendulum Summon.\nYou can only activate 1 “Opening Day at Whenfare” per turn.",
       "archetype": "Whenfare",
       "archetypeId": 45,
       "contributor": "forgoudaboutit",
@@ -18398,7 +18398,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Place 1 \"Whenfare\" Normal Pendulum Monster from your Deck in an empty Pendulum Zone, then, if you control a \"Whenfare\" Normal Monster, you can add 1 face-up \"Whenfare\" Normal Pendulum Monster from your Extra Deck to your hand. You can only activate 1 \"Opening Day at Whenfare\" per turn.",
+          "text": "Activate 1 of these effects.\n● Place 1 “Whenfare” Normal Pendulum Monster from your Deck in your Pendulum Zone, then, if you control a “Whenfare” Normal Monster, you can add 1 face-up “Whenfare” Normal Pendulum Monster from your Extra Deck to your hand, and if you do, you can place it in your Pendulum Zone, replacing 1 card in your Pendulum Zone if necessary.\n● If you control exactly 7 “Whenfare” Monster Cards: Destroy all “Whenfare” Monster Cards you control, then send any number of “Whenfare” Monster Cards with different names from your Deck to your face-up Extra Deck, that do not share an original name with any monster destroyed by this effect, then place 2 face-up Pendulum Monsters from your Extra Deck in your Pendulum Zones, then, immediately after this effect resolves, Pendulum Summon.\nYou can only activate 1 “Opening Day at Whenfare” per turn.",
           "archetype": "Whenfare",
           "archetypeId": 45,
           "contributor": "forgoudaboutit",
