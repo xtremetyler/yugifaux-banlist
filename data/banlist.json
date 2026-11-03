@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:42:30.395Z",
+  "updatedAt": "2026-11-03T04:43:00.409Z",
   "cards": [
     {
       "id": 384,
@@ -5594,7 +5594,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "If you control no face-up Continuous Traps: You can banish 1 Normal Trap from your Deck or GY that mentions \"Watchful Sun\", then reveal this card in your hand; place it face-up on your field. You can banish the top card of your Deck; Special Summon 1 \"Deaconry Initiate Token\" (Warrior/DARK/Level 2/200/500), then you can add 1 \"Dyaman, the Watching Crown\" or a card that mentions it from your Deck to your hand. You can only use each effect of \"Fraudulent Deaconry of the Watchful Sun\" once per turn.",
+      "text": "If you control no face-up Continuous Traps: You can banish 1 Normal Trap from your Deck or GY that mentions \"Watchful Sun\", then reveal this card in your hand; place it face-up on your field. You can banish the top card of your Deck; Special Summon 1 \"Deaconry Initiate Token\" (Warrior/DARK/Level 2/200 ATK/500 DEF), then you can add 1 \"Dyaman, the Watching Crown\" or a card that mentions it from your Deck to your hand. If this card is banished: You can Special Summon 1 of the following.\n● \"Misleading Monk Token\" (Warrior/LIGHT/Level 2/100 ATK/100 DEF).\n● \"Dutiful Deacon Token (Warrior/LIGHT/Level 8/1000 ATK/2000 DEF).\nYou can only use each effect of \"Fraudulent Deaconry of the Watchful Sun\" once per turn.",
       "archetype": "Watchful Sun",
       "archetypeId": 49,
       "contributor": "Left Parm of the Forbitten One",
@@ -8669,7 +8669,7 @@
       "levelRankLink": "Level 0",
       "atk": "0",
       "def": "0",
-      "text": "If you control \"Dyaman, the Watching Crown\" and this card is in your banishment: You can Set this card. You can only Set \"Ironwood Cage\" from your Banishment this way once per turn. If 2 or more Monsters with different names that each mention \"Watchful Sun\" are on your field or in your GY: Target any number of face-up Monsters (min. 1), up to the number of Monsters that were Special Summoned this turn; change those targets to face-down Defense Position, then you can equip this card to a LIGHT or DARK Warrior Monster you control, and if you do, the battle position of cards flipped face-down by this card's effect cannot change for as long as you control the equipped Monster, except during the Battle Phase. If you would activate this card during a Phase following Main Phase 1, you must also Tribute a Monster to do so.",
+      "text": "If you control \"Dyaman, the Watching Crown\": You can Set this card from your Banishment. If 2 or more Monsters that each mention \"Watchful Sun\" are on your field or in your GY: Target any number of face-up Monsters (min. 1), up to the number of Monsters that were Special Summoned this turn; change those targets to face-down Defense Position, then you can equip this card to a LIGHT or DARK Warrior Monster you control, and if you do, the battle position of cards flipped face-down by this card's effect cannot change for as long as you control the equipped Monster, except during the Battle Phase. If you would activate this card during a Phase following Main Phase 1, you must also Tribute a Monster to do so. During your Main Phase, while this card is in your GY: You can shuffle it and up to 3 other cards from your GY into your Deck.",
       "archetype": "Watchful Sun",
       "archetypeId": 49,
       "contributor": "Left Parm of the Forbitten One",
@@ -18599,7 +18599,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "If you control no face-up Continuous Traps: You can banish 1 Normal Trap from your Deck or GY that mentions \"Watchful Sun\", then reveal this card in your hand; place it face-up on your field. You can banish the top card of your Deck; Special Summon 1 \"Deaconry Initiate Token\" (Warrior/DARK/Level 2/200/500), then you can add 1 \"Dyaman, the Watching Crown\" or a card that mentions it from your Deck to your hand. You can only use each effect of \"Fraudulent Deaconry of the Watchful Sun\" once per turn.",
+          "text": "If you control no face-up Continuous Traps: You can banish 1 Normal Trap from your Deck or GY that mentions \"Watchful Sun\", then reveal this card in your hand; place it face-up on your field. You can banish the top card of your Deck; Special Summon 1 \"Deaconry Initiate Token\" (Warrior/DARK/Level 2/200 ATK/500 DEF), then you can add 1 \"Dyaman, the Watching Crown\" or a card that mentions it from your Deck to your hand. If this card is banished: You can Special Summon 1 of the following.\n● \"Misleading Monk Token\" (Warrior/LIGHT/Level 2/100 ATK/100 DEF).\n● \"Dutiful Deacon Token (Warrior/LIGHT/Level 8/1000 ATK/2000 DEF).\nYou can only use each effect of \"Fraudulent Deaconry of the Watchful Sun\" once per turn.",
           "archetype": "Watchful Sun",
           "archetypeId": 49,
           "contributor": "Left Parm of the Forbitten One",
@@ -18619,7 +18619,7 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "If you control \"Dyaman, the Watching Crown\" and this card is in your banishment: You can Set this card. You can only Set \"Ironwood Cage\" from your Banishment this way once per turn. If 2 or more Monsters with different names that each mention \"Watchful Sun\" are on your field or in your GY: Target any number of face-up Monsters (min. 1), up to the number of Monsters that were Special Summoned this turn; change those targets to face-down Defense Position, then you can equip this card to a LIGHT or DARK Warrior Monster you control, and if you do, the battle position of cards flipped face-down by this card's effect cannot change for as long as you control the equipped Monster, except during the Battle Phase. If you would activate this card during a Phase following Main Phase 1, you must also Tribute a Monster to do so.",
+          "text": "If you control \"Dyaman, the Watching Crown\": You can Set this card from your Banishment. If 2 or more Monsters that each mention \"Watchful Sun\" are on your field or in your GY: Target any number of face-up Monsters (min. 1), up to the number of Monsters that were Special Summoned this turn; change those targets to face-down Defense Position, then you can equip this card to a LIGHT or DARK Warrior Monster you control, and if you do, the battle position of cards flipped face-down by this card's effect cannot change for as long as you control the equipped Monster, except during the Battle Phase. If you would activate this card during a Phase following Main Phase 1, you must also Tribute a Monster to do so. During your Main Phase, while this card is in your GY: You can shuffle it and up to 3 other cards from your GY into your Deck.",
           "archetype": "Watchful Sun",
           "archetypeId": 49,
           "contributor": "Left Parm of the Forbitten One",
