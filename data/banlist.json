@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:56:00.375Z",
+  "updatedAt": "2026-11-03T04:56:30.367Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33792,6 +33792,27 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106480.jpg",
           "addedAt": "2026-11-03 04:55:48",
           "changedAt": "2026-11-03 04:55:48"
+        },
+        {
+          "id": 600,
+          "name": "Graypelt Truesire",
+          "source": "custom",
+          "cardType": "Link Monster",
+          "monsterType": "Beast",
+          "attribute": "DARK",
+          "levelRankLink": "Link 4",
+          "atk": "3100",
+          "linkMarkers": [
+            "Top-Left",
+            "Top",
+            "Bottom-Right",
+            "Bottom"
+          ],
+          "text": "3+ DARK Monsters, including a face-up or face-down Flip Monster\nIf a Monster(s) would be Summoned to a zone this card points to, it is Summoned in face-down Defense Position instead, except a Link Monster(s). While you control a face-down Monster, this card is unaffected by your opponent's Monster effects and cannot be Tributed. Monsters you control gain 500 ATK/DEF during the turn they are flipped face-up or Link Summoned. Once per Chain (Quick Effect): You can banish 1 \"Graypelt\" Monster with a Level from your GY; apply its Flip Effect as this effect. You can only use this effect of \"Graypelt Truesire\" twice per turn. During the End Phase, while your opponent has 5 or fewer cards in their Extra Deck: You can Set 1 \"Graypelt\" card from your Banishment.",
+          "duelingbookId": 6106485,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106485.jpg",
+          "addedAt": "2026-11-03 04:56:17",
+          "changedAt": "2026-11-03 04:56:17"
         }
       ]
     }
@@ -33812,7 +33833,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.347
+        "slacs": 13.386
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
