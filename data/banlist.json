@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T05:11:30.391Z",
+  "updatedAt": "2026-11-03T13:36:02.155Z",
   "cards": [
     {
       "id": 384,
@@ -33884,7 +33884,7 @@
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 14,
+        "balance": 7,
         "lifetimePoints": 661,
         "matchWins": 19,
         "matchLosses": 20,
@@ -33893,7 +33893,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.536
+        "slacs": 13.577
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
