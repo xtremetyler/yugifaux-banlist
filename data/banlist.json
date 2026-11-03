@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:58:00.384Z",
+  "updatedAt": "2026-11-03T04:58:30.327Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 10,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33828,6 +33828,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106549.jpg",
           "addedAt": "2026-11-03 04:57:36",
           "changedAt": "2026-11-03 04:57:36"
+        },
+        {
+          "id": 602,
+          "name": "Graypelt Pursuit",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Change 1 or 2 Defense Position Monsters you control to Attack Position, then you can apply the Flip Effect of 1 Monster whose battle position was changed this way. If your opponent controls a Monster, while this card is in your GY: You can banish it; Special Summon 1 \"Graypelt\" Monster from your GY, also for the rest of this turn you cannot Special Summon Monsters, except DARK or Beast Monsters. You can only use this effect of \"Graypelt Pursuit\" once per turn.",
+          "duelingbookId": 6106553,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106553.jpg",
+          "addedAt": "2026-11-03 04:58:24",
+          "changedAt": "2026-11-03 04:58:24"
         }
       ]
     }
@@ -33848,7 +33863,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.424
+        "slacs": 13.462
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
