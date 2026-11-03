@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:54:00.415Z",
+  "updatedAt": "2026-11-03T04:55:30.381Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33758,6 +33758,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106477.jpg",
           "addedAt": "2026-11-03 04:53:58",
           "changedAt": "2026-11-03 04:53:58"
+        },
+        {
+          "id": 598,
+          "name": "Leering Canopy",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "(This card is always treated as a \"Graypelt\" card.)\nSpecial Summon 1 Level 6 or lower Flip Monster from your hand or Deck in face-down Defense Position, then, if you Special Summoned a DARK or Beast Monster in face-down Defense Position this way, you can change it to Attack Position, and if you do, for the rest of this turn you cannot Special Summon Monsters, except DARK or Beast Monsters. During the End Phase, if a Flip Monster was sent to your GY this turn: You can add this card from your GY to your hand. You can only use 1 \"Leering Canopy\" effect per turn, and only once per turn.",
+          "duelingbookId": 6106571,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106571.jpg",
+          "addedAt": "2026-11-03 04:55:10",
+          "changedAt": "2026-11-03 04:55:10"
         }
       ]
     }
@@ -33778,7 +33793,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.267
+        "slacs": 13.307
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
