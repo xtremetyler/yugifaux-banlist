@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:52:30.441Z",
+  "updatedAt": "2026-11-03T04:53:00.562Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33682,6 +33682,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106469.jpg",
           "addedAt": "2026-11-03 04:52:17",
           "changedAt": "2026-11-03 04:52:17"
+        },
+        {
+          "id": 594,
+          "name": "Graypelt Preyhawk",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast",
+          "abilities": [
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 3",
+          "atk": "1300",
+          "def": "800",
+          "text": "FLIP: Send 1 \"Graypelt\" Trap from your Deck to the GY; destroy your opponent's Monster with the lowest Level, if able, unless your opponent banishes 1 card from their Extra Deck.\nYou can Special Summon this card (from your hand) by flipping 1 face-up Flip Monster you control to face-down Defense Position, except a Level 3 Monster. You can only Special Summon \"Graypelt Preyhawk\" this way once per turn. During the End Phase, if this card is in your GY because it was sent there from the field this turn: You can target 1 \"Graypelt\" Trap in your Banishment; send it to your GY.",
+          "duelingbookId": 6106463,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106463.jpg",
+          "addedAt": "2026-11-03 04:52:42",
+          "changedAt": "2026-11-03 04:52:42"
         }
       ]
     }
@@ -33702,7 +33721,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.098
+        "slacs": 13.141
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
