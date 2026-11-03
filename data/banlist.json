@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:45:30.326Z",
+  "updatedAt": "2026-11-03T04:47:00.348Z",
   "cards": [
     {
       "id": 384,
@@ -33622,6 +33622,26 @@
           "changedAt": "2026-11-01 08:02:08"
         }
       ]
+    },
+    {
+      "id": 51,
+      "name": "Graypelt",
+      "creator": "Left Parm of the Forbitten One",
+      "status": "active",
+      "description": "BEHOLD!!! An absolute terror from above--the dropbears of doom, clad in bony carapce descend upon unsuspecting travelers below from the Leering Canopy above as the moonlight shimmers upon their amber and Gray Pelts.\n\nFLIP, DARK, Beasts, Links, Traps, shenanigans",
+      "submittedAt": "2026-11-03 04:46:37",
+      "activatedAt": "2026-11-03 04:46:37",
+      "declaredCardCount": 13,
+      "registeredCardCount": 0,
+      "mainTypes": 3,
+      "extraCount": 2,
+      "baseClauses": 45,
+      "addedClauses": 0,
+      "totalClauses": 45,
+      "retirementsSeen": 0,
+      "retirementThreshold": 3,
+      "retirementRequired": false,
+      "cards": []
     }
   ],
   "dashboard": {
@@ -33638,9 +33658,9 @@
         "gamesWon": 46,
         "gamesLost": 49,
         "gamesDrawn": 0,
-        "archetypeId": null,
-        "archetypeName": null,
-        "slacs": 12.7
+        "archetypeId": 51,
+        "archetypeName": "Graypelt",
+        "slacs": 13.008
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
