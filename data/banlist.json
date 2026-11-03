@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:58:30.327Z",
+  "updatedAt": "2026-11-03T04:59:00.408Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33843,6 +33843,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106553.jpg",
           "addedAt": "2026-11-03 04:58:24",
           "changedAt": "2026-11-03 04:58:24"
+        },
+        {
+          "id": 603,
+          "name": "Graypelt Instinct",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When your face-down Monster becomes the target of your opponent's attack or Monster effect: Change it to Attack Position, and if you do, negate that attack or effect. If you control a face-up \"Graypelt\" Monster, while this card is in your GY: You can banish it; return 1 face-up Monster you control to your hand, then you can Special Summon 1 Monster from your hand in face-down Defense Position. You can only use this effect of \"Graypelt Instinct\" once per turn.",
+          "duelingbookId": 6106563,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106563.jpg",
+          "addedAt": "2026-11-03 04:58:46",
+          "changedAt": "2026-11-03 04:58:46"
         }
       ]
     }
@@ -33863,7 +33878,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.462
+        "slacs": 13.499
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
