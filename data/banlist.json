@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-03T04:53:00.562Z",
+  "updatedAt": "2026-11-03T04:53:32.679Z",
   "cards": [
     {
       "id": 384,
@@ -33632,7 +33632,7 @@
       "submittedAt": "2026-11-03 04:46:37",
       "activatedAt": "2026-11-03 04:46:37",
       "declaredCardCount": 13,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 2,
       "baseClauses": 45,
@@ -33701,6 +33701,25 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106463.jpg",
           "addedAt": "2026-11-03 04:52:42",
           "changedAt": "2026-11-03 04:52:42"
+        },
+        {
+          "id": 595,
+          "name": "Graypelt Ripclaw",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Beast",
+          "abilities": [
+            "Flip"
+          ],
+          "attribute": "DARK",
+          "levelRankLink": "Level 4",
+          "atk": "1800",
+          "def": "1300",
+          "text": "FLIP: Send 1 \"Graypelt\" Trap from your Deck to the GY; add 1 \"Graypelt\" card from your Deck to your hand, except a Level 4 Monster, unless your opponent banishes 1 card from their Extra Deck.\nYou can Special Summon this card (from your hand) by flipping 1 face-up Flip Monster you control to face-down Defense Position, except a Level 4 Monster. You can only Special Summon \"Graypelt Ripclaw\" this way once per turn. During the End Phase, if this card is in your GY because it was sent there from the field this turn: You can add 1 Level 3 or lower DARK Beast from your Deck to your hand.",
+          "duelingbookId": 6106468,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6106468.jpg",
+          "addedAt": "2026-11-03 04:53:06",
+          "changedAt": "2026-11-03 04:53:06"
         }
       ]
     }
@@ -33721,7 +33740,7 @@
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.141
+        "slacs": 13.184
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
