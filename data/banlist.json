@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-05T04:39:18.663Z",
+  "updatedAt": "2026-11-05T04:39:48.759Z",
   "cards": [
     {
       "id": 384,
@@ -9169,7 +9169,7 @@
       "id": 854,
       "botCardId": 588,
       "name": "Legendary Sword – Abyss",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -9183,7 +9183,7 @@
       "duelingbookId": 6120141,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120141.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:22"
     },
     {
       "id": 852,
@@ -9229,7 +9229,7 @@
       "id": 855,
       "botCardId": 589,
       "name": "Legendary Sword – Radiance",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -9243,13 +9243,13 @@
       "duelingbookId": 6120142,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120142.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:29"
     },
     {
       "id": 853,
       "botCardId": 587,
       "name": "Legendary Sword – Tempest",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -9263,13 +9263,13 @@
       "duelingbookId": 6120140,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120140.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:18"
     },
     {
       "id": 856,
       "botCardId": 590,
       "name": "Legendary Sword – Terra",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -9283,7 +9283,7 @@
       "duelingbookId": 6120143,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120143.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:31"
     },
     {
       "id": 849,
@@ -14842,7 +14842,7 @@
       "id": 857,
       "botCardId": 591,
       "name": "Spirit of the Legendary Swordsman",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Pendulum Fusion Monster",
       "monsterType": "Warrior",
@@ -14858,7 +14858,7 @@
       "duelingbookId": 6120144,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120144.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:33"
     },
     {
       "id": 270,
