@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-05T20:03:42.740Z",
+  "updatedAt": "2026-11-05T20:05:42.757Z",
   "cards": [
     {
       "id": 384,
@@ -33166,8 +33166,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 13,
-      "totalClauses": 58,
+      "addedClauses": 14,
+      "totalClauses": 59,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -33388,11 +33388,11 @@
           "linkMarkers": [
             "Bottom"
           ],
-          "text": "1 Parcel-Tongue Post Monster\nIf this card was link summoned: You can Set up to 2 \"Parcel-Tongue Post Package\" Spells from your hand or Deck to your opponent's field. Then, if your opponent controls at least 4 Set cards in their Spell & Trap Zone; Special Summon a “Parcel Tongue Post” monster from your GY or Banishment. This Link Summoned card you control can't be destroyed by battle.",
+          "text": "1 Parcel-Tongue Post Monster\nIf this card was link summoned: You can Set up to 2 \"Parcel-Tongue Post Package\" Spells from your hand or Deck to your opponent's field. Then, if your opponent controls at least 4 Set cards in their Spell & Trap Zone; Special Summon a “Parcel Tongue Post” monster from your GY or Banishment. This Link Summoned card you control can't be destroyed by battle. You can only Link Summon \"Parcel-Tongue Post - 1-Day Air\" once per turn.",
           "duelingbookId": 6092327,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092327.jpg",
           "addedAt": "2026-10-13 01:55:11",
-          "changedAt": "2026-10-13 01:55:11"
+          "changedAt": "2026-11-05 20:05:19"
         },
         {
           "id": 508,
