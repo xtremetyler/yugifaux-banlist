@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-05T10:05:36.912Z",
+  "updatedAt": "2026-11-05T19:47:39.520Z",
   "cards": [
     {
       "id": 384,
@@ -33898,20 +33898,20 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 53,
+    "confirmedMatchCount": 54,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 7,
-        "lifetimePoints": 661,
-        "matchWins": 19,
+        "balance": 11,
+        "lifetimePoints": 665,
+        "matchWins": 20,
         "matchLosses": 20,
-        "gamesWon": 46,
+        "gamesWon": 48,
         "gamesLost": 49,
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.577
+        "slacs": 13.943
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
@@ -33941,16 +33941,16 @@
       },
       {
         "name": "The Original Rough Cheddar",
-        "balance": 38,
-        "lifetimePoints": 299,
+        "balance": 39,
+        "lifetimePoints": 300,
         "matchWins": 10,
-        "matchLosses": 5,
+        "matchLosses": 6,
         "gamesWon": 23,
-        "gamesLost": 14,
+        "gamesLost": 16,
         "gamesDrawn": 0,
         "archetypeId": 44,
         "archetypeName": "Parcel-Tongue Post",
-        "slacs": 8.742
+        "slacs": 8.408
       },
       {
         "name": "forgoudaboutit",
@@ -33967,6 +33967,17 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 118,
+        "confirmedAt": "2026-11-05 19:47:20",
+        "replayUrl": "https://www.duelingbook.com/replay?id=1301874-86901976",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Parcel-Tongue Post"
+      },
       {
         "id": 117,
         "confirmedAt": "2026-11-03 04:29:10",
@@ -34043,20 +34054,20 @@
         "opponentGames": 0,
         "reporterArchetype": "NetWRM",
         "opponentArchetype": "Whenfare"
-      },
-      {
-        "id": 110,
-        "confirmedAt": "2026-10-22 20:30:42",
-        "replayUrl": "https://www.duelingbook.com/replay?id=1388844-86456522",
-        "reporter": "Brielieve In Cheesus",
-        "opponent": "Left Parm of the Forbitten One",
-        "reporterGames": 2,
-        "opponentGames": 0,
-        "reporterArchetype": "NetWRM",
-        "opponentArchetype": "Watchful Sun"
       }
     ],
     "matchHistory": [
+      {
+        "id": 118,
+        "confirmedAt": "2026-11-05 19:47:20",
+        "replayUrl": "https://www.duelingbook.com/replay?id=1301874-86901976",
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "The Original Rough Cheddar",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Parcel-Tongue Post"
+      },
       {
         "id": 117,
         "confirmedAt": "2026-11-03 04:29:10",
