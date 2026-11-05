@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-05T03:39:47.463Z",
+  "updatedAt": "2026-11-05T04:39:18.663Z",
   "cards": [
     {
       "id": 384,
@@ -9189,7 +9189,7 @@
       "id": 852,
       "botCardId": 586,
       "name": "Legendary Sword – Glacier",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -9203,13 +9203,13 @@
       "duelingbookId": 6120139,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120139.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:15"
     },
     {
       "id": 851,
       "botCardId": 585,
       "name": "Legendary Sword – Inferno",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Spell Card",
       "spellTrapType": "Equip",
@@ -9223,7 +9223,7 @@
       "duelingbookId": 6120138,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120138.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:12"
     },
     {
       "id": 855,
@@ -9289,7 +9289,7 @@
       "id": 849,
       "botCardId": 583,
       "name": "Legendary Swordsman – Aurelis of Radiance",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -9304,13 +9304,13 @@
       "duelingbookId": 6120136,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120136.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:05"
     },
     {
       "id": 847,
       "botCardId": 581,
       "name": "Legendary Swordsman – Garran of Terra",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -9325,13 +9325,13 @@
       "duelingbookId": 6120134,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120134.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:00"
     },
     {
       "id": 845,
       "botCardId": 579,
       "name": "Legendary Swordsman – Ignar of the Inferno",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -9346,13 +9346,13 @@
       "duelingbookId": 6120132,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120132.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:38:50"
     },
     {
       "id": 850,
       "botCardId": 584,
       "name": "Legendary Swordsman – Nocthar of the Abyss",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -9367,13 +9367,13 @@
       "duelingbookId": 6120137,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120137.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:09"
     },
     {
       "id": 846,
       "botCardId": 580,
       "name": "Legendary Swordsman – Vaelis of the Glacier",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -9388,13 +9388,13 @@
       "duelingbookId": 6120133,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120133.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:38:57"
     },
     {
       "id": 848,
       "botCardId": 582,
       "name": "Legendary Swordsman – Zephryn of the Tempest",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -9409,7 +9409,7 @@
       "duelingbookId": 6120135,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6120135.jpg",
       "addedAt": "2026-11-01 08:01:08",
-      "changedAt": "2026-11-01 08:01:08"
+      "changedAt": "2026-11-05 04:39:03"
     },
     {
       "id": 444,
