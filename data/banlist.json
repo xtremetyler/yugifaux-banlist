@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-05T19:59:42.736Z",
+  "updatedAt": "2026-11-05T20:03:42.740Z",
   "cards": [
     {
       "id": 384,
@@ -33166,8 +33166,8 @@
       "mainTypes": 2,
       "extraCount": 1,
       "baseClauses": 45,
-      "addedClauses": 12,
-      "totalClauses": 57,
+      "addedClauses": 13,
+      "totalClauses": 58,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -33406,11 +33406,11 @@
           "linkMarkers": [
             "Bottom"
           ],
-          "text": "1 Parcel-Tongue Post Monster\n\"Parcel-Tongue\" Monsters this card points to are unaffected by your opponent's card effects. If this card was link summoned: you may discard a card from your Hand; if you do Banish 1 Monster your opponent controls, then shuffle up to 3 “Parcel Tongue Post Package” cards in your GY or Banishment into your deck. You can only Link Summon \"Parcel-Tongue Post - Secret Insurance\" once per turn.",
+          "text": "1 Parcel-Tongue Post Monster\n\"Parcel-Tongue\" Monsters this card points to are unaffected by your opponent's card effects. If this card was link summoned: you may discard a card from your Hand; if you do Banish 1 Monster your opponent controls, then shuffle up to 3 “Parcel Tongue Post Package” cards in your GY or Banishment into your deck. If this Link Summoned card is sent to the GY by your opponent's card or effect: You can Set 1 Spell/Trap from your hand to your opponent's field. You can only Link Summon \"Parcel-Tongue Post - Secret Insurance\" once per turn.",
           "duelingbookId": 6092330,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6092330.jpg",
           "addedAt": "2026-10-13 01:56:04",
-          "changedAt": "2026-10-23 12:50:25"
+          "changedAt": "2026-11-05 20:03:39"
         }
       ]
     },
