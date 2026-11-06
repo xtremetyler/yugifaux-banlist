@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:36:49.274Z",
+  "updatedAt": "2026-11-06T20:37:19.353Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 11,
+      "registeredCardCount": 12,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -34091,6 +34091,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123280.jpg",
           "addedAt": "2026-11-06 20:36:45",
           "changedAt": "2026-11-06 20:36:45"
+        },
+        {
+          "id": 616,
+          "name": "Shining Moon Tarot - Judgement",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Once per turn, during either player's turn: You can activate this effect; draw 1 card, and if you do, place this card you control on the top of your Deck. During either player's turn (except during the Battle Phase): You can activate this effect; look at the top 3 cards of your Deck, and if you do, place them on the top of your Deck in any order. You can only activate this effect of \"Shining Moon Tarot - Judgement\" thrice per turn.",
+          "duelingbookId": 6123282,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123282.jpg",
+          "addedAt": "2026-11-06 20:37:07",
+          "changedAt": "2026-11-06 20:37:07"
         }
       ]
     }
@@ -34163,7 +34178,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.106
+        "slacs": 5.114
       }
     ],
     "recentMatches": [
