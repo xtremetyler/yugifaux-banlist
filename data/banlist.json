@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T22:36:49.338Z",
+  "updatedAt": "2026-11-06T22:57:19.423Z",
   "cards": [
     {
       "id": 384,
@@ -34165,8 +34165,8 @@
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
-        "balance": 10,
-        "lifetimePoints": 552,
+        "balance": 15,
+        "lifetimePoints": 557,
         "matchWins": 11,
         "matchLosses": 14,
         "gamesWon": 30,
