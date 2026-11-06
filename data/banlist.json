@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:32:49.676Z",
+  "updatedAt": "2026-11-06T20:33:49.251Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 3,
+      "registeredCardCount": 4,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -33963,6 +33963,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123255.jpg",
           "addedAt": "2026-11-06 20:32:39",
           "changedAt": "2026-11-06 20:32:39"
+        },
+        {
+          "id": 608,
+          "name": "Shining Moon Tarot - The Magician",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Psychic",
+          "attribute": "LIGHT",
+          "levelRankLink": "Rank 3",
+          "atk": "1700",
+          "def": "1700",
+          "text": "2+ Level 3 LIGHT monsters\nIf this card is Xyz Summoned: You can change 1 face-up monster your opponent controls to face-down Defense Position. Once per turn, except during the Battle Phase (Quick Effect): You can detach 1 material from this card; place up to 3 \"Shining Moon Tarot\" cards and/or LIGHT Psychic monsters from your GY on the top of your Deck in any order. Once per Duel, if you control exactly 5 \"Shining Moon Tarot\" cards (Quick Effect): You can detach any number of materials from this card (min. 1), then target an equal number of cards in your GY and/or face-up Banishment; add those targets to your hand.",
+          "duelingbookId": 6123260,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123260.jpg",
+          "addedAt": "2026-11-06 20:33:25",
+          "changedAt": "2026-11-06 20:33:25"
         }
       ]
     }
@@ -34035,7 +34051,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.028
+        "slacs": 5.04
       }
     ],
     "recentMatches": [
