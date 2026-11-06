@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:37:19.353Z",
+  "updatedAt": "2026-11-06T20:37:49.286Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 12,
+      "registeredCardCount": 13,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -34106,6 +34106,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123282.jpg",
           "addedAt": "2026-11-06 20:37:07",
           "changedAt": "2026-11-06 20:37:07"
+        },
+        {
+          "id": 617,
+          "name": "Shining Moon Tarot - Death",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Normal",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Tribute 1 monster or Continuous Spell you control; activate 1 \"Shining Moon Tarot\" Spell from your Deck, except \"Shining Moon Tarot - Death\". During either player's Main Phase, while this card is in your GY: You can banish it; Special Summon 1 \"Shining Moon Tarot Token\" (Psychic/LIGHT/Level 3/ATK 700/DEF 1100). You can only activate this effect of \"Shining Moon Tarot - Death\" once per turn.",
+          "duelingbookId": 6123274,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123274.jpg",
+          "addedAt": "2026-11-06 20:37:38",
+          "changedAt": "2026-11-06 20:37:38"
         }
       ]
     }
@@ -34178,7 +34193,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.114
+        "slacs": 5.121
       }
     ],
     "recentMatches": [
