@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:33:49.251Z",
+  "updatedAt": "2026-11-06T20:34:19.398Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 4,
+      "registeredCardCount": 6,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -33979,6 +33979,41 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123260.jpg",
           "addedAt": "2026-11-06 20:33:25",
           "changedAt": "2026-11-06 20:33:25"
+        },
+        {
+          "id": 609,
+          "name": "Shining Moon Tarot - The Hanged Man",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Psychic",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 3",
+          "atk": "0",
+          "def": "2100",
+          "text": "At the end of the Damage Step of a battle involving this Defense Position card: Place the attacking monster on top of its owner's Deck. During your Main Phase: You can Tribute this card; excavate the top 3 cards of your Deck and add 1 excavated \"Shining Moon Tarot\" card other than \"Shining Moon Tarot - The Fool\" to your hand, then place the rest on the top or bottom of your Deck. During your Main Phase, while this card is in your GY: You can banish 1 other \"Shining Moon Tarot\" card in your GY; Special Summon this card. You can only activate each of the preceding effects of \"Shining Moon Tarot - The Hanged Man\" once per turn. A Psychic Xyz Monster that was Summoned using this card as material gains the following effect.\n● A monster destroyed by battle with this card is banished instead of being sent to the GY.",
+          "duelingbookId": 6083197,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083197.jpg",
+          "addedAt": "2026-11-06 20:33:49",
+          "changedAt": "2026-11-06 20:33:49"
+        },
+        {
+          "id": 610,
+          "name": "Shining Moon Tarot - The Fool",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Psychic",
+          "abilities": [
+            "Tuner"
+          ],
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 3",
+          "atk": "900",
+          "def": "1300",
+          "text": "During your Draw Phase, when you would conduct your normal draw: Excavate the top 2 cards of your Deck instead and add 1 of the excavated cards to your hand, then place the rest on the top of your Deck in any order. During your Main Phase, while this card is in your GY: You can banish 1 other \"Shining Moon Tarot\" card in your GY; Special Summon this card. You can only activate each of the preceding effects of \"Shining Moon Tarot - The Fool\" once per turn. A Psychic Xyz Monster that was Summoned using this card as material gains the following effect.\n● If this card is Xyz Summoned: Draw 1 card.",
+          "duelingbookId": 6083190,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083190.jpg",
+          "addedAt": "2026-11-06 20:34:16",
+          "changedAt": "2026-11-06 20:34:16"
         }
       ]
     }
@@ -34051,7 +34086,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.04
+        "slacs": 5.061
       }
     ],
     "recentMatches": [
