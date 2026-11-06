@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:36:19.255Z",
+  "updatedAt": "2026-11-06T20:36:49.274Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 9,
+      "registeredCardCount": 11,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -34061,6 +34061,36 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123268.jpg",
           "addedAt": "2026-11-06 20:35:58",
           "changedAt": "2026-11-06 20:35:58"
+        },
+        {
+          "id": 614,
+          "name": "Shining Moon Tarot - Wheel of Fortune",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When you activate this card: You can excavate the top 5 cards of your Deck and add 1 excavated \"Shining Moon Tarot\" Spell/Trap to your hand, except Shining Moon Tarot - Wheel of Fortune, then shuffle the rest into your Deck. You can only activate this effect of \"Shining Moon Tarot - Wheel of Fortune\" once per turn. If a LIGHT Psychic monster(s) is revealed from your Deck by your card or effect that includes excavating a card(s), while you control 5 or fewer \"Shining Moon Tarot\" cards: You can Special Summon 1 monster revealed by that card or effect.",
+          "duelingbookId": 6083204,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083204.jpg",
+          "addedAt": "2026-11-06 20:36:22",
+          "changedAt": "2026-11-06 20:36:22"
+        },
+        {
+          "id": 615,
+          "name": "Shining Moon Tarot - Strength",
+          "source": "custom",
+          "cardType": "Spell Card",
+          "spellTrapType": "Field",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "Face-up Psychic Xyz Monsters cannot be targeted by Spell/Trap cards or effects. \"Shining Moon Tarot\" monsters you control inflict Piercing Damage when attacking a Defense Position monster. Once per turn, during your Main Phase: You can declare 1 card name; excavate the top card of your Deck and add up to 1 excavated card with the declared card name to your hand, then send the rest to your GY. You can only activate the following effect of \"Shining Moon Tarot - Strength\" once per turn. (Quick Effect): Tribute 1 Level 3 LIGHT monster you control, then target 1 monster your opponent controls; banish each target, and if you do, your opponent gains 1000 LP and you lose 1000 LP.",
+          "duelingbookId": 6123280,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123280.jpg",
+          "addedAt": "2026-11-06 20:36:45",
+          "changedAt": "2026-11-06 20:36:45"
         }
       ]
     }
@@ -34133,7 +34163,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.089
+        "slacs": 5.106
       }
     ],
     "recentMatches": [
