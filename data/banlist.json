@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T22:35:19.410Z",
+  "updatedAt": "2026-11-06T22:36:49.338Z",
   "cards": [
     {
       "id": 384,
@@ -34204,7 +34204,7 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 14,
+        "balance": 6,
         "lifetimePoints": 172,
         "matchWins": 3,
         "matchLosses": 8,
@@ -34213,7 +34213,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.142
+        "slacs": 5.163
       }
     ],
     "recentMatches": [
