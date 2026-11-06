@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:22:18.000Z",
+  "updatedAt": "2026-11-06T20:31:49.404Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 0,
+      "registeredCardCount": 1,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -33912,7 +33912,27 @@
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
-      "cards": []
+      "featuredCardId": 605,
+      "featuredCardName": "Shining Moon Tarot - The Emperor",
+      "featuredImageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123262.jpg",
+      "cards": [
+        {
+          "id": 605,
+          "name": "Shining Moon Tarot - The Emperor",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Psychic",
+          "attribute": "LIGHT",
+          "levelRankLink": "Rank 3",
+          "atk": "1900",
+          "def": "1300",
+          "text": "2+ Level 3 LIGHT monsters\nDuring your Main Phase: Place 1 card from your hand or field on the top of your Deck; you can activate 1 Trap Card the turn it was Set. During your Main Phase: You can Tribute a LIGHT monster you control; all monsters your opponent currently controls lose ATK equal to 200 x the monster's original Level until the end of this turn. During your opponent's Main Phase (Quick Effect): You can detach 1 material from this card, then return a monster you control to the hand; Xyz Summon or Synchro Summon a \"Shining Moon Tarot\" monster from your Extra Deck using appropriate monsters in your hand as material. You can only activate each of the preceding effects of \"Shining Moon Tarot - The Fool\" once per turn. Once per Duel, if you control exactly 5 \"Shining Moon Tarot\" cards (Quick Effect): You can detach any number of materials from this card (min. 1), then target an equal number of cards on the field; return those targets to the hand.",
+          "duelingbookId": 6123262,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123262.jpg",
+          "addedAt": "2026-11-06 20:31:46",
+          "changedAt": "2026-11-06 20:31:46"
+        }
+      ]
     }
   ],
   "dashboard": {
@@ -33983,7 +34003,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 4.991
+        "slacs": 5.004
       }
     ],
     "recentMatches": [
