@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:34:19.398Z",
+  "updatedAt": "2026-11-06T20:35:19.213Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 6,
+      "registeredCardCount": 7,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -34014,6 +34014,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083190.jpg",
           "addedAt": "2026-11-06 20:34:16",
           "changedAt": "2026-11-06 20:34:16"
+        },
+        {
+          "id": 611,
+          "name": "Shining Moon Tarot - The Chariot",
+          "source": "custom",
+          "cardType": "Effect Monster",
+          "monsterType": "Psychic",
+          "attribute": "LIGHT",
+          "levelRankLink": "Level 3",
+          "atk": "1300",
+          "def": "700",
+          "text": "All \"Shining Moon Tarot\" monsters you control gain 400 ATK. On your Main Phase if this card is in your GY: Banish a \"Shining Moon Tarot\" card from your GY; You may Special Summon this Monster. You may only activate each effect of \"Shining Moon Tarot - The Chariot\" once per turn. A \"Psychic\" XYZ Monster that was summoned using this card as material gains this effect, \n● While you control this Xyz Summoned card, the DEF of monsters your opponent controls becomes 0.",
+          "duelingbookId": 6083200,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083200.jpg",
+          "addedAt": "2026-11-06 20:34:51",
+          "changedAt": "2026-11-06 20:34:51"
         }
       ]
     }
@@ -34086,7 +34102,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.061
+        "slacs": 5.071
       }
     ],
     "recentMatches": [
