@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:35:49.371Z",
+  "updatedAt": "2026-11-06T20:36:19.255Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 8,
+      "registeredCardCount": 9,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -34046,6 +34046,21 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6083193.jpg",
           "addedAt": "2026-11-06 20:35:22",
           "changedAt": "2026-11-06 20:35:22"
+        },
+        {
+          "id": 613,
+          "name": "Shining Moon Tarot - The Tower",
+          "source": "custom",
+          "cardType": "Trap Card",
+          "spellTrapType": "Continuous",
+          "levelRankLink": "Level 0",
+          "atk": "0",
+          "def": "0",
+          "text": "When your opponent activates the effect of a monster they control: You can activate this effect; if you control exactly 5 \"Shining Moon Tarot\" cards: excavate the top card of your Deck and destroy both 1 excavated LIGHT monster and your opponent's monster, and if you do, negate its effect, then place the rest on the bottom of your Deck in any order. You can only activate this effect of \"Shining Moon Tarot - The Tower\" twice per turn.",
+          "duelingbookId": 6123268,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123268.jpg",
+          "addedAt": "2026-11-06 20:35:58",
+          "changedAt": "2026-11-06 20:35:58"
         }
       ]
     }
@@ -34118,7 +34133,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.08
+        "slacs": 5.089
       }
     ],
     "recentMatches": [
