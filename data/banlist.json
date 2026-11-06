@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-06T20:32:19.681Z",
+  "updatedAt": "2026-11-06T20:32:49.676Z",
   "cards": [
     {
       "id": 384,
@@ -33903,7 +33903,7 @@
       "submittedAt": "2026-11-06 20:07:02",
       "activatedAt": "2026-11-06 20:07:02",
       "declaredCardCount": 13,
-      "registeredCardCount": 2,
+      "registeredCardCount": 3,
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
@@ -33947,6 +33947,22 @@
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123265.jpg",
           "addedAt": "2026-11-06 20:32:10",
           "changedAt": "2026-11-06 20:32:10"
+        },
+        {
+          "id": 607,
+          "name": "Shining Moon Tarot - The Devil",
+          "source": "custom",
+          "cardType": "Xyz Monster",
+          "monsterType": "Psychic",
+          "attribute": "LIGHT",
+          "levelRankLink": "Rank 3",
+          "atk": "2100",
+          "def": "1000",
+          "text": "2+ Level 3 LIGHT monsters\nYour opponent cannot target this card with card effects while it has Xyz material. This monster gains 100 ATK for each face-up \"Shining Moon Tarot\" card in your Banishment. During either player's turn, except during the Damage Step (Quick Effect): You can detach 1 material from this card; monsters you control can't be destroyed by battle this turn. You can only activate this effect of \"Shining Moon Tarot - The Devil\" once per turn. Once per Duel, while you control exactly 5 \"Shining Moon Tarot\" cards (Quick Effect): You can detach any number of materials from this card (min. 1); this card can attack an additional time during each of your Battle Phases this turn for each material detached to activate this effect.",
+          "duelingbookId": 6123255,
+          "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123255.jpg",
+          "addedAt": "2026-11-06 20:32:39",
+          "changedAt": "2026-11-06 20:32:39"
         }
       ]
     }
@@ -34019,7 +34035,7 @@
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.017
+        "slacs": 5.028
       }
     ],
     "recentMatches": [
