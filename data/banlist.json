@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-07T01:20:21.645Z",
+  "updatedAt": "2026-11-07T03:22:22.941Z",
   "cards": [
     {
       "id": 384,
@@ -4334,7 +4334,7 @@
       "id": 883,
       "botCardId": 570,
       "name": "Desmond Vorhess, Once",
-      "status": "banned",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Effect Monster",
       "monsterType": "Warrior",
@@ -4349,7 +4349,7 @@
       "duelingbookId": 6122553,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122553.jpg",
       "addedAt": "2026-11-03 04:42:02",
-      "changedAt": "2026-11-06 23:37:46"
+      "changedAt": "2026-11-07 03:22:18"
     },
     {
       "id": 887,
@@ -18549,7 +18549,7 @@
           "id": 883,
           "botCardId": 570,
           "name": "Desmond Vorhess, Once",
-          "status": "banned",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Effect Monster",
           "monsterType": "Warrior",
@@ -18564,7 +18564,7 @@
           "duelingbookId": 6122553,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122553.jpg",
           "addedAt": "2026-11-03 04:42:02",
-          "changedAt": "2026-11-06 23:37:46"
+          "changedAt": "2026-11-07 03:22:18"
         },
         {
           "id": 887,
