@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-07T19:00:40.431Z",
+  "updatedAt": "2026-11-07T19:02:10.362Z",
   "cards": [
     {
       "id": 384,
@@ -9436,7 +9436,7 @@
       "id": 859,
       "botCardId": 510,
       "name": "Leopold, the Royal Herald of Whenfare",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Pendulum Normal Monster",
       "monsterType": "Warrior",
@@ -9456,7 +9456,7 @@
       "duelingbookId": 6122451,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122451.jpg",
       "addedAt": "2026-11-03 02:51:42",
-      "changedAt": "2026-11-03 02:51:42"
+      "changedAt": "2026-11-07 19:01:57"
     },
     {
       "id": 426,
@@ -16218,7 +16218,7 @@
       "id": 858,
       "botCardId": 509,
       "name": "Tilda, the Ticket Taker of Whenfare",
-      "status": "voting",
+      "status": "unlimeade",
       "source": "custom",
       "cardType": "Pendulum Normal Monster",
       "monsterType": "Warrior",
@@ -16238,7 +16238,7 @@
       "duelingbookId": 6122449,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122449.jpg",
       "addedAt": "2026-11-03 02:51:42",
-      "changedAt": "2026-11-03 02:51:42"
+      "changedAt": "2026-11-07 19:02:05"
     },
     {
       "id": 421,
@@ -18903,7 +18903,7 @@
           "id": 859,
           "botCardId": 510,
           "name": "Leopold, the Royal Herald of Whenfare",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Pendulum Normal Monster",
           "monsterType": "Warrior",
@@ -18923,7 +18923,7 @@
           "duelingbookId": 6122451,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122451.jpg",
           "addedAt": "2026-11-03 02:51:42",
-          "changedAt": "2026-11-03 02:51:42"
+          "changedAt": "2026-11-07 19:01:57"
         },
         {
           "id": 862,
@@ -19256,7 +19256,7 @@
           "id": 858,
           "botCardId": 509,
           "name": "Tilda, the Ticket Taker of Whenfare",
-          "status": "voting",
+          "status": "unlimeade",
           "source": "custom",
           "cardType": "Pendulum Normal Monster",
           "monsterType": "Warrior",
@@ -19276,7 +19276,7 @@
           "duelingbookId": 6122449,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122449.jpg",
           "addedAt": "2026-11-03 02:51:42",
-          "changedAt": "2026-11-03 02:51:42"
+          "changedAt": "2026-11-07 19:02:05"
         },
         {
           "id": 872,
