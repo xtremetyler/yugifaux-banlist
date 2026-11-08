@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-08T18:08:39.311Z",
+  "updatedAt": "2026-11-08T18:45:40.225Z",
   "cards": [
     {
       "id": 384,
@@ -34148,7 +34148,7 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 54,
+    "confirmedMatchCount": 55,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
@@ -34178,16 +34178,16 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 63,
-        "lifetimePoints": 221,
-        "matchWins": 10,
+        "balance": 67,
+        "lifetimePoints": 225,
+        "matchWins": 11,
         "matchLosses": 5,
-        "gamesWon": 21,
+        "gamesWon": 23,
         "gamesLost": 15,
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 10.209
+        "slacs": 10.709
       },
       {
         "name": "The Original Rough Cheddar",
@@ -34204,19 +34204,30 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 6,
-        "lifetimePoints": 172,
+        "balance": 7,
+        "lifetimePoints": 173,
         "matchWins": 3,
-        "matchLosses": 8,
+        "matchLosses": 9,
         "gamesWon": 9,
-        "gamesLost": 18,
+        "gamesLost": 20,
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.163
+        "slacs": 5.107
       }
     ],
     "recentMatches": [
+      {
+        "id": 119,
+        "confirmedAt": "2026-11-08 18:45:31",
+        "replayUrl": "https://www.duelingbook.com/replay?id=1388844-86987111",
+        "reporter": "Brielieve In Cheesus",
+        "opponent": "forgoudaboutit",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "NetWRM",
+        "opponentArchetype": "Shining Moon Tarot"
+      },
       {
         "id": 118,
         "confirmedAt": "2026-11-05 19:47:20",
@@ -34293,20 +34304,20 @@
         "opponentGames": 0,
         "reporterArchetype": "Watchful Sun",
         "opponentArchetype": "Whenfare"
-      },
+      }
+    ],
+    "matchHistory": [
       {
-        "id": 111,
-        "confirmedAt": "2026-10-23 23:26:02",
-        "replayUrl": "https://www.duelingbook.com/replay?id=1388844-86498317",
+        "id": 119,
+        "confirmedAt": "2026-11-08 18:45:31",
+        "replayUrl": "https://www.duelingbook.com/replay?id=1388844-86987111",
         "reporter": "Brielieve In Cheesus",
         "opponent": "forgoudaboutit",
         "reporterGames": 2,
         "opponentGames": 0,
         "reporterArchetype": "NetWRM",
-        "opponentArchetype": "Whenfare"
-      }
-    ],
-    "matchHistory": [
+        "opponentArchetype": "Shining Moon Tarot"
+      },
       {
         "id": 118,
         "confirmedAt": "2026-11-05 19:47:20",
