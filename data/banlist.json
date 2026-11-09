@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-09T18:21:54.457Z",
+  "updatedAt": "2026-11-09T20:17:54.655Z",
   "cards": [
     {
       "id": 384,
@@ -33927,8 +33927,8 @@
       "mainTypes": 3,
       "extraCount": 4,
       "baseClauses": 45,
-      "addedClauses": 3,
-      "totalClauses": 48,
+      "addedClauses": 4,
+      "totalClauses": 49,
       "retirementsSeen": 0,
       "retirementThreshold": 3,
       "retirementRequired": false,
@@ -34136,11 +34136,11 @@
           "levelRankLink": "Level 0",
           "atk": "0",
           "def": "0",
-          "text": "Tribute 1 monster or Continuous Spell you control; activate 1 \"Shining Moon Tarot\" Spell from your Deck, except \"Shining Moon Tarot - Death\". During either player's Main Phase, while this card is in your GY: You can banish it; Special Summon 1 \"Shining Moon Tarot Token\" (Psychic/LIGHT/Level 3/ATK 700/DEF 1100). You can only activate this effect of \"Shining Moon Tarot - Death\" once per turn.",
+          "text": "Tribute 1 monster or Continuous Spell you control; activate 1 \"Shining Moon Tarot\" Spell from your Deck, except \"Shining Moon Tarot - Death\". During either player's Main Phase, while this card is in your GY: You can banish it; Special Summon 1 \"Shining Moon Tarot Token\" (Psychic/LIGHT/Level 3/ATK 700/DEF 1100). You can only activate this effect of \"Shining Moon Tarot - Death\" once per turn. If a monster you control leaves the field as part of an opponent's effect while this card is in your Deck or GY: You can discard 1 card; Add this card to your hand. You can only activate this effect of \"Shining Moon Tarot - Death\" once per turn.",
           "duelingbookId": 6123274,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6123274.jpg",
           "addedAt": "2026-11-06 20:37:38",
-          "changedAt": "2026-11-08 18:58:59"
+          "changedAt": "2026-11-09 20:17:45"
         }
       ]
     }
