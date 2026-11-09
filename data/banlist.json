@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-09T18:21:23.156Z",
+  "updatedAt": "2026-11-09T18:21:54.457Z",
   "cards": [
     {
       "id": 384,
@@ -34162,19 +34162,6 @@
         "archetypeId": 51,
         "archetypeName": "Graypelt",
         "slacs": 13.943
-      },
-      {
-        "name": "Ewok A.K.A. Larte Nugs",
-        "balance": 15,
-        "lifetimePoints": 557,
-        "matchWins": 11,
-        "matchLosses": 14,
-        "gamesWon": 30,
-        "gamesLost": 31,
-        "gamesDrawn": 0,
-        "archetypeId": 50,
-        "archetypeName": "Legendary Swordsman",
-        "slacs": 11.274
       },
       {
         "name": "Brielieve In Cheesus",
