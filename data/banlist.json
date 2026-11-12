@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-12T01:36:40.964Z",
+  "updatedAt": "2026-11-12T01:37:11.489Z",
   "cards": [
     {
       "id": 384,
@@ -34148,20 +34148,20 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 55,
+    "confirmedMatchCount": 56,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 12,
-        "lifetimePoints": 666,
+        "balance": 14,
+        "lifetimePoints": 668,
         "matchWins": 20,
-        "matchLosses": 20,
-        "gamesWon": 48,
-        "gamesLost": 49,
+        "matchLosses": 21,
+        "gamesWon": 49,
+        "gamesLost": 51,
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.943
+        "slacs": 13.849
       },
       {
         "name": "Brielieve In Cheesus",
@@ -34191,19 +34191,30 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 7,
-        "lifetimePoints": 173,
-        "matchWins": 3,
+        "balance": 15,
+        "lifetimePoints": 181,
+        "matchWins": 4,
         "matchLosses": 9,
-        "gamesWon": 9,
-        "gamesLost": 20,
+        "gamesWon": 11,
+        "gamesLost": 21,
         "gamesDrawn": 0,
         "archetypeId": 52,
         "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.107
+        "slacs": 5.537
       }
     ],
     "recentMatches": [
+      {
+        "id": 120,
+        "confirmedAt": "2026-11-12 01:37:06",
+        "replayUrl": null,
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "forgoudaboutit",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Shining Moon Tarot"
+      },
       {
         "id": 119,
         "confirmedAt": "2026-11-08 18:45:31",
@@ -34280,20 +34291,20 @@
         "opponentGames": 2,
         "reporterArchetype": "Legendary Swordsman",
         "opponentArchetype": "Watchful Sun"
-      },
-      {
-        "id": 112,
-        "confirmedAt": "2026-10-27 20:05:48",
-        "replayUrl": null,
-        "reporter": "Left Parm of the Forbitten One",
-        "opponent": "forgoudaboutit",
-        "reporterGames": 2,
-        "opponentGames": 0,
-        "reporterArchetype": "Watchful Sun",
-        "opponentArchetype": "Whenfare"
       }
     ],
     "matchHistory": [
+      {
+        "id": 120,
+        "confirmedAt": "2026-11-12 01:37:06",
+        "replayUrl": null,
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "forgoudaboutit",
+        "reporterGames": 1,
+        "opponentGames": 2,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Shining Moon Tarot"
+      },
       {
         "id": 119,
         "confirmedAt": "2026-11-08 18:45:31",
@@ -35291,6 +35302,11 @@
         "player": "Brielieve In Cheesus",
         "achievementId": "league-regular",
         "earnedAt": "2026-11-03 04:29:10"
+      },
+      {
+        "player": "forgoudaboutit",
+        "achievementId": "bounce-back",
+        "earnedAt": "2026-11-12 01:37:06"
       }
     ],
     "lifetimeCatalog": [
