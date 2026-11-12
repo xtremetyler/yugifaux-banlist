@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-12T18:17:02.257Z",
+  "updatedAt": "2026-11-12T18:18:03.358Z",
   "cards": [
     {
       "id": 384,
@@ -34148,20 +34148,33 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 56,
+    "confirmedMatchCount": 57,
     "standings": [
       {
         "name": "Left Parm of the Forbitten One",
-        "balance": 14,
-        "lifetimePoints": 668,
-        "matchWins": 20,
+        "balance": 18,
+        "lifetimePoints": 672,
+        "matchWins": 21,
         "matchLosses": 21,
-        "gamesWon": 49,
+        "gamesWon": 51,
         "gamesLost": 51,
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 13.849
+        "slacs": 14.202
+      },
+      {
+        "name": "Ewok A.K.A. Larte Nugs",
+        "balance": 16,
+        "lifetimePoints": 558,
+        "matchWins": 11,
+        "matchLosses": 15,
+        "gamesWon": 30,
+        "gamesLost": 33,
+        "gamesDrawn": 0,
+        "archetypeId": 50,
+        "archetypeName": "Legendary Swordsman",
+        "slacs": 11.017
       },
       {
         "name": "Brielieve In Cheesus",
@@ -34204,6 +34217,17 @@
       }
     ],
     "recentMatches": [
+      {
+        "id": 121,
+        "confirmedAt": "2026-11-12 18:17:42",
+        "replayUrl": null,
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Ewok A.K.A. Larte Nugs",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Legendary Swordsman"
+      },
       {
         "id": 120,
         "confirmedAt": "2026-11-12 01:37:06",
@@ -34280,20 +34304,20 @@
         "opponentGames": 2,
         "reporterArchetype": "Parcel-Tongue Post",
         "opponentArchetype": "Watchful Sun"
-      },
-      {
-        "id": 113,
-        "confirmedAt": "2026-10-30 18:15:20",
-        "replayUrl": null,
-        "reporter": "Ewok A.K.A. Larte Nugs",
-        "opponent": "Left Parm of the Forbitten One",
-        "reporterGames": 0,
-        "opponentGames": 2,
-        "reporterArchetype": "Legendary Swordsman",
-        "opponentArchetype": "Watchful Sun"
       }
     ],
     "matchHistory": [
+      {
+        "id": 121,
+        "confirmedAt": "2026-11-12 18:17:42",
+        "replayUrl": null,
+        "reporter": "Left Parm of the Forbitten One",
+        "opponent": "Ewok A.K.A. Larte Nugs",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Legendary Swordsman"
+      },
       {
         "id": 120,
         "confirmedAt": "2026-11-12 01:37:06",
