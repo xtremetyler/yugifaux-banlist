@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-13T05:46:00.537Z",
+  "updatedAt": "2026-11-13T05:49:30.867Z",
   "cards": [
     {
       "id": 384,
@@ -7455,6 +7455,24 @@
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6035627.jpg",
       "addedAt": "2026-09-08 03:34:00",
       "changedAt": "2026-09-08 14:34:00"
+    },
+    {
+      "id": 894,
+      "name": "Hey, Space Trunade!",
+      "status": "unlimeade",
+      "source": "official",
+      "cardType": "Spell Card",
+      "monsterType": "Normal",
+      "spellTrapType": "Normal",
+      "text": "Return up to 2 cards from the field to the hand, then each player places cards from their hand on the bottom of their Deck, in any order, equal to the number returned to their hand. You can only activate 1 \"Hey, Space Trunade!\" per turn.",
+      "archetype": "Cyclone",
+      "contributor": "Brielieve In Cheesus",
+      "passcode": "02729965",
+      "duelingbookId": 18182,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/2729965.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/hey-space-trunade-15782",
+      "addedAt": "2026-11-13 05:49:17",
+      "changedAt": "2026-11-13 05:49:17"
     },
     {
       "id": 103,
@@ -34178,7 +34196,7 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 67,
+        "balance": 60,
         "lifetimePoints": 225,
         "matchWins": 11,
         "matchLosses": 5,
@@ -34187,7 +34205,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 10.709
+        "slacs": 10.814
       },
       {
         "name": "The Original Rough Cheddar",
