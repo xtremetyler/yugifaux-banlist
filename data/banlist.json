@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-13T05:55:53.911Z",
+  "updatedAt": "2026-11-13T05:59:55.084Z",
   "cards": [
     {
       "id": 384,
@@ -1056,7 +1056,7 @@
       "id": 656,
       "botCardId": 300,
       "name": "Ancient Ritual Decrepit Elder Matron",
-      "status": "limeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Ritual Monster",
       "monsterType": "Zombie",
@@ -1071,7 +1071,7 @@
       "duelingbookId": 6077874,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077874.jpg",
       "addedAt": "2026-10-03 02:42:27",
-      "changedAt": "2026-10-04 16:18:45"
+      "changedAt": "2026-11-13 05:59:47"
     },
     {
       "id": 651,
@@ -7459,7 +7459,7 @@
     {
       "id": 894,
       "name": "Hey, Space Trunade!",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "official",
       "cardType": "Spell Card",
       "monsterType": "Normal",
@@ -7472,7 +7472,7 @@
       "imageUrl": "https://images.ygoprodeck.com/images/cards/2729965.jpg",
       "officialUrl": "https://ygoprodeck.com/card/hey-space-trunade-15782",
       "addedAt": "2026-11-13 05:49:17",
-      "changedAt": "2026-11-13 05:49:17"
+      "changedAt": "2026-11-13 05:59:47"
     },
     {
       "id": 103,
@@ -16899,7 +16899,7 @@
       "id": 891,
       "botCardId": 578,
       "name": "Under the Eye of the King",
-      "status": "unlimeade",
+      "status": "semi-limeade",
       "source": "custom",
       "cardType": "Trap Card",
       "spellTrapType": "Normal",
@@ -16913,7 +16913,7 @@
       "duelingbookId": 6122562,
       "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122562.jpg",
       "addedAt": "2026-11-03 04:42:02",
-      "changedAt": "2026-11-06 23:38:07"
+      "changedAt": "2026-11-13 05:59:47"
     },
     {
       "id": 266,
@@ -18771,7 +18771,7 @@
           "id": 891,
           "botCardId": 578,
           "name": "Under the Eye of the King",
-          "status": "unlimeade",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Trap Card",
           "spellTrapType": "Normal",
@@ -18785,7 +18785,7 @@
           "duelingbookId": 6122562,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6100000/6122562.jpg",
           "addedAt": "2026-11-03 04:42:02",
-          "changedAt": "2026-11-06 23:38:07"
+          "changedAt": "2026-11-13 05:59:47"
         },
         {
           "id": 884,
@@ -22466,7 +22466,7 @@
           "id": 656,
           "botCardId": 300,
           "name": "Ancient Ritual Decrepit Elder Matron",
-          "status": "limeade",
+          "status": "semi-limeade",
           "source": "custom",
           "cardType": "Ritual Monster",
           "monsterType": "Zombie",
@@ -22481,7 +22481,7 @@
           "duelingbookId": 6077874,
           "imageUrl": "https://images.duelingbook.com/custom-pics/6000000/6077874.jpg",
           "addedAt": "2026-10-03 02:42:27",
-          "changedAt": "2026-10-04 16:18:45"
+          "changedAt": "2026-11-13 05:59:47"
         },
         {
           "id": 651,
@@ -34196,7 +34196,7 @@
       },
       {
         "name": "Brielieve In Cheesus",
-        "balance": 60,
+        "balance": 50,
         "lifetimePoints": 225,
         "matchWins": 11,
         "matchLosses": 5,
@@ -34205,7 +34205,7 @@
         "gamesDrawn": 0,
         "archetypeId": 47,
         "archetypeName": "NetWRM",
-        "slacs": 10.814
+        "slacs": 10.92
       },
       {
         "name": "The Original Rough Cheddar",
