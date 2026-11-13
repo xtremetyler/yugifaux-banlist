@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-13T16:21:11.386Z",
+  "updatedAt": "2026-11-13T16:24:12.375Z",
   "cards": [
     {
       "id": 384,
@@ -11387,6 +11387,27 @@
       "officialUrl": "https://ygoprodeck.com/card/number-2-ninja-shadow-mosquito-13344",
       "addedAt": "2026-09-02 17:16:24",
       "changedAt": "2026-09-02 17:16:24"
+    },
+    {
+      "id": 895,
+      "name": "Number C104: Umbral Horror Masquerade Victory",
+      "status": "limeade",
+      "source": "official",
+      "cardType": "XYZ Monster",
+      "monsterType": "Spellcaster",
+      "attribute": "DARK",
+      "levelRankLink": "Rank 5",
+      "atk": "3000",
+      "def": "1500",
+      "text": "4 Level 5 monsters\r\nOnce per turn (Quick Effect): You can detach 1 material from this card, then target 1 card your opponent controls; destroy it. If this card battles an opponent's monster, during damage calculation: This card's ATK/DEF become equal to that opponent's monster's ATK or DEF (whichever is higher) +100, during that damage calculation only. If this card destroys a monster by battle: Send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP.",
+      "archetype": "Masquerade",
+      "contributor": "Brielieve In Cheesus",
+      "passcode": "42396591",
+      "duelingbookId": 18157,
+      "imageUrl": "https://images.ygoprodeck.com/images/cards/42396591.jpg",
+      "officialUrl": "https://ygoprodeck.com/card/number-c104-umbral-horror-masquerade-victory-15842",
+      "addedAt": "2026-11-13 16:23:58",
+      "changedAt": "2026-11-13 16:23:58"
     },
     {
       "id": 212,
@@ -34182,6 +34203,19 @@
         "slacs": 14.202
       },
       {
+        "name": "Brielieve In Cheesus",
+        "balance": 43,
+        "lifetimePoints": 225,
+        "matchWins": 11,
+        "matchLosses": 5,
+        "gamesWon": 23,
+        "gamesLost": 15,
+        "gamesDrawn": 0,
+        "archetypeId": 47,
+        "archetypeName": "NetWRM",
+        "slacs": 11.025
+      },
+      {
         "name": "Ewok A.K.A. Larte Nugs",
         "balance": 16,
         "lifetimePoints": 558,
@@ -34193,19 +34227,6 @@
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
         "slacs": 11.017
-      },
-      {
-        "name": "Brielieve In Cheesus",
-        "balance": 50,
-        "lifetimePoints": 225,
-        "matchWins": 11,
-        "matchLosses": 5,
-        "gamesWon": 23,
-        "gamesLost": 15,
-        "gamesDrawn": 0,
-        "archetypeId": 47,
-        "archetypeName": "NetWRM",
-        "slacs": 10.92
       },
       {
         "name": "The Original Rough Cheddar",
