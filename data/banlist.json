@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-15T19:53:33.792Z",
+  "updatedAt": "2026-11-15T21:37:39.828Z",
   "cards": [
     {
       "id": 384,
@@ -34230,8 +34230,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 15,
-        "lifetimePoints": 181,
+        "balance": 19,
+        "lifetimePoints": 185,
         "matchWins": 4,
         "matchLosses": 9,
         "gamesWon": 11,
@@ -35356,6 +35356,11 @@
       {
         "player": "forgoudaboutit",
         "achievementId": "bounce-back",
+        "earnedAt": "2026-11-12 01:37:06"
+      },
+      {
+        "player": "forgoudaboutit",
+        "achievementId": "making-the-rounds",
         "earnedAt": "2026-11-12 01:37:06"
       }
     ],
