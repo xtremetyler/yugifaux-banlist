@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-15T18:53:32.351Z",
+  "updatedAt": "2026-11-15T19:53:33.792Z",
   "cards": [
     {
       "id": 384,
@@ -34227,19 +34227,6 @@
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
         "slacs": 11.017
-      },
-      {
-        "name": "The Original Rough Cheddar",
-        "balance": 39,
-        "lifetimePoints": 300,
-        "matchWins": 10,
-        "matchLosses": 6,
-        "gamesWon": 23,
-        "gamesLost": 16,
-        "gamesDrawn": 0,
-        "archetypeId": 44,
-        "archetypeName": "Parcel-Tongue Post",
-        "slacs": 8.408
       },
       {
         "name": "forgoudaboutit",
