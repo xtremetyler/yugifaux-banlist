@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-18T18:47:44.252Z",
+  "updatedAt": "2026-11-18T18:56:25.127Z",
   "cards": [
     {
       "id": 384,
@@ -34217,8 +34217,8 @@
       },
       {
         "name": "forgoudaboutit",
-        "balance": 19,
-        "lifetimePoints": 185,
+        "balance": 23,
+        "lifetimePoints": 189,
         "matchWins": 4,
         "matchLosses": 9,
         "gamesWon": 11,
@@ -35348,6 +35348,11 @@
       {
         "player": "forgoudaboutit",
         "achievementId": "making-the-rounds",
+        "earnedAt": "2026-11-12 01:37:06"
+      },
+      {
+        "player": "forgoudaboutit",
+        "achievementId": "equal-opportunity-duelist",
         "earnedAt": "2026-11-12 01:37:06"
       }
     ],
