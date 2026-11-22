@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-22T01:37:45.847Z",
+  "updatedAt": "2026-11-22T01:38:02.584Z",
   "cards": [
     {
       "id": 384,
@@ -34204,8 +34204,8 @@
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
-        "balance": 16,
-        "lifetimePoints": 558,
+        "balance": 20,
+        "lifetimePoints": 562,
         "matchWins": 11,
         "matchLosses": 15,
         "gamesWon": 30,
@@ -34214,19 +34214,6 @@
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
         "slacs": 11.017
-      },
-      {
-        "name": "forgoudaboutit",
-        "balance": 23,
-        "lifetimePoints": 189,
-        "matchWins": 4,
-        "matchLosses": 9,
-        "gamesWon": 11,
-        "gamesLost": 21,
-        "gamesDrawn": 0,
-        "archetypeId": 52,
-        "archetypeName": "Shining Moon Tarot",
-        "slacs": 5.537
       }
     ],
     "recentMatches": [
@@ -35307,6 +35294,11 @@
       },
       {
         "player": "Ewok A.K.A. Larte Nugs",
+        "achievementId": "equal-opportunity-duelist",
+        "earnedAt": "2026-10-20 16:44:39"
+      },
+      {
+        "player": "Ewok A.K.A. Larte Nugs",
         "achievementId": "ascension",
         "earnedAt": "2026-10-20 23:36:10"
       },
@@ -35336,9 +35328,19 @@
         "earnedAt": "2026-11-01 15:27:24"
       },
       {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "equal-opportunity-duelist",
+        "earnedAt": "2026-11-01 15:27:24"
+      },
+      {
         "player": "Brielieve In Cheesus",
         "achievementId": "league-regular",
         "earnedAt": "2026-11-03 04:29:10"
+      },
+      {
+        "player": "The Original Rough Cheddar",
+        "achievementId": "making-the-rounds",
+        "earnedAt": "2026-11-05 19:47:20"
       },
       {
         "player": "forgoudaboutit",
