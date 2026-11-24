@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-24T03:03:20.613Z",
+  "updatedAt": "2026-11-24T03:03:50.495Z",
   "cards": [
     {
       "id": 384,
@@ -34191,8 +34191,8 @@
     "standings": [
       {
         "name": "Grizz A.K.A. Sherpapa",
-        "balance": 22,
-        "lifetimePoints": 676,
+        "balance": 26,
+        "lifetimePoints": 680,
         "matchWins": 22,
         "matchLosses": 21,
         "gamesWon": 53,
@@ -34204,8 +34204,8 @@
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
-        "balance": 21,
-        "lifetimePoints": 563,
+        "balance": 25,
+        "lifetimePoints": 567,
         "matchWins": 11,
         "matchLosses": 16,
         "gamesWon": 30,
