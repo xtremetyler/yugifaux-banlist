@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-24T02:42:20.789Z",
+  "updatedAt": "2026-11-24T03:03:20.613Z",
   "cards": [
     {
       "id": 384,
@@ -34187,9 +34187,47 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 57,
-    "standings": [],
+    "confirmedMatchCount": 58,
+    "standings": [
+      {
+        "name": "Grizz A.K.A. Sherpapa",
+        "balance": 22,
+        "lifetimePoints": 676,
+        "matchWins": 22,
+        "matchLosses": 21,
+        "gamesWon": 53,
+        "gamesLost": 51,
+        "gamesDrawn": 0,
+        "archetypeId": 51,
+        "archetypeName": "Graypelt",
+        "slacs": 14.804
+      },
+      {
+        "name": "Ewok A.K.A. Larte Nugs",
+        "balance": 21,
+        "lifetimePoints": 563,
+        "matchWins": 11,
+        "matchLosses": 16,
+        "gamesWon": 30,
+        "gamesLost": 35,
+        "gamesDrawn": 0,
+        "archetypeId": 50,
+        "archetypeName": "Legendary Swordsman",
+        "slacs": 11.061
+      }
+    ],
     "recentMatches": [
+      {
+        "id": 122,
+        "confirmedAt": "2026-11-24 03:02:49",
+        "replayUrl": "https://www.duelingbook.com/replay?id=1301874-87449699",
+        "reporter": "Grizz A.K.A. Sherpapa",
+        "opponent": "Ewok A.K.A. Larte Nugs",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Legendary Swordsman"
+      },
       {
         "id": 121,
         "confirmedAt": "2026-11-12 18:17:42",
@@ -34266,20 +34304,20 @@
         "opponentGames": 2,
         "reporterArchetype": "Watchful Sun",
         "opponentArchetype": "Parcel-Tongue Post"
-      },
-      {
-        "id": 114,
-        "confirmedAt": "2026-10-30 19:04:32",
-        "replayUrl": null,
-        "reporter": "The Original Rough Cheddar",
-        "opponent": "Grizz A.K.A. Sherpapa",
-        "reporterGames": 0,
-        "opponentGames": 2,
-        "reporterArchetype": "Parcel-Tongue Post",
-        "opponentArchetype": "Watchful Sun"
       }
     ],
     "matchHistory": [
+      {
+        "id": 122,
+        "confirmedAt": "2026-11-24 03:02:49",
+        "replayUrl": "https://www.duelingbook.com/replay?id=1301874-87449699",
+        "reporter": "Grizz A.K.A. Sherpapa",
+        "opponent": "Ewok A.K.A. Larte Nugs",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Legendary Swordsman"
+      },
       {
         "id": 121,
         "confirmedAt": "2026-11-12 18:17:42",
