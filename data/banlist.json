@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-24T03:03:50.495Z",
+  "updatedAt": "2026-11-24T03:11:20.489Z",
   "cards": [
     {
       "id": 384,
@@ -34204,7 +34204,7 @@
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
-        "balance": 25,
+        "balance": 20,
         "lifetimePoints": 567,
         "matchWins": 11,
         "matchLosses": 16,
@@ -34213,7 +34213,7 @@
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.061
+        "slacs": 11.104
       }
     ],
     "recentMatches": [
