@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-24T03:13:50.543Z",
+  "updatedAt": "2026-11-24T03:19:20.364Z",
   "cards": [
     {
       "id": 384,
@@ -34187,36 +34187,47 @@
   "dashboard": {
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
-    "confirmedMatchCount": 58,
+    "confirmedMatchCount": 59,
     "standings": [
       {
         "name": "Grizz A.K.A. Sherpapa",
-        "balance": 26,
-        "lifetimePoints": 680,
-        "matchWins": 22,
+        "balance": 30,
+        "lifetimePoints": 684,
+        "matchWins": 23,
         "matchLosses": 21,
-        "gamesWon": 53,
+        "gamesWon": 55,
         "gamesLost": 51,
         "gamesDrawn": 0,
         "archetypeId": 51,
         "archetypeName": "Graypelt",
-        "slacs": 14.804
+        "slacs": 15.152
       },
       {
         "name": "Ewok A.K.A. Larte Nugs",
-        "balance": 20,
-        "lifetimePoints": 567,
+        "balance": 21,
+        "lifetimePoints": 568,
         "matchWins": 11,
-        "matchLosses": 16,
+        "matchLosses": 17,
         "gamesWon": 30,
-        "gamesLost": 35,
+        "gamesLost": 37,
         "gamesDrawn": 0,
         "archetypeId": 50,
         "archetypeName": "Legendary Swordsman",
-        "slacs": 11.104
+        "slacs": 10.903
       }
     ],
     "recentMatches": [
+      {
+        "id": 123,
+        "confirmedAt": "2026-11-24 03:18:52",
+        "replayUrl": null,
+        "reporter": "Grizz A.K.A. Sherpapa",
+        "opponent": "Ewok A.K.A. Larte Nugs",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Legendary Swordsman"
+      },
       {
         "id": 122,
         "confirmedAt": "2026-11-24 03:02:49",
@@ -34293,20 +34304,20 @@
         "opponentGames": 0,
         "reporterArchetype": "NetWRM",
         "opponentArchetype": "Whenfare"
-      },
-      {
-        "id": 115,
-        "confirmedAt": "2026-11-01 15:27:24",
-        "replayUrl": null,
-        "reporter": "Grizz A.K.A. Sherpapa",
-        "opponent": "The Original Rough Cheddar",
-        "reporterGames": 0,
-        "opponentGames": 2,
-        "reporterArchetype": "Watchful Sun",
-        "opponentArchetype": "Parcel-Tongue Post"
       }
     ],
     "matchHistory": [
+      {
+        "id": 123,
+        "confirmedAt": "2026-11-24 03:18:52",
+        "replayUrl": null,
+        "reporter": "Grizz A.K.A. Sherpapa",
+        "opponent": "Ewok A.K.A. Larte Nugs",
+        "reporterGames": 2,
+        "opponentGames": 0,
+        "reporterArchetype": "Graypelt",
+        "opponentArchetype": "Legendary Swordsman"
+      },
       {
         "id": 122,
         "confirmedAt": "2026-11-24 03:02:49",
