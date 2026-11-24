@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updatedAt": "2026-11-24T01:42:20.135Z",
+  "updatedAt": "2026-11-24T02:27:50.384Z",
   "cards": [
     {
       "id": 384,
@@ -34188,7 +34188,21 @@
     "seasonName": "Season 2",
     "seasonStart": "2026-09-21",
     "confirmedMatchCount": 57,
-    "standings": [],
+    "standings": [
+      {
+        "name": "Ewok A.K.A. Larte Nugs",
+        "balance": 20,
+        "lifetimePoints": 562,
+        "matchWins": 11,
+        "matchLosses": 15,
+        "gamesWon": 30,
+        "gamesLost": 33,
+        "gamesDrawn": 0,
+        "archetypeId": 50,
+        "archetypeName": "Legendary Swordsman",
+        "slacs": 11.017
+      }
+    ],
     "recentMatches": [
       {
         "id": 121,
